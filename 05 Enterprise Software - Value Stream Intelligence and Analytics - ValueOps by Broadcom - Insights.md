@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Insights
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ ValueOps by Broadcom - Insights
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-ValueOps Insights is Broadcom's value stream analytics module, aggregating delivery data from Clarity, Rally, ConnectALL and connected third-party ALM/DevOps tools to provide Flow Framework metrics, delivery predictability reporting and bottleneck and dependency analysis across the software delivery lifecycle.
+ValueOps Insights is the value stream intelligence module of ValueOps by Broadcom. It gathers data from the tools that run value streams, organises it in a Common Data Model, and provides role-specific dashboards and automated reports with no coding required. It supplies enterprise-wide DORA and Flow measurements that go beyond team-level DevOps metrics.
+
+Key features:
+
+1. **DORA and Flow measurements** - Enterprise-wide DORA and Flow metrics act as leading indicators of delivery speed, quality and predictability.
+2. **Common Data Model and multi-tool data integration** - Aggregates data from Clarity, Rally, ConnectALL and third-party tools into one model for consistent cross-tool reporting.
+3. **Product Hierarchy Modeler** - Supports the transition from project-based to product-centric delivery by modelling products, value streams and teams.
+4. **Prescriptive, role-specific dashboards** - Out-of-the-box real-time dashboards and automated reports tailored to each role, from developers to executives.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -36,6 +47,8 @@ Sources: Gartner Peer Insights, Value Stream Management Platforms market (gartne
 IBM Apptio Targetprocess
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Positive – Gartner Peer Insights reviewers (about 130 reviews) praise its portfolio and agile planning strength, although some note that enhancements need developer effort and that partner implementation and account support have been inconsistent.
 
 IBM Apptio Targetprocess provides enterprise Agile portfolio management and value stream intelligence that aligns strategic planning with software execution. It connects cross-functional delivery data to provide real-time Flow Framework metrics, dependency mapping, delivery predictability, and outcome tracking across teams and enterprise portfolios.
 
@@ -60,4 +73,26 @@ https://www.ibm.com/products/apptio
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+## General Sources:
+
+- ValueOps Insights (product page): https://valueops.broadcom.com/products/insights
+- ValueOps Insights - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/valueops/valueops-solution/ValueOps-Solution/n-valueops-products/n-valueops-insights.html
+- ValueOps Insights Q3 2026 Release Notes: https://techdocs.broadcom.com/us/en/ca-enterprise-software/valueops/valueops-insights-saas/insights/release-notes/q3-2026-release-notes.html
+- Product Brief: Measure and Improve Value Stream Performance: https://academy.broadcom.com/valueops/insights/product-brief-measure-and-improve-value-stream-performance
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified against current Broadcom sources; no changes required.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added Common Data Model, Product Hierarchy Modeler and DORA measurement detail. Removed the unverified 'bottleneck and dependency analysis' wording as a headline feature.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 4 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (secondary sources): role-based dashboards, configurable reporting and delivery data from Jira, Azure DevOps and Rally.
+- Not verified: DORA measurements, a Common Data Model and a Product Hierarchy Modeler equivalent. Flow metrics are asserted in the file but were not confirmed on the IBM page.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/apptio; https://www.apptio.com/products/targetprocess/; https://www.gartner.com/reviews/market/enterprise-agile-planning-tools/vendor/ibm-apptio/product/ibm-targetprocess

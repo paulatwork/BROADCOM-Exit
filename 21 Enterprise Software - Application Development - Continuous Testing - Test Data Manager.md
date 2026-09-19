@@ -1,5 +1,9 @@
 # Test Data Manager
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Test Data Manager
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Broadcom Test Data Manager (formerly CA Test Data Manager, part of the DevTest Solutions / Continuous Testing portfolio) creates, masks, and provisions 'fit for purpose' test data across the software development lifecycle. Core capabilities include data modelling and discovery/masking of personally identifiable information (PII), synthetic test data generation, and data subsetting. A self-service portal allows testers to request, reserve, and provision data on demand without manual database scripting. Virtual Test Data Management (vTDM) provides near-instantaneous, storage-efficient virtual copies of data sources that multiple test teams can use independently, and the Javelin automation engine supports complex data migrations across relational, mainframe, and file-based sources.
+Test Data Manager (formerly CA Test Data Manager) creates, masks and provisions fit-for-purpose test data across the development lifecycle. Version 5.0 is the latest documented in TechDocs (version list 5.0, 4.11, 4.10, 4.9). Its documented components include a Database Virtualization Engine (DAVE), the Javelin automation tool and mainframe data source support. Virtual Test Data Management (vTDM) has been deprecated since version 4.11.
+
+Key features:
+
+1. **Data masking and PII discovery** - Discovers and masks personally identifiable information to protect test environments.
+2. **Synthetic data generation** - Generates realistic synthetic data that covers test scenarios without exposing production data.
+3. **Data subsetting** - Creates smaller, referentially intact data sets from production sources.
+4. **Self-service provisioning** - A portal lets testers request, reserve and provision data on demand without database scripting.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -40,6 +51,8 @@ IBM DevOps Deploy
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Mixed to positive – praised for deployment orchestration and IBM tool integration, but reviewers cite slow support resolution and burdensome agent management.
+
 IBM DevOps Deploy (formerly UrbanCode Deploy) provides enterprise application release automation and continuous deployment orchestration. It delivers multi-tier deployment modeling, automated quality gates, push-button rollbacks, full inventory governance, and native integration with Jenkins, GitOps (Argo CD), and Red Hat OpenShift across hybrid cloud and mainframe estates.
 
 ## PRIMARY - IBM Product Page URL
@@ -64,4 +77,27 @@ https://www.ibm.com/products/devops-test/performance
 
 Column D expanded from a one-line fragment into a full, sourced capability summary. Column E replaces generic claims with a verified 2022 Gartner Peer Insights recognition, sourced PeerSpot customer feedback, an honest statement that no 2025-2026 analyst ranking was found, and a flag that column H's listed alternative does not match this row's product category.
 
+## General Sources:
+
+- CA Test Data Manager 5.0 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/test-data-management/5-0.html
+- Release Notes - Test Data Manager 4.11: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/test-data-management/4-11/release-notes.html
+- Test Data Manager (product page): https://www.broadcom.com/products/software/app-dev/test-data-manager
+- Broadcom Delivers World's First AI Driven Unified Shift-Left Continuous Testing Platform: https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-worlds-first-ai-driven-unified-shift-left
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Product description: confirmed vTDM deprecation (quoted from the 4.11 release notes) and version 5.0. Added DAVE, Javelin and mainframe data sources from the 5.0 documentation; Javelin had been removed in the previous pass as unverified and is now confirmed.
+- Analyst Cautions: the source line cites Test Data Manager 4.10 documentation, which is no longer the latest (5.0); the citation is unchanged. Broadcom's 2025 unified continuous testing platform announcement (BlazeMeter Continuous Testing Platform) is confirmed.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Corrected the earlier description: Virtual Test Data Management (vTDM) is deprecated from 4.11 and is no longer listed as a key feature. Updated to version 5.0. The Javelin migration engine statement was removed because it was not re-verified.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Does not meet.
+- Gap (IBM product page): IBM DevOps Deploy is an application release and deployment automation product (deployment automation, quality gates, inventory control, workflow customisation). It offers no data masking, PII discovery, synthetic data generation, subsetting or self-service test data provisioning.
+- An IBM test data management product would be needed to meet the functional requirements; none was researched in this pass.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/devops-deploy; https://www.trustradius.com/products/ibm-urbancode-deploy/reviews?qs=pros-and-cons

@@ -1,5 +1,9 @@
 # VMware vSphere
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware vSphere
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VMware vSphere is the core hypervisor (ESXi) and management layer (vCenter) used to provision, run and manage virtual machines across physical hosts, and underpins every VCF and VVF deployment as the base compute layer beneath vSAN, NSX and the management components.
+VMware vSphere is the hypervisor (ESX, renamed from ESXi in 9.0) and vCenter management layer. vSphere 9.1 was released 12 May 2026.
+
+Key features:
+
+1. **ESX hypervisor** - Virtualises compute; ESXi was renamed ESX in 9.0.
+2. **vCenter management** - Central management, with a new resize API and quick patch in 9.1.
+3. **Live patching and zero-touch provisioning** - 9.1 applies kernel patches to running memory on TPM-enabled hosts and bootstraps ESX on bare metal by network imaging.
+4. **NVMe memory tiering and AI certification** - Enhanced NVMe memory tiering in 9.1, and NVIDIA-Certified Hypervisor status for vSphere 9.1.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,18 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-
 
 Tightened column D for precision (ESXi/vCenter naming). Replaced generic caution language with the verified VDDK-blocking finding and the Western Union migration example, and added the Gartner alternative-ranking caveat.
 
+## General Sources:
+
+- What's New with vSphere in VCF 9.1: https://blogs.vmware.com/cloud-foundation/2026/05/12/whats-new-with-vsphere-9-1/
+- vSphere What's New 9.0: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-90-release-notes/platform-whats-new/whats-new-vsphere.html
+- VMware Cloud Foundation 9.1 What's New: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes/what-s-new.html
+
 ## Change history:
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: replaced the reduced-downtime item with 9.1 live patching, zero-touch provisioning and NVMe memory tiering.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1 and noted ESXi rename to ESX and 16-core minimum per CPU licence.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 2 sources recorded (Broadcom TechDocs, product pages, press releases where available).

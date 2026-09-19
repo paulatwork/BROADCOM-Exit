@@ -1,5 +1,9 @@
 # Symantec IT Management Suite
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ Symantec IT Management Suite
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Unifies endpoint and server management to strengthen security, improve operational consistency and support compliance. Automates operating system and application deployment, patch management, configuration management, and hardware/software asset and inventory tracking across large, heterogeneous device estates from a centralised management console (formerly marketed as Altiris).
+Symantec IT Management Suite (formerly Altiris) manages endpoints and servers. Version 8.8 was released on 24 August 2026 (8.8.1 also documented).
+
+Key features:
+
+1. **Deployment and patch management** - OS and software deployment, Patch Management API integration, Microsoft Store app integration and Windows driver preinstallation in deployment tasks.
+2. **Inventory and visibility** - Windows Security Data Inventory, Browser Extensions Inventory for Edge, Chrome and Firefox, custom inventory in Computer View and improved Microsoft SQL Server tracking.
+3. **Modern platform support** - Windows Server 2025, RHEL 9.5, Oracle Linux 9.5, SUSE 15 SP6 and native Windows 11 ARM support; 32-bit OS and Solaris support deprecated.
+4. **Management platform and APIs** - REST API methods in ASDK, Package Distribution Point Status report, Event Queue Analytics reports and TLS 1.3 for the Workflow Solution.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -64,4 +75,20 @@ Sources: Gartner Peer Insights, 'Symantec Client Management Suite Reviews & Rati
 
 Replaced generic, unsourced analyst commentary with an actual, quoted Gartner Peer Insights finding that directly corroborates Broadcom's core-account strategy for this product, and tightened Column D wording.
 
+## General Sources:
+
+- IT Management Suite 8.8 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/it-management-suite/ITMS/Release-Notes/IT-Management-Suite-8-8-Release-Notes.html
+- IT Management Suite 8.8.1 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/it-management-suite/ITMS/Release-Notes/IT-Management-Suite-8-8-1-Release-Notes.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: IT Management Suite 8.8 released 24 August 2026 (already updated). The Gartner rating (4.3, 60 reviews) could not be re-checked. No further changes.
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: features rewritten from the 8.8 What's New page (released 24 August 2026).
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added current version 8.8.1. Feature detail is carried forward from the earlier description.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 2 sources recorded (Broadcom TechDocs, product pages, press releases where available).

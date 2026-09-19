@@ -1,5 +1,9 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Symantec DLP (on-premises) is designed to prevent data exfiltration at the user and channel level, including laptops, email gateways, browsers and USB drives. It scans endpoints and mobile devices, network file shares, databases, and sanctioned and unsanctioned cloud applications such as Microsoft 365, Google Workspace, Box and Salesforce. Its particular strengths, as noted by users and analysts, are deep endpoint agent enforcement (blocking USB writes, local printing, clipboard operations and offline protection), inline email/SMTP inspection, and network web proxy/ICAP blocking.
+Symantec Data Loss Prevention (on-premises) uses a version-by-year scheme; 26.1 was released on 1 May 2026. It provides content-aware detection and enforcement across endpoint, network, storage and cloud channels, managed from the Enforce Server.
+
+Key features:
+
+1. **Multi-channel data protection** - Covers endpoint, email, web, storage and cloud applications.
+2. **Endpoint enforcement** - Endpoint agents block or monitor USB, printing, clipboard and browser actions.
+3. **Incident dashboards and workflows (26.1)** - Dynamic filtering dashboards and new Incident Workflows to automate incident lifecycle tasks.
+4. **Generative AI visibility** - 26.1 adds visibility into generative AI usage.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -40,6 +51,8 @@ IBM Guardium Data Security Center / Guardium Data Protection.
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive on data activity monitoring and compliance reporting, with reviewers citing a steep learning curve, dated interface and complex set-up.
+
 IBM Guardium Data Security Platform (DSPM / DAM) is a leader in automated data discovery/classification across on-prem and multi-cloud databases. Analyst reports (such as Gartner's Data Security Platform Magic Quadrant) rank IBM as a leader in Data Security Posture Management (DSPM), Database Activity Monitoring (DAM). Scan data stores for vulnerabilities and guide remediation. Monitor how data is accessed to detect risky behavior. Automate database compliance to reduce manual effort.
 
 ## PRIMARY - IBM Product Page URL
@@ -64,4 +77,26 @@ https://www.ibm.com/products/guardium-data-security-center
 
 Retained the core claims but added verifiable sourcing and corrected the implication of a current Gartner Magic Quadrant ranking — Gartner now publishes an unranked Market Guide for DLP, not a Magic Quadrant. Tightened Column D to remove repetition.
 
+## General Sources:
+
+- What's New in Data Loss Prevention 26.1: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/data-loss-prevention/26-1/new-and-changed/what-s-new-in-data-loss-prevention.html
+- Enforce Server Features in DLP 26.1: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/data-loss-prevention/26-1/new-and-changed/what-s-new-in-data-loss-prevention/enforce-features-in-dlp-26-1.html
+- Version 25.1 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/data-loss-prevention/25-1/new-and-changed/release-notes.html
+- End of Service dates for Symantec Data Loss Prevention: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/product-advisories/End-of-Service-dates-for-Symantec-Data-Loss-Prevention/16164
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Symantec DLP versions 25.1 (updated 1 October 2025) and 26.1 (May 2026); support policy is active engineering on the latest GA and GA-1 with self-service afterwards. No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 26.1 (May 2026) with dashboards and Incident Workflows.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Does not meet the DLP requirements.
+- Confirmed (IBM product page): data discovery and classification across hybrid cloud and SaaS, tracking of data access, user activity and policy changes.
+- Gap: Guardium is a database and data-centric security product. Endpoint enforcement (USB, print, clipboard, browser), email and web channel coverage, incident workflows and generative AI visibility were not found, so it does not replace Symantec DLP. The Gartner leadership claim in the file was not verified in this pass.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/guardium-data-protection; https://www.gartner.com/reviews/product/ibm-guardium

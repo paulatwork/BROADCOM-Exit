@@ -1,5 +1,9 @@
 # Agile Requirements Designer
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Agile Requirements Designer
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-CA Agile Requirements Designer (ARD) is a model-based test design tool. Users build flow models representing application logic and business rules; each path through a flow model becomes a test case and each block a test step, from which ARD automatically derives test cases, associated test data requirements, and automation scripts. A web-based Requirements Insight interface lets business analysts and project owners assess the impact of requirement changes, and models are held in a shared repository for collaborative editing. From version 3.6, ARD includes an artificial intelligence/natural-language-processing plugin framework (demonstrated using Google Gemini via Vertex AI) that can generate an initial model from plain-language requirements or existing documents such as Confluence, Jira, or PDF specifications, identify test-coverage gaps, and update models from natural-language prompts.
+Agile Requirements Designer (ARD) is a model-based test design tool. Version 3.6 is the latest documented and adds an AI plugin framework. Users model requirements as flows, and ARD derives test cases, test data requirements and automation from each path.
+
+Key features:
+
+1. **Model-based test design** - Flow models represent application logic, and each path becomes a test case with steps.
+2. **Automated test asset generation** - Derives test cases, test data requirements and automation scripts from the models.
+3. **Requirements Insight** - A web interface lets analysts and owners assess the impact of requirement changes.
+4. **AI plugin (3.6)** - Provides intelligent suggestions and can build initial models from natural-language requirements or documents.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -64,4 +75,18 @@ Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentatio
 
 Column D expanded to describe the real model-based testing workflow and verified the AI/NLP capability against current Broadcom TechDocs (v3.6) rather than leaving an unverified marketing fragment. Column E states plainly that no analyst coverage of this specific product was found, rather than fabricating any.
 
+## General Sources:
+
+- Agile Requirements Designer 3.6 (PDF) - Broadcom TechDocs: https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/ca-enterprise-software/devops/agile-requirements-designer/ard32/agile-requirements-designer-3-6.pdf
+- Agile Requirements Designer 3.5 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/agile-requirements-designer/3-5.html
+- Agile Requirements Designer Product Brief: https://docs.broadcom.com/docs/ca-agile-requirements-designer
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Agile Requirements Designer 3.6 is the newest version in the documentation list (3.6, 3.5, 3.4, 3.3, 3.2). No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Confirmed 3.6 as the latest version and the AI plugin. The Google Gemini and Vertex AI demonstration detail was not re-verified and was removed.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

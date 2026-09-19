@@ -1,5 +1,9 @@
 # vDefend Distributed Firewall
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ vDefend Distributed Firewall
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-vDefend Distributed Firewall (the current name for the NSX distributed firewall) is a hypervisor-level firewall enforced at each virtual machine's virtual network interface, providing stateful, east-west microsegmentation without routing traffic through a physical or centralised firewall appliance.
+vDefend Distributed Firewall is a hypervisor-enforced stateful firewall for east-west micro-segmentation. vDefend 9.1 (May 2026) raises throughput and adds federated identity firewalling.
+
+Key features:
+
+1. **Hypervisor-level microsegmentation** - Enforced at each vNIC.
+2. **Higher throughput** - Vendor claims up to 22 Gbps per host with 25GbE and 75 Gbps with 100GbE.
+3. **Layer 7 App ID** - More than 5,000 App IDs.
+4. **Federated identity firewalling** - Multi-site.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,15 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/security
 
 Verified the migration-complexity claim against a genuine, specific source as requested and flagged that the OpenShift-based portion of the recommended alternative only covers containerised workloads, not remaining VM-based estate, which is a material caveat for the column G/H recommendation.
 
+## General Sources:
+
+- VMware vDefend 9.1 Release Notes: https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/vdefend-firewall/9-1/release-notes/vmware-vdefend-91-release-notes.html
+- vDefend for VCF 9.1: https://blogs.vmware.com/security/2026/05/vdefend-vcf-9-1-zero-trust.html
+- StorageReview: vDefend 75Tbps: https://www.storagereview.com/news/vmware-vdefend-75tbps-distributed-firewall-vcf-9-1-update
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1. Throughput figures are vendor claims.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

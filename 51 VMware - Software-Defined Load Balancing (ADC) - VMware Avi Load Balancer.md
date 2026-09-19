@@ -1,5 +1,9 @@
 # VMware Avi Load Balancer
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware Avi Load Balancer
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VMware Avi Load Balancer, also branded NSX Advanced Load Balancer, is a software-defined Layer 4-7 application delivery controller providing load balancing, web application firewalling, global server load balancing and application analytics, deployable within VCF or as a standalone ADC.
+VMware Avi Load Balancer is a software-defined Layer 4-7 application delivery controller. Releases include 31.2.3 (3 August 2026) and 32.1.3.
+
+Key features:
+
+1. **Load balancing and ADC** - Layer 4-7.
+2. **Post-quantum cryptography** - 31.2.1.
+3. **Crypto offload** - Intel QAT.
+4. **WAF** - Evaluation mode.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,15 @@ https://www.ibm.com/cloud/load-balancer
 
 Corrected the row's overall framing: available evidence shows migration activity is predominantly moving toward Avi from F5, not away from it, and flagged that IBM Cloud Load Balancer in column H is not a credible on-premises substitute for this capability.
 
+## General Sources:
+
+- Release Notes for Avi 31.2.1: https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/avi-load-balancer/avi-load-balancer/31-2/vmware-avi-load-balancer-release-notes/release-notes-for-avi-load-balancer-version-31-2-1.html
+- Release Notes for Avi 32.1.3: https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/avi-load-balancer/avi-load-balancer/32-1/vmware-avi-load-balancer-release-notes/release-notes-for-avi-load-balancer-version-32-1-3.html
+- Avi release notifications: https://knowledge.broadcom.com/external/article/312808/vmware-avi-load-balancer-release-notific.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 31.2.x and 32.1.x.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

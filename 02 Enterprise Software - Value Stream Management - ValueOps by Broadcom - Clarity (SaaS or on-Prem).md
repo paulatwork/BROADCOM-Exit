@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Clarity (SaaS or on-Prem)
 
+## Status 
+
+Complete
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -17,9 +21,9 @@ ValueOps by Broadcom - Clarity (SaaS or on-Prem)
 Clarity by Broadcom (formerly CA Clarity PPM / CA PPM) is a Strategic Portfolio Management (SPM) platform that unifies strategy, funding and execution. It is available as SaaS or on-premises and is a core product of the ValueOps suite.
 
 **Strategic Portfolio Management (SPM).** SPM is the set of business capabilities, processes and supporting technology that turns enterprise strategy into a prioritised portfolio of investments, and then steers finite funding and people towards it. 
-- Gartner defines the SPM market as applications for enterprise-wide strategic planning, with modelling, continuous monitoring and scenario comparison to forecast outcomes and optimise investments.
 - Forrester (which introduced the term in 2017) describes SPM as technology that automates the translation of enterprise strategic plans into product and service plans, delivered through the prioritisation and delivery of work initiatives.
-- SPM is a top-down evolution of traditional Project Portfolio Management (PPM): PPM manages projects and programs well, whereas SPM connects strategy, funding and capacity to execution across all investment types and delivery methods.
+- Gartner defines the SPM market as applications for enterprise-wide strategic planning, with modelling, continuous monitoring and scenario comparison to forecast outcomes and optimise investments.
+- SPM is an evolution of traditional Project Portfolio Management (PPM): PPM manages projects and programs well, whereas SPM connects strategy, funding and capacity to execution across all investment types and delivery methods.
 
 Valuable features of the Broadcom product are typically:
 
@@ -30,7 +34,7 @@ Valuable features of the Broadcom product are typically:
 5. **Vaia AI and MCP integration.** Vaia (originally 'Clarity Concierge', renamed in 16.3.0) is a new service that brings AI into SPM. It provides generative, agentic and predictive AI in beta. Release 16.4.2 added Anthropic model configuration, a prompt library, chat history, file attachments as AI data sources and an MCP server (initially for timesheet actions) that lets external AI applications work with Clarity data securely.
 6. **Real-time analytics and ValueOps integration.** A configurable reporting engine (subreports in beta, expandable tree tables and embedded reports in 16.4.2) provides real-time visibility. Native integration with Rally (for example, 'Send to Rally' pushes 'In Plan' roadmap items as Portfolio Items), ConnectALL and Insights links strategic plans to delivery execution.
 
-Note: Vaia capabilities are marked beta in the release documentation. 
+Note: Vaia capabilities are marked beta in the release documentation. Clarity 16.4.3 documentation is now published (the version list runs from 16.1.0 to 16.4.3, with no 16.5 or 17.0), and its documentation includes Vaia and a Clarity MCP Server section; the feature list above was reviewed up to release 16.4.2 and the 16.4.3 features have not been reviewed. 
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -52,6 +56,8 @@ IBM Apptio - Targetprocess (SaaS)
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+Reviews praise IBM Apptio, Targetprocess portfolio and agile planning strength, although some note that enhancements need developer effort.
+
 IBM/Apptio offer a lot more than just an SPM tool. It unifies ITFM, FinOps and SPM under one value-management umbrella.
 1. Apptio Targetprocess is SPM offering, for planning, tracking and prioritizing work from strategic portfolio down to the dev team.
 2. Apptio core offers TBM / ITFM.
@@ -63,8 +69,9 @@ Featured highlights include:
 - Resource & capacity planning — Demand-vs-capacity dashboards, role-based planning, time-off and overload detection for realistic forecasts. Exceeds: capacity tied to bill/team/blended rates with automatic cost forecasting — planning by cost, not just headcount.
 - Financial planning & budget governance — Portfolio budgeting for continuous product funding; tracks value, TCO and satisfaction. Exceeds — the standout: native ApptioOne Labor Financial Management gives a true, governed cost model, feeding financials to planners without exposing salary data. Clarity holds budgets in-platform; IBM connects to an enterprise ITFM system of record.
 - Strategic roadmaps & what-if — Multi-level roadmaps (portfolio→product→solution), PI planning, dependency and heat maps, custom milestones. Exceeds: re-alignment is real-time across every level as priorities shift.
-- AI (vs. Clarity's Vaia) — Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance. Exceeds: AI spans the whole Apptio portfolio, grounded in governed cost models — not a bolt-on.
+- AI (vs. Clarity's Vaia) — Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance. Exceeds: AI spans the whole Apptio portfolio, grounded in governed cost models — it is not a bolt-on.
 - Analytics & delivery integration (vs. Rally/ConnectALL) — Configurable reporting, role-based dashboards, full flow metrics; native bi-directional Jira and Azure DevOps, plus APIs/webhooks. Exceeds: delivery-tool independent — teams keep their own tools while staying tied to strategy, where Clarity leans on Broadcom's own Rally. First Apptio product on Azure Marketplace.
+
 ## PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/apptio
@@ -79,15 +86,15 @@ Lowe's used ApptioOne + Targetprocess to align IT spend with business strategy, 
 
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
-Recommendation - Combine with Application Observability services to gain workload observability, and cost insights and management. (Such as IBM Kubecost, IBM Turbonomic)
+IBM Concert Optimize (IBM Turbonomic Application Resource Management)
 
 ## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
 
-(not provided)
+Recommendation is to combine with Application Observability services to gain workload observability, and cost insights and management in the estate. IBM Concert platform connects application demand to infrastructure usage, showing what drives costs and where constraints might arise. This allows action to be taken to optimise costs, after value stream analysis. 
 
 ## SECONDARY - Product Page(s) URL
 
-(not provided)
+https://www.ibm.com/docs/en/tarm/8.21.1?topic=concert-platform
 
 ## Sources: Analyst reviews and exist strategy
 
@@ -111,10 +118,23 @@ Industry definition of SPM:
 Secondary (independent or partner commentary):
 - Tricise, Broadcom Clarity 16.4.2: AI Upgrades and MCP Server (partner blog, used only to corroborate the release themes): https://tricise.com/clarity-16-4-2-whats-new/
 - ValueOps by Broadcom blog, Gartner Magic Quadrant SPM Leader announcement, 2025 [vendor-published]: https://valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm
+- Clarity 16.4.3 documentation (version list): https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-project-and-portfolio-management-ppm-on-premise/16-4-3.html
 
 ## Change history:
 
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Product description: added that Clarity 16.4.3 documentation exists (newest listed), so the review of release 16.4.2 features is no longer the latest; 16.4.3 feature detail was not retrievable. Other statements (Vaia rename in 16.3.0, MCP server, roadmaps) could not be re-confirmed from the landing pages and are unchanged.
 
 - Replaced the Key Features description with six verified features, each traced to the sources above.
 - Removed the earlier claim of 'newer modules for AI investment governance and infrastructure portfolio management', as no source found in this research supported it. Reinstate only with a citation.
 - Sources conflict on the number of consecutive years Clarity has been named a Gartner MQ Leader (the vendor blog says 'second', a partner blog says 'fifth'), so no figure is stated in the description.
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Meets most requirements; AI and MCP claims not verified.
+- Confirmed (IBM product page): Targetprocess aligns portfolios with execution.
+- Confirmed (secondary sources): roadmapping at programme, product, solution and portfolio level, capacity planning, budgeting, forecasting, scenario planning and bi-directional connectors to Jira, Azure DevOps and Rally.
+- Not verified: the AI Assistant, Labor Financial Management and the customer statistics quoted in the file; Clarity's Vaia and MCP server have no verified IBM equivalent.
+
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+
+- Sources: https://www.ibm.com/products/apptio; https://www.apptio.com/products/targetprocess/; https://www.finout.io/blog/apptio-targetprocess; https://www.gartner.com/reviews/market/strategic-portfolio-management/vendor/ibm-apptio/product/ibm-targetprocess

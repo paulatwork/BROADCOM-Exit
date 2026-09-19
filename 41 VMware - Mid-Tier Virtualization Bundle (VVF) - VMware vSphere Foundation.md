@@ -1,5 +1,9 @@
 # VMware vSphere Foundation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware vSphere Foundation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VMware vSphere Foundation (VVF) is Broadcom's mid-tier subscription bundle for traditional virtualised data centre environments. It combines vSphere Enterprise Plus, a vSAN entitlement capped at 0.25 TiB of storage per licensed CPU core, the vSphere IaaS Control Plane (embedded Kubernetes via the Supervisor service), and VCF Operations (formerly Aria Operations, including Aria Operations for Logs) for infrastructure monitoring. It does not include NSX, VCF Automation, HCX or Tanzu as standard entitlements; these require a separate add-on purchase or a step-up to full VCF.
+VMware vSphere Foundation (VVF) 9.x is the mid-tier bundle. Documentation is now part of VCF documentation. Each licensed core includes 0.25 TiB of vSAN capacity. The 9.1 FAQ confirms that vSphere, vSAN and VCF Operations are included, and that NSX, VCF Automation, Kubernetes (VKS), HCX, Live Recovery and Avi Load Balancer are offered separately.
+
+Key features:
+
+1. **vSphere virtualisation** - Core compute layer.
+2. **vSAN entitlement** - 0.25 TiB per licensed core, pooled.
+3. **VCF Operations** - Included operations tooling.
+4. **Unified licensing** - Licensed through a VCF Operations instance and the VCF Business Services console.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,18 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-
 
 Corrected column D, which incorrectly stated VVF includes Tanzu Standard; current Broadcom documentation confirms VVF bundles vSphere, capacity-limited vSAN, the vSphere IaaS Control Plane and VCF Operations only. Added the verified 0.25 TiB/core figure and the CloudBolt/Gartner evidence to column E.
 
+## General Sources:
+
+- vSphere Foundation 9.0 Documentation: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vsphere-foundation/9-0/vvf-getting-started.html
+- 9.0 Product Subscription and Licensing: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/licensing/licensing-overview/offerings-and-components.html
+- VVF 9.1 FAQ: https://www.vmware.com/docs/vmware-vsphere-foundation-faqs
+
 ## Change history:
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: 9.1 exclusions confirmed (NSX, Automation, VKS, HCX, Live Recovery, Avi).
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.x. Older exclusions confirmed for 9.1 in the later verification pass.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

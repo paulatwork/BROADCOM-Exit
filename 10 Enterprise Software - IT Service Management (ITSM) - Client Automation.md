@@ -1,5 +1,9 @@
 # Client Automation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Client Automation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Client Automation (formerly CA IT Client Manager / CA ITCM) is Broadcom's endpoint lifecycle management product, providing hardware and software asset discovery, operating system imaging, software packaging and delivery, patch management, and remote control for physical and virtual endpoints.
+Client Automation (CA Client Automation, formerly CA IT Client Manager) is Broadcom's endpoint lifecycle management product. TechDocs now lists release 14.6 alongside 14.5 and 14.0; the features below were verified for 14.5 (up to CU7) and the 14.6 feature list could not be retrieved.
+
+Key features:
+
+1. **Hardware and software discovery and inventory** - Includes user-based software scan in 14.5, with heuristic scan reading user add/remove programs and desktop start menu entries.
+2. **Software delivery with scalability servers** - Location-aware package delivery; 14.5 CU1 adds downloads from an alternate scalability server.
+3. **OS deployment and patch management** - Operating system imaging, software packaging and patch management for physical and virtual endpoints.
+4. **Remote control** - Remote control sessions, with a View All Displays option in 14.5 to open all monitors on the host.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -36,6 +47,8 @@ Sources: Gartner Peer Insights, Broadcom CA Client Automation and Endpoint Manag
 IBM MaaS360
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Positive – users like the centralised console and ease of set-up for Android, iOS and other endpoints, and few documented criticisms surfaced in this pass.
 
 IBM MaaS360 is an enterprise Unified Endpoint Management (UEM) platform that manages and secures multi-OS endpoints (Windows, macOS, Linux, iOS, Android, and IoT) from a single cloud console. It delivers automated asset discovery, over-the-air software distribution, OS patch management, continuous device compliance, and AI-driven Mobile Threat Defense (MTD).
 
@@ -61,4 +74,26 @@ https://www.ibm.com/products/maas360
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- New Features and Enhancements - 14.5: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-client-automation/14-0/Release-Information-14-5/New-Features-and-Enhancements---14-5.html
+- Release Information - 14.5 CU7: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-client-automation/14-5/release-information/release-information-14-5-cu7.html
+- Release Information - 14.5 CU1: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-client-automation/14-5/release-information/Release-Information---14-5-1.html
+- CA Client Automation 14.6 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-client-automation/14-6.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Corrected the current version: the earlier text said 14.5 was the current release, but TechDocs lists 14.6 (the version list shows 14.6, 14.5, 14.0). The 14.6 feature list was not retrievable, so the key features remain those verified for 14.5. Product name in TechDocs is 'CA Client Automation'.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added current version (14.5, CU7) and verified 14.5 feature detail.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets – gaps in OS deployment and Linux.
+- Confirmed: granular patch management, device and application management, inventory visibility, application distribution, remote control (via TeamViewer integration), and management of Windows 10 and 11, macOS, iOS, iPadOS, Android and ChromeOS.
+- Gap: no OS imaging or operating system deployment capability and no native Linux management were found, although the capability statement in the file claims Linux and IoT support. Treat these as unverified until IBM confirms.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/maas360; https://www.ibm.com/id-en/products/maas360/endpoint-management; https://www.ibm.com/products/maas360/distribution; https://www.gartner.com/reviews/product/ibm-security-maas360

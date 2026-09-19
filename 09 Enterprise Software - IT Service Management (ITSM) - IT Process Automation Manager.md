@@ -1,5 +1,9 @@
 # IT Process Automation Manager
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ IT Process Automation Manager
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-IT Process Automation Manager (ITPAM, also documented by Broadcom as CA Process Automation) is a runbook orchestration engine for automating repetitive, multi-system administrative tasks, incident remediation workflows and provisioning tasks across IT operations.
+IT Process Automation Manager (ITPAM, documented by Broadcom as CA Process Automation, with TechDocs path 'automic-process-automation') is a runbook and process orchestration engine for automating IT operations and production processes. Version 4.4.0 is the latest documented (documentation updated 10 June 2026; 4.3.05 is the previous version), and Broadcom lists a current product page for it.
+
+Key features:
+
+1. **Visual process design and orchestration** - Design, build, orchestrate, manage and report on automated processes supporting IT operations.
+2. **Extensible operators** - Built-in operators for most integrations, plus custom operators using JavaScript calculations or TouchPoint scripts in any scripting language.
+3. **Scalable orchestrators** - A Java-based server executes processes from the Process Library, and orchestrators scale horizontally.
+4. **Broadcom portfolio integration** - A CLI and Start Request Forms allow processes to be run from schedulers such as AutoSys, and connectors exist for products such as Client Automation.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -36,6 +47,8 @@ Sources: Broadcom, IT Process Automation Manager product page, confirming the pr
 Red Hat Ansible Automation Platform
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Positive – valued for agentless, readable YAML automation, with the main criticisms being node-based licensing cost, container platform prerequisites and an initial learning curve.
 
 Red Hat Ansible Automation Platform provides an enterprise open-source IT automation and orchestration solution. It replaces legacy complex XML/SOAP runbooks with human-readable YAML playbooks, Event-Driven Ansible for automated incident remediation, and cross-domain workflow orchestration across multi-cloud, network, and on-premises infrastructure.
 
@@ -61,4 +74,27 @@ https://www.redhat.com/en/technologies/management/ansible
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- CA IT Process Automation Manager - Broadcom TechDocs (legacy bookshelf): https://techdocs.broadcom.com/us/en/ca-miscellaneous/legacy_bookshelves_and_pdfs/bookshelves_and_pdfs/bookshelves/ca-it-process-automation-manager.html
+- Integrate with IT Process Automation Manager - Workload Automation Agent for Web Services 24.0: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/workload-automation-agent-for-web-services/24-0/command-line-interfaces/integrate-with-ca-process-automation.html
+- CA Process Automation Connector for CA IT Client Manager: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-process-automation-connectors/2-0/ca-process-automation-connector-for-ca-it-client-manager.html
+- CA Process Automation 4.4.0 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-process-automation/04-4-00.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Product description: replaced the earlier caution that the version could not be confirmed and that documentation sat in legacy bookshelves. TechDocs now hosts CA Process Automation 4.4.0 (with 4.3.05) under the 'automic-process-automation' path, updated 10 June 2026. The four key features are unchanged.
+- Analyst Cautions: the statement that documentation confirms SOAP/XML-based process definitions was not re-verified and is unchanged.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added lifecycle caution (legacy documentation location, version not confirmed) and four features from Broadcom documentation.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Meets most requirements.
+- Confirmed (Red Hat product page): Event-Driven Ansible, an automation orchestrator for workflows, Ansible Content Collections and plug-ins, automation mesh for scalable execution, and ServiceNow ITSM integration.
+- Not verified: a visual process designer and a REST API or CLI for launching from schedulers such as AutoSys. Ansible is code-based (YAML), so the migration of CA Process Automation runbooks is a rebuild rather than a conversion.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.redhat.com/en/technologies/management/ansible; https://www.gartner.com/reviews/product/red-hat-ansible-automation-platform

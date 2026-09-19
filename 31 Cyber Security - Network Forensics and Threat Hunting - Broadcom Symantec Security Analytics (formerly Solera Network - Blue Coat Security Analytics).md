@@ -1,5 +1,9 @@
 # Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Securit
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-A full-packet capture (FPC) and network forensics solution designed to capture, index, classify and analyse network traffic across on-premises, hybrid and cloud environments. Delivers retrospective root-cause analysis after an incident, threat intelligence enrichment from Broadcom's Global Intelligence Network (GIN) and DeepSight adversary intelligence, and encrypted traffic inspection to decrypt and analyse encrypted gateway traffic.
+Symantec Security Analytics is a full-packet capture and network forensics appliance and software. Version 8.3.1 (build 56489) is the latest documented; it was released on 4 September 2025 and its documentation was last updated on 8 January 2026.
+
+Key features:
+
+1. **Full packet capture and indexing** - Captures, indexes, classifies and enriches all traffic for retrospective analysis.
+2. **Deep packet inspection** - Identifies more than 3,300 applications and protocols.
+3. **Threat intelligence** - Uses the Symantec Global Intelligence Network and reputation checks.
+4. **Encrypted traffic visibility** - Works with Secure Web Gateways to decrypt SSL/TLS traffic.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -50,6 +61,8 @@ IBM QRadar Security Intelligence Platform (S/W & H/W Appliances)
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Mixed – QRadar SIEM is regarded as stable and well supported, but the sale of the QRadar SaaS assets to Palo Alto Networks and the end of the SaaS service undermine confidence in the cloud-native offering.
+
 The combination of IBM QRadar Network Appliance familily (Packet Capture; Incident Forensics) and IBM QRadar Application (SIEM, EDR, SOAR, Network Insights) provides a 1:1 functional replacement for Broadcom Symantec Security Analytics. Transitioning to IBM's suite eliminates reliance on Broadcom's impending EOL hardware while unifying network forensics directly into a modern SIEM/SOAR/XDR ecosystem.
  
  Defence can integrate with ASD’s Cyber Threat Intelligence Sharing (CTIS) service, using the CTIS plugin for QRadar, else connect to 3rd party services such as Palto Alto Cloud-hosted Cortex service for global Threat Inteligence (https://www.paloaltonetworks.com/cortex/threat-intelligence).
@@ -76,8 +89,23 @@ https://www.ibm.com/products/qradar-siem
 
 Verified and corrected the specific EOL/drop-support dates against Broadcom's own published notice (drop support is 2030 for current generations, not near-term), and added a concrete, quoted Peer Insights finding on support quality in place of the previous unattributed reference.
 
+## General Sources:
+
+- Security Analytics 8.3.1 - TechDocs: https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/security-analytics/8-3-1.html
+- Security Analytics 8.3.1 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/security-analytics/8-3-1/security-analytics-8-3-1-release-notes.html
+- Security Analytics Key Features: https://www.broadcom.com/info/symantec/security-analytics-key-features
+
 ## Change history:
 
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Corrected the description: it said the 8.3.1 documentation was updated on 19 June 2026 (from a search snippet). The TechDocs release notes page shows a release date of 4 September 2025 and a last-updated date of 8 January 2026, which agrees with the existing Analyst Cautions text. The 6 October 2025 date mentioned there was not seen and remains unconfirmed.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 8.3.1 and replaced DeepSight reference with Global Intelligence Network wording per current Broadcom sources.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### Earlier entries
 Update of 2026-09-19. Only this file was edited; no other files were changed.
 
 1. Section "Analyst Cautions and Industry Findings": added two paragraphs.
@@ -87,3 +115,10 @@ Update of 2026-09-19. Only this file was edited; no other files were changed.
 3. Not verified: the 1 October 2025 / 2030 per-generation dates. Broadcom's public KB pages only link to portal-gated lifecycle tables. The existing dates were left unchanged and flagged as needing confirmation by a customer with portal access.
 4. Open discrepancy: TechDocs shows 8.3.1 as 4 September 2025, while a search snippet showed 6 October 2025. Both are recorded in the text.
 5. No other new analyst coverage (Forrester, IDC, Gartner) was found in this pass, and the recommendation and IBM sections were not changed.
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Replacement product at risk – SaaS offering ended, forensics component reaching end of support.
+- Critical: the QRadar SaaS assets were sold to Palo Alto Networks (31 August 2024) and the SaaS products are end of life (see file 30). QRadar Incident Forensics is reported as not available in the QRadar 7.6.x stream, with end of support on 30 April 2026 and sustained support to 30 April 2030; this came from search results and the primary IBM notice was not opened.
+- QRadar Network Insights remains integrated with QRadar on-premises, but no 2026 support statement was found. The claim of a '1:1 functional replacement' for full-packet capture and network forensics is therefore not supported, and the EOL argument against Broadcom hardware applies equally to the QRadar forensics appliances.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.paloaltonetworks.com/cyberpedia/ibm-qradar-acquired-by-palo-alto-networks; https://www.ibm.com/support/pages/node/7129432; https://www.ibm.com/docs/en/qsip/7.4.0?topic=qmao-qradar-incident-forensics-1

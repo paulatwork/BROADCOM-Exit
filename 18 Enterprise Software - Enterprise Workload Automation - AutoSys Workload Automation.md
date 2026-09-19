@@ -1,5 +1,9 @@
 # AutoSys Workload Automation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ AutoSys Workload Automation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Batch job scheduling engine (AutoSys Workload Automation) managing complex workflow dependencies, event-based triggering, cross-platform job streams and calendar scheduling, using its proprietary Job Information Language (JIL) for job definition.
+AutoSys Workload Automation is Broadcom's job scheduling and workload automation engine, using Job Information Language (JIL). Documentation is available for release 24.2, with 24.1 adding TLS-encrypted scheduler-to-agent communication and an enhanced Monitor interface.
+
+Key features:
+
+1. **Dependency-based job scheduling** - Defines jobs, dependencies, calendars and conditions in JIL across platforms.
+2. **Event-driven and cross-platform automation** - Triggers workflows from events and manages jobs across operating systems and applications through system agents.
+3. **Secure communication** - From 24.1, TLS encrypts job data, commands and agent responses between scheduler and agents; the agent supports HTTPS.
+4. **Unified Monitor interface** - Provides job details, schedules, events, alarms and logs, including job definitions in tabular form and log analysis for all job types.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -40,6 +51,8 @@ IBM Workload Automation
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive but thinly evidenced – reviewers praise stability and plug-in breadth, while noting complex installation and upgrades and weak documentation (only two Gartner Peer Insights reviews were found).
+
 IBM Workload Automation provides an enterprise batch scheduling engine designed to replace legacy AutoSys JIL architectures. It features advanced cross-platform dependency mapping, calendar and event-driven job triggers, centralized Dynamic Workload Console management, REST API orchestration, and automated critical-path SLA tracking.
 
 ## PRIMARY - IBM Product Page URL
@@ -64,4 +77,25 @@ https://www.ibm.com/products/workload-automation
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- AutoSys Workload Automation New Features in Release 24.1: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/autosys-workload-automation/11-3-6/release-notes/ae-release-notes24-1/new-features-r24-1-00.html
+- AutoSys Workload Automation 24.2: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/autosys-workload-automation/24-2-00.html
+- Key Capabilities of AutoSys Workload Automation: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/autosys-workload-automation/24-0-01/getting-started/key-capabilities-of-autosys.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: AutoSys 24.2.00 is the latest version listed in TechDocs, and the 2025 Gartner Leader placement stands. No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added current release line (24.x) with TLS and Monitor features. Release 24.2 feature detail was not reviewed.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (IBM product page): event-driven processes, orchestration across platforms and a single monitoring point.
+- Not confirmed on the page: explicit dependency and calendar scheduling, TLS-encrypted agent communication and a JIL conversion path. The JIL replacement claim and critical-path SLA tracking should be confirmed with IBM.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/workload-automation; https://www.gartner.com/reviews/product/ibm-workload-automation

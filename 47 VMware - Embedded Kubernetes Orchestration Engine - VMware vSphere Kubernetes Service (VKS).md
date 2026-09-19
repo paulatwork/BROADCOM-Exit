@@ -1,5 +1,9 @@
 # VMware vSphere Kubernetes Service (VKS)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware vSphere Kubernetes Service (VKS)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-vSphere Kubernetes Service (VKS) is a CNCF-certified Kubernetes distribution embedded in the vSphere IaaS Control Plane (Supervisor), allowing Kubernetes clusters to be provisioned natively alongside virtual machines on the same vSphere infrastructure without a separate Kubernetes management layer.
+vSphere Kubernetes Service (VKS) is the Kubernetes runtime in vSphere. VKS 3.7.0 (Kubernetes 1.36) was released on 18 June 2026, with 3.7.1 on 13 August 2026. VKS is not included in vSphere Foundation.
+
+Key features:
+
+1. **Native Kubernetes on vSphere** - Clusters run beside VMs on the same infrastructure, with up to 250 worker nodes per cluster in 3.7.
+2. **Networking flexibility** - Supported CNI plugins, an option to disable kube-proxy, Multus and SR-IOV virtual function support.
+3. **Security and identity** - Configurable TLS profiles, FIPS on Ubuntu nodes without a Canonical subscription, native OIDC and workload identity federation.
+4. **Operations** - 5-node control planes, in-place node updates, TuneD profiles (3.6) and VKS and VM fast-deploy in VCF 9.1.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,19 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift
 
 Added a genuine independent source (Fairwinds) for the migration-driver claims and broadened the realistic alternative set beyond OpenShift alone, consistent with what that source actually recommends.
 
+## General Sources:
+
+- VKS 3.7 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-service-administration-and-development/9-1/release-notes/vks-release-notes/vmware-tanzu-kubernetes-grid-service-37-release-notes.html
+- VKS 3.6 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-service-administration-and-development/9-1/release-notes/vks-release-notes/vmware-tanzu-kubernetes-grid-service-36-release-notes.html
+- VKS 3.6 blog: https://blogs.vmware.com/cloud-foundation/2026/02/11/vmware-vsphere-kubernetes-service3-6-making-enterprise-kubernetes-safer-more-flexible-and-easier-to-operate/
+- VMware Cloud Foundation 9.1 What's New: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes/what-s-new.html
+
 ## Change history:
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: release dates (3.7.0 on 18 June 2026, 3.7.1 on 13 August 2026), 250-node limit and OIDC. The CNCF conformance claim is not confirmed by TechDocs and is not stated.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 3.7. 'CNCF-certified' claim not re-verified.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

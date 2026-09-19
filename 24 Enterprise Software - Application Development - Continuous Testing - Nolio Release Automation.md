@@ -1,5 +1,9 @@
 # Nolio Release Automation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Nolio Release Automation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Nolio Release Automation (acquired by CA Technologies in 2012, now part of Broadcom's Intelligent Automation portfolio) is an application release orchestration platform that automates deployment of applications and configuration across multiple environments, from development through production, from a single console. It provides environment and release-pipeline modelling, agent-based deployment execution, reusable automation content ('action packs') for common platforms and middleware, approval and governance workflows, and rollback capability, aimed at reducing manual, error-prone deployment steps (marketed as 'zero-touch' deployment) across heterogeneous on-premises and hybrid infrastructure. The current generally available release is version 6.9.
+Nolio Release Automation is Broadcom's application release orchestration product. Version 6.9 is the latest documented (6.9.0 release notes).
+
+Key features:
+
+1. **Deployment orchestration** - Automates deployments across environments from one console.
+2. **Reusable automation content** - Action packs for common platforms and middleware.
+3. **Governance and approvals** - Approval workflows and rollback support for controlled releases.
+4. **Current platform support** - 6.9 adds RHEL 9, Windows Server 2022 and MS SQL 2022 certification, SAML2 SSO with Spring Security, and unified agent upgrade options.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -64,4 +75,17 @@ Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (
 
 Column D fully rewritten from a two-word marketing fragment into an accurate product description based on Broadcom TechDocs and product pages. Column E adds a directly sourced customer quote on reduced Broadcom/CA investment and the documented 2021 end-of-service notice, giving concrete evidence for the reduced-investment narrative that was previously only asserted generically.
 
+## General Sources:
+
+- Release Notes for 6.9.0: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/release-automation-nolio/6-9/release-notes-69/release-notes-for-6-9-0.html
+- Nolio Release Automation 6.9 (PDF): https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/ca-enterprise-software/intelligent-automation/release-automation-nolio/nolio-consolidated/nolio-release-automation-6-9.pdf
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Nolio Release Automation 6.9 is current (version list 6.9, 6.8; documentation updated 8 May 2026). No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Confirmed 6.9 and added 6.9 platform features. No release later than 6.9 was found.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 2 sources recorded (Broadcom TechDocs, product pages, press releases where available).

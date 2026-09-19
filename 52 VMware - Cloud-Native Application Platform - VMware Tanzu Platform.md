@@ -1,5 +1,9 @@
 # VMware Tanzu Platform
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware

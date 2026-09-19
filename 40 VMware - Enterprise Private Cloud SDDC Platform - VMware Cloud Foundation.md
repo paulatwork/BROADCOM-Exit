@@ -1,5 +1,9 @@
 # VMware Cloud Foundation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware Cloud Foundation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VMware Cloud Foundation (VCF) is Broadcom's flagship private cloud platform, integrating vSphere compute, vSAN storage, NSX networking and security, VCF Operations and VCF Automation (the products formerly branded Aria Operations and Aria Automation), and HCX migration tooling under a single subscription. Broadcom markets VCF 9.x as the operating layer for virtual machines, containers and on-premises AI workloads, extending it in 2026 with VCF Private AI Services and expanded GPU support for production AI. Since November 2023 it has been sold exclusively as a subscription bundle; standalone perpetual licences for its component products are no longer available.
+VMware Cloud Foundation (VCF) is Broadcom's private cloud platform. VCF 9.1 was announced in May 2026 and 9.1.1 reached general availability on 3 September 2026. It is sold as a subscription.
+
+Key features:
+
+1. **Integrated private cloud stack** - vSphere, vSAN, NSX networking, VCF Operations and VCF Automation.
+2. **AI and Kubernetes native platform** - Mixed compute (AMD, Intel, NVIDIA) for production AI.
+3. **Cost efficiency (Broadcom claims)** - Up to 40% lower server cost via memory tiering, up to 39% lower storage TCO, and up to 46% lower Kubernetes operating cost.
+4. **Lifecycle and scale** - Broadcom claims 4x faster cluster upgrades and 2x fleet capacity.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,18 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
 Replaced the unattributed 3x-10x and one-third-of-customers claims with correctly sourced figures (ECCO, AT&T litigation, CloudBolt survey, Gartner) and added the Gartner finding that Red Hat virtualisation ranks below Nutanix and public cloud as a migration destination, which is directly relevant to the row's recommended alternative.
 
+## General Sources:
+
+- VMware Cloud Foundation 9.1 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes.html
+- VMware Cloud Foundation 9.1.1.0 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes.html
+- Broadcom Announces VMware Cloud Foundation 9.1: https://news.broadcom.com/releases/broadcom-announces-vmware-cloud-foundation-9-1
+
 ## Change history:
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: 9.1 What's New confirms enhanced NVMe memory tiering, zero-touch elastic provisioning, live patching for ESX, extended vSAN deduplication and compression, continuous compliance enforcement, on-premises ransomware recovery and VKS fast-deploy.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1 and 9.1.1. Performance figures are vendor claims. The HCX statement was not re-verified.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

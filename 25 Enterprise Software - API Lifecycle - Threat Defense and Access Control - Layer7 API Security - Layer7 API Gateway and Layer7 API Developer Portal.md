@@ -1,5 +1,9 @@
 # Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Layer7 API Gateway and Layer7 API Developer Portal (originally CA API Gateway/API Management, acquired from Layer 7 Technologies in 2013 and carried through the CA Technologies and Broadcom acquisitions) together form a full-lifecycle API management platform. The Gateway operates as an application-layer/XML firewall and policy enforcement point, providing authentication and authorisation (OAuth, OpenID Connect, SAML), message-level encryption and signing, protocol mediation (REST, SOAP, GraphQL, MQ), rate limiting and throttling, and protection against OWASP API security risks and credential abuse. The Developer Portal provides API cataloguing, documentation, and self-service developer onboarding. The platform supports on-premises, containerised, and cloud-hosted deployment across hybrid and multi-cloud API estates.
+Layer7 API Gateway and Layer7 API Developer Portal form Broadcom's API management platform. API Gateway 11.2 (announced 28 November 2025, with 11.2.1 in February 2026) is the current release, offering container, appliance and software form factors.
+
+Key features:
+
+1. **API security and policy enforcement** - Application-layer gateway with authentication, authorisation, threat protection and traffic control.
+2. **New web Policy Manager** - 11.2 adds a browser-based Policy Manager for services, policies and entities, including publishing APIs from Swagger or OpenAPI.
+3. **Hardened container gateway** - The container gateway moves to a distroless base image.
+4. **Developer Portal** - API catalogue, documentation and developer onboarding.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -49,6 +60,8 @@ Noname Advanced API Security for IBM
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive – API Connect is rated about 4.5 stars on Gartner Peer Insights for governance, security and developer portal, with a steep learning curve the main criticism.
+
 IBM API Connect, extended with Noname Advanced API Security for IBM for broader API Security. Distributed API estates that span multiple clouds, gateways, and CDN providers.Via IBM - Noname Security, is a leading provider of proactive API security. Help Defence identify and protect from vulnerabilities, misconfigurations, and design flaws in APIs. Combined with Defence API Gateway, an additional layer of protection that is missing in Defence today. Discover and remediate HTTP, RESTful, GraphQL, SOAP, XML-RPC, and JSON-RPC APIs
 
 ## PRIMARY - IBM Product Page URL
@@ -73,4 +86,26 @@ https://www.ibm.com/new/announcements/noname-advanced-api-security-for-ibm
 
 Column D tightened into one coherent, accurate paragraph; previous text was a run-on of marketing fragments plus one factual sentence. Column E verifies and retains the existing narrative, adds a specific sourced finding that Broadcom has withdrawn from Gartner's API Management Magic Quadrant, adds sourced PeerSpot evidence, and corrects a nuance in the existing alternative (Noname is an IBM partnership, not an IBM acquisition; Akamai owns Noname).
 
+## General Sources:
+
+- New Features and Enhancements - API Gateway 11.2: https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/11-2/release-notes/new-features-and-enhancements.html
+- Layer7 API Gateway 11.2 GA announcement: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ReleaseAnnouncements/Layer7-API-Gateway-11-2/36551
+- Layer7 API Gateway - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/index.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Layer7 API Gateway 11.2 documentation (updated 1 September 2026; versions 11.2, 11.1, 11.0, 10.1). No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added 11.2 and 11.2.1 currency and features. The Developer Portal version was not re-verified.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets; Noname naming is out of date.
+- Confirmed (IBM product page): DataPower Gateway enforcing authentication, authorisation and policies, a declarative policy interface, the DataPower Nano Gateway (ultra-light, zero-trust) and a developer portal for discovering, exploring and subscribing to APIs.
+- Not verified: OpenAPI or Swagger publishing, a browser-based policy manager equivalent and a hardened container image.
+- Naming: Akamai completed its acquisition of Noname Security (announced 7 May 2024, about USD 450 million), and IBM now markets the product as 'Akamai Advanced API Security for IBM' (https://www.ibm.com/products/akamai-advanced-api-security). It offers API discovery, posture assessment, real-time abnormal traffic detection and active testing, on-premises or SaaS. The 'Noname' wording and URL in the file should be updated.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/api-connect; https://www.ibm.com/products/akamai-advanced-api-security; https://www.akamai.com/newsroom/press-release/akamai-completes-acquisition-of-api-security-company-noname; https://www.gartner.com/reviews/product/ibmapiconnect

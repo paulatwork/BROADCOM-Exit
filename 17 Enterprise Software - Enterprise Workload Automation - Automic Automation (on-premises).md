@@ -1,5 +1,9 @@
 # Automic Automation (on-premises)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Automic Automation (on-premises)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Enterprise workload automation platform (Automic Automation) orchestrating complex, event-driven business processes and job scheduling across SAP/ERP, multi-cloud and mainframe environments, with a centralised automation engine, self-service process design and prebuilt integrations for enterprise application landscapes.
+Automic Automation is Broadcom's enterprise workload automation and orchestration platform. Version 26.0 is the latest documented in TechDocs (24.4 introduced Automation.AI). It orchestrates batch and event-driven processes across on-premises, cloud, SAP and mainframe environments.
+
+Key features:
+
+1. **Cross-platform orchestration** - Central automation engine for complex, event-driven workflows across hybrid environments.
+2. **Automation.AI** - Version 24.4 introduced generative AI capability connecting Automic to OpenAI, Gemini or a local open-source LLM via Ollama.
+3. **Enterprise application integrations** - Prebuilt integrations for SAP, cloud and other enterprise applications, with a REST API.
+4. **Modern platform support** - Version 24.4 supports Java 21 and 25 and PostgreSQL 17 and 18, and adds a revised script editor.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -42,6 +53,8 @@ IBM Workload Automation
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive but thinly evidenced – reviewers praise stability and plug-in breadth, while noting complex installation and upgrades and weak documentation (only two Gartner Peer Insights reviews were found).
+
 IBM Workload Automation (IWA) provides a centralized, cross-enterprise workload orchestration platform for batch and real-time process management. It enables automated, event-driven scheduling across hybrid cloud, mainframe, and distributed SAP/ERP environments with embedded AI anomaly detection, predictive SLA modeling, and dynamic self-healing.
 
 ## PRIMARY - IBM Product Page URL
@@ -66,4 +79,26 @@ https://www.ibm.com/products/workload-automation
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- Welcome to Automic Automation v26.0 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-automation/26-0/automic-automation/Content-_Common-Welcome-CommonWelcomeImageMaps.html
+- What's New in 24.4.5 - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-automation/24-4/automic-automation/Content-_Common-ReleaseHighlights-WhatsNew_24_4_5.html
+- What's new in Automic V24.4 - PEM Automic (third party): https://pemautomic.com/whats-new-in-automic-v24-4/
+- 2025 Gartner Magic Quadrant for Service Orchestration and Automation Platforms (Stonebranch reprint page): https://www.stonebranch.com/resources/analyst-reports/gartner-magic-quadrant-service-orchestration-automation-platforms-soap
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Broadcom is confirmed as a Leader in the 2025 Gartner Magic Quadrant for Service Orchestration and Automation Platforms (published 26 August 2025), and Automic Automation v26.0 documentation exists. The named co-Leaders in Analyst Cautions (IBM, HCL, Redwood) could not be confirmed (search results named BMC, Beta Systems and Stonebranch as Leaders); this concerns other vendors and is left unchanged for now.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added v26.0 as latest documented version and 24.4 GenAI and platform features. The 26.0 release-specific feature list was not located.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (IBM product page): orchestration across mainframe, hybrid cloud and cloud-native environments, SAP workload automation, event-driven processes, a single point of control and AI-powered anomaly detection.
+- Not stated on the page: predictive SLA modelling and a generative AI or LLM integration equivalent to Automation.AI.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/workload-automation; https://www.gartner.com/reviews/product/ibm-workload-automation

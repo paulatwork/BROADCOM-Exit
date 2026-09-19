@@ -1,5 +1,9 @@
 # DX Unified Infrastructure Management
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ DX Unified Infrastructure Management
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Hybrid infrastructure monitoring platform (formerly Nimsoft) offering automated discovery, alarm management and health tracking across physical and virtual servers, cloud infrastructure, storage and databases. Uses a multi-tenant, template-based probe architecture with contextual log correlation and predictive analytics to identify issues before user impact.
+DX Unified Infrastructure Management (DX UIM, formerly Nimsoft) is a hybrid infrastructure monitoring platform. The current release documented is 23.4 with cumulative update CU7 (documentation updated 30 June 2026).
+
+Key features:
+
+1. **Broad infrastructure monitoring** - Probe-based monitoring of servers, virtualisation, cloud, storage, databases and applications with automated discovery.
+2. **Alarm and health management** - Centralised alarm handling and health tracking with operator console workflows.
+3. **Reporting and scheduled dashboards** - CU7 adds availability report export to CSV with filtering, and scheduled dashboards can export tabular data as CSV and Excel.
+4. **Device identity continuity** - The Operator Console correlates device identity so performance history continues when a device IP address changes.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -40,6 +51,8 @@ IBM Instana Observability (Infrastructure & Cloud Monitoring)
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive – rated about 4.3 stars from roughly 265 Gartner Peer Insights reviews for easy dashboards and automatic discovery, with no consistent criticism surfaced in this pass.
+
 IBM Instana delivers automated hybrid infrastructure monitoring across bare metal, virtual machines (VMware, Hyper-V), public cloud instances, and storage arrays with over 300 pre-built sensors. It automatically detects topology changes in real time, correlates infrastructure metrics directly with application performance, and eliminates complex probe-and-hub maintenance.
 
 ## PRIMARY - IBM Product Page URL
@@ -64,4 +77,25 @@ https://www.ibm.com/products/instana/infrastructure-monitoring
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- What's New in DX UIM 23.4 CU7: https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/unified-infrastructure-management/23-4/release-notes/whats-new-in-dx-uim-23-4-cu7.html
+- What's New in DX UIM 23.4 CU5: https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/unified-infrastructure-management/23-4/release-notes/whats-new-in-dx-uim-23-4-cu5.html
+- Introducing DX Unified Infrastructure Management: https://academy.broadcom.com/blog/aiops/introducing-dx-unified-infrastructure-management
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: DX UIM 23.4 is the latest version listed in TechDocs (versions 23.4, 20.4, 20.3, 20.1); no end-of-support notice found. No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added current version (23.4 CU7) and CU7 features. The multi-tenant, predictive analytics wording was not re-verified and was replaced with documented capabilities.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (IBM product page): infrastructure monitoring and over 300 supported technologies, including Kubernetes.
+- Not verified individually: VMware and Hyper-V, storage arrays, databases, scheduled dashboard export and the '300 sensors' wording. Instana is agent-based, so probe-based UIM monitoring is replaced by a different architecture.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/instana

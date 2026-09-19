@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - ConnectALL
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ ValueOps by Broadcom - ConnectALL
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-ConnectALL is Broadcom's value stream integration platform, acquired by Broadcom in 2023 and folded into the ValueOps portfolio. It automates bi-directional synchronisation of work items, including requirements, stories, defects and test cases, across ALM, Agile, DevOps and ITSM tools from multiple vendors, providing cross-tool traceability without requiring teams to replace their existing systems of record.
+ConnectALL is the value stream integration platform in ValueOps by Broadcom (added to the ValueOps portfolio in a Broadcom announcement dated 6 June 2023; described by SD Times as an acquisition). It synchronises work items bi-directionally across Agile, DevOps, ALM and ITSM tools without custom coding, so teams keep their existing systems of record. ConnectALL 4.0 (2026) adds enhanced self-service, scalability and intelligent automation support.
+
+Key features:
+
+1. **Bi-directional work item synchronisation** - Keeps requirements, stories, defects and test cases consistent across tools from multiple vendors, removing manual handoffs.
+2. **Out-of-the-box integrations** - Prebuilt connectors across a wide range of Agile, DevOps, ITSM and business tools, delivered without custom coding.
+3. **Data transformation and mapping intelligence layer** - Captures, transforms and synchronises data accurately in near real time across the software delivery ecosystem, from portfolio planning through to operations.
+4. **Native ValueOps integration** - Works with Clarity, Rally and Insights, so integrated data feeds portfolio planning and value stream metrics end to end.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -36,6 +47,8 @@ Sources: Gartner Peer Insights, ConnectALL Value Stream Management Platform (no 
 IBM App Connect Enterprise
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Positive on capability, monitoring and connector breadth, tempered by a steep learning curve, scattered documentation and premium pricing relative to competitors.
 
 IBM App Connect Enterprise provides an enterprise-grade integration and workflow automation platform that connects multi-vendor enterprise applications, DevOps pipelines, and data stores via hundreds of pre-built connectors and flexible APIs. It enables automated bi-directional synchronization of artifacts, event-driven integration flows, and robust data mapping across on-premises and hybrid cloud environments without vendor lock-in.
 
@@ -61,4 +74,27 @@ https://www.ibm.com/products/app-connect
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
+## General Sources:
+
+- Introducing ConnectALL 4.0 (ValueOps blog): https://valueops.broadcom.com/blog/introducing-connectall-4-0
+- Value Stream Integration - ValueOps ConnectALL (product page): https://valueops.broadcom.com/products/connectall
+- ValueOps ConnectALL Capabilities - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/valueops/valueops-solution/ValueOps-Solution/n-valueops-capabilities/valueops-connectall-capabilities.html
+- Broadcom acquires ConnectALL - SD Times: https://sdtimes.com/vsm/broadcom-acquires-connectall/
+- Broadcom Adds ConnectALL's Technology to its ValueOps VSM Portfolio (6 June 2023): https://academy.broadcom.com/blog/valueops/broadcom-adds-connectall
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Product description: clarified the 2023 timing. Broadcom's own announcement (6 June 2023) says it 'added ConnectALL's Value Stream Management technology to its ValueOps portfolio', while SD Times reported an acquisition.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Confirmed the 2023 acquisition and added the ConnectALL 4.0 release. Restructured features into four numbered items.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 4 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (IBM product page): more than 200 prebuilt connectors, over 2,800 connector actions, AI-powered data mapping and transformation logic in ESQL and Java.
+- Not confirmed: bi-directional work item synchronisation across ALM, DevOps and ITSM tools, and named connectors for Jira, ServiceNow or Azure DevOps. App Connect is a general integration platform, not a value stream integration product, so ConnectALL's synchronisation model would need to be built.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/app-connect; https://www.gartner.com/reviews/product/ibm-app-connect

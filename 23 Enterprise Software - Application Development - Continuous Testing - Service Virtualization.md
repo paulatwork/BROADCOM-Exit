@@ -1,5 +1,9 @@
 # Service Virtualization
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ Service Virtualization
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-CA Service Virtualization (part of the Broadcom DevTest Solutions portfolio, formerly known as LISA) emulates the behaviour of dependent systems and services that are unavailable, costly to access, shared across teams, or still under development. Virtual services can be created either by recording live traffic between existing systems or built directly from engineering specifications (for example WSDL, Swagger/OpenAPI, or message schemas), including scripted or compiled logic and dynamic response handling features such as Magic Strings and Magic Dates. It is available in a standard edition (for development, integration, and UAT use, limited to ten parallel transactions) and a Performance edition scaled for load testing, and can be accessed through a web-based DevTest Portal, the DevTest Workstation, IDE plugins for Eclipse and IntelliJ IDEA, or the command line.
+Service Virtualization (part of DevTest Solutions, formerly LISA) emulates unavailable or costly dependent systems for testing. DevTest 10.9 is now the current release line (with 10.9.1 documentation also published), following 10.8.3.
+
+Key features:
+
+1. **Virtual service creation** - Creates virtual services by recording live traffic or from specifications such as WSDL and OpenAPI, with scripted logic and data-driven responses.
+2. **Automated VSE scaling (10.9)** - Virtual Service Environment instances scale dynamically with workload in Kubernetes and OpenShift, provisioning Pods automatically for performance testing.
+3. **Messaging protocol support** - 10.8.3 extended virtual service creation to Apache Kafka, JMS and IBM MQ, including Kafka SASL OAUTHBEARER authentication.
+4. **Virtual Service Catalog and platform support (10.9)** - A new Virtual Service Catalog UI and simpler properties, more than 45 security fixes, and support for RHEL 10, Windows Server 2025, Amazon Linux 2023 and current databases.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -64,4 +75,19 @@ Sources: PeerSpot, 'Broadcom Service Virtualization reviews' (peerspot.com); Bro
 
 Column D fully expanded into an accurate capability description sourced from current Broadcom TechDocs, correcting the previous fragmentary, grammatically unclear text. Column E replaces generic assertions with specific, sourced PeerSpot customer evidence on cost, add-on pricing, expertise loss, and stability.
 
+## General Sources:
+
+- New Features and Enhancements - DevTest 10.8: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/devtest-solutions/10-8/release-notes/new-features-and-enhancements.html
+- Post 10.8 Updates - DevTest: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/devtest-solutions/10-9/post108updates.html
+- Using Service Virtualization - DevTest 10.8: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/devtest-solutions/10-8/using/using-service-virtualization.html
+- 10.9 New Features and Enhancements: https://techdocs.broadcom.com/us/en/ca-enterprise-software/devops/devtest-solutions/10-9/release-notes/new-features-and-enhancements-109.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Corrected the current version: DevTest 10.9 (and 10.9.1) is published, so 10.8 was no longer the current line. Features rewritten with the 10.9 release notes (automated VSE scaling, logging, Virtual Service Catalog UI, security fixes, platform support). 10.8.3 messaging features retained.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added current 10.8.x messaging and OIDC features. The edition and IDE plugin details were not re-verified and were removed.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

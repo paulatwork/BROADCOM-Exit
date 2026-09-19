@@ -1,5 +1,9 @@
 # Symantec VIP
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ Symantec VIP
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Cloud-based multi-factor authentication (MFA) and risk-based access security service that protects enterprise applications and data against unauthorised access. Provides adaptive risk evaluation, device fingerprinting, self-service provisioning, and a range of authenticators including push notifications, software/hardware OTP tokens, and FIDO2 passwordless verification.
+Symantec VIP is a cloud MFA and risk-based authentication service. VIP Authentication Services 2026.March.01 was the latest release located.
+
+Key features:
+
+1. **Multi-factor authentication** - Push, OTP tokens and FIDO2.
+2. **Risk-based access** - Adaptive risk evaluation and device fingerprinting.
+3. **Microsoft ecosystem MFA** - 2026.March.01 updates for Azure and Entra ID MFA.
+4. **Standards** - Improved SAML validation and updated endpoint certificates.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -66,4 +77,18 @@ Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/re
 
 Corrected an internal inconsistency where Column E claimed limited FIDO2/passwordless support while Column D correctly states FIDO2 is supported. Replaced unattributed negative analyst claims with actual Gartner Peer Insights data, which is considerably more positive than previously implied, while retaining the genuine MFA-consolidation trend as the primary replacement rationale.
 
+## General Sources:
+
+- VIP Authentication Services 2026.March.01 announcement: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ReleaseAnnouncements/General-Availability-Announcement---Symantec-VIP-Authentication-Services-2026-March-01/37328
+- Symantec VIP (product page): https://www.broadcom.com/products/identity/vip
+- About FIDO authenticators - Symantec VIP: https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/vip/cloud/vip-web-services-and-apis-v127046027-d2278e2328/VIP-User-Services-Developer-s-Guide/about-vip-v99979554-d2386e8/about-fido-authenticators.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Broadcom documentation confirms VIP supports FIDO2 (security keys, biometrics and passkeys), consistent with the existing Analyst Cautions text. Gartner rating (4.5, 80 reviews) could not be re-checked. No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added the 2026.March.01 release.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 2 sources recorded (Broadcom TechDocs, product pages, press releases where available).

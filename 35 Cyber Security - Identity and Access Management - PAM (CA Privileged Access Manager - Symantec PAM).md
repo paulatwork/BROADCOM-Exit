@@ -1,5 +1,9 @@
 # PAM (CA Privileged Access Manager, Symantec PAM)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ PAM (CA Privileged Access Manager, Symantec PAM)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Privileged access management and session security platform that controls, monitors and audits privileged credential access to critical infrastructure, including session recording, credential vaulting and access workflow approval for both interactive administrator sessions and automated/service accounts.
+Symantec Privileged Access Manager (PAM, formerly CA PAM) manages privileged accounts. TechDocs lists version 4.3.2 as the newest (versions 4.3.2, 4.3.1, 4.3 and 4.2.x); the 4.3.1 landing page was updated on 14 September 2026. Version 4.3 added VMware Cloud Foundation credential integration.
+
+Key features:
+
+1. **Credential vaulting and rotation** - Central management and automated password rotation for privileged accounts.
+2. **VCF integration** - 4.3 centralises VCF credential management and enforces privileged access controls.
+3. **Threat analytics** - PAM Threat Analytics is documented for 4.3.1.
+4. **Operational tooling** - Upgrade Utility for hotfixes and service packs, and Azure password composition policies.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -42,6 +53,8 @@ Delinea - Available as IBM Security Verify Privilege Vault On-Premises
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive – Delinea has been named a Leader in the Gartner Magic Quadrant for Privileged Access Management for seven consecutive years, and the IBM-resold product inherits that standing.
+
 Solve for 'Human PAM. We offer 1:1 repalcement for Broadcom where being used, with improved capability. Defence get access to the Delinea PAM solution via IBM, an already approved in pattern solution, with the ability to scale PAM for Defence's entire privleded user workforce. Gartner have positined Delinea as a Leader in the Gartner Magic Quadrant for Privileged Access Management for 7 consecutive years. While Broadcom (Symantec PAM) is positioned as a Niche Player / Challenger. We extend the solution to solve for Non-humean identies, which is becoming a growing challenge.
 
 ## PRIMARY - IBM Product Page URL
@@ -66,4 +79,26 @@ https://www.ibm.com/products/security-verify
 
 Verified the Delinea 'Leader for seven consecutive years' claim (confirmed for 2025). Corrected the unverified 'Niche Player/Challenger' characterisation of Symantec PAM — only Niche Player status (2021-2022) could be verified, and Broadcom/Symantec does not appear in the more recent 2024-2025 Magic Quadrant vendor lists located in this research; flagged this as unresolved rather than invented. Added a real Peer Insights rating.
 
+## General Sources:
+
+- New Features and Enhancements in 4.3: https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/privileged-access-manager/4-3/release-information/new-features-and-enhancements-in-4-3.html
+- Symantec PAM v4.3 GA Announcement: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ReleaseAnnouncements/Symantec-Privileged-Access-Manager-v4-3-GA-Announcement/36165
+- Symantec Privileged Access Manager 4.3.1: https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/privileged-access-manager/4-3-1.html
+- Symantec Privileged Access Manager 4.3.1 (version list): https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/privileged-access-manager/4-3-1.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Corrected the current version: TechDocs lists 4.3.2, so 4.3.1 was not the newest. The 4.3.2 feature list was not retrieved, so the key features are unchanged.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added 4.3 features. Session recording detail was not reconfirmed in this review.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Meets requirements.
+- Confirmed: credential vaulting, password rotation and expiry with check-in and check-out, session recording (SessionConnector), and management of human, machine and AI identities. Verify Privilege Vault is the IBM-resold Delinea Secret Server, and Delinea was named a Leader in the 2025 Gartner Magic Quadrant for PAM for the seventh consecutive time.
+- Not verified: VMware Cloud Foundation credential integration, and the file's claim that Broadcom is positioned as a Niche Player or Challenger. Analytics is offered as an optional extension (Privilege Vault Analytics).
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/verify-privilege-vault; https://www.ibm.com/downloads/documents/us-en/107a02e94dc8f96e; https://www.gartner.com/reviews/market/privileged-access-management/vendor/delinea

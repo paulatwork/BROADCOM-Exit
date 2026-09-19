@@ -1,5 +1,9 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Cyber Security
@@ -14,7 +18,14 @@ Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Cloud-delivered extension of Symantec DLP that extends data loss prevention controls to cloud storage, email, web traffic, SaaS applications and emerging generative-AI channels, using the same policy and classification engine as the on-premises product.
+Symantec DLP Cloud extends Symantec DLP policies to cloud and AI channels, integrating with CloudSOC to protect data in more than 100 sanctioned and unsanctioned cloud apps. 26.1 raises the large file extraction limit from 30 MB to 150 MB.
+
+Key features:
+
+1. **Cloud application coverage** - Data in motion and at rest in cloud apps such as Office 365, Google Workspace, Box, Dropbox and Salesforce.
+2. **Generative AI controls** - Real-time inspection of data sent to AI applications such as ChatGPT.
+3. **Agentic AI protection** - Integration with Google Cloud Agent Gateway inspects agent traffic.
+4. **Shared policy engine** - Uses the same detection technologies as on-premises DLP; 26.1 supports files up to 150 MB.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -64,4 +75,18 @@ N/A
 
 Removed unverifiable, product-specific analyst claims and stated plainly that no distinct analyst coverage of the cloud variant was found; retained sourced general commercial-pattern commentary consistent with the out-of-scope framing in Columns F/G.
 
+## General Sources:
+
+- Detection Features in DLP 26.1: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/data-loss-prevention/25-1/detection-features-in-dlp-26-1.html
+- Symantec DLP Cloud (product page): https://www.broadcom.com/products/cybersecurity/information-protection/data-loss-prevention-cloud
+- Stopping Data Leaks at the Speed of AI: https://www.security.com/feature-stories/symantec-dlp-google-agent-gateway-agentic-ai-security
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified against current Broadcom sources; no changes required.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added GenAI and agent gateway capabilities and 26.1 file size limit.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

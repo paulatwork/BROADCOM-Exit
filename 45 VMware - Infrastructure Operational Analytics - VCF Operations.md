@@ -1,5 +1,9 @@
 # VCF Operations
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VCF Operations
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VCF Operations (the product formerly marketed as Aria Operations/vRealize Operations) is Broadcom's infrastructure monitoring and analytics tool, providing capacity planning, performance tracking and predictive analytics for VCF and VVF environments, including Aria Operations for Logs for log analytics.
+VCF Operations (formerly Aria Operations) monitors and manages VCF. 9.1 was released May 2026 and 9.1.1 in September 2026.
+
+Key features:
+
+1. **Supervisor and VKS monitoring** - Automatic discovery and metrics for Supervisor and VKS clusters.
+2. **Continuous compliance enforcement** - 9.1 Advanced Cyber Compliance supports remediation and unified security posture management.
+3. **On-premises ransomware recovery** - 9.1 integrates cyber recovery to isolated clean rooms, building on VMware Live Recovery integration from 9.0.
+4. **Management pack marketplace** - Find and install integrations, and build custom management packs.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,19 @@ https://www.ibm.com/products/instana
 
 Confirmed the Aria-to-VCF Operations rebrand is real and current. Column E now explicitly notes the weaker product-specific evidence base rather than overstating findings, and distinguishes IBM Concert as complementary rather than a direct substitute.
 
+## General Sources:
+
+- VCF Operations What's New 9.0: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-90-release-notes/platform-whats-new/whats-new-vcf-ops.html
+- VCF Operations What's New 9.1: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes/what-s-new/whats-new-vcf-ops.html
+- VCF Operations 9.1.1.0 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes/vcfoperations-9-1-1-0-release-notes.html
+- VMware Cloud Foundation 9.1 What's New: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes/what-s-new.html
+
 ## Change history:
+
+### 2026-09-19 - WebFetch verification pass
+- Verified with WebFetch: added 9.1 continuous compliance and ransomware recovery; replaced the log collection item.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1; 9.1 also brings workload placement by cluster stress.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

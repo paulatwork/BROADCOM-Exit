@@ -1,5 +1,9 @@
 # VCF Private AI Services
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VCF Private AI Services
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VCF Private AI Services is a VCF 9.x capability, delivered through the vSphere Supervisor, that provisions AI infrastructure components such as GPU pooling, model runtime services and vector databases for private, on-premises AI and machine learning workloads. It is distinct from, but complementary to, the separate VMware Private AI Foundation with NVIDIA reference architecture.
+VCF Private AI Services runs AI model serving on VCF. VCF 9.1.1 (3 September 2026) adds shared models across tenants; an AI gateway is preview only and other capabilities are reserved for future releases.
+
+Key features:
+
+1. **Model Runtime** - Serves models on-premises.
+2. **Multi-tenant model sharing** - 9.1.1.
+3. **GPU support** - AMD DirectPath I/O and NVIDIA-certified hypervisor.
+4. **AI gateway (preview)** - Access to over 150 models, preview only.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,16 @@ https://www.redhat.com/en/technologies/ai/openshift-ai
 
 Confirmed the product name and current status against Broadcom's own 2026 documentation, and added a distinction from the separately-branded Private AI Foundation with NVIDIA to avoid conflating the two offerings.
 
+## General Sources:
+
+- VCF 9.1: Private Cloud Platform for Production AI: https://blogs.vmware.com/cloud-foundation/2026/05/05/vcf-9-1-secure-cost-effective-private-cloud-platform-for-production-ai/
+- Explore 2026: VMware AI Factory: https://blogs.vmware.com/cloud-foundation/2026/09/03/explore-2026-vmware-ai-factory-and-other-new-ai-innovations-in-vcf/
+- VMware Private AI Services Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/private-ai/foundation-with-nvidia/9-0/private-ai-release-notes/vmware-private-ai-services-release-notes.html
+- eWeek: VCF 9.1.1 Adds Shared AI Models: https://www.eweek.com/news/vmware-vcf-shared-ai-models/
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added 9.1.1 and preview status caveat.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 4 sources recorded (Broadcom TechDocs, product pages, press releases where available).

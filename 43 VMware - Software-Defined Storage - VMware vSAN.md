@@ -1,5 +1,9 @@
 # VMware vSAN
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VMware vSAN
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VMware vSAN is a hyperconverged, software-defined storage layer that pools local server disks across an ESXi cluster into shared, resilient datastores, eliminating the need for a separate SAN/NAS array. It now ships only as a capacity entitlement bundled within VCF or VVF licensing rather than as a standalone product.
+VMware vSAN is hyperconverged software-defined storage. In 9.x, Express Storage Architecture (ESA) is the focus; global deduplication is available in 9.1.
+
+Key features:
+
+1. **vSAN ESA** - NVMe-optimised architecture.
+2. **Global deduplication** - Cluster-wide with encryption (9.1).
+3. **Native snapshot replication** - 200-deep snapshots.
+4. **Site Maintenance Mode** - One-click site maintenance.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,14 @@ https://www.redhat.com/en/resources/add-capabilities-enterprise-deployments-data
 
 Added the verified 0.25 TiB/core capacity figure and a caution that OpenShift Data Foundation is container-oriented rather than a direct general-purpose VM storage equivalent, which affects the realism of the column G/H alternative for mixed estates.
 
+## General Sources:
+
+- What's new for vSAN in 9.1? - Yellow Bricks: https://www.yellow-bricks.com/2026/05/07/whats-new-for-vsan-in-9-1/
+- vSAN What's New 9.1: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-0-0-release-notes/what-s-new/whats-new-vsan.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1 features. Yellow Bricks is an independent expert blog.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 2 sources recorded (Broadcom TechDocs, product pages, press releases where available).

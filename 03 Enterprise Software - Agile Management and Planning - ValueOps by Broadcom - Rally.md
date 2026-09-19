@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Rally
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ ValueOps by Broadcom - Rally
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Rally by Broadcom (formerly CA Agile Central / Rally Software) is an enterprise agile planning platform for scaling frameworks such as SAFe across large development organisations. It provides portfolio-to-team backlog alignment, cross-team dependency visualisation, programme increment planning and built-in agile metrics, and feeds delivery data into ValueOps Insights for flow-based reporting.
+Rally by Broadcom (formerly CA Agile Central and Rally Software) is a SaaS enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
+
+Key features:
+
+1. **Portfolio-to-team planning and scaled agile support** - Aligns portfolio items, features and team backlogs across large organisations, supporting scaled frameworks such as SAFe, with cross-team dependency and release planning.
+2. **Capacity planning and alignment** - Capacity Plans compare team capacity with planned work; from Q2 2026 the Alignment tab can align work to custom Portfolio Item fields.
+3. **Configurable planning boards and agile analytics** - Iteration and Release Planning Board widgets accept queries with multiple criteria, and Burnup, Burndown and Progress widgets support view filters and configurable totals (Q1 2026).
+4. **AI and open integration** - Rally AI features run on the Gemini 3.0 model with an AI Control Page for subscription administrators (from 15 April 2026), and the Rally MCP Server supports OAuth for connecting AI-assisted tools to Rally data and actions.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -36,6 +47,8 @@ Sources: Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.
 IBM Engineering Lifecycle Management (ELM) suite
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Mixed – respected for traceability and compliance-grade planning, but reviewers frequently criticise the dated interface, steep learning curve and complex installation and upgrades.
 
 Via the IBM Engineering Lifecycle Management (ELM) suite , Defence can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of Defence capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
 
@@ -63,4 +76,24 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 
 ## General Sources:
 
+- Rally Q2 2026 Release Notes: https://techdocs.broadcom.com/us/en/ca-enterprise-software/valueops/rally/rally-help/release-notes/q2-2026-release-notes.html
+- Rally Q1 2026 Release Notes: https://techdocs.broadcom.com/us/en/ca-enterprise-software/valueops/rally/rally-help/release-notes/q1-2026-release-notes.html
+- Agile Management - Rally by Broadcom (product page): https://valueops.broadcom.com/products/rally
+- Broadcom named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management: https://valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Rally 2026 release facts and the 2022 Gartner Enterprise Agile Planning Leader announcement still stand. No newer Enterprise Agile Planning placement for Broadcom was found. Broadcom was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management (second consecutive year), which supports the existing analyst note. No changes required.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Replaced the earlier description (which referred to programme increment planning and ValueOps Insights feeds) with 2026-verified capabilities from the Q1 and Q2 2026 release notes.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Partially meets.
+- Confirmed (IBM product page): ELM supports frameworks such as SAFe, dashboards and analytics, AI agents (IBM Engineering AI Hub) and an Integration Hub for third-party tools.
+- Not confirmed: explicit portfolio-to-team planning and capacity planning were not stated on the page. ELM is an engineering lifecycle suite, so Targetprocess (see file 02) is the closer IBM match for Rally's portfolio-to-team planning; the two are reported as integrated by a third party.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.ibm.com/products/engineering-lifecycle-management; https://www.peerspot.com/products/ibm-engineering-lifecycle-management-elm-reviews; https://www.trustradius.com/products/ibm-rational-quality-manager/reviews

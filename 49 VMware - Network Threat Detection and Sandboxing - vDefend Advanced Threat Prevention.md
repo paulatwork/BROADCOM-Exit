@@ -1,5 +1,9 @@
 # vDefend Advanced Threat Prevention
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ vDefend Advanced Threat Prevention
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-vDefend Advanced Threat Prevention is a network detection and response (NDR) capability within the vDefend security portfolio (built on NSX), providing malware sandboxing, network traffic analysis and threat inspection for east-west traffic inside the private cloud.
+vDefend Advanced Threat Prevention combines IDS/IPS, malware prevention (sandbox) and network traffic analysis with NDR correlation. Version 4.2 documentation and 9.x feature guides are current.
+
+Key features:
+
+1. **Multi-layer detection** - IDS/IPS, MPS, NTA.
+2. **On-premises sandbox** - No file upload to cloud.
+3. **NDR campaigns** - Condenses alerts into campaigns.
+4. **AI Assistant** - Explains events and suggests remediation.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,16 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-cluste
 
 Corrected the framing so vendor-commissioned Forrester research is clearly labelled as such rather than presented as independent analyst commentary, and flagged that Red Hat Advanced Cluster Security is not a like-for-like replacement for network-level NDR, which affects the realism of the column G/H alternative.
 
+## General Sources:
+
+- vDefend Advanced Threat Prevention 4.2: https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/vdefend-atp/4-2.html
+- vDefend Advanced Threat Prevention Overview 9.0: https://techdocs.broadcom.com/us/en/vmware-security-load-balancing/vdefend/vdefend-atp/9-0/vdefend-advanced-threat-prevention-overview.html
+- VMware vDefend Advances Multi-Layer Lateral Security: https://blogs.vmware.com/security/2026/08/vdefend-ssp-for-frontier-ai-era.html
+- SE Labs test report: https://selabs.uk/reports/reports-advanced-security-test-report-vmware-vdefend-advanced-threat-prevention-ndr-protection-2025-q1/
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added on-premises sandbox and AI assistant.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 4 sources recorded (Broadcom TechDocs, product pages, press releases where available).

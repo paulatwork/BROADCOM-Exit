@@ -1,5 +1,9 @@
 # CloudHealth (SaaS)
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 Enterprise Software
@@ -14,7 +18,14 @@ CloudHealth (SaaS)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-CloudHealth (marketed as VMware Tanzu CloudHealth, now under Broadcom) is a software-as-a-service cloud financial management (FinOps) platform. It ingests billing and usage data from multiple cloud providers (AWS, Azure, Google Cloud) to unify cost visibility, allocate spend to business units through customisable tagging and business rules, and identify optimisation opportunities such as rightsizing under-utilised resources, eliminating unused resources, and managing commitment-based discounts (Reserved Instances, Savings Plans, Committed Use Discounts). It also provides budgeting, forecasting, governance, and multi-cloud policy automation.
+Tanzu CloudHealth by Broadcom is a multi-cloud FinOps SaaS platform. Recent releases include the new CloudHealth experience with AI-powered Intelligent Assist and Smart Summary (2025) and June 2026 additions.
+
+Key features:
+
+1. **Multi-cloud cost visibility** - Unifies billing across clouds, with FOCUS v1.2 dataset and standard report support.
+2. **AI and Tokenomics Dashboard** - Tracks token consumption and cost per million tokens across LLM providers.
+3. **Optimisation and commitments** - Rightsizing, GCP resource-based CUD tracking and commitment management.
+4. **Governance and AI assistance** - Role-based forecasting permissions, encrypted webhook headers, Intelligent Assist and Smart Summary.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -42,6 +53,8 @@ Flexera One SaaS
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
+General sentiment: Positive – rated about 4.4 out of 5 from 44 Gartner Peer Insights ratings for cloud spend visibility, with complex configuration and a learning curve the main criticisms.
+
 IBM partner Flexera One offer a good alternative. Both available through IBM.
 
 ## PRIMARY - IBM Product Page URL
@@ -66,4 +79,25 @@ https://www.ibm.com/products/apptio
 
 Column D tightened for clarity and Australian spelling; substance was already accurate so retained. Column E verifies the existing Gartner claim, adds the previously unverified Forrester Wave Q3 2024 Leader recognition, confirms the Arrow Electronics exclusive-distributor arrangement with dates, and cross-checks that both listed alternatives are independently recognised Leaders in the same analyst reports.
 
+## General Sources:
+
+- SiliconANGLE: Broadcom reboots CloudHealth: https://siliconangle.com/2025/06/02/broadcom-reboots-cloudhealth-enhancements-broaden-finops-use/
+- Broadcom press release: New CloudHealth User Experience: https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-new-cloudhealth-user-experience-greater-cloud
+- About the New CloudHealth User Experience - TechDocs: https://techdocs.broadcom.com/us/en/vmware-tanzu/cloudhealth/tanzu-cloudhealth/saas/tnz-cloudhealth/exploring-cloudhealth-new-experience-about-cloudhealth-new-user-experience.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Verified: Broadcom named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools (report published 15 September 2025). No changes.
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Added 2025 AI features and 2026 FOCUS and tokenomics features.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Meets most requirements.
+- Confirmed (Flexera product page): multi-cloud visibility, tracking and allocation of AI service costs, autonomous rightsizing and autoscaling, discount management of RIs, savings plans and CUDs, and AI-powered forecasting and budgeting. Flexera was named a Leader in the 2024 Gartner Magic Quadrant for Cloud Financial Management Tools.
+- Not confirmed: FOCUS dataset support and an AI assistant. The claim that both products are available through IBM was not verified in this pass.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.flexera.com/products/flexera-one/finops; https://www.gartner.com/reviews/product/flexera-one-finops; https://www.flexera.com/blog/finops/flexera-recognized-as-a-leader-in-2024-gartner-magic-quadrant-for-cloud-financial-management-tools/

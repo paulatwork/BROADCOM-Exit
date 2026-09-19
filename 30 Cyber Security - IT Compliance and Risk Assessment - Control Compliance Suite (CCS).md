@@ -1,4 +1,8 @@
-# Control Compliance Suite (CSS)
+# Control Compliance Suite (CCS)
+
+## Status 
+
+Draft
 
 ## Broadcom Software Type
 
@@ -10,20 +14,24 @@ IT Compliance & Risk Assessment
 
 ## Broadcom Product Name
 
-Control Compliance Suite (CSS)
+Control Compliance Suite (CCS)
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-Security posture and compliance management solution automating risk assessment, policy enforcement and regulatory compliance reporting across IT infrastructure:
-* Continuously scans the environment to discover managed and unmanaged devices and assess their security configuration.
-* Evaluates system data against more than 100 regulations, mandates and best practices to demonstrate compliance and pass audits.
-* Automates remediation by integrating with third-party ticketing systems to create closed-loop remediation of failing controls and improve security posture.
+Control Compliance Suite (CCS) automates risk assessment, policy enforcement and compliance reporting. Version 12.8.0 (with Security Content Update 2025) is the latest documented release, and Broadcom publishes lifecycle dates for support.
+
+Key features:
+
+1. **Continuous assessment** - Scans to discover devices and assess security configuration.
+2. **Regulatory coverage** - Evaluates systems against more than 100 regulations, mandates and best practices.
+3. **Closed-loop remediation** - Integrates with ticketing systems to remediate failing controls.
+4. **Content updates** - Security content updates keep standards and platform coverage current.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
 **Product Lifecycle Status (Updated 2025)**
 
-Broadcom continues to release CCS updates — version 12.7.0 was delivered in mid-2024 and version 12.8.0 followed in October 2025 — on a rolling End-of-Service (EoS) schedule rather than a full product discontinuation. The product has not been formally end-of-lifed, but it occupies a precarious position within Broadcom's post-VMware portfolio strategy.
+Broadcom continues to release CCS updates — version 12.7.0 was delivered in mid-2024 and version 12.8.0 followed in October 2025 — under Broadcom's standard support policy (active engineering on the latest generally available version and the version before it), with GA dates of 30 July 2024 for 12.7.0 and 10 October 2025 for 12.8.0 and no End-of-Service or End-of-Life dates published for either version. The product has not been formally end-of-lifed, but it occupies a precarious position within Broadcom's post-VMware portfolio strategy.
 
 **Broadcom Exit Strategy — Industry and Analyst Findings**
 
@@ -56,6 +64,8 @@ IBM & Red Hat.
 IBM Security QRadar Suite (Cloud-Native SaaS)
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
+
+General sentiment: Mixed – QRadar SIEM is regarded as stable and well supported, but the sale of the QRadar SaaS assets to Palo Alto Networks and the end of the SaaS service undermine confidence in the cloud-native offering.
 
 The replacement spans three functional areas: asset discovery and risk posture, regulatory compliance policy monitoring, and automated closed-loop remediation. IBM's current strategy is anchored on the **IBM Security QRadar Suite (Cloud-Native SaaS)** — a unified, continuously delivered platform built on Red Hat OpenShift Container Platform, with more than 900 pre-built integrations across IBM and third-party products — combined with the Red Hat compliance ecosystem for Linux-based infrastructure.
 
@@ -129,9 +139,25 @@ https://www.ibm.com/docs/en/qsip/7.6.0
 
 **[8]** Gartner / IT-Harvest industry commentary (2024) — Multiple analyst sources characterise Broadcom's enterprise software portfolio strategy (post-CA Technologies 2018 and Symantec 2019 acquisitions, and post-VMware 2023) as oriented toward cash extraction from a reduced set of top-tier accounts, with active development investment deprioritised for mid-tier products including CCS. No standalone Gartner Magic Quadrant or Forrester Wave exists for the CCS product category.
 
+## General Sources:
+
+- Symantec Control Compliance Suite - 12.x: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/control-compliance-suite/12-x.html
+- Releases and Support Lifecycle Dates: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ProductAdvisories/Symantec-Control-Compliance-Suite-Releases-and-Support-Lifecycle-Dates/16154
+- Discontinued platforms - SCU 2025: https://techdocs.broadcom.com/us/en/symantec-security-software/information-security/control-compliance-suite/SCU-2025/System-requirements-and-compatibility/Deprecation.html
+- End-of-Life and End-of-Service dates for Control Compliance Suite: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/product-advisories/End-of-Life-and-End-of-Service-dates-for-Control-Compliance-Suite/16154
+
 ## Change history:
 
+### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
+- Product Name: corrected the abbreviation from 'CSS' to 'CCS' (the file name still uses 'CSS').
+- Analyst Cautions: replaced 'rolling End-of-Service (EoS) schedule' with the verified support position: no EoS or EoL dates for 12.7.0 or 12.8.0, and GA dates of 30 July 2024 and 10 October 2025 (the earlier 'mid-2024' and 'October 2025' were consistent).
 
+### 2026-09-19 - Broadcom product information review
+- Product description: Reformatted features into the numbered list and confirmed 12.8.0 as latest documented. Existing bulleted description retained in substance.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
+
+### Earlier entries
 1. Analyst Cautions section — fully restructured with 5 numbered findings
 The single-paragraph section was replaced with structured findings under two sub-headings:
 
@@ -158,3 +184,10 @@ Added QRadar Risk Manager (Policy Monitor) and IBM Security Randori Recon as nam
 6. Sources section — replaced editorial note with 8 numbered, cited references
 The old "editorial note" sources line was replaced with 8 properly numbered references including IBM documentation library citations, specific IBM support page URLs, and attributed analyst commentary.
 
+### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
+- Requirement match against the Key Features section: Replacement product at risk – SaaS offering ended.
+- Critical: Palo Alto Networks acquired the QRadar SaaS assets and intellectual property on 31 August 2024. End of sale and end of life for the QRadar SaaS products was announced effective 14 April 2025, and secondary sources give 14 April 2026 as the end of support date. The 'IBM Security QRadar Suite (Cloud-Native SaaS)' named in this file is therefore no longer a viable primary product.
+- IBM states that QRadar on-premises is unaffected and has no end-of-life plan, so the on-premises Risk Manager and Policy Monitor components remain the likely path; their 2026 status was not confirmed. The '900 integrations' and Red Hat OpenShift build claims were not verified.
+- Recommendation: revise the primary product to QRadar on-premises (or an alternative) and re-validate the closed-loop remediation claim.
+- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
+- Sources: https://www.paloaltonetworks.com/cyberpedia/ibm-qradar-acquired-by-palo-alto-networks; https://www.blumira.com/qradar-alternative; https://community.ibm.com/community/user/viewdocument/ibm-qradar-monthly-2026-roadmap?CommunityKey=f9ea5420-0984-4345-ba7a-d93b4e2d4864&tab=librarydocuments; https://thectoclub.com/tools/ibm-security-qradar-siem-review/

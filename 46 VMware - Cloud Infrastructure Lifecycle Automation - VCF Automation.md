@@ -1,5 +1,9 @@
 # VCF Automation
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VCF Automation
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VCF Automation (the product formerly marketed as Aria Automation/vRealize Automation) is Broadcom's cloud infrastructure automation and self-service provisioning platform, offering blueprints, governance and orchestration (via vRealize Orchestrator) for VCF environments.
+VCF Automation (formerly Aria Automation) is the self-service private cloud layer in VCF 9.x. 9.1.0.0200 was released 13 July 2026.
+
+Key features:
+
+1. **Self-service cloud services** - VMs, Kubernetes, volumes, databases and more.
+2. **Multi-tenancy** - Central quotas and networks.
+3. **Declarative VM Service** - Cloud-init and sysprep.
+4. **VLAN-backed VPCs** - From 9.1.1.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,15 @@ https://www.redhat.com/en/technologies/management/ansible
 
 Verified the specific Automation Pipelines deprecation claim against a real Broadcom knowledge base article rather than leaving it as an unsourced assertion, and added an honest note on the thinner evidence base for product-specific exit volumes.
 
+## General Sources:
+
+- VCF Automation What's New 9.0: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-90-release-notes/platform-whats-new/whats-new-vcf-automation.html
+- VCF Automation 9.1.0.0200 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/patch-releases-9-1-0-x/vcf-automation/vcfautomation-9-1-0-0200-release-notes.html
+- VCF Automation 9.1.1.0 Release Notes: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/release-notes/vmware-cloud-foundation-9-1-1-0-release-notes/vcfautomation-9-1-1-0-release-notes.html
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Replaced blueprint/vRealize Orchestrator wording with 9.x self-service model.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

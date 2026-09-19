@@ -1,5 +1,9 @@
 # VCF Networking, NSX
 
+## Status 
+
+Draft
+
 ## Broadcom Software Type
 
 VMware
@@ -14,7 +18,14 @@ VCF Networking, NSX
 
 ## Broadcom Product Description (Key Features) (This is important to get right)
 
-VCF Networking, built on NSX, is a software-defined networking and security platform providing Layer 2-3 overlay networking, distributed routing, and the distributed firewall for microsegmentation, delivered as an integrated layer of VMware Cloud Foundation rather than as a standalone licensed product.
+VCF Networking (NSX) provides VPC-based networking, transit gateways, and distributed security. VCF 9.1 adds multiple transit gateways per tenant, a virtual network appliance and native EVPN VXLAN.
+
+Key features:
+
+1. **VPC networking** - Consumed from vCenter, VKS and VCF Automation.
+2. **Transit gateway flexibility** - Multiple gateways per tenant (9.1).
+3. **Native EVPN VXLAN** - Route controller VM.
+4. **Direct hardware access** - NVIDIA ConnectX and BlueField adapters.
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
@@ -60,4 +71,15 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
 Replaced the direct quotation with a paraphrase per style guidance, added a genuine source (ColorTokens) for the migration-complexity claim as requested, and flagged that OpenShift networking only substitutes for NSX where workloads move to containers, a limitation on the column G/H alternative.
 
+## General Sources:
+
+- NSX What's New 9.0: https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-0/release-notes/vmware-cloud-foundation-90-release-notes/platform-whats-new/whats-new-nsx.html
+- Network World: VCF 9.1 updates: https://www.networkworld.com/article/4218303/vmware-cloud-foundation-9-1-adds-transit-gateway-flexibility-segmentation-and-native-evpn-vxlan-support.html
+- Simplify Workload Connectivity with VCF 9.1: https://blogs.vmware.com/cloud-foundation/2026/05/05/simplify-workload-connectivity-and-enhance-network-scale-and-performance-with-vcf-9-1/
+
 ## Change history:
+
+### 2026-09-19 - Broadcom product information review
+- Product description: Updated to 9.1.
+- Summary and numbered list of four key features rewritten from current Broadcom sources.
+- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
