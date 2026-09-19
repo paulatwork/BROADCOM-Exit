@@ -26,7 +26,7 @@ Sources: Broadcom VCF 9.1 product announcements and TechDocs on VCF Private AI S
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat + IBM
 
@@ -42,6 +42,8 @@ Red Hat OpenShift AI + IBM watsonx
 
 https://www.redhat.com/en/technologies/ai/openshift-ai
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/ai/openshift-ai
 ## Sources: Analyst reviews and exist strategy
 
 Confirmed the product name and current status against Broadcom's own 2026 documentation, and added a distinction from the separately-branded Private AI Foundation with NVIDIA to avoid conflating the two offerings.
+
+## Change history:

@@ -32,7 +32,7 @@ Sources: Delinea, 'Delinea Named a Leader in 2025 Gartner Magic Quadrant for Pri
 
 Yes. Improved.
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Replace with IBM, improve cability of Broadcom if it is being used.
 
@@ -48,6 +48,8 @@ Solve for 'Human PAM. We offer 1:1 repalcement for Broadcom where being used, wi
 
 https://www.ibm.com/products/security-verify
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 IBM HashiCorp Vault
@@ -63,3 +65,5 @@ https://www.ibm.com/products/security-verify
 ## Sources: Analyst reviews and exist strategy
 
 Verified the Delinea 'Leader for seven consecutive years' claim (confirmed for 2025). Corrected the unverified 'Niche Player/Challenger' characterisation of Symantec PAM — only Niche Player status (2021-2022) could be verified, and Broadcom/Symantec does not appear in the more recent 2024-2025 Magic Quadrant vendor lists located in this research; flagged this as unresolved rather than invented. Added a real Peer Insights rating.
+
+## Change history:

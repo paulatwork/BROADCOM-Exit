@@ -27,7 +27,7 @@ Sources: Gartner Peer Insights, ConnectALL Value Stream Management Platform (no 
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -43,6 +43,8 @@ IBM App Connect Enterprise provides an enterprise-grade integration and workflow
 
 https://www.ibm.com/products/app-connect
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -58,3 +60,5 @@ https://www.ibm.com/products/app-connect
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

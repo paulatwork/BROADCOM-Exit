@@ -30,7 +30,7 @@ Sources: TrustRadius, "Broadcom DX Unified Infrastructure Management Reviews" (t
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ IBM Instana delivers automated hybrid infrastructure monitoring across bare meta
 
 https://www.ibm.com/products/instana/infrastructure-monitoring
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ https://www.ibm.com/products/instana/infrastructure-monitoring
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

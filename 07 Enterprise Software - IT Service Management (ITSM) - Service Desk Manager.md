@@ -27,7 +27,7 @@ Sources: Gartner Peer Insights, CA Service Management reviews (gartner.com/revie
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -43,6 +43,8 @@ IBM Maximo IT provides an enterprise-grade IT Service Management (ITSM) and IT A
 
 https://www.ibm.com/products/maximo/it-asset-management
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -58,3 +60,5 @@ https://www.ibm.com/products/maximo/it-asset-management
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

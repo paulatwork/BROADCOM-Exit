@@ -40,7 +40,7 @@ Sources:
 
 Yes. Improved.
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Replace with IBM. Will provide both function and cost benefits
 
@@ -58,6 +58,8 @@ The combination of IBM QRadar Network Appliance familily (Packet Capture; Incide
 
 https://www.ibm.com/products/qradar-siem
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -74,9 +76,7 @@ https://www.ibm.com/products/qradar-siem
 
 Verified and corrected the specific EOL/drop-support dates against Broadcom's own published notice (drop support is 2030 for current generations, not near-term), and added a concrete, quoted Peer Insights finding on support quality in place of the previous unattributed reference.
 
-## Bob Changes:
-
-## Claude Changes:
+## Change history:
 
 Update of 2026-09-19. Only this file was edited; no other files were changed.
 

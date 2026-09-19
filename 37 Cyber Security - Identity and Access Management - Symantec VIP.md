@@ -32,7 +32,7 @@ Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/re
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -48,6 +48,8 @@ Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/re
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -63,3 +65,5 @@ Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/re
 ## Sources: Analyst reviews and exist strategy
 
 Corrected an internal inconsistency where Column E claimed limited FIDO2/passwordless support while Column D correctly states FIDO2 is supported. Replaced unattributed negative analyst claims with actual Gartner Peer Insights data, which is considerably more positive than previously implied, while retaining the genuine MFA-consolidation trend as the primary replacement rationale.
+
+## Change history:

@@ -42,7 +42,7 @@ Based on analysts, Planview and ServiceNow are usually cited as leaders in SPM a
 
 Strong Replacement, with improve outcomes.
 
-## IBM Replacement Strategy - Why IBM over Clarity
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 IBM offers improved outcomes. Clarity manages the portfolio and holds its budgets. IBM Targetprocess manages the same portfolio, stays open to whatever delivery tools your teams run, and — uniquely — connects that work to a true enterprise cost model through IBM Apptio, so leaders see not just what is funded but the real, defensible cost and business value of it.
 
@@ -69,7 +69,7 @@ Featured highlights include:
 
 https://www.ibm.com/products/apptio
 
-## Customer Reference.
+## Customer Reference
 
 Lowe's used ApptioOne + Targetprocess to align IT spend with business strategy, improve resource and program management, and move to a product-funding approach — simplifying forecasting and giving holistic views of cost connected to business value. Business benefits using Targetprocess:
 - ~60% predictability improvement,
@@ -112,9 +112,8 @@ Secondary (independent or partner commentary):
 - Tricise, Broadcom Clarity 16.4.2: AI Upgrades and MCP Server (partner blog, used only to corroborate the release themes): https://tricise.com/clarity-16-4-2-whats-new/
 - ValueOps by Broadcom blog, Gartner Magic Quadrant SPM Leader announcement, 2025 [vendor-published]: https://valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm
 
-## Bob Changes:
+## Change history:
 
-## Claude Changes:
 
 - Replaced the Key Features description with six verified features, each traced to the sources above.
 - Removed the earlier claim of 'newer modules for AI investment governance and infrastructure portfolio management', as no source found in this research supported it. Reinstate only with a citation.

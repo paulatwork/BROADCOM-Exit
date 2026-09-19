@@ -32,7 +32,7 @@ Sources: VMware Tanzu blog, 'Broadcom (CloudHealth) Named a Leader in the 2025 G
 
 Yes.
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Migrate to Flexera One SaaS
 
@@ -48,6 +48,8 @@ IBM partner Flexera One offer a good alternative. Both available through IBM.
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 IBM Apptio SaaS
@@ -63,3 +65,5 @@ https://www.ibm.com/products/apptio
 ## Sources: Analyst reviews and exist strategy
 
 Column D tightened for clarity and Australian spelling; substance was already accurate so retained. Column E verifies the existing Gartner claim, adds the previously unverified Forrester Wave Q3 2024 Leader recognition, confirms the Arrow Electronics exclusive-distributor arrangement with dates, and cross-checks that both listed alternatives are independently recognised Leaders in the same analyst reports.
+
+## Change history:

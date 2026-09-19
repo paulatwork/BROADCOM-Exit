@@ -26,7 +26,7 @@ Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ OpenShift Virtualization Engine / OpenShift Platform Plus
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-
 ## Sources: Analyst reviews and exist strategy
 
 Corrected column D, which incorrectly stated VVF includes Tanzu Standard; current Broadcom documentation confirms VVF bundles vSphere, capacity-limited vSAN, the vSphere IaaS Control Plane and VCF Operations only. Added the verified 0.25 TiB/core figure and the CloudBolt/Gartner evidence to column E.
+
+## Change history:

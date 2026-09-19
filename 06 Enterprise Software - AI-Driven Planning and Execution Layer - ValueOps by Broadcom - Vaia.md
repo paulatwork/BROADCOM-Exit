@@ -27,7 +27,7 @@ Sources: ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -43,6 +43,8 @@ Sources: ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -58,3 +60,4 @@ Sources: ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+## Change history:

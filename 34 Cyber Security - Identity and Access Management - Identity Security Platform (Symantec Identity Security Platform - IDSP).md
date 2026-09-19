@@ -30,7 +30,7 @@ Sources: Broadcom TechDocs, 'About Symantec Identity Security Platform (IDSP)' (
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ IBM Security Verify is fundamentally an Identity and Access Management (IAM / ID
 
 https://www.ibm.com/products/security-verify
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ https://www.ibm.com/products/security-verify
 ## Sources: Analyst reviews and exist strategy
 
 Substantially expanded Column D with real, sourced product detail (AuthHub, FIDO2, OAuth, adaptive risk, SCIM identity store) drawn from Broadcom's own technical documentation, replacing the previous bare feature-name list. Corrected Column E to state plainly that no distinct analyst coverage of IDSP by name was found.
+
+## Change history:

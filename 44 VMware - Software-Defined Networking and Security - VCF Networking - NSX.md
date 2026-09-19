@@ -26,7 +26,7 @@ Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; T
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ OpenShift networking + partner networking
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 ## Sources: Analyst reviews and exist strategy
 
 Replaced the direct quotation with a paraphrase per style guidance, added a genuine source (ColorTokens) for the migration-complexity claim as requested, and flagged that OpenShift networking only substitutes for NSX where workloads move to containers, a limitation on the column G/H alternative.
+
+## Change history:

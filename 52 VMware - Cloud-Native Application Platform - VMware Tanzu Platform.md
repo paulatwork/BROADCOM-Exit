@@ -26,7 +26,7 @@ Sources: Fairwinds, 'Are You Still Using VMware Tanzu? (And Is Now the Time to M
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ OpenShift Container Platform + Red Hat Application Foundations
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift
 ## Sources: Analyst reviews and exist strategy
 
 Corrected column D to reflect that Tanzu Platform is a Cloud Foundry-based PaaS rather than a generic container platform, and added the architectural caveat that OpenShift alone is not an equivalent developer experience without Red Hat Application Foundations, which affects the completeness of the column G/H alternative.
+
+## Change history:

@@ -26,7 +26,7 @@ Sources: ThreatDown, 'Carbon Black and Broadcom: Acquisition, Symantec, and what
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -42,6 +42,8 @@ Sources: ThreatDown, 'Carbon Black and Broadcom: Acquisition, Symantec, and what
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ Sources: ThreatDown, 'Carbon Black and Broadcom: Acquisition, Symantec, and what
 ## Sources: Analyst reviews and exist strategy
 
 Corrected the factually inaccurate claim that Broadcom completed a Carbon Black divestiture — it was announced then reversed, with Carbon Black folded into Symantec instead. Tightened Column D to cover both product lines and added verifiable sourcing.
+
+## Change history:

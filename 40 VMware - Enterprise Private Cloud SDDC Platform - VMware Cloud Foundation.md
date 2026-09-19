@@ -26,7 +26,7 @@ Sources: Network World, 'Broadcom refuses to backtrack on huge VMware price incr
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 IBM + Red Hat
 
@@ -42,6 +42,8 @@ Red Hat OpenShift Platform Plus + IBM Fusion
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 ## Sources: Analyst reviews and exist strategy
 
 Replaced the unattributed 3x-10x and one-third-of-customers claims with correctly sourced figures (ECCO, AT&T litigation, CloudBolt survey, Gartner) and added the Gartner finding that Red Hat virtualisation ranks below Nutanix and public cloud as a migration destination, which is directly relevant to the row's recommended alternative.
+
+## Change history:

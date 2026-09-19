@@ -30,7 +30,7 @@ Sources: Gartner Peer Insights, 'Symantec Enterprise Cloud' product page (gartne
 
 Not applicable. (Defence using CITRIX-based solution for Remote Desktop Access)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 This assessmenet does not address Cloud Hosted or Cloud Access services.
 
@@ -46,6 +46,8 @@ IBM Security Verify is fundamentally an Identity and Access Management (IAM / ID
 
 https://www.ibm.com/products/security-verify
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ https://www.ibm.com/products/security-verify
 ## Sources: Analyst reviews and exist strategy
 
 Replaced generic, unattributed analyst claims with a specific, verifiable Gartner Peer Insights data point (rating and very small review count) and stated plainly that no named Magic Quadrant/Wave coverage was found for this product.
+
+## Change history:

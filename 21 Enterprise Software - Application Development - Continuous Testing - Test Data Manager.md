@@ -30,7 +30,7 @@ Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); B
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ IBM DevOps Deploy (formerly UrbanCode Deploy) provides enterprise application re
 
 https://www.ibm.com/products/devops-deploy
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 IBM DevOps Test
@@ -61,3 +63,5 @@ https://www.ibm.com/products/devops-test/performance
 ## Sources: Analyst reviews and exist strategy
 
 Column D expanded from a one-line fragment into a full, sourced capability summary. Column E replaces generic claims with a verified 2022 Gartner Peer Insights recognition, sourced PeerSpot customer feedback, an honest statement that no 2025-2026 analyst ranking was found, and a flag that column H's listed alternative does not match this row's product category.
+
+## Change history:

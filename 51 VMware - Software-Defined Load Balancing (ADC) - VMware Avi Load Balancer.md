@@ -26,7 +26,7 @@ Sources: Broadcom Knowledge Base, 'VMware Avi Load Balancer Basic Edition: End o
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 IBM
 
@@ -42,6 +42,8 @@ IBM Cloud Load Balancer / VPC Load Balancer
 
 https://www.ibm.com/cloud/load-balancer
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.ibm.com/cloud/load-balancer
 ## Sources: Analyst reviews and exist strategy
 
 Corrected the row's overall framing: available evidence shows migration activity is predominantly moving toward Avi from F5, not away from it, and flagged that IBM Cloud Load Balancer in column H is not a credible on-premises substitute for this capability.
+
+## Change history:

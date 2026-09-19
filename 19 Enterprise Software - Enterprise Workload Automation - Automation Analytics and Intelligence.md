@@ -30,7 +30,7 @@ Sources: Broadcom (automation.broadcom.com), "AAI: Advanced Analytics for Worklo
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Migrate.
 
@@ -46,6 +46,8 @@ Application Resource Management and FinOps platform that uses advanced analytics
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Application Resource Management and FinOps platform that uses advanced analytics
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

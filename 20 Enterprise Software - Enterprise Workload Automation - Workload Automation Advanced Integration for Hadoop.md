@@ -28,7 +28,7 @@ Sources: Broadcom TechDocs, Workload Automation Advanced Integration for Hadoop 
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -44,6 +44,8 @@ Scaling Machine Learning - A multi-stage workflow process to scale machine learn
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -59,3 +61,5 @@ Scaling Machine Learning - A multi-stage workflow process to scale machine learn
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

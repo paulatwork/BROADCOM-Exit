@@ -30,7 +30,7 @@ Sources: PeerSpot, 'Broadcom Service Virtualization reviews' (peerspot.com); Bro
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ Sources: PeerSpot, 'Broadcom Service Virtualization reviews' (peerspot.com); Bro
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Sources: PeerSpot, 'Broadcom Service Virtualization reviews' (peerspot.com); Bro
 ## Sources: Analyst reviews and exist strategy
 
 Column D fully expanded into an accurate capability description sourced from current Broadcom TechDocs, correcting the previous fragmentary, grammatically unclear text. Column E replaces generic assertions with specific, sourced PeerSpot customer evidence on cost, add-on pricing, expertise loss, and stability.
+
+## Change history:

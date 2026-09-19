@@ -30,7 +30,7 @@ Sources: Microsoft Tech Community, 'Easily migrate your Symantec DLP policies to
 
 Partial
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 1. Replace Broadcom with Microsoft Purview DLP for workstations. 2. Replace with CrowdStrike Falcon Data Protection everywhere else. 3. Deploy IBM Guardium Data Protection for the Enterprise estate.
 
@@ -46,6 +46,8 @@ IBM Guardium Data Security Platform (DSPM / DAM) is a leader in automated data d
 
 https://www.ibm.com/products/guardium-data-security-center
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ https://www.ibm.com/products/guardium-data-security-center
 ## Sources: Analyst reviews and exist strategy
 
 Retained the core claims but added verifiable sourcing and corrected the implication of a current Gartner Magic Quadrant ranking — Gartner now publishes an unranked Market Guide for DLP, not a Magic Quadrant. Tightened Column D to remove repetition.
+
+## Change history:

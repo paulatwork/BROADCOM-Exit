@@ -30,7 +30,7 @@ Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentatio
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentatio
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentatio
 ## Sources: Analyst reviews and exist strategy
 
 Column D expanded to describe the real model-based testing workflow and verified the AI/NLP capability against current Broadcom TechDocs (v3.6) rather than leaving an unverified marketing fragment. Column E states plainly that no analyst coverage of this specific product was found, rather than fabricating any.
+
+## Change history:

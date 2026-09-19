@@ -24,7 +24,7 @@ AgentMinder was only announced and made available around August to September 202
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -40,6 +40,8 @@ AgentMinder was only announced and made available around August to September 202
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -55,3 +57,5 @@ AgentMinder was only announced and made available around August to September 202
 ## Sources: Analyst reviews and exist strategy
 
 Replaced speculative competitive/analyst-sounding claims with a plain statement that AgentMinder launched in August 2026 and has no independent analyst coverage yet; retained the architectural lock-in caution but labelled it clearly as reasoning, not a documented finding, and cited a real source for Broadcom's general commercial pattern.
+
+## Change history:

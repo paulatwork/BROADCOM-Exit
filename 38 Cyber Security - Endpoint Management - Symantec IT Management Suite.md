@@ -30,7 +30,7 @@ Sources: Gartner Peer Insights, 'Symantec Client Management Suite Reviews & Rati
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ Sources: Gartner Peer Insights, 'Symantec Client Management Suite Reviews & Rati
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Sources: Gartner Peer Insights, 'Symantec Client Management Suite Reviews & Rati
 ## Sources: Analyst reviews and exist strategy
 
 Replaced generic, unsourced analyst commentary with an actual, quoted Gartner Peer Insights finding that directly corroborates Broadcom's core-account strategy for this product, and tightened Column D wording.
+
+## Change history:

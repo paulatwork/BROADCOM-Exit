@@ -47,7 +47,7 @@ CCS relies on a multi-tier, on-premises architecture (application servers, manag
 
 Partial
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 IBM & Red Hat.
 
@@ -81,6 +81,8 @@ Additional supporting products for the wider IT estate:
 
 https://www.ibm.com/docs/en/qsip/7.6.0
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 * IBM QRadar Risk Manager (Policy Monitor)
@@ -127,7 +129,7 @@ https://www.ibm.com/docs/en/qsip/7.6.0
 
 **[8]** Gartner / IT-Harvest industry commentary (2024) — Multiple analyst sources characterise Broadcom's enterprise software portfolio strategy (post-CA Technologies 2018 and Symantec 2019 acquisitions, and post-VMware 2023) as oriented toward cash extraction from a reduced set of top-tier accounts, with active development investment deprioritised for mid-tier products including CCS. No standalone Gartner Magic Quadrant or Forrester Wave exists for the CCS product category.
 
-## Bob Changes:
+## Change history:
 
 
 1. Analyst Cautions section — fully restructured with 5 numbered findings

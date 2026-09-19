@@ -26,7 +26,7 @@ Sources: SE Labs, 'Advanced Security Test Report: VMware vDefend Advanced Threat
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ Red Hat Advanced Cluster Security for Kubernetes
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-cluster-security
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-cluste
 ## Sources: Analyst reviews and exist strategy
 
 Corrected the framing so vendor-commissioned Forrester research is clearly labelled as such rather than presented as independent analyst commentary, and flagged that Red Hat Advanced Cluster Security is not a like-for-like replacement for network-level NDR, which affects the realism of the column G/H alternative.
+
+## Change history:

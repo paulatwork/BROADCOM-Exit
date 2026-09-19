@@ -32,7 +32,7 @@ Sources: Gartner Peer Insights, 'Symantec SiteMinder Reviews & Ratings' (gartner
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -48,6 +48,8 @@ IBM Security Verify is fundamentally an Identity and Access Management (IAM / ID
 
 https://www.ibm.com/products/security-verify
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -63,3 +65,5 @@ https://www.ibm.com/products/security-verify
 ## Sources: Analyst reviews and exist strategy
 
 Column E previously contained only a two-word placeholder ('Reverse proxy access management gateway'). Replaced with researched, sourced content covering real Peer Insights ratings and quotes and the existence of a named third-party SiteMinder migration tooling market. Expanded and tightened Column D with a sentence on typical deployment pattern.
+
+## Change history:

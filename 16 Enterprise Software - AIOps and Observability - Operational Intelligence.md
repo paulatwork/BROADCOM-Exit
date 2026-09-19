@@ -30,7 +30,7 @@ Sources: Gartner Peer Insights, DX Operational Intelligence product page (gartne
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ IBM Concert Operate (formerly IBM Cloud Pak for AIOps) delivers an enterprise AI
 
 https://www.ibm.com/products/concert/operate
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ https://www.ibm.com/products/concert/operate
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

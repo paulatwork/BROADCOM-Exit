@@ -30,7 +30,7 @@ Sources: Broadcom Knowledge Base, 'Ghost Solution Suite End of Life Schedules' (
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ Sources: Broadcom Knowledge Base, 'Ghost Solution Suite End of Life Schedules' (
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Sources: Broadcom Knowledge Base, 'Ghost Solution Suite End of Life Schedules' (
 ## Sources: Analyst reviews and exist strategy
 
 Stated plainly that no independent analyst coverage of GHOST Solution Suite exists, rather than attributing unverified analyst cautions to it as the previous draft implied. Retained the general, correctly-labelled industry trend and cited Broadcom's own End-of-Life schedule as the one verifiable primary source.
+
+## Change history:

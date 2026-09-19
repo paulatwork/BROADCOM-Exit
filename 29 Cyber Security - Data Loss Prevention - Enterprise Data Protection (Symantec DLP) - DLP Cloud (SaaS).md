@@ -30,7 +30,7 @@ Sources: no independent analyst report specific to Symantec DLP Cloud was identi
 
 Not Considered here
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 This assessmenet does not address Cloud Hosted or Cloud Access services.
 
@@ -46,6 +46,8 @@ N/A
 
 N/A
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 N/A
@@ -61,3 +63,5 @@ N/A
 ## Sources: Analyst reviews and exist strategy
 
 Removed unverifiable, product-specific analyst claims and stated plainly that no distinct analyst coverage of the cloud variant was found; retained sourced general commercial-pattern commentary consistent with the out-of-scope framing in Columns F/G.
+
+## Change history:

@@ -27,7 +27,7 @@ Sources: Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -43,6 +43,8 @@ Via the IBM Engineering Lifecycle Management (ELM) suite , Defence can access up
 
 https://www.ibm.com/products/engineering-workflow-management
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -60,6 +62,5 @@ https://www.ibm.com/products/engineering-workflow-management
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
 
 ## General Sources:
-## Bob Changes:
 
-## Claude Changes:
+## Change history:

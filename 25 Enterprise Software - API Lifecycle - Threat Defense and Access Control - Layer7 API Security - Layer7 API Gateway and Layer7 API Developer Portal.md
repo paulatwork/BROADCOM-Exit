@@ -34,7 +34,7 @@ Sources: Broadcom Community forum, '2025 Gartner Magic Quadrant for API Manageme
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 R1 - Compliment all API Gateway with API Security.
 R2 - Migrate to IBM API Connect where needed.
@@ -55,6 +55,8 @@ IBM API Connect, extended with Noname Advanced API Security for IBM for broader 
 
 https://www.ibm.com/new/announcements/noname-advanced-api-security-for-ibm
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -70,3 +72,5 @@ https://www.ibm.com/new/announcements/noname-advanced-api-security-for-ibm
 ## Sources: Analyst reviews and exist strategy
 
 Column D tightened into one coherent, accurate paragraph; previous text was a run-on of marketing fragments plus one factual sentence. Column E verifies and retains the existing narrative, adds a specific sourced finding that Broadcom has withdrawn from Gartner's API Management Magic Quadrant, adds sourced PeerSpot evidence, and corrects a nuance in the existing alternative (Noname is an IBM partnership, not an IBM acquisition; Akamai owns Noname).
+
+## Change history:

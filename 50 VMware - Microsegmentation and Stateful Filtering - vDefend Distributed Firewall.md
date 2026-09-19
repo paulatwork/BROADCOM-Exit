@@ -26,7 +26,7 @@ Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; T
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ OpenShift network policy + Advanced Cluster Security
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/security
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/security
 ## Sources: Analyst reviews and exist strategy
 
 Verified the migration-complexity claim against a genuine, specific source as requested and flagged that the OpenShift-based portion of the recommended alternative only covers containerised workloads, not remaining VM-based estate, which is a material caveat for the column G/H recommendation.
+
+## Change history:

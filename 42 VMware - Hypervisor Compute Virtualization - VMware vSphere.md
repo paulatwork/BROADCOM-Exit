@@ -26,7 +26,7 @@ Sources: Network World, 'Broadcom hampers VMware migration by blocking downloads
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ OpenShift Virtualization
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-
 ## Sources: Analyst reviews and exist strategy
 
 Tightened column D for precision (ESXi/vCenter naming). Replaced generic caution language with the verified VDDK-blocking finding and the Western Union migration example, and added the Gartner alternative-ranking caveat.
+
+## Change history:

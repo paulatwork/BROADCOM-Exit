@@ -26,7 +26,7 @@ Sources: Fairwinds, 'Are You Still Using VMware Tanzu? (And Is Now the Time to M
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ Red Hat OpenShift Container Platform
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/cloud-computing/openshift
 ## Sources: Analyst reviews and exist strategy
 
 Added a genuine independent source (Fairwinds) for the migration-driver claims and broadened the realistic alternative set beyond OpenShift alone, consistent with what that source actually recommends.
+
+## Change history:

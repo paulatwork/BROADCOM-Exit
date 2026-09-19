@@ -27,7 +27,7 @@ Sources: Broadcom, IT Process Automation Manager product page, confirming the pr
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -43,6 +43,8 @@ Red Hat Ansible Automation Platform provides an enterprise open-source IT automa
 
 https://www.redhat.com/en/technologies/management/ansible
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -58,3 +60,5 @@ https://www.redhat.com/en/technologies/management/ansible
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

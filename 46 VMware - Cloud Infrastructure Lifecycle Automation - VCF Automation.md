@@ -26,7 +26,7 @@ Sources: Broadcom Knowledge Base article confirming deprecation of VCF Automatio
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat
 
@@ -42,6 +42,8 @@ Red Hat Ansible Automation Platform + OpenShift
 
 https://www.redhat.com/en/technologies/management/ansible
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/technologies/management/ansible
 ## Sources: Analyst reviews and exist strategy
 
 Verified the specific Automation Pipelines deprecation claim against a real Broadcom knowledge base article rather than leaving it as an unsourced assertion, and added an honest note on the thinner evidence base for product-specific exit volumes.
+
+## Change history:

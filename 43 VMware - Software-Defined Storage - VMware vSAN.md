@@ -26,7 +26,7 @@ Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 Red Hat + IBM
 
@@ -42,6 +42,8 @@ OpenShift Data Foundation + IBM Fusion
 
 https://www.redhat.com/en/resources/add-capabilities-enterprise-deployments-datasheet
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -57,3 +59,5 @@ https://www.redhat.com/en/resources/add-capabilities-enterprise-deployments-data
 ## Sources: Analyst reviews and exist strategy
 
 Added the verified 0.25 TiB/core capacity figure and a caution that OpenShift Data Foundation is container-oriented rather than a direct general-purpose VM storage equivalent, which affects the realism of the column G/H alternative for mixed estates.
+
+## Change history:

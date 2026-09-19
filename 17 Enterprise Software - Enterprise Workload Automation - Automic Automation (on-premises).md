@@ -32,7 +32,7 @@ Sources: Broadcom Community forum, "Change of the Automic license model" discuss
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -48,6 +48,8 @@ IBM Workload Automation (IWA) provides a centralized, cross-enterprise workload 
 
 https://www.ibm.com/products/workload-automation
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -63,3 +65,5 @@ https://www.ibm.com/products/workload-automation
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## Change history:

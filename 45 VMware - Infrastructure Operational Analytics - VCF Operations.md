@@ -26,7 +26,7 @@ Sources: Broadcom TechDocs on VCF/Aria Operations licensing consolidation; gener
 
 Yes
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 IBM
 
@@ -42,6 +42,8 @@ IBM Instana + Turbonomic + Concert
 
 https://www.ibm.com/products/instana
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 IBM Turbonomic & IBM Concert
@@ -57,3 +59,5 @@ https://www.ibm.com/products/instana
 ## Sources: Analyst reviews and exist strategy
 
 Confirmed the Aria-to-VCF Operations rebrand is real and current. Column E now explicitly notes the weaker product-specific evidence base rather than overstating findings, and distinguishes IBM Concert as complementary rather than a direct substitute.
+
+## Change history:

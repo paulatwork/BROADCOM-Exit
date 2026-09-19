@@ -30,7 +30,7 @@ Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (
 
 (not provided)
 
-## IBM Replacement Strategy
+## IBM Replacement Strategy - Why IBM over Broadcom
 
 (not provided)
 
@@ -46,6 +46,8 @@ Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (
 
 (not provided)
 
+## Customer Reference
+(not provided)
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 (not provided)
@@ -61,3 +63,5 @@ Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (
 ## Sources: Analyst reviews and exist strategy
 
 Column D fully rewritten from a two-word marketing fragment into an accurate product description based on Broadcom TechDocs and product pages. Column E adds a directly sourced customer quote on reduced Broadcom/CA investment and the documented 2021 end-of-service notice, giving concrete evidence for the reduced-investment narrative that was previously only asserted generically.
+
+## Change history:
