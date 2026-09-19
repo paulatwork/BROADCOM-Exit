@@ -1,18 +1,18 @@
 # VCF Networking, NSX
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Software-Defined Networking & Security
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VCF Networking, NSX
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VCF Networking, built on NSX, is a software-defined networking and security platform providing Layer 2-3 overlay networking, distributed routing, and the distributed firewall for microsegmentation, delivered as an integrated layer of VMware Cloud Foundation rather than as a standalone licensed product.
 
@@ -22,11 +22,11 @@ NSX is widely regarded, including in independent security commentary, as one of 
 
 Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; The Register, 'VMware to lose 35 percent of workloads in three years' (Gartner Symposium coverage, September 2025); Broadcom TechDocs migration guidance on distributed firewall configuration.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

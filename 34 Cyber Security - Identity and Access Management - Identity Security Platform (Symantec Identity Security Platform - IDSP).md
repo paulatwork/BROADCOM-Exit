@@ -1,18 +1,18 @@
 # Identity Security Platform (Symantec Identity Security Platform, IDSP)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Identity and Access Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Identity Security Platform (Symantec Identity Security Platform, IDSP)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Symantec Identity Security Platform (IDSP) is a cloud-native, container-based identity and access management platform built around AuthHub, Broadcom's policy-driven authentication and authorisation engine. Key capabilities include: FIDO2-based passwordless authentication (biometrics, hardware security keys and passkeys); an OAuth 2.0 authorisation server supporting custom scopes, application roles and consent workflows for both human users and APIs; adaptive, risk-based authentication that evaluates device posture, geolocation, behavioural patterns and threat intelligence in real time; an integrated identity store exposed via SCIM for federation with external identity providers; and a policy orchestration engine allowing authentication journeys and risk rules to be adjusted without code changes. It is positioned by Broadcom as the migration path for customers moving off legacy CA/Symantec identity products, including SiteMinder and VIP, onto a single modern platform.
 
@@ -26,11 +26,11 @@ Organisations modernising identity and access management away from Broadcom's id
 
 Sources: Broadcom TechDocs, 'About Symantec Identity Security Platform (IDSP)' (techdocs.broadcom.com); Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook'; no distinct Gartner or Forrester coverage of IDSP by name was located in this research.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

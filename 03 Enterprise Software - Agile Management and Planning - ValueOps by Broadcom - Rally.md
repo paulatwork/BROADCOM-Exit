@@ -1,18 +1,18 @@
 # ValueOps by Broadcom - Rally
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Agile Management & Planning
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 ValueOps by Broadcom - Rally
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Rally by Broadcom (formerly CA Agile Central / Rally Software) is an enterprise agile planning platform for scaling frameworks such as SAFe across large development organisations. It provides portfolio-to-team backlog alignment, cross-team dependency visualisation, programme increment planning and built-in agile metrics, and feeds delivery data into ValueOps Insights for flow-based reporting.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: Rally continues to appear in Gartner 
 Broadcom exit strategies and market alternatives: Atlassian's own 2024 end-of-support notice for Jira Align confirms that specific legacy features are being retired but states the platform itself remains fully supported and under active investment, so Jira Align is a realistic, currently maintained alternative rather than a product in decline. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all established, actively marketed alternatives in this category and are realistic inclusions.
 Sources: Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.com/reviews/market/enterprise-agile-planning-tools); Broadcom Academy blog, 2022 Gartner MQ Enterprise Agile Planning Tools Leader announcement (academy.broadcom.com/blog/valueops/broadcom-named-a-leader-in-the-2022-gartner-magic-quadrant-for-enterprise-agile-planning-tools-for-the-sixth-consecutive-year) [vendor-published]; ValueOps by Broadcom blog, "Tired of Atlassian Price Hikes? Time to Consider Rally by Broadcom," 2025 (valueops.broadcom.com/blog/tired-of-atlassian-price-hikes-time-to-consider-rally-by-broadcom) [vendor marketing]; Atlassian, Jira Align end-of-support notice for legacy functionality (help.jiraalign.com/hc/en-us/articles/20805045985044); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 
@@ -58,3 +58,8 @@ https://www.ibm.com/products/engineering-workflow-management
 ## Sources: Analyst reviews and exist strategy
 
 Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+
+## General Sources:
+## Bob Changes:
+
+## Claude Changes:

@@ -1,18 +1,18 @@
 # Nolio Release Automation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Application Development - Continuous Testing
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Nolio Release Automation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Nolio Release Automation (acquired by CA Technologies in 2012, now part of Broadcom's Intelligent Automation portfolio) is an application release orchestration platform that automates deployment of applications and configuration across multiple environments, from development through production, from a single console. It provides environment and release-pipeline modelling, agent-based deployment execution, reusable automation content ('action packs') for common platforms and middleware, approval and governance workflows, and rollback capability, aimed at reducing manual, error-prone deployment steps (marketed as 'zero-touch' deployment) across heterogeneous on-premises and hybrid infrastructure. The current generally available release is version 6.9.
 
@@ -26,11 +26,11 @@ Exit strategy findings (2025-2026): organisations are replacing legacy, agent-he
 
 Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (peerspot.com); Broadcom Support Portal, 'End-of-Service Announcement for Nolio Release Automation v6.6' (support.broadcom.com); Broadcom TechDocs, Nolio Release Automation 6.9 documentation (techdocs.broadcom.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

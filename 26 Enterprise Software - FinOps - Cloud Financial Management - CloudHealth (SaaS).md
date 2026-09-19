@@ -1,18 +1,18 @@
 # CloudHealth (SaaS)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 FinOps - Cloud Financial Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 CloudHealth (SaaS)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 CloudHealth (marketed as VMware Tanzu CloudHealth, now under Broadcom) is a software-as-a-service cloud financial management (FinOps) platform. It ingests billing and usage data from multiple cloud providers (AWS, Azure, Google Cloud) to unify cost visibility, allocate spend to business units through customisable tagging and business rules, and identify optimisation opportunities such as rightsizing under-utilised resources, eliminating unused resources, and managing commitment-based discounts (Reserved Instances, Savings Plans, Committed Use Discounts). It also provides budgeting, forecasting, governance, and multi-cloud policy automation.
 
@@ -28,11 +28,11 @@ Exit strategy findings (2025-2026): current FinOps market commentary frames Clou
 
 Sources: VMware Tanzu blog, 'Broadcom (CloudHealth) Named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools' (blogs.vmware.com); VMware Tanzu blog, 'VMware Tanzu CloudHealth Named a Leader in Forrester Wave: Cloud Cost Management and Optimization, Q3 2024' (blogs.vmware.com); Arrow ECS, 'Arrow Electronics Becomes Sole Global Provider of Broadcom's Tanzu CloudHealth Offering' (arrow.com, May 2024); IBM Community, 'IBM Named a Leader in the 2025 Gartner Magic Quadrant' (community.ibm.com); Flexera, 'Flexera Named a Leader in 2024 Gartner Magic Quadrant for Cloud Financial Management Tools' (globenewswire.com); SDxCentral, 'Broadcom CEO not sure it's worth targeting smaller VMware customers'.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes.
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Migrate to Flexera One SaaS
 

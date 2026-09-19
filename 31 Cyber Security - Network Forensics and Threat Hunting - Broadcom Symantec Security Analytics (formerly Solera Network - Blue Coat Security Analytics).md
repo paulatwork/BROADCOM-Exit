@@ -1,18 +1,18 @@
 # Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Network Forensics & Threat Hunting
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 A full-packet capture (FPC) and network forensics solution designed to capture, index, classify and analyse network traffic across on-premises, hybrid and cloud environments. Delivers retrospective root-cause analysis after an incident, threat intelligence enrichment from Broadcom's Global Intelligence Network (GIN) and DeepSight adversary intelligence, and encrypted traffic inspection to decrypt and analyse encrypted gateway traffic.
 
@@ -36,11 +36,11 @@ Sources:
 5. Broadcom TechDocs, Security Analytics 8.3.1 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/security-analytics/8-3-1/security-analytics-8-3-1-release-notes.html
 6. Broadcom, Introduces Symantec CBX (GlobeNewswire, 23 March 2026): https://www.globenewswire.com/news-release/2026/03/23/3260460/19933/en/Broadcom-Introduces-Symantec-CBX-Delivering-Enterprise-Grade-Security-to-Under-Resourced-SOC-Teams.html
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes. Improved.
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Replace with IBM. Will provide both function and cost benefits
 

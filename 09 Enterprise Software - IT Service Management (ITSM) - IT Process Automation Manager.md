@@ -1,18 +1,18 @@
 # IT Process Automation Manager
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 IT Service Management (ITSM)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 IT Process Automation Manager
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 IT Process Automation Manager (ITPAM, also documented by Broadcom as CA Process Automation) is a runbook orchestration engine for automating repetitive, multi-system administrative tasks, incident remediation workflows and provisioning tasks across IT operations.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: no dedicated Gartner Peer Insights, F
 Broadcom exit strategies and market alternatives: Red Hat Ansible Automation Platform is a credible, widely adopted, actively developed alternative for agentless, YAML-based automation and is a realistic replacement. ServiceNow Flow Designer and Integration Hub are realistic alternatives for organisations already standardised on the ServiceNow platform. Both alternatives are proportionate to ITPAM's function and are not overstated.
 Sources: Broadcom, IT Process Automation Manager product page, confirming the product remains actively sold in 2026 (broadcom.com/products/software/automation/it-process-automation-manager) [vendor-published]; Gartner Peer Insights, Service Orchestration and Automation Platforms market, used to confirm no distinct ITPAM listing exists (gartner.com/reviews/market/service-orchestration-and-automation-platforms); Redress Compliance, Broadcom Enterprise Agreements guide, 2025.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

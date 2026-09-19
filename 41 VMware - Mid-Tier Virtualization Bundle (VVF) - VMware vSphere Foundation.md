@@ -1,18 +1,18 @@
 # VMware vSphere Foundation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Mid-Tier Virtualization Bundle (VVF)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware vSphere Foundation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware vSphere Foundation (VVF) is Broadcom's mid-tier subscription bundle for traditional virtualised data centre environments. It combines vSphere Enterprise Plus, a vSAN entitlement capped at 0.25 TiB of storage per licensed CPU core, the vSphere IaaS Control Plane (embedded Kubernetes via the Supervisor service), and VCF Operations (formerly Aria Operations, including Aria Operations for Logs) for infrastructure monitoring. It does not include NSX, VCF Automation, HCX or Tanzu as standard entitlements; these require a separate add-on purchase or a step-up to full VCF.
 
@@ -22,11 +22,11 @@ Broadcom TechDocs confirms VVF licensing includes 0.25 TiB of vSAN capacity per 
 
 Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN'; CIO Dive, 'VMware customers shrink deployments in lieu of full-scale migrations' (CloudBolt survey, February 2026); The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

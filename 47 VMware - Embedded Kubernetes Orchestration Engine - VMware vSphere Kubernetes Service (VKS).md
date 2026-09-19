@@ -1,18 +1,18 @@
 # VMware vSphere Kubernetes Service (VKS)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Embedded Kubernetes Orchestration Engine
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware vSphere Kubernetes Service (VKS)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 vSphere Kubernetes Service (VKS) is a CNCF-certified Kubernetes distribution embedded in the vSphere IaaS Control Plane (Supervisor), allowing Kubernetes clusters to be provisioned natively alongside virtual machines on the same vSphere infrastructure without a separate Kubernetes management layer.
 
@@ -22,11 +22,11 @@ Because VKS is deployed as a Supervisor-level capability of vSphere, it creates 
 
 Sources: Fairwinds, 'Are You Still Using VMware Tanzu? (And Is Now the Time to Migrate?)'; Broadcom TechDocs on vSphere IaaS Control Plane and VKS architecture.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

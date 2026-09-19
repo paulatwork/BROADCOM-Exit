@@ -1,18 +1,18 @@
 # DX Unified Infrastructure Management
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 AIOps and Observability
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 DX Unified Infrastructure Management
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Hybrid infrastructure monitoring platform (formerly Nimsoft) offering automated discovery, alarm management and health tracking across physical and virtual servers, cloud infrastructure, storage and databases. Uses a multi-tenant, template-based probe architecture with contextual log correlation and predictive analytics to identify issues before user impact.
 
@@ -26,11 +26,11 @@ Exit strategy: the alternatives named in this row, IBM Instana, Datadog, Dynatra
 
 Sources: TrustRadius, "Broadcom DX Unified Infrastructure Management Reviews" (trustradius.com); Gartner Peer Insights, DX Unified Infrastructure Management product page (gartner.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

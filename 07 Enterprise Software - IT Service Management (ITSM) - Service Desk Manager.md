@@ -1,18 +1,18 @@
 # Service Desk Manager
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 IT Service Management (ITSM)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Service Desk Manager
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 CA Service Desk Manager (SDM), sold today as part of the Broadcom CA Service Management suite, is an on-premises ITSM platform providing incident, problem, change and knowledge management, xFlow contextual analyst workspaces, and integration with the shared CA MDB configuration management database.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: Gartner Peer Insights rates CA Servic
 Broadcom exit strategies and market alternatives: ServiceNow ITSM and Atlassian Jira Service Management are established market leaders in Gartner's IT Service Management Platforms Peer Insights market. BMC Helix, recently spun off as an independent company according to CIO reporting, is a realistic direct competitor. IBM Maximo IT is a genuine ITSM offering tracked in the same Gartner market, but it is a considerably smaller player primarily known for enterprise asset management; it is a viable but niche alternative rather than a mainstream ITSM leader, and this should be made clear to the client.
 Sources: Gartner Peer Insights, CA Service Management reviews (gartner.com/reviews/market/it-service-management-platforms/vendor/broadcom/product/ca-service-management); TrustRadius, CA Service Management reviews (trustradius.com/products/ca-service-management/reviews); CIO, "How the BMC Helix spin-off has fared, one year later," 2026 (cio.com/article/4102879); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

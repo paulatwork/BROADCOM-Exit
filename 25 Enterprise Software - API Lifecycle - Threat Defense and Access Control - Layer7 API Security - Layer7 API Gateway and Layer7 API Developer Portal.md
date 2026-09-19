@@ -1,18 +1,18 @@
 # Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 API Lifecycle - Threat Defense & Access Control
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Layer7 API Gateway and Layer7 API Developer Portal (originally CA API Gateway/API Management, acquired from Layer 7 Technologies in 2013 and carried through the CA Technologies and Broadcom acquisitions) together form a full-lifecycle API management platform. The Gateway operates as an application-layer/XML firewall and policy enforcement point, providing authentication and authorisation (OAuth, OpenID Connect, SAML), message-level encryption and signing, protocol mediation (REST, SOAP, GraphQL, MQ), rate limiting and throttling, and protection against OWASP API security risks and credential abuse. The Developer Portal provides API cataloguing, documentation, and self-service developer onboarding. The platform supports on-premises, containerised, and cloud-hosted deployment across hybrid and multi-cloud API estates.
 
@@ -30,11 +30,11 @@ Exit strategy findings and alternative cross-check (2025-2026): IBM API Connect 
 
 Sources: Broadcom Community forum, '2025 Gartner Magic Quadrant for API Management' thread (community.broadcom.com); PeerSpot, 'Layer7 API Management: Pros and Cons' (peerspot.com); IBM, 'Why advanced API security is critical to outsmarting new threats' (ibm.com); Akamai, 'Akamai Completes Acquisition of API Security Company Noname' (akamai.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 R1 - Compliment all API Gateway with API Security.
 R2 - Migrate to IBM API Connect where needed.

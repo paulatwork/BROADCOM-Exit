@@ -1,18 +1,18 @@
 # DX Operational Observability
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 AIOps and Observability
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 DX Operational Observability
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Unified AIOps and observability platform (DX Operational Observability, or DX O2) consolidating application performance monitoring, infrastructure monitoring, network analytics and log analytics in a single console. Supports OpenTelemetry-based instrumentation and cross-domain event and log correlation, and integrates with Broadcom's mainframe observability capability (WatchTower) for hybrid mainframe-to-cloud estates.
 
@@ -26,11 +26,11 @@ Exit strategy: organisations are moving toward cloud-native, unified observabili
 
 Sources: Gartner Peer Insights, Observability Platforms market, Broadcom vendor page (gartner.com); Dynatrace and Datadog public announcements of the Forrester Wave: AIOps Platforms, Q2 2025 (dynatrace.com; datadoghq.com); Broadcom TechDocs, DX Operational Observability product documentation (techdocs.broadcom.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

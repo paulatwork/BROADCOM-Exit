@@ -1,18 +1,18 @@
 # Broadcom Identity-Centric Secure Access (formerly Symantec Zero Trust Network Access / Secure Access Cloud)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Zero Trust Network Access
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Broadcom Identity-Centric Secure Access (formerly Symantec Zero Trust Network Access / Secure Access Cloud)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 A cloud-based service providing secure remote access to applications, data and services inside the corporate network. Unlike a traditional virtual private network (VPN), it enforces identity-centric, least-privilege access to individual private applications rather than placing the user on the network, allowing users to connect safely to work applications from any location without traditional VPN tunnelling.
 
@@ -26,11 +26,11 @@ Organisations modernising secure remote access are transitioning to cloud-native
 
 Sources: Gartner Peer Insights, 'Symantec Enterprise Cloud' product page (gartner.com/reviews); comparative review volumes on the same platform.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Not applicable. (Defence using CITRIX-based solution for Remote Desktop Access)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 This assessmenet does not address Cloud Hosted or Cloud Access services.
 

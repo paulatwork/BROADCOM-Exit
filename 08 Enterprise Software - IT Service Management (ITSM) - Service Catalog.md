@@ -1,18 +1,18 @@
 # Service Catalog
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 IT Service Management (ITSM)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Service Catalog
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 CA Service Catalog, sold today as part of the Broadcom CA Service Management suite alongside Service Desk Manager, is a self-service portal for defining and requesting IT and business services, with configurable approval workflows and chargeback or showback cost reporting.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: Service Catalog is licensed and revie
 Broadcom exit strategies and market alternatives: ServiceNow Service Catalog and Employee Center, and Atlassian Jira Service Management, are realistic and widely adopted alternatives for consumer-grade service request experiences. IBM Maximo's IT Service Portal is a genuine capability within IBM Maximo IT, but it is a narrower, less consumer-grade catalog experience than ServiceNow's Employee Center, and this difference in scope should be set as an expectation before selection.
 Sources: Gartner Peer Insights, CA Service Management reviews (gartner.com/reviews/market/it-service-management-platforms/vendor/broadcom/product/ca-service-management); TrustRadius, CA Service Management reviews (trustradius.com/products/ca-service-management/reviews); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

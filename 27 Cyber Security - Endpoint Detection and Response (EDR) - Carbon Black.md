@@ -1,18 +1,18 @@
 # Carbon Black
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Endpoint Detection and Response (EDR)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Carbon Black
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Continuously monitors and records endpoint activity across Broadcom's Carbon Black EDR (on-premises) and Carbon Black Cloud (SaaS) product lines. Uses behavioural analytics, custom detection rules and threat intelligence to identify malicious activity that signature-based antivirus does not catch, and provides security teams with continuous endpoint visibility, attack-chain visualisation and remote response tooling (live response, process termination, file isolation) to investigate and contain threats.
 
@@ -22,11 +22,11 @@ Organisations reassessing endpoint detection and response in this environment ar
 
 Sources: ThreatDown, 'Carbon Black and Broadcom: Acquisition, Symantec, and what's next' (threatdown.com); BankInfoSecurity/GovInfoSecurity, 'Broadcom Axes Carbon Black Sale, to Merge Unit With Symantec' (bankinfosecurity.com); Gartner Peer Insights, Carbon Black EDR and Carbon Black Cloud product pages; Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook' (redresscompliance.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

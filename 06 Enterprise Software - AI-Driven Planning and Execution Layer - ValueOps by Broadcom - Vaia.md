@@ -1,18 +1,18 @@
 # ValueOps by Broadcom - Vaia
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 AI-Driven Planning & Execution Layer
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 ValueOps by Broadcom - Vaia
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Vaia is Broadcom's generative AI assistant embedded across the ValueOps suite, including Clarity, Rally and Insights, launched progressively through 2025. It provides conversational querying and reporting, AI-assisted scenario and capacity planning, predictive risk forecasting for portfolios and delivery timelines, and natural-language interaction with portfolio and agile planning data.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: Vaia was launched during 2025 and, as
 Broadcom exit strategies and market alternatives: none of the four alternatives currently listed in this row is a precise like-for-like replacement for Vaia. IBM watsonx and IBM Concert are broad AI and AIOps platforms rather than embedded portfolio-planning assistants, and Atlassian Intelligence and GitHub Copilot are built for work-item drafting and code generation respectively, not strategic portfolio or agile capacity planning. A more directly comparable alternative would be the equivalent embedded AI features now being added by Planview and ServiceNow to their own SPM and agile planning tools; this gap should be flagged to the client rather than presented as a straightforward substitution.
 Sources: ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "Clarity Vaia: Purpose-Built AI for Strategic Leadership" (valueops.broadcom.com/blog/vaia-the-future-of-valueops-with-ai; valueops.broadcom.com/blog/clarity-vaia-purpose-built-ai-for-strategic-leadership-video) [vendor-published, used only to confirm launch timing and feature scope]; no independent analyst source identified as at September 2026.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

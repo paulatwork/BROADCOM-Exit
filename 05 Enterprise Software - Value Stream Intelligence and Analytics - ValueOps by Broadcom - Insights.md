@@ -1,18 +1,18 @@
 # ValueOps by Broadcom - Insights
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Value Stream Intelligence & Analytics
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 ValueOps by Broadcom - Insights
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 ValueOps Insights is Broadcom's value stream analytics module, aggregating delivery data from Clarity, Rally, ConnectALL and connected third-party ALM/DevOps tools to provide Flow Framework metrics, delivery predictability reporting and bottleneck and dependency analysis across the software delivery lifecycle.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: no dedicated Gartner Peer Insights, F
 Broadcom exit strategies and market alternatives: IBM Apptio Targetprocess is a genuine, Gartner-tracked Strategic Portfolio Management and agile analytics vendor. Planview Viz is a real, actively marketed Planview analytics product, and ServiceNow SPM is independently recognised as a Leader in recent Gartner and Forrester Strategic Portfolio Management assessments. Allstacks is a small, venture-backed engineering analytics vendor; no material independent analyst coverage of Allstacks was identified, so it should be presented to the client as a niche option rather than an enterprise-proven, like-for-like replacement.
 Sources: Gartner Peer Insights, Value Stream Management Platforms market (gartner.com/reviews/market/value-stream-management-platforms); Broadcom, ValueOps Insights product page (broadcom.com/products/software/value-stream-management/valueops-insights) [vendor-published]; Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis; company profile listings for Allstacks on Crunchbase and PitchBook (no analyst report identified).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

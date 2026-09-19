@@ -1,18 +1,18 @@
 # Workload Automation Advanced Integration for Hadoop
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Enterprise Workload Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Workload Automation Advanced Integration for Hadoop
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Enables Hadoop big-data jobs (including Hive, Pig, MapReduce and HDFS operations) to be created, scheduled and managed alongside conventional enterprise workloads from a single Broadcom scheduling console (AutoSys, ESP dSeries, CA 7 or Automic Automation), removing the need for separate Hadoop-specific and enterprise job schedulers.
 
@@ -24,11 +24,11 @@ Alternatives check: IBM Spectrum Conductor, proposed as the replacement in colum
 
 Sources: Broadcom TechDocs, Workload Automation Advanced Integration for Hadoop product documentation (techdocs.broadcom.com); LatentView, "Hadoop to Databricks Migration: Modernizing Legacy Data Lakes" (latentview.com), cited for the general market trend away from on-premises Hadoop. No named analyst-firm report specific to this Broadcom integration product was found.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

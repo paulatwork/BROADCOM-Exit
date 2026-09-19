@@ -1,18 +1,18 @@
 # GHOST Solution Suite
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Endpoint Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 GHOST Solution Suite
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Streamlines operating system deployment, migration and recovery across desktops, laptops, tablets and servers, using centralised disk imaging, provisioning and remote command execution.
 
@@ -26,11 +26,11 @@ Enterprises retiring GHOST Solution Suite are generally adopting Windows Autopil
 
 Sources: Broadcom Knowledge Base, 'Ghost Solution Suite End of Life Schedules' (knowledge.broadcom.com); no independent analyst coverage of this product was found in this research.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

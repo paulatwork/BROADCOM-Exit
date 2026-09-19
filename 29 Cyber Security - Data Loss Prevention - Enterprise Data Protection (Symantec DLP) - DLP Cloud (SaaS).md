@@ -1,18 +1,18 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Data Loss Prevention
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Cloud-delivered extension of Symantec DLP that extends data loss prevention controls to cloud storage, email, web traffic, SaaS applications and emerging generative-AI channels, using the same policy and classification engine as the on-premises product.
 
@@ -26,11 +26,11 @@ This assessment does not address cloud-hosted or cloud-access services in scope 
 
 Sources: no independent analyst report specific to Symantec DLP Cloud was identified; general industry commentary on legacy DLP versus DSPM architecture is reported in trade press (for example SelectHub, 'Symantec DLP vs Purview DLP', and Forcepoint, 'Best DLP Software in 2026'); Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook' for the general Broadcom commercial pattern.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Not Considered here
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 This assessmenet does not address Cloud Hosted or Cloud Access services.
 

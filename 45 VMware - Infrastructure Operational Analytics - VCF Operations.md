@@ -1,18 +1,18 @@
 # VCF Operations
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Infrastructure Operational Analytics
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VCF Operations
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VCF Operations (the product formerly marketed as Aria Operations/vRealize Operations) is Broadcom's infrastructure monitoring and analytics tool, providing capacity planning, performance tracking and predictive analytics for VCF and VVF environments, including Aria Operations for Logs for log analytics.
 
@@ -22,11 +22,11 @@ Standalone licensing for this product was discontinued alongside the wider 2023 
 
 Sources: Broadcom TechDocs on VCF/Aria Operations licensing consolidation; general Broadcom VMware licensing coverage from CIO Dive and Network World through 2025-2026. This row has a thinner independent evidence base than the hypervisor, storage and networking rows.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 IBM
 

@@ -1,18 +1,18 @@
 # VCF Private AI Services
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Private AI & ML Infrastructure Stack
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VCF Private AI Services
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VCF Private AI Services is a VCF 9.x capability, delivered through the vSphere Supervisor, that provisions AI infrastructure components such as GPU pooling, model runtime services and vector databases for private, on-premises AI and machine learning workloads. It is distinct from, but complementary to, the separate VMware Private AI Foundation with NVIDIA reference architecture.
 
@@ -22,11 +22,11 @@ This is a genuinely current Broadcom product, confirmed by Broadcom's technical 
 
 Sources: Broadcom VCF 9.1 product announcements and TechDocs on VCF Private AI Services and Private AI Foundation with NVIDIA (blogs.vmware.com/cloud-foundation, techdocs.broadcom.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat + IBM
 

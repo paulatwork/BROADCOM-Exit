@@ -1,18 +1,18 @@
 # VMware Cloud Foundation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Enterprise Private Cloud SDDC Platform
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware Cloud Foundation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware Cloud Foundation (VCF) is Broadcom's flagship private cloud platform, integrating vSphere compute, vSAN storage, NSX networking and security, VCF Operations and VCF Automation (the products formerly branded Aria Operations and Aria Automation), and HCX migration tooling under a single subscription. Broadcom markets VCF 9.x as the operating layer for virtual machines, containers and on-premises AI workloads, extending it in 2026 with VCF Private AI Services and expanded GPU support for production AI. Since November 2023 it has been sold exclusively as a subscription bundle; standalone perpetual licences for its component products are no longer available.
 
@@ -22,11 +22,11 @@ Independent reporting substantiates significant cost increases following the Nov
 
 Sources: Network World, 'Broadcom refuses to backtrack on huge VMware price increases, claims European cloud watchdog'; CIO Dive coverage of the AT&T-Broadcom pricing dispute; CIO Dive, 'VMware customers shrink deployments in lieu of full-scale migrations' (CloudBolt survey, February 2026); The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025); Network World, 'Broadcom hampers VMware migration by blocking downloads of key SDK'; Slashdot/Ars Technica coverage of Nutanix .NEXT conference claims (April 2026).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 IBM + Red Hat
 

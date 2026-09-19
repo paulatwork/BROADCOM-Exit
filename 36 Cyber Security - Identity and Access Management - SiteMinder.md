@@ -1,18 +1,18 @@
 # SiteMinder
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Identity and Access Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 SiteMinder
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Enterprise Web Access Management (WAM) and identity federation platform delivering centralised authentication, granular policy-based authorisation and single sign-on (SSO) across hybrid environments. Protects web applications via reverse proxies and web agents, while supporting standard federation protocols including SAML 2.0, OAuth 2.0 and OpenID Connect. Widely deployed as a perimeter access-control layer in front of legacy and on-premises web applications that are not natively capable of modern federation.
 
@@ -28,11 +28,11 @@ Broadcom's bundled licensing and core-account commercial strategy apply to SiteM
 
 Sources: Gartner Peer Insights, 'Symantec SiteMinder Reviews & Ratings' (gartner.com/reviews); Okta, 'CA SiteMinder Migration Guide' and 'WAM Modernization and Migration Guide' (okta.com); Strata.io, 'How to move from SiteMinder to Okta' (strata.io).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

@@ -1,18 +1,18 @@
 # Automation Analytics and Intelligence
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Enterprise Workload Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Automation Analytics and Intelligence
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Automation Analytics and Intelligence (AAI) is a cross-scheduler analytics and observability layer for enterprise workload automation. It aggregates job and workflow telemetry from multiple scheduling engines, including Broadcom, IBM and BMC platforms, into a single view, applies predictive analytics to flag likely SLA breaches before they occur, and allows planned workload changes to be simulated before deployment to reduce disruption.
 
@@ -26,11 +26,11 @@ Commercial pressure: AAI is licensed as an add-on analytics layer bundled with B
 
 Sources: Broadcom (automation.broadcom.com), "AAI: Advanced Analytics for Workload Automation" blog post, used to establish AAI's actual functional scope and the vendor-supplied performance figures. No independent analyst report specific to AAI was located.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Migrate.
 

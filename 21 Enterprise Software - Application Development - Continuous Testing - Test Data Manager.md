@@ -1,18 +1,18 @@
 # Test Data Manager
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Application Development - Continuous Testing
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Test Data Manager
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Broadcom Test Data Manager (formerly CA Test Data Manager, part of the DevTest Solutions / Continuous Testing portfolio) creates, masks, and provisions 'fit for purpose' test data across the software development lifecycle. Core capabilities include data modelling and discovery/masking of personally identifiable information (PII), synthetic test data generation, and data subsetting. A self-service portal allows testers to request, reserve, and provision data on demand without manual database scripting. Virtual Test Data Management (vTDM) provides near-instantaneous, storage-efficient virtual copies of data sources that multiple test teams can use independently, and the Javelin automation engine supports complex data migrations across relational, mainframe, and file-based sources.
 
@@ -26,11 +26,11 @@ Exit strategy findings (2025-2026): Engineering teams are consolidating test-dat
 
 Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); Broadcom Academy blog, 'Broadcom Is a 2022 Customers' Choice for Data Masking on Gartner Peer Insights' (academy.broadcom.com); Broadcom TechDocs, Test Data Manager 4.10 (techdocs.broadcom.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

@@ -1,18 +1,18 @@
 # Operational Intelligence
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 AIOps and Observability
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Operational Intelligence
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 AIOps event analytics engine (DX Operational Intelligence) that ingests, normalises and correlates operational alarms, metrics and logs from Broadcom and third-party sources to reduce alert noise and accelerate root-cause determination.
 
@@ -26,11 +26,11 @@ Exit strategy and alternatives check: organisations pursuing vendor-neutral AIOp
 
 Sources: Gartner Peer Insights, DX Operational Intelligence product page (gartner.com); Dell Technologies, "Dell Technologies Announces Intent to Acquire Moogsoft" (investors.delltechnologies.com, 2023). No 2025-2026 Gartner Magic Quadrant, Forrester Wave or IDC MarketScape coverage specific to DX Operational Intelligence was found.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

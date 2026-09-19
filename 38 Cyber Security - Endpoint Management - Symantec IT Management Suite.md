@@ -1,18 +1,18 @@
 # Symantec IT Management Suite
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Endpoint Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Symantec IT Management Suite
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Unifies endpoint and server management to strengthen security, improve operational consistency and support compliance. Automates operating system and application deployment, patch management, configuration management, and hardware/software asset and inventory tracking across large, heterogeneous device estates from a centralised management console (formerly marketed as Altiris).
 
@@ -26,11 +26,11 @@ IT operations teams are decommissioning Altiris/IT Management Suite in favour of
 
 Sources: Gartner Peer Insights, 'Symantec Client Management Suite Reviews & Ratings' (gartner.com/reviews).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

@@ -1,18 +1,18 @@
 # vDefend Advanced Threat Prevention
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Network Threat Detection & Sandboxing
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 vDefend Advanced Threat Prevention
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 vDefend Advanced Threat Prevention is a network detection and response (NDR) capability within the vDefend security portfolio (built on NSX), providing malware sandboxing, network traffic analysis and threat inspection for east-west traffic inside the private cloud.
 
@@ -22,11 +22,11 @@ Independent, product-specific analyst criticism of vDefend Advanced Threat Preve
 
 Sources: SE Labs, 'Advanced Security Test Report: VMware vDefend Advanced Threat Prevention' (2025); Forrester Consulting, 'The Total Economic Impact of Broadcom VMware vDefend' (commissioned by Broadcom, February 2025).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

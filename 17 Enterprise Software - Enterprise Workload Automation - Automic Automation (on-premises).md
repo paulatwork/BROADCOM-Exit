@@ -1,18 +1,18 @@
 # Automic Automation (on-premises)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Enterprise Workload Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Automic Automation (on-premises)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Enterprise workload automation platform (Automic Automation) orchestrating complex, event-driven business processes and job scheduling across SAP/ERP, multi-cloud and mainframe environments, with a centralised automation engine, self-service process design and prebuilt integrations for enterprise application landscapes.
 
@@ -28,11 +28,11 @@ Exit strategy and alternatives check: the alternatives listed in this row (IBM W
 
 Sources: Broadcom Community forum, "Change of the Automic license model" discussion (community.broadcom.com); Redress Compliance, "Broadcom Automic Workload Automation Licensing" (redresscompliance.com); Broadcom Academy, "Broadcom Recognized as a Leader: Engineering the Future of Service Orchestration" (academy.broadcom.com), referencing the 2025 Gartner Magic Quadrant for Service Orchestration and Automation Platforms; BMC, "Replace Broadcom with BMC" competitive migration page (bmc.com), noted as vendor-authored competitive material.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

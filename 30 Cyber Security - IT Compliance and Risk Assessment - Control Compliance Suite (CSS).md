@@ -1,18 +1,18 @@
 # Control Compliance Suite (CSS)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 IT Compliance & Risk Assessment
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Control Compliance Suite (CSS)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Security posture and compliance management solution automating risk assessment, policy enforcement and regulatory compliance reporting across IT infrastructure:
 * Continuously scans the environment to discover managed and unmanaged devices and assess their security configuration.
@@ -43,11 +43,11 @@ Following Broadcom's US $61 billion acquisition of VMware (completed November 20
 
 CCS relies on a multi-tier, on-premises architecture (application servers, manager nodes, SQL databases, and agent/agentless scanners). Users cite heavy maintenance overhead for database upgrades, agent re-registration during data centre migrations, and complex patch cycles. This architectural debt adds further urgency to exit planning for organisations already facing licence cost pressures.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Partial
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 IBM & Red Hat.
 

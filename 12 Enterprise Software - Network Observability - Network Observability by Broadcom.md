@@ -1,18 +1,18 @@
 # Network Observability by Broadcom
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Network Observability
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Network Observability by Broadcom
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Network observability platform (combining DX NetOps and AppNeta) providing unified visibility across data centres, corporate offices, branches and edge locations. Monitors legacy and modern network technologies, underlay and overlay environments, SD-WAN, SDDC and Wi-Fi, and SASE services, and includes AI-assisted fault correlation, flow analysis and active synthetic monitoring of end-user network experience.
 
@@ -26,11 +26,11 @@ Exit-strategy caution: market movement is not one-directional. Broadcom publishe
 
 Sources: PeerSpot, "DX NetOps Reviews, Competitors and Pricing" (peerspot.com); Broadcom Academy case study, "Large Financial Services Company Replaces SevOne with DX NetOps" (academy.broadcom.com); Forrester blog, "Broadcom Buys Symantec's Enterprise Biz: Good News For Investors, Bad News For Enterprises" (go.forrester.com, 2019), cited for the general Broadcom post-acquisition commercial pattern. No 2025-2026 product-specific analyst report was located.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

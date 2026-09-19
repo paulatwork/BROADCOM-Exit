@@ -1,18 +1,18 @@
 # PAM (CA Privileged Access Manager, Symantec PAM)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Identity and Access Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 PAM (CA Privileged Access Manager, Symantec PAM)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Privileged access management and session security platform that controls, monitors and audits privileged credential access to critical infrastructure, including session recording, credential vaulting and access workflow approval for both interactive administrator sessions and automated/service accounts.
 
@@ -28,11 +28,11 @@ Broadcom's core-account commercial strategy and bundled licensing pattern apply 
 
 Sources: Delinea, 'Delinea Named a Leader in 2025 Gartner Magic Quadrant for Privileged Access Management for Seventh Consecutive Time' (delinea.com; globenewswire.com); SolutionsReview, 'What's Changed: 2022 Magic Quadrant for Privileged Access Management' and 'Analysis: the 2021 Gartner Magic Quadrant for Privileged Access Management'; Gartner Peer Insights, Symantec Privileged Access Management product page (4.2/5, 78 reviews).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes. Improved.
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Replace with IBM, improve cability of Broadcom if it is being used.
 

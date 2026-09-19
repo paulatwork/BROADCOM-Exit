@@ -1,18 +1,18 @@
 # Service Virtualization
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Application Development - Continuous Testing
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Service Virtualization
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 CA Service Virtualization (part of the Broadcom DevTest Solutions portfolio, formerly known as LISA) emulates the behaviour of dependent systems and services that are unavailable, costly to access, shared across teams, or still under development. Virtual services can be created either by recording live traffic between existing systems or built directly from engineering specifications (for example WSDL, Swagger/OpenAPI, or message schemas), including scripted or compiled logic and dynamic response handling features such as Magic Strings and Magic Dates. It is available in a standard edition (for development, integration, and UAT use, limited to ten parallel transactions) and a Performance edition scaled for load testing, and can be accessed through a web-based DevTest Portal, the DevTest Workstation, IDE plugins for Eclipse and IntelliJ IDEA, or the command line.
 
@@ -26,11 +26,11 @@ Exit strategy findings (2025-2026): engineering teams are replacing heavyweight,
 
 Sources: PeerSpot, 'Broadcom Service Virtualization reviews' (peerspot.com); Broadcom TechDocs, DevTest Solutions 10.7/10.8 Service Virtualization documentation (techdocs.broadcom.com); WireMock, 'The 10 Best Service Virtualization Tools in 2026' (wiremock.io); Parasoft, 'Parasoft vs. Broadcom - Service Virtualization Solutions' (parasoft.com).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

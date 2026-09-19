@@ -1,18 +1,18 @@
 # vDefend Distributed Firewall
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Microsegmentation & Stateful Filtering
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 vDefend Distributed Firewall
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 vDefend Distributed Firewall (the current name for the NSX distributed firewall) is a hypervisor-level firewall enforced at each virtual machine's virtual network interface, providing stateful, east-west microsegmentation without routing traffic through a physical or centralised firewall appliance.
 
@@ -22,11 +22,11 @@ This is consistently identified in independent migration guidance as one of the 
 
 Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; The Register, 'VMware to lose 35 percent of workloads in three years' (Gartner Symposium coverage, September 2025).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

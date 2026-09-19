@@ -1,18 +1,18 @@
 # ValueOps by Broadcom - ConnectALL
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Integration & Workflow Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 ValueOps by Broadcom - ConnectALL
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 ConnectALL is Broadcom's value stream integration platform, acquired by Broadcom in 2023 and folded into the ValueOps portfolio. It automates bi-directional synchronisation of work items, including requirements, stories, defects and test cases, across ALM, Agile, DevOps and ITSM tools from multiple vendors, providing cross-tool traceability without requiring teams to replace their existing systems of record.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: no user reviews exist for ConnectALL 
 Broadcom exit strategies and market alternatives: Planview Hub (formerly Tasktop) is directly and repeatedly compared against ConnectALL on independent comparison sites, making it a realistic, well-evidenced alternative. IBM Concert is positioned by IBM primarily as an AI-driven application resilience and dependency-mapping tool rather than a bi-directional ALM/DevOps synchronisation engine, so it should not be treated as a precise like-for-like ConnectALL replacement without further validation. IBM App Connect Enterprise, listed as the recommended alternative in this row, is a general-purpose enterprise integration platform; it is a plausible technical substitute for the underlying integration function but lacks ConnectALL's purpose-built library of ALM/DevOps/ITSM connectors, and would require additional configuration effort to replicate existing traceability workflows.
 Sources: Gartner Peer Insights, ConnectALL Value Stream Management Platform (no reviews recorded) (gartner.com/reviews/product/connectall-value-stream-management-platform); PeerSpot, ConnectALL vs Planview Hub comparison (peerspot.com/products/comparisons/connectall_vs_planview-tasktop-hub); Broadcom Academy, ConnectALL acquisition announcement (academy.broadcom.com/connectall) [vendor-published]; Redress Compliance, Broadcom Enterprise Agreements guide, 2025.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

@@ -1,18 +1,18 @@
 # Client Automation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 IT Service Management (ITSM)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Client Automation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Client Automation (formerly CA IT Client Manager / CA ITCM) is Broadcom's endpoint lifecycle management product, providing hardware and software asset discovery, operating system imaging, software packaging and delivery, patch management, and remote control for physical and virtual endpoints.
 
@@ -23,11 +23,11 @@ Analyst cautions and commercial pressures: Gartner Peer Insights rates Broadcom 
 Broadcom exit strategies and market alternatives: Microsoft Intune and Tanium are realistic, widely adopted UEM and endpoint security alternatives, and IBM MaaS360 is a genuine cloud UEM competitor. Red Hat Satellite addresses enterprise Linux patch and configuration management specifically and is not a full UEM replacement; it should be positioned as a partial, Linux-specific option rather than a like-for-like substitute for Client Automation's full endpoint scope.
 Sources: Gartner Peer Insights, Broadcom CA Client Automation and Endpoint Management Tools market reviews (gartner.com/reviews/market/endpoint-management-tools/vendor/broadcom/product/ca-technologies-client); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

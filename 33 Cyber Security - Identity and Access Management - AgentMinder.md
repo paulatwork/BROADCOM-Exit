@@ -1,18 +1,18 @@
 # AgentMinder
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Identity and Access Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 AgentMinder
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 AgentMinder is Broadcom's newly announced enterprise platform (unveiled at VMware Explore 2026, August 2026) for governing and securing autonomous AI agents. Broadcom positions it as an 'agentic fabric' that gives organisations runtime visibility, policy control and governance over AI agents operating as autonomous 'digital employees' across the enterprise, covering agent identity, permissions, monitoring and control during execution.
 
@@ -20,11 +20,11 @@ AgentMinder is Broadcom's newly announced enterprise platform (unveiled at VMwar
 
 AgentMinder was only announced and made available around August to September 2026 (unveiled at VMware Explore 2026, 31 August 2026). AgentMinder is a Broadcom control plane for AI agent governance, and adopting it would create a first-generation dependency on Broadcom's infrastructure for an emerging and still-maturing category, with associated integration and vendor lock-in risk for organisations running heterogeneous, multi-cloud, multi-agent AI environments.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

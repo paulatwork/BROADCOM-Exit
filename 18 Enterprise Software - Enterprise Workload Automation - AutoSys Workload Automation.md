@@ -1,18 +1,18 @@
 # AutoSys Workload Automation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Enterprise Workload Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 AutoSys Workload Automation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Batch job scheduling engine (AutoSys Workload Automation) managing complex workflow dependencies, event-based triggering, cross-platform job streams and calendar scheduling, using its proprietary Job Information Language (JIL) for job definition.
 
@@ -26,11 +26,11 @@ Exit strategy and alternatives check: the alternatives listed in this row (IBM W
 
 Sources: Beta Systems, "AutoSys Alternatives: 6 Best Replacements & Tools for 2026" (betasystems.com), noted as vendor-authored competitive content; Broadcom Academy, "Broadcom Recognized as a Leader: Engineering the Future of Service Orchestration" (academy.broadcom.com), referencing the 2025 Gartner Magic Quadrant for Service Orchestration and Automation Platforms.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

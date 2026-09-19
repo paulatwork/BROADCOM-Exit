@@ -1,18 +1,18 @@
 # VCF Automation
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Cloud Infrastructure Lifecycle Automation
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VCF Automation
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VCF Automation (the product formerly marketed as Aria Automation/vRealize Automation) is Broadcom's cloud infrastructure automation and self-service provisioning platform, offering blueprints, governance and orchestration (via vRealize Orchestrator) for VCF environments.
 
@@ -22,11 +22,11 @@ Broadcom confirmed in a published knowledge base notice the deprecation of VCF A
 
 Sources: Broadcom Knowledge Base article confirming deprecation of VCF Automation Pipelines (knowledge.broadcom.com, article 378424); Broadcom TechDocs on the Aria-to-VCF Automation rebrand and upgrade path.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

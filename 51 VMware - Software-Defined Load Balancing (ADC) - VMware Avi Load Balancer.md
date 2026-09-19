@@ -1,18 +1,18 @@
 # VMware Avi Load Balancer
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Software-Defined Load Balancing (ADC)
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware Avi Load Balancer
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware Avi Load Balancer, also branded NSX Advanced Load Balancer, is a software-defined Layer 4-7 application delivery controller providing load balancing, web application firewalling, global server load balancing and application analytics, deployable within VCF or as a standalone ADC.
 
@@ -22,11 +22,11 @@ The evidence base for organisations actively exiting Avi Load Balancer specifica
 
 Sources: Broadcom Knowledge Base, 'VMware Avi Load Balancer Basic Edition: End of Availability & End of General Support Notice'; Broadcom TechDocs, 'F5 to Avi Load Balancer Migration Workflow', which documents inbound rather than outbound migration activity.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 IBM
 

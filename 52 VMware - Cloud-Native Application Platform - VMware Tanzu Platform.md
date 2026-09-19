@@ -1,18 +1,18 @@
 # VMware Tanzu Platform
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Cloud-Native Application Platform
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware Tanzu Platform
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware Tanzu Platform (version 10) is a Cloud Foundry-based application platform-as-a-service, optimised for but not exclusive to VCF-based private clouds, that abstracts infrastructure so developers can deploy applications, including generative AI applications, without directly managing underlying containers or virtual machines.
 
@@ -22,11 +22,11 @@ Tanzu Platform 10 is architecturally a platform-as-a-service built on Cloud Foun
 
 Sources: Fairwinds, 'Are You Still Using VMware Tanzu? (And Is Now the Time to Migrate?)'; TechTarget, 'New VMware private AI infrastructure rethinks Tanzu, again'; Broadcom/VMware Tanzu Platform 10 general availability announcement (blogs.vmware.com/tanzu).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

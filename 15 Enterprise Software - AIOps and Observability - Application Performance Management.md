@@ -1,18 +1,18 @@
 # Application Performance Management
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 AIOps and Observability
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Application Performance Management
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Application performance management solution (formerly Wily Introscope, now DX APM) providing bytecode instrumentation, code-level thread profiling and cross-tier transaction flow mapping for Java, .NET and other enterprise application stacks. Scales to large application portfolios but relies on manual agent deployment and configuration rather than automated, agentless discovery.
 
@@ -26,11 +26,11 @@ Exit strategy: the alternatives already listed in this row (IBM Instana, Dynatra
 
 Sources: PeerSpot, "Broadcom DX Application Performance Management Reviews" (peerspot.com); Broadcom Support Portal, DX APM end-of-life announcement (support.broadcom.com); Broadcom/GlobeNewswire, "Broadcom Named a Leader in the Gartner Magic Quadrant for Application Performance Monitoring Suites for Second Consecutive Year" (globenewswire.com, 2019), cited to establish the last confirmed Leader placement.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

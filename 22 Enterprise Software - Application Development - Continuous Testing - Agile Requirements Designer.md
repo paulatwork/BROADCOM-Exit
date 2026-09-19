@@ -1,18 +1,18 @@
 # Agile Requirements Designer
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Enterprise Software
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Application Development - Continuous Testing
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Agile Requirements Designer
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 CA Agile Requirements Designer (ARD) is a model-based test design tool. Users build flow models representing application logic and business rules; each path through a flow model becomes a test case and each block a test step, from which ARD automatically derives test cases, associated test data requirements, and automation scripts. A web-based Requirements Insight interface lets business analysts and project owners assess the impact of requirement changes, and models are held in a shared repository for collaborative editing. From version 3.6, ARD includes an artificial intelligence/natural-language-processing plugin framework (demonstrated using Google Gemini via Vertex AI) that can generate an initial model from plain-language requirements or existing documents such as Confluence, Jira, or PDF specifications, identify test-coverage gaps, and update models from natural-language prompts.
 
@@ -26,11 +26,11 @@ Exit strategy findings (2025-2026): organisations are consolidating requirements
 
 Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentation, including the AI Integration page (techdocs.broadcom.com); Capterra and SoftwareAdvice product listings. No Gartner/Forrester/IDC analyst report covering this product was found.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

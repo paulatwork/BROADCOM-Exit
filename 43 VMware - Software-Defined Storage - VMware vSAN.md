@@ -1,18 +1,18 @@
 # VMware vSAN
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Software-Defined Storage
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware vSAN
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware vSAN is a hyperconverged, software-defined storage layer that pools local server disks across an ESXi cluster into shared, resilient datastores, eliminating the need for a separate SAN/NAS array. It now ships only as a capacity entitlement bundled within VCF or VVF licensing rather than as a standalone product.
 
@@ -22,11 +22,11 @@ Standalone vSAN licensing was discontinued in 2023; capacity is now bundled per 
 
 Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN'; general VMware/Broadcom licensing analyses published by Network World and CIO Dive through 2025-2026 covering per-core vSAN capacity bundling.
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat + IBM
 

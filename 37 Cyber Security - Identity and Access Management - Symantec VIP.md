@@ -1,18 +1,18 @@
 # Symantec VIP
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Identity and Access Management
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Symantec VIP
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Cloud-based multi-factor authentication (MFA) and risk-based access security service that protects enterprise applications and data against unauthorised access. Provides adaptive risk evaluation, device fingerprinting, self-service provisioning, and a range of authenticators including push notifications, software/hardware OTP tokens, and FIDO2 passwordless verification.
 
@@ -28,11 +28,11 @@ Enterprises are consolidating standalone MFA into unified cloud identity platfor
 
 Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/reviews); Broadcom Symantec VIP product documentation (for FIDO2 capability).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 (not provided)
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 (not provided)
 

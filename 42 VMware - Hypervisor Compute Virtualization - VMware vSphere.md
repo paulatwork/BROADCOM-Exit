@@ -1,18 +1,18 @@
 # VMware vSphere
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 VMware
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Hypervisor Compute Virtualization
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 VMware vSphere
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 VMware vSphere is the core hypervisor (ESXi) and management layer (vCenter) used to provision, run and manage virtual machines across physical hosts, and underpins every VCF and VVF deployment as the base compute layer beneath vSAN, NSX and the management components.
 
@@ -22,11 +22,11 @@ Standalone perpetual vSphere/ESXi licences were discontinued in 2023 in favour o
 
 Sources: Network World, 'Broadcom hampers VMware migration by blocking downloads of key SDK'; The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025); Slashdot/Ars Technica coverage of Nutanix .NEXT conference claims (April 2026).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Yes
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 Red Hat
 

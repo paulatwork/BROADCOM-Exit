@@ -1,18 +1,18 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
-## Broadcom Software Category
+## Broadcom Software Type
 
 Cyber Security
 
-## Description Broadcom Primary Function & Focus
+## Broadcom Product Category
 
 Data Loss Prevention
 
-## Broadcom Broadcom Product Name
+## Broadcom Product Name
 
 Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
-## Broadcom Prdouct Summary Description (This is important to get right)
+## Broadcom Product Description (Key Features) (This is important to get right)
 
 Symantec DLP (on-premises) is designed to prevent data exfiltration at the user and channel level, including laptops, email gateways, browsers and USB drives. It scans endpoints and mobile devices, network file shares, databases, and sanctioned and unsanctioned cloud applications such as Microsoft 365, Google Workspace, Box and Salesforce. Its particular strengths, as noted by users and analysts, are deep endpoint agent enforcement (blocking USB writes, local printing, clipboard operations and offline protection), inline email/SMTP inspection, and network web proxy/ICAP blocking.
 
@@ -26,11 +26,11 @@ Microsoft has published a formal Symantec DLP-to-Purview migration path, which i
 
 Sources: Microsoft Tech Community, 'Easily migrate your Symantec DLP policies to Microsoft Purview Data Loss Prevention'; Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook'; Broadcom Community blog referencing historical Gartner DLP Magic Quadrant leadership; Gartner 2025 Market Guide for Data Loss Prevention (existence confirmed via Palo Alto Networks summary page).
 
-## Yes/No - Option for IBM 1:1 Replacement ?? Move from Broadcom from IBM/Red Hat (Same capability level)
+## IBM Replacement Strength
 
 Partial
 
-## Replacement Strategy Summary
+## IBM Replacement Strategy
 
 1. Replace Broadcom with Microsoft Purview DLP for workstations. 2. Replace with CrowdStrike Falcon Data Protection everywhere else. 3. Deploy IBM Guardium Data Protection for the Enterprise estate.
 
