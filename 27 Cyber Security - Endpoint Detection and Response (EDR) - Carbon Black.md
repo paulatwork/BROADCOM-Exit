@@ -61,6 +61,7 @@ IBM Security QRadar EDR (formerly ReaQta) is IBM's endpoint detection and respon
 https://www.ibm.com/products/qradar-edr
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

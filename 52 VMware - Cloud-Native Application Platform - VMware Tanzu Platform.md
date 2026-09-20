@@ -47,6 +47,7 @@ OpenShift Container Platform + Red Hat Application Foundations
 https://www.redhat.com/en/technologies/cloud-computing/openshift
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

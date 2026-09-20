@@ -1,4 +1,4 @@
-# ValueOps by Broadcom - ConnectALL
+# ValueOps by Broadcom - ConnectALL (SaaS or On-prem)
 
 ## Status 
 
@@ -14,11 +14,11 @@ Integration & Workflow Automation
 
 ## Broadcom Product Name
 
-ValueOps by Broadcom - ConnectALL
+ValueOps by Broadcom - ConnectALL (SaaS or On-prem)
 
 ## Broadcom Product Description - Key Features
 
-ConnectALL is the value stream integration platform in ValueOps by Broadcom (added to the ValueOps portfolio in a Broadcom announcement dated 6 June 2023; described by SD Times as an acquisition). It synchronises work items bi-directionally across Agile, DevOps, ALM and ITSM tools without custom coding, so teams keep their existing systems of record. ConnectALL 4.0 (2026) adds enhanced self-service, scalability and intelligent automation support.
+ConnectALL is the value stream integration platform in ValueOps by Broadcom (added to the ValueOps portfolio in a Broadcom acquisition June 2023). It synchronises work items bi-directionally across Agile, DevOps, ALM and ITSM tools without custom coding, so teams keep their existing systems of record. ConnectALL 4.0 (2026) adds enhanced self-service, scalability and intelligent automation support.
 
 Key features:
 
@@ -33,9 +33,7 @@ ConnectALL is a small product with a thin public record. It has no user reviews 
 
 The commercial pressures that apply to the rest of the ValueOps bundle apply here too: Portfolio Licensing Agreement bundling, minimum commitments and steep renewals. Because ConnectALL is usually bought as part of that bundle, customers tend to feel those pressures through the bundle rather than through anything specific to the integration engine.
 
-No named organisation has publicly described leaving ConnectALL. What the record does show is that Planview Hub, formerly Tasktop, is compared against ConnectALL again and again on independent comparison sites. That makes it the best-evidenced destination.
-
-The IBM options need honest framing. IBM Concert is positioned by IBM as an application resilience and dependency-mapping tool, not a bi-directional synchronisation engine for ALM and DevOps tools, so it is not a like-for-like replacement. IBM App Connect Enterprise can do the underlying integration work, but it lacks ConnectALL's ready-made connectors for ALM, DevOps and ITSM tools. Teams that adopt it should expect extra effort to rebuild traceability workflows.
+No named organisation has publicly described leaving ConnectALL. Refer to independent comparison sites, which compare Planview Hub (formerly Tasktop) against ConnectALL again and again. That makes it the most likely destination.
 
 ## IBM Replacement Strength
 
@@ -43,11 +41,13 @@ Partial match.
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
+IBM Concert is positioned by IBM as an application resilience and dependency-mapping tool, not a bi-directional synchronisation engine for ALM and DevOps tools, so it is not a like-for-like replacement. IBM App Connect Enterprise can do the underlying integration work, but it lacks ConnectALL's ready-made connectors for ALM, DevOps and ITSM tools. Teams that adopt it should expect extra effort to rebuild traceability workflows.
+
 IBM App Connect Enterprise covers the underlying integration engine, data transformation, and connector breadth, but does not deliver ConnectALL's purpose-built, zero-code value stream synchronisation model out of the box. Additional flow design effort is required to replicate bi-directional ALM/DevOps/ITSM work-item sync. The match strengthens significantly where App Connect's native Jira, ServiceNow, Jenkins, and GitLab connectors already exist and are documented.
 
-IBM App Connect Enterprise replaces ConnectALL on **capability breadth and commercial predictability**. Broadcom's Portfolio Licensing Agreement forces ConnectALL into a bundle with minimum spend commitments that make it disproportionately expensive for organisations that need only integration plumbing. App Connect Enterprise is available standalone on IBM Cloud (SaaS) or on-premises as part of IBM Cloud Pak for Integration, with transparent connector-pack pricing.
+IBM App Connect Enterprise replaces ConnectALL on **capability breadth and commercial predictability**. Broadcom's Portfolio Licensing Agreement forces ConnectALL into a bundle with minimum spend commitments that make it disproportionately expensive for organisations that need only integration plumbing. App Connect Enterprise is available SaaS or on-premises as part of IBM Cloud Pak for Integration.
 
-The capability story is a trade-off: App Connect Enterprise exceeds ConnectALL on raw connector volume (200+ prebuilt connectors, 2,800+ connector actions), AI-assisted data mapping, hybrid-cloud deployment, and enterprise-grade scalability. It falls short on the zero-configuration, value-stream-specific synchronisation model ConnectALL provides — teams will need to design bi-directional flows explicitly. For organisations already adopting IBM Engineering Workflow Management for ALM or IBM's DevOps toolchain, App Connect Enterprise can close that gap natively, making the migration a one-vendor simplification rather than a like-for-like swap.
+The capability story is a trade-off: App Connect Enterprise exceeds ConnectALL on raw connector volume (200+ prebuilt connectors, 2,800+ connector actions), AI-assisted data mapping, hybrid-cloud deployment, and enterprise-grade scalability. It falls short on the zero-configuration, value-stream-specific synchronisation model ConnectALL provides — teams will need to design bi-directional flows explicitly. For organisations already adopting IBM Engineering Workflow Management for ALM or IBM's DevOps toolchain, App Connect Enterprise can address the gap, making the migration a one-vendor simplification rather than a like-for-like swap.
 
 **Outcome: Lower total cost of ownership, broader connector coverage, and alignment with IBM's wider integration estate. Trade-off is additional configuration effort at migration time to rebuild purpose-built VSM synchronisation flows.**
 
@@ -74,6 +74,7 @@ Feature-by-feature comparison against ConnectALL key features:
 https://www.ibm.com/products/app-connect
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

@@ -54,6 +54,7 @@ Red Hat Ansible Automation Platform + OpenShift
 https://www.redhat.com/en/technologies/management/ansible
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

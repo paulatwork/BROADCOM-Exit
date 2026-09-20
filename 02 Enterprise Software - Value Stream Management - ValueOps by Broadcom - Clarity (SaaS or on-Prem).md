@@ -34,8 +34,6 @@ Valuable features of the Broadcom product are typically:
 5. **Vaia AI and MCP integration.** Vaia (originally 'Clarity Concierge', renamed in 16.3.0) is a new service that brings AI into SPM. It provides generative, agentic and predictive AI in beta. Release 16.4.2 added Anthropic model configuration, a prompt library, chat history, file attachments as AI data sources and an MCP server (initially for timesheet actions) that lets external AI applications work with Clarity data securely.
 6. **Real-time analytics and ValueOps integration.** A configurable reporting engine (subreports in beta, expandable tree tables and embedded reports in 16.4.2) provides real-time visibility. Native integration with Rally (for example, 'Send to Rally' pushes 'In Plan' roadmap items as Portfolio Items), ConnectALL and Insights links strategic plans to delivery execution.
 
-Note: Vaia capabilities are marked beta in the release documentation. Clarity 16.4.3 documentation is now published (the version list runs from 16.1.0 to 16.4.3, with no 16.5 or 17.0), and its documentation includes Vaia and a Clarity MCP Server section; the feature list above was reviewed up to release 16.4.2 and the 16.4.3 features have not been reviewed. 
-
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
 Clarity has always been a well-liked product in the hands of the people who use it. Reviewers on Gartner Peer Insights speak warmly of what it does, and the complaints that surface are almost never about function. They are about money. One consultant on PeerSpot described the subscription quote after the move away from perpetual licensing as something that 'put us in shock because it was double what we paid in the past as yearly maintenance'. That single sentence captures the pattern that matters most for a client reading this row: the product is not failing, the commercial terms around it have changed.
@@ -50,7 +48,7 @@ Strong Replacement, with improve outcomes.
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-IBM offers improved outcomes. Clarity manages the portfolio and holds its budgets. IBM Targetprocess manages the same portfolio, stays open to whatever delivery tools your teams run, and — uniquely — connects that work to a true enterprise cost model through IBM Apptio, so leaders see not just what is funded but the real, defensible cost and business value of it.
+IBM offers improved outcomes. Clarity manages the portfolio and holds its budgets. IBM Targetprocess manages the same portfolio, stays open to whatever delivery tools your teams run, and, uniquely, connects that work to a true enterprise cost model through IBM Apptio, so executives see not just what is funded but the real, defensible cost and business value of it.
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -58,21 +56,21 @@ IBM Apptio - Targetprocess (SaaS)
 
 ## IBM PRIMARY - Product Description 
 
-Reviews praise IBM Apptio, Targetprocess portfolio and agile planning strength, although some note that enhancements need developer effort.
+Reviews praise IBM Apptio, Targetprocess portfolio and agile planning strength.
 
-IBM/Apptio offer a lot more than just an SPM tool. It unifies ITFM, FinOps and SPM under one value-management umbrella.
-1. Apptio Targetprocess is SPM offering, for planning, tracking and prioritizing work from strategic portfolio down to the dev team.
+IBM/Apptio is a lot more than just an SPM tool. It unifies ITFM, FinOps and SPM under one value-management umbrella.
+1. Apptio Targetprocess is SPM offering, for planning, tracking and prioritising work from strategic portfolio down to the dev team.
 2. Apptio core offers TBM / ITFM.
 3. Apptio Cloudability, provides FinOps and cloud cost management. 
 
 Featured highlights include:
 
-- Investment & portfolio management — One governed view across waterfall, agile and hybrid, on a framework-agnostic data model that fits your process. Exceeds: real Hybrid PMO support — mature into Agile at the pace of the business, no forced "go full Agile".
-- Resource & capacity planning — Demand-vs-capacity dashboards, role-based planning, time-off and overload detection for realistic forecasts. Exceeds: capacity tied to bill/team/blended rates with automatic cost forecasting — planning by cost, not just headcount.
-- Financial planning & budget governance — Portfolio budgeting for continuous product funding; tracks value, TCO and satisfaction. Exceeds — the standout: native ApptioOne Labor Financial Management gives a true, governed cost model, feeding financials to planners without exposing salary data. Clarity holds budgets in-platform; IBM connects to an enterprise ITFM system of record.
-- Strategic roadmaps & what-if — Multi-level roadmaps (portfolio→product→solution), PI planning, dependency and heat maps, custom milestones. Exceeds: re-alignment is real-time across every level as priorities shift.
-- AI (vs. Clarity's Vaia) — Targetprocess uses generative AI to make the SPM role faster — a portfolio manager asks "which initiatives are at risk?" or "summarize all strategic objectives" and gets a cited, permission-scoped answer instead of building views and filters. Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance.  AI spans the whole Apptio portfolio, grounded in governed cost models — it is not a bolt-on. Via BI predictive AI is designed to help teams "analyze progress, plan delivery, and predict future performance".
-- Analytics & delivery integration (vs. Rally/ConnectALL) — Configurable reporting, role-based dashboards, full flow metrics; native bi-directional Jira and Azure DevOps, plus APIs/webhooks. Exceeds: delivery-tool independent — teams keep their own tools while staying tied to strategy, where Clarity leans on Broadcom's own Rally. First Apptio product on Azure Marketplace.
+1. Investment & portfolio management — One governed view across waterfall, agile and hybrid, on a framework-agnostic data model that fits your process. Exceeds: real Hybrid PMO support — mature into Agile at the pace of the business, no forced "go full Agile".
+2. Resource & capacity planning — Demand-vs-capacity dashboards, role-based planning, time-off and overload detection for realistic forecasts. Exceeds: capacity tied to bill/team/blended rates with automatic cost forecasting — planning by cost, not just headcount.
+3. Financial planning & budget governance — Portfolio budgeting for continuous product funding; tracks value, TCO and satisfaction. Exceeds — the standout: native ApptioOne Labor Financial Management gives a true, governed cost model, feeding financials to planners without exposing salary data. Clarity holds budgets in-platform; IBM connects to an enterprise ITFM system of record.
+4. Strategic roadmaps & what-if — Multi-level roadmaps (portfolio→product→solution), PI planning, dependency and heat maps, custom milestones. Exceeds: re-alignment is real-time across every level as priorities shift.
+5. AI (vs. Clarity's Vaia) — Targetprocess uses generative AI to make the SPM role faster — a portfolio manager asks "which initiatives are at risk?" or "summarise all strategic objectives" and gets a cited, permission-scoped answer instead of building views and filters. Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance.  AI spans the whole Apptio portfolio, grounded in governed cost models — it is not a bolt-on. Via BI predictive AI is designed to help teams "analyze progress, plan delivery, and predict future performance".
+6. Analytics & delivery integration (vs. Rally/ConnectALL) — Configurable reporting, role-based dashboards, full flow metrics; native bi-directional Jira and Azure DevOps, plus APIs/webhooks. Exceeds options available in the Broadcom service, with delivery-tool independent, so that teams keep their own tools while staying tied to strategy, where Clarity leans on Broadcom's own Rally.
 
 ## IBM PRIMARY - IBM Product Page URL
 

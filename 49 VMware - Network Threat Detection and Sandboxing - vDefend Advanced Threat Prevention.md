@@ -54,6 +54,7 @@ Red Hat Advanced Cluster Security for Kubernetes
 https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-cluster-security
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

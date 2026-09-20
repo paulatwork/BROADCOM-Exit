@@ -1,8 +1,8 @@
-# ValueOps by Broadcom - Rally
+# ValueOps by Broadcom - Rally (SaaS or On-prem)
 
 ## Status 
 
-Draft
+Complete
 
 ## Broadcom Software Type
 
@@ -14,11 +14,11 @@ Agile Management & Planning
 
 ## Broadcom Product Name
 
-ValueOps by Broadcom - Rally
+ValueOps by Broadcom - Rally (SaaS or On-prem)
 
 ## Broadcom Product Description - Key Features
 
-Rally by Broadcom (formerly CA Agile Central and Rally Software) is a SaaS enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
+Rally by Broadcom (formerly CA Agile Central and Rally Software) is an enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
 
 Key features:
 
@@ -29,11 +29,11 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Rally still holds a place in Gartner Peer Insights for enterprise agile planning tools, but its analyst story has gone quiet. The last Magic Quadrant Leader placement in this category that can be traced dates from 2022 and comes from Broadcom's own announcement. Since then Broadcom has talked about recognition in the wider strategic portfolio management category instead, and there is no independent 2025 or 2026 confirmation that Rally remains a Leader in agile planning.
+Rally is generally considered to be consolidation into wider strategic portfolio management. Broadcom/CA last Magic Quadrant Leader placement in this category is dated in 2022, and comes from Broadcom's own announcement. Since then , and there no independent confirmation that Rally remains a Leader in agile planning. Instead it is being consumed in Broadcom consolidation into wider strategic portfolio management category instead.
 
-The commercial picture is oddly two-sided. In 2025 Broadcom published a post urging organisations unhappy with Atlassian price rises to consider Rally, and it claims a lower total cost of ownership than Jira. That is marketing and should be read as such. Set beside it is the pattern reported for Broadcom's former CA products generally: renewal increases, minimum commitments and bundling into wider agreements, with sales attention reserved for the largest accounts.
+Broadcom's former CA products are generally known for renewal increases, minimum commitments and bundling into wider agreements, with sales attention reserved for the largest accounts. 
 
-Searches on 2026-09-20 did not find a named organisation that has publicly described leaving Rally, so any exit case has to be built from the pricing pattern and the quality of the alternatives. Those alternatives are sound. Atlassian's 2024 notice retiring legacy Jira Align features says plainly that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
+Alternative options exist, but none are widely discussed in the market. Atlassian's 2024 notice retiring legacy Jira Align features says plainly that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
 
 ## IBM Replacement Strength
 
@@ -41,7 +41,13 @@ Searches on 2026-09-20 did not find a named organisation that has publicly descr
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Apptio Targetprocess matches Rally on the planning layer and then goes somewhere Rally structurally can't, connecting delivery to finance.
+
+IBM Apptio Targetprocess purpose-built for agile-at-scale, not a PPM tool with agile bolted on. While Rally supports project portfolio management or team-level agile, it struggles to support operations at scale. Targetprocess was built for the single purpose of accelerating agile transformation on a hyper-flexible platform and doing it for some of the world's largest organisations. 
+
+Rally lacks financial depth. But with IBM Apptio (ApptioOne) integration, Targetprocess connects finance from strategy to execution.
+
+This provides several signifiant benefits, such as: End-to-end transparency across all delivery costs and resource modalities, View of dynamic funding of product-centric value streams instead of project-based workstreams; View of capitalisation of labor costs for compliant accounting and defensible labor allocation. All of this provides actuals vs. budget, variance drivers, and run-vs-grow reporting.
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -51,17 +57,7 @@ IBM Apptio Targetprocess
 
 For a direct Rally replacement, migrate to IBM Apptio Targetprocess. It maps to every Rally capability at the portfolio-to-team planning layer and adds financial management depth Rally lacks.
 
-Notable differentiator vs. Rally
-
-Targetprocess also includes financial integration — linking portfolio decisions to IT spend, capitalization tracking, and Apptio cost management — something Rally/ValueOps positions separately. This is evidenced by the IBM CIO case study: "Targetprocess provided an enterprise agile planning view and the ability to perform portfolio and resource management... facilitating strategic planning by having visibility on how resources align to initiatives, objectives and key results."
-
-
-** FIX **
-
-Gap to note: Rally's OAuth-enabled MCP Server and Gemini 3.0 AI model are specific recent additions with no direct IBM equivalent documented in current sources. 
-
-IBM's AI integration story for Targetprocess is through the Apptio financial AI layer and IBM watsonx, but a like-for-like agentic/MCP connector is not evidenced in available IBM documentation at this time.
-
+Notable differentiator vs. Rally - Targetprocess also includes financial integration — linking portfolio decisions to IT spend, capitalisation tracking, and Apptio cost management — something Rally/ValueOps positions separately. Refer the IBM CIO case study: "Targetprocess provided an enterprise agile planning view and the ability to perform portfolio and resource management... facilitating strategic planning by having visibility on how resources align to initiatives, objectives and key results."
 
 Feature match:
 
@@ -75,6 +71,7 @@ Feature match:
 https://www.ibm.com/products/engineering-workflow-management
 
 ## Customer Reference
+
 (not provided)
 
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
@@ -96,7 +93,7 @@ Feature match:
 
 ## IBM SECONDARY - Product Page(s) URL
 
-
+https://www.ibm.com/products/engineering-lifecycle-management
 
 # Sources:
 

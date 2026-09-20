@@ -61,6 +61,7 @@ Red Hat Ansible Automation Platform is IBM / Red Hat's enterprise IT automation 
 https://www.redhat.com/en/technologies/management/ansible
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

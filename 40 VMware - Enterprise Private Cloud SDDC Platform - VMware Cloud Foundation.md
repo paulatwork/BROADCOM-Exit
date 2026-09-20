@@ -54,6 +54,7 @@ Red Hat OpenShift Platform Plus + IBM Fusion
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

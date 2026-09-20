@@ -29,7 +29,7 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Client Automation is a mature, dependable tool with a shrinking audience. Gartner Peer Insights gives it 4.0 out of 5, but from only 14 verified reviews in the 2025 endpoint management tools market. ManageEngine Endpoint Central has 1,625 reviews at 4.6, and Microsoft Intune has 1,136 at 4.2. That gap in review volume is itself evidence of falling visibility next to cloud-native unified endpoint management. Reviewers call the tool reliable for endpoint and patch operations, but say the interface 'feels technologically behind'. It is still built around on-premises infrastructure, and Broadcom has not delivered a cloud-native UEM model.
+Client Automation is a mature, dependable tool with a shrinking audience. Gartner Peer Insights gives it 4.0 out of 5, but from only 14 verified reviews in the 2025 endpoint management tools market. ManageEngine Endpoint Central has 1,625 reviews at 4.6, and Microsoft Intune has 1,136 at 4.2. Refer to that gap in review volume for the falling visibility next to cloud-native unified endpoint management. Reviewers call the tool reliable for endpoint and patch operations, but say the interface 'feels technologically behind'. It is still built around on-premises infrastructure, and Broadcom has not delivered a cloud-native UEM model.
 
 The general Broadcom pattern of renewal increases and bundling applies. No named organisation has publicly described leaving Client Automation, so the case for moving rests on the shrinking review base, the age of the platform and the strength of the cloud tools.
 
@@ -61,6 +61,7 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 https://www.ibm.com/products/maas360
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

@@ -1,4 +1,4 @@
-# ValueOps by Broadcom - Vaia
+# ValueOps by Broadcom - Vaia (SaaS)
 
 ## Status 
 
@@ -14,7 +14,7 @@ AI-Driven Planning & Execution Layer
 
 ## Broadcom Product Name
 
-ValueOps by Broadcom - Vaia
+ValueOps by Broadcom - Vaia (SaaS)
 
 ## Broadcom Product Description - Key Features
 
@@ -63,6 +63,7 @@ IBM watsonx.governance is IBM's enterprise AI governance and decision assurance 
 https://www.ibm.com/products/watsonx-governance
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

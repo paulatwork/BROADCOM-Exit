@@ -33,7 +33,7 @@ After Broadcom bought Symantec's enterprise business in 2019 the commercial focu
 
 The analyst record needs care. Gartner stopped ranking enterprise DLP vendors in a Magic Quadrant some years ago and now publishes an unranked Market Guide, most recently in 2025, so there is no current Leader or Niche Player placement to cite. Symantec DLP was a Leader in the Magic Quadrant while it existed, according to Broadcom's community, but that predates the changes described above and is not a current endorsement.
 
-Microsoft has published a Symantec DLP to Purview migration path, and a migration assistant that converts Symantec and Forcepoint policies. A vendor building tooling to lift policies out of a competitor's product is good evidence of an established exit corridor. It is not evidence of any particular customer, and no named organisation has publicly described leaving Symantec DLP. Elsewhere in the Symantec estate, Northwestern University moved its endpoint protection from Symantec to CrowdStrike Falcon in 2021, which shows the wider pattern without being a DLP case.
+Microsoft has published a Symantec DLP to Purview migration path, and a migration assistant that converts Symantec and Forcepoint policies. A vendor building tooling to lift policies out of a competitor's product points to an established exit corridor. It does not identify any particular customer, and no named organisation has publicly described leaving Symantec DLP. Elsewhere in the Symantec estate, Northwestern University moved its endpoint protection from Symantec to CrowdStrike Falcon in 2021, which shows the wider pattern without being a DLP case.
 
 Customers are moving primarily to Microsoft Purview DLP, to Forcepoint DLP for risk-adaptive behavioural policies, and to cloud and SaaS tools such as Nightfall AI, Netskope and Strac for generative AI and cloud channels.
 
@@ -63,6 +63,7 @@ IBM Guardium Data Protection and IBM Guardium Data Security Center provide enter
 https://www.ibm.com/products/guardium-data-security-center
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

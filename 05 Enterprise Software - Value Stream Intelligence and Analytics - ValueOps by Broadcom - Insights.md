@@ -1,4 +1,4 @@
-# ValueOps by Broadcom - Insights
+# ValueOps by Broadcom - Insights (SaaS or On-prem)
 
 ## Status 
 
@@ -14,7 +14,7 @@ Value Stream Intelligence & Analytics
 
 ## Broadcom Product Name
 
-ValueOps by Broadcom - Insights
+ValueOps by Broadcom - Insights (SaaS or On-prem)
 
 ## Broadcom Product Description - Key Features
 
@@ -61,6 +61,7 @@ IBM Apptio Targetprocess is IBM's enterprise Agile portfolio management and valu
 https://www.ibm.com/products/apptio
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 

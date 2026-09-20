@@ -54,6 +54,7 @@ OpenShift Data Foundation + IBM Fusion
 https://www.redhat.com/en/resources/add-capabilities-enterprise-deployments-datasheet
 
 ## Customer Reference
+
 (not provided)
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
