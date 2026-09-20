@@ -16,7 +16,7 @@ Zero Trust Network Access
 
 Broadcom Identity-Centric Secure Access (formerly Symantec Zero Trust Network Access / Secure Access Cloud)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec Zero Trust Network Access (ZTNA, formerly Secure Access Cloud) uses software-defined perimeter technology to give agentless, least-privilege access to private applications without a VPN. Broadcom TechDocs uses the name ZTNA; the name 'Identity-Centric Secure Access' does not appear there. Recent releases (May to August 2026) add Cloud SWG and DLP integration.
 
@@ -29,53 +29,64 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst visibility into this product specifically is limited. Gartner Peer Insights lists it as 'Symantec Enterprise Cloud' with a 4.4 out of 5 rating, but this is based on only five to six reviews, a very small sample compared with major SSE/ZTNA competitors in the same Gartner category (for comparison, identity products from Okta and Microsoft in adjacent categories carry many hundreds of reviews). This small sample size is indicative of limited market adoption and visibility rather than a specific quality finding. No independent Gartner Magic Quadrant for Security Service Edge (SSE), Forrester Wave placement, or other named analyst ranking specific to this Broadcom/Symantec product was identified in this research.
+It is hard to say much that is independent about this product, because so few people have reviewed it. Gartner Peer Insights lists it under the name 'Symantec Enterprise Cloud' with 4.4 out of 5, but from only five or six reviews, a tiny sample beside the many hundreds carried by identity products from Okta and Microsoft in adjacent categories. That points to limited adoption and visibility, not to a quality problem. No Gartner Magic Quadrant for security service edge, Forrester Wave or other named ranking specific to the product was found.
 
-Broadcom's general commercial pattern of bundling ZTNA licensing with other Symantec Enterprise Cloud products, and prioritising its largest accounts, applies here as with other legacy Symantec Enterprise Security Group products.
+The commercial picture is the familiar one. Broadcom bundles zero trust network access licensing with other Symantec Enterprise Cloud products and puts its largest accounts first, as it does across the old Symantec Enterprise Security Group lines.
 
-Organisations modernising secure remote access are transitioning to cloud-native SSE/ZTNA architectures with substantially larger installed bases and analyst coverage, including Zscaler Private Access, Palo Alto Networks Prisma Access, Cloudflare One, and Microsoft Entra Private Access.
-
-Sources: Gartner Peer Insights, 'Symantec Enterprise Cloud' product page (gartner.com/reviews); comparative review volumes on the same platform.
+No named organisation has publicly described leaving the product. Competitors do make the point publicly. One vendor, dope.security, publishes a guide on leaving Symantec's cloud proxy, though that is a different Symantec service and not this one. For zero trust access itself, organisations modernising remote access are moving to cloud-native SSE and ZTNA platforms with far larger installed bases and analyst coverage, notably Zscaler Private Access, Palo Alto Networks Prisma Access, Cloudflare One and Microsoft Entra Private Access.
 
 ## IBM Replacement Strength
 
-Not applicable. (Defence using CITRIX-based solution for Remote Desktop Access)
+Partial Match
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-This assessmenet does not address Cloud Hosted or Cloud Access services.
+IBM Security Verify Access with Application Gateway delivers context-aware, identity-centric zero-trust application access that replaces Broadcom Symantec ZTNA. Broadcom's ZTNA tool suffers from low market adoption, thin analyst validation, and restrictive multi-product bundling with Symantec Enterprise Cloud. IBM Security Verify provides robust identity verification, adaptive risk-based authentication, and reverse-proxy Application Gateway enforcement that secures access to private web applications and APIs without requiring legacy network VPNs or proprietary perimeter lock-in.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Security Verify
+IBM Security Verify (with Verify Access & Application Gateway)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – reviewers cite strong security features, single sign-on, passwordless access and easy deployment, with slowness and console complexity the main criticisms.
+IBM Security Verify is IBM's cloud-native and hybrid identity, access management, and Zero Trust access control platform. Through its Verify Access Application Gateway component, it enables secure, identity-driven, least-privilege access to on-premises and private cloud web applications without network-level VPN exposure.
 
-IBM Security Verify is fundamentally an Identity and Access Management (IAM / IDaaS) and Web Access Management (WAM) platform rather than a full network-level VPN or standalone packet-level Zero Trust Network Access (ZTNA) tunnel solution. Defence would use the Verify suite across its entire identity landscape.
+- **Application-level, agentless access** — IBM Security Verify Access provides an agentless Application Gateway that reverse-proxies private enterprise web applications and APIs, enforcing granular per-URL access policies without exposing the underlying network.
+- **Identity provider integration** — IBM Security Verify functions as a comprehensive enterprise Identity-as-a-Service (IDaaS) and identity provider, supporting seamless federation via SAML 2.0, OpenID Connect (OIDC), and multi-directory identity bridging.
+- **Cloud SWG and DLP integration** — IBM Security Verify integrates directly with IBM Guardium Data Security Center and third-party Secure Web Gateways (SWG) using standard ICAP and REST APIs to evaluate real-time data loss risks during user sessions.
+- **Expanded connection types** — IBM Security Verify supports diverse access methods including web applications, REST APIs, and contextual session controls, while integrating with modern remote desktop and virtual desktop infrastructure (VDI) access brokers.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/security-verify
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/security-verify
 
+# Sources:
+
+## IBM Security Verify
+
+- IBM Security Verify Product Overview: https://www.ibm.com/products/security-verify
+- IBM Security Verify Access Application Gateway Documentation: https://www.ibm.com/docs/en/sva/10.0.0?topic=overview-application-gateway
+- Gartner Magic Quadrant for Access Management (IBM Evaluation): https://www.gartner.com/reviews/market/access-management/vendor/ibm/product/ibm-verify
+
 ## Sources: Analyst reviews and exist strategy
 
-Replaced generic, unattributed analyst claims with a specific, verifiable Gartner Peer Insights data point (rating and very small review count) and stated plainly that no named Magic Quadrant/Wave coverage was found for this product.
+- Gartner Peer Insights, 'Symantec Enterprise Cloud' product page (gartner.com/reviews)
+- comparative review volumes on the same platform
+- dope.security, 'Symantec WSS Alternatives in 2026: Migrating Off Broadcom's Legacy Proxy Without a Six-Month Engagement' (https://dope.security/post/symantec-wss-alternatives-2026) [vendor-authored competitive content, different Symantec product]
 
 ## General Sources:
 
@@ -84,6 +95,12 @@ Replaced generic, unattributed analyst claims with a specific, verifiable Gartne
 - Symantec ZTNA - Broadcom Service Status: https://status.broadcom.com/services/symantec-ztna
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left the product. Noted a competitor's guide on leaving a different Symantec cloud service.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: TechDocs uses the name 'Zero Trust Network Access (ZTNA)' and states the product was formerly Secure Access Cloud. The name 'Identity-Centric Secure Access' used in this file's Product Name could not be found in Broadcom documentation, so the name is unchanged but flagged as unverified. The Gartner listing 'Symantec Enterprise Cloud' and its rating could not be re-checked.

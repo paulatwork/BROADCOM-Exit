@@ -16,7 +16,7 @@ IT Service Management (ITSM)
 
 Service Catalog
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 CA Service Catalog is the self-service request component of CA Service Management, released together with Service Desk Manager. CA Service Management 17.5 was released on 15 September 2026 and supersedes 17.4.5.0.
 
@@ -29,50 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst cautions and commercial pressures: Service Catalog is licensed and reviewed together with Service Desk Manager under the single CA Service Management product listing on Gartner Peer Insights (3.7 out of 5, 95 reviews) and TrustRadius (5.4 out of 10, 49 reviews); no catalog-specific independent rating exists separately. Reviewers commenting on the combined suite describe a dated, clunky end-user interface for self-service functions, consistent with this row's existing claim of fragmented user experience relative to modern consumer-grade portals. The same general Broadcom bundling and renewal price pressures documented for Service Desk Manager apply here, since the two products are typically licensed together.
+Service Catalog is bought, reviewed and complained about together with Service Desk Manager. It is part of the single CA Service Management listing that scores 3.7 out of 5 from 95 reviews on Gartner Peer Insights and 5.4 out of 10 from 49 reviews on TrustRadius, so no catalog-specific rating exists. Reviewers of the suite describe a dated, clunky end-user interface for self-service, which is the very thing a service catalog is meant to make pleasant.
 
-Broadcom exit strategies and market alternatives: ServiceNow Service Catalog and Employee Center, and Atlassian Jira Service Management, are realistic and widely adopted alternatives for consumer-grade service request experiences. IBM Maximo's IT Service Portal is a genuine capability within IBM Maximo IT, but it is a narrower, less consumer-grade catalog experience than ServiceNow's Employee Center, and this difference in scope should be set as an expectation before selection.
-Sources: Gartner Peer Insights, CA Service Management reviews (gartner.com/reviews/market/it-service-management-platforms/vendor/broadcom/product/ca-service-management); TrustRadius, CA Service Management reviews (trustradius.com/products/ca-service-management/reviews); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
+The same bundling and renewal pressure applies, because the two products are normally licensed together. Customers who move their ticketing off Service Desk Manager will take the catalog with it. Broadcom's community forums show customers connecting CA Service Desk to ServiceNow, but no named organisation has publicly described leaving Service Catalog.
+
+The natural destinations are ServiceNow, with its Service Catalog and Employee Center, and Atlassian Jira Service Management, both widely used for consumer-grade service requests. IBM Maximo's IT Service Portal is a real capability within Maximo IT, but it is narrower and less consumer-grade than Employee Center. That difference in scope should be agreed with the client before selection so that expectations match what the portal can deliver.
 
 ## IBM Replacement Strength
 
-(not provided)
+Partial Match
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Maximo IT Self-Service Center replaces CA Service Catalog by delivering an integrated, intuitive request portal combined with enterprise asset and procurement management. Migrating away from Broadcom eliminates the high maintenance costs and dated user interface of CA Service Catalog while consolidating service catalog requests, hardware/software procurement, and entitlement management into a scalable, open enterprise platform.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Maximo IT Service Portal
+IBM Maximo IT Self-Service Center
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Mixed to positive – praised for ease of use and powerful workflow, but some reviewers find the interface cluttered or complex and note limits in reporting and integration.
+IBM Maximo IT Self-Service Center (part of IBM Maximo IT) provides an enterprise service catalog and self-service portal that enables business users and IT staff to submit, approve, and track service requests, equipment orders, and standard IT offerings.
 
-IBM Maximo IT delivers a unified self-service portal and digital service catalog enabling end users to request IT and enterprise business services, hardware, and software. It features automated approval workflows, role-based service entitlements, automated fulfillment tracking, and integration with procurement and IT financial accounting.
+- **Self-service service catalogue** — IBM Maximo IT Self-Service Center provides an intuitive, configurable service catalog where users browse and order IT hardware, software licenses, and business services governed by multi-level automated approval workflows.
+- **Customisable forms (17.5)** — IBM Maximo IT offers built-in visual application designers and dialog configurators that allow administrators to design dynamic, custom request forms and data validation rules without custom programming.
+- **Semantic search and virtual analyst (17.5)** — IBM Maximo IT pairs with IBM watsonx Assistant to deliver conversational AI and natural-language semantic search across the service catalog and knowledge bases, resolving user requests automatically.
+- **Service Point and xFlow updates (17.5)** — IBM Maximo IT delivers modern responsive web portals with real-time ticket tracking, delegated request management for team leads, continuous ticket browsing, and bi-directional linking between service requests and backend fulfillment tickets.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/maximo/it-asset-management
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Maximo IT Self-Service Center
+
+- IBM Maximo IT Self-Service and Service Catalog Guide: https://www.ibm.com/docs/en/maximo-it?topic=requests-managing-service-catalog-requests
+- IBM Maximo IT Product Documentation: https://www.ibm.com/docs/en/maximo-it
+- Gartner Peer Insights — IBM Maximo IT Reviews: https://www.gartner.com/reviews/market/it-service-management-platforms/vendor/ibm/product/ibm-maximo-it
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- Gartner Peer Insights, CA Service Management reviews (gartner.com/reviews/market/it-service-management-platforms/vendor/broadcom/product/ca-service-management)
+- TrustRadius, CA Service Management reviews (trustradius.com/products/ca-service-management/reviews)
+- Redress Compliance, Broadcom Enterprise Agreements guide, 2025
+- The Register, 2022 Broadcom account-strategy analysis
+- Broadcom Community, 'CA Service Desk 17.4 how to couple with ServiceNow' (https://community.broadcom.com/discussion/ca-service-desk-174-how-to-couple-with-servicenow)
 
 ## General Sources:
 
@@ -82,6 +98,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - CA Service Management 17.5 Release Information: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/ca-service-management/17-5/Release-Information.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left Service Catalog and tied the exit story to Service Desk Manager.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Updated version: CA Service Management 17.5 (released 15 September 2026) is now the latest; description and key features rewritten. Analyst Cautions unchanged (Gartner and TrustRadius ratings could not be re-verified because the Gartner page returned HTTP 403).

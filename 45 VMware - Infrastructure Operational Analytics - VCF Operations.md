@@ -16,7 +16,7 @@ Infrastructure Operational Analytics
 
 VCF Operations
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 VCF Operations (formerly Aria Operations) monitors and manages VCF. 9.1 was released May 2026 and 9.1.1 in September 2026.
 
@@ -41,31 +41,33 @@ Yes
 
 IBM
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana + Turbonomic + Concert
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/instana
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM Turbonomic & IBM Concert
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/instana
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 

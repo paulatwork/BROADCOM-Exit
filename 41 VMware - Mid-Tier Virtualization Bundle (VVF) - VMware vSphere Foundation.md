@@ -16,7 +16,7 @@ Mid-Tier Virtualization Bundle (VVF)
 
 VMware vSphere Foundation
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 VMware vSphere Foundation (VVF) 9.x is the mid-tier bundle. Documentation is now part of VCF documentation. Each licensed core includes 0.25 TiB of vSAN capacity. The 9.1 FAQ confirms that vSphere, vSAN and VCF Operations are included, and that NSX, VCF Automation, Kubernetes (VKS), HCX, Live Recovery and Avi Load Balancer are offered separately.
 
@@ -41,31 +41,33 @@ Yes
 
 Red Hat
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift Virtualization Engine / OpenShift Platform Plus
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 

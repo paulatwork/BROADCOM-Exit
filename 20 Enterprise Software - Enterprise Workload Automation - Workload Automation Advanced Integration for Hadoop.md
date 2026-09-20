@@ -16,7 +16,7 @@ Enterprise Workload Automation
 
 Workload Automation Advanced Integration for Hadoop
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Workload Automation Advanced Integration for Hadoop lets Hadoop big-data jobs be defined and scheduled from Broadcom workload automation products. 
 
@@ -29,11 +29,11 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-The Broadcom product is an agent/plugin add-on tied to legacy AutoSys and ESP scheduler architectures. As enterprises continue to migrate off on-premises Hadoop toward cloud object storage, managed Spark and distributed microservice architectures, there has been a category-wide shift that pre-dates and is independent of the Broadcom acquisition. The ongoing investment in Hadoop-specific scheduler integrations is inherently limited by the declining size of the underlying Hadoop market rather than by Broadcom-specific commercial behaviour.
+This product is a plug-in for the AutoSys and ESP schedulers, built for a world in which Hadoop was the centre of enterprise data. That world has been shrinking for years. Organisations have been moving off on-premises Hadoop towards cloud object storage, managed Spark and distributed microservices, and that shift began before Broadcom bought CA and has nothing to do with Broadcom's commercial behaviour. Investment in Hadoop-specific scheduler integrations is limited by the decline of the market itself.
 
-IBM Spectrum Conductor, proposed as the replacement here, is a currently supported IBM product, but it is a multi-tenant Spark/Anaconda/Dask cluster management platform aimed at machine-learning workloads, not a general-purpose enterprise job scheduler. 
+So the exit story here is mostly a story about Hadoop. No analyst firm covers the product, and no named organisation has publicly described leaving it, although the market trend away from Hadoop toward platforms such as Databricks is widely reported. Customers who leave AutoSys will find that the integration has little value without it.
 
-IBM Spectrum only partially replaces the scheduling-console function this product provides. Apache Airflow/Astronomer and Kubernetes-native Argo Workflows are alternatives, and are closer functional equivalents for orchestrating data-pipeline jobs alongside other enterprise workloads. They are the alternatives more consistently cited in market commentary on Hadoop-adjacent workload migration.
+The IBM suggestion needs care. IBM Spectrum Conductor is a supported IBM product, but it is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does. Apache Airflow with Astronomer, and Kubernetes-native Argo Workflows, are closer to the job of orchestrating data pipelines alongside other enterprise workloads, and they are the options most often cited in commentary on moving Hadoop-adjacent scheduling.
 
 ## IBM Replacement Strength
 
@@ -43,11 +43,11 @@ Partial
 
 For specialised workloads, IBM offers a suppier alterantive matching more common requirements.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Spectrum Conductor
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 Spectrum Conductor is an enterprise-class, multi-tenant platform for deploying and managing Apache Spark (plus Anaconda, Dask and other frameworks) on shared resources, providing higher utilization, and lower TCO for infrastructure. Spectrum Conductor runs common jobs for Spark, Anaconda and Dask. It does not run Hive, Pig, Oozie or Sqoop job scheduling but these have limited uptake in government.
 
@@ -61,7 +61,7 @@ Simply complex Hadoop stacks - Solve the inability to efficiently run multiple v
 Improved ROI - Get reduction in SaaS Cloudera costs / Infrastructure for on-prem.
 Improved Performance - Get imporved performance while reducing spend, with low risk swap, requires no change to applications.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/spectrum-conductor
 
@@ -72,21 +72,23 @@ Wells Fargo Bank, considered one of the "Big Four Banks" in the United States, i
 Wells Fargo needed to replace legacy Hortonworks Data Platform (HDP) cluster on Intel data lake and were building out a data science practice; and solve the core problem with a classic HDP/Hadoop cluster is siloing and low utilization. Each line of business, each Spark version, each dev/test/prod environment tends to get its own carved-off set of nodes. 
 
 
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 None 
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 None 
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 None 
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 
-Sources: Broadcom TechDocs, Workload Automation Advanced Integration for Hadoop product documentation (techdocs.broadcom.com); LatentView, "Hadoop to Databricks Migration: Modernizing Legacy Data Lakes" (latentview.com), cited for the general market trend away from on-premises Hadoop. No named analyst-firm report specific to this Broadcom integration product was found.
+- Broadcom TechDocs, Workload Automation Advanced Integration for Hadoop product documentation (techdocs.broadcom.com)
 
 ## General Sources:
 
@@ -95,6 +97,12 @@ Sources: Broadcom TechDocs, Workload Automation Advanced Integration for Hadoop 
 - Define Oozie Jobs - AutoSys 24.2: https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/autosys-workload-automation/24-2-00/scheduling/ca-wcc-scheduling/manage-the-advanced-integration-for-hadoop-using-ca-wa/define-oozie-jobs.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left the product and that the exit driver is the decline of Hadoop.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: version 24.1 is the latest documented; no changes.

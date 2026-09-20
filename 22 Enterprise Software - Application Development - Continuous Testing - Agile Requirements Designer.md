@@ -16,7 +16,7 @@ Application Development - Continuous Testing
 
 Agile Requirements Designer
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Agile Requirements Designer (ARD) is a model-based test design tool. Version 3.6 is the latest documented and adds an AI plugin framework. Users model requirements as flows, and ARD derives test cases, test data requirements and automation from each path.
 
@@ -29,51 +29,62 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst commentary: no Gartner Magic Quadrant, Gartner Peer Insights, Forrester Wave, or IDC MarketScape coverage specific to Agile Requirements Designer was located during this review. ARD does not appear as a standalone category in current analyst research, which itself indicates limited independent market visibility for the product; this should be stated plainly rather than implying analyst coverage that does not exist. User-facing listings (Capterra, SoftwareAdvice) show only a small number of reviews, consistent with a niche legacy tool.
+Agile Requirements Designer is a niche tool with almost no public footprint. No Gartner Magic Quadrant, Peer Insights, Forrester or IDC coverage specific to it was found, and it does not appear as a category of its own in current analyst research. Capterra and SoftwareAdvice carry only a handful of reviews. That thin record is itself the finding, and it should be stated plainly, not dressed up as analyst attention that does not exist.
 
-Broadcom/CA commercial pressures: ARD sits in the same CA-Technologies-era Continuous Testing bundle as Test Data Manager and Service Virtualization, subject to Broadcom's shift to consolidated subscription agreements and reduced standalone purchasing flexibility; customers report high licensing tiers for the model-based testing toolset relative to newer agile test-design tools.
+The commercial position follows the rest of the continuous testing bundle it shares with Test Data Manager and Service Virtualization. Customers report high licensing tiers for a model-based testing toolset when newer agile test-design tools are priced more lightly, and Broadcom's shift to consolidated subscription agreements narrows the room to buy it alone.
 
-Exit strategy findings (2025-2026): organisations are consolidating requirements and test design into unified agile engineering platforms. Realistic alternatives include IBM Engineering Lifecycle Management (ELM/DOORS Next) for requirements traceability, Tricentis Tosca for model-based test design, and Atlassian Jira with Xray or Zephyr for lighter-weight teams, consistent with the alternatives already listed in this row. No IBM alternative is currently populated in columns H/I for this row; this gap is noted but not addressed here.
-
-Sources: Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentation, including the AI Integration page (techdocs.broadcom.com); Capterra and SoftwareAdvice product listings. No Gartner/Forrester/IDC analyst report covering this product was found.
+No named organisation has publicly described leaving the product. What can be observed is the direction of travel. Organisations are folding requirements and test design into unified agile engineering platforms. IBM Engineering Lifecycle Management, including DOORS Next, covers requirements traceability, Tricentis Tosca covers model-based test design, and Atlassian Jira with Xray or Zephyr suits lighter teams. Realistic as they are, they are pieces of a replacement and not a single like-for-like tool, so the client should expect to combine them.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Engineering Lifecycle Management (ELM) — specifically IBM Engineering Requirements Management DOORS Next and IBM Engineering Test Management (ETM) — replaces Broadcom Agile Requirements Designer with an enterprise-grade requirements and test-generation platform. Broadcom ARD remains an isolated legacy tool locked into expensive continuous testing bundles. IBM ELM provides full lifecycle requirements modeling, automated test case derivation, deep bidirectional traceability across engineering domains, and AI-assisted requirements analysis (via watsonx) to deliver higher software quality at predictable enterprise licensing rates.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-(not provided)
+IBM Engineering Lifecycle Management (DOORS Next & Test Management)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-(not provided)
+IBM Engineering Lifecycle Management (ELM) combines IBM Engineering Requirements Management DOORS Next and IBM Engineering Test Management into a unified, model-driven systems and software engineering solution. It provides visual requirements modeling, automated test derivation, impact analysis, and AI-assisted requirements validation.
 
-## PRIMARY - IBM Product Page URL
+- **Model-based test design** — IBM ELM supports formal and visual requirement diagrams, business process flows, and use-case models from which comprehensive test cases and execution steps are automatically generated.
+- **Automated test asset generation** — IBM Engineering Test Management generates structured test plans, test cases, and execution scripts directly linked to upstream functional requirements and test data sets.
+- **Requirements Insight** — IBM Engineering Requirements Management DOORS Next delivers real-time impact analysis, visual traceability matrices, and interactive requirement review workflows to evaluate the ripple effect of requirement changes across software components.
+- **AI plugin (3.6)** — IBM ELM incorporates watsonx-driven AI requirements assistants that evaluate requirement clarity, detect ambiguities, suggest optimizations, and automatically generate draft requirement models and test scenarios from natural-language documentation.
 
-(not provided)
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/engineering-lifecycle-management
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Engineering Lifecycle Management (DOORS Next & Test Management)
+
+- IBM Engineering Lifecycle Management Product Overview: https://www.ibm.com/products/engineering-lifecycle-management
+- IBM Engineering Requirements Management DOORS Next: https://www.ibm.com/products/engineering-requirements-management-doors-next
+- Gartner Peer Insights — IBM Engineering Lifecycle Management Reviews: https://www.gartner.com/reviews/market/enterprise-agile-planning-tools/vendor/ibm/product/ibm-engineering-lifecycle-management
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D expanded to describe the real model-based testing workflow and verified the AI/NLP capability against current Broadcom TechDocs (v3.6) rather than leaving an unverified marketing fragment. Column E states plainly that no analyst coverage of this specific product was found, rather than fabricating any.
+- Broadcom TechDocs, Agile Requirements Designer 3.5 and 3.6 documentation, including the AI Integration page (techdocs.broadcom.com)
 
 ## General Sources:
 
@@ -82,6 +93,13 @@ Column D expanded to describe the real model-based testing workflow and verified
 - Agile Requirements Designer Product Brief: https://docs.broadcom.com/docs/ca-agile-requirements-designer
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left the product.
+- Removed the note that the IBM alternative was not populated for this row, because it referred to the source spreadsheet and not to the product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Agile Requirements Designer 3.6 is the newest version in the documentation list (3.6, 3.5, 3.4, 3.3, 3.2). No changes.

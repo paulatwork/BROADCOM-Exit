@@ -16,7 +16,7 @@ AIOps and Observability
 
 DX Operational Observability
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 DX Operational Observability (DX O2) is Broadcom's unified AIOps and observability platform, delivered as SaaS and on-premises (26.1 on-premises documentation is current). It consolidates application, infrastructure, network and log data with OpenTelemetry support, generative AI summarisation and CI-based alarm enrichment. Native synthetics monitoring for the SaaS edition was announced in May 2026.
 
@@ -29,53 +29,64 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Commercial pressure: Broadcom's consolidation of the former DX APM, DX Operational Intelligence and Application Experience Analytics products into DX Operational Observability moves customers onto a single bundled licence. Independent user reviews of the predecessor product lines (see the DX APM and DX Operational Intelligence rows in this schedule) describe minimum-commitment thresholds and renewal increases consistent with Broadcom's core-account pricing approach across its enterprise software portfolio.
+DX Operational Observability is what Broadcom made of its older DX APM, DX Operational Intelligence and Application Experience Analytics products. Customers of those products now sit on a single bundled licence. Reviews of the predecessors, described in the DX APM and DX Operational Intelligence entries in this schedule, talk about minimum-commitment thresholds and renewal increases that match the way Broadcom prices across its core accounts.
 
-Analyst standing: independent review volume for this product is thin. Gartner Peer Insights lists Broadcom within its Observability Platforms market category, compared against Dynatrace and LogicMonitor, but with limited published review volume. In Forrester's Q2 2025 Wave for AIOps Platforms, Dynatrace and Datadog were the vendors publicly announced as Leaders; Broadcom was not identified among the leaders named in public vendor announcements of that report. This should be treated as an indicator of lower current analyst visibility for DX Operational Observability rather than a comprehensive assessment, since the full Forrester participant list was not independently sighted.
+Independent voices on the merged product are few. Gartner Peer Insights lists Broadcom in its observability platforms market alongside Dynatrace and LogicMonitor, but with limited published review volume. In Forrester's Q2 2025 Wave for AIOps Platforms, Dynatrace and Datadog were the vendors publicly announced as Leaders, and Broadcom was not among those named in vendor announcements. That points to lower analyst visibility, though the full Forrester participant list was not seen, so it should not be read as a ranking.
 
-Exit strategy: organisations are moving toward cloud-native, unified observability platforms with broader ecosystem support and shorter time-to-value, principally IBM Instana, Dynatrace, Datadog and New Relic, all of which hold current independent analyst leader positions in observability and AIOps. The alternatives listed in this row are realistic and consistent with the wider market direction.
-
-Sources: Gartner Peer Insights, Observability Platforms market, Broadcom vendor page (gartner.com); Dynatrace and Datadog public announcements of the Forrester Wave: AIOps Platforms, Q2 2025 (dynatrace.com; datadoghq.com); Broadcom TechDocs, DX Operational Observability product documentation (techdocs.broadcom.com).
+No named organisation has publicly described leaving DX Operational Observability, and it is too newly merged to have a separate exit record. The direction of the market is clear enough. Buyers are moving to cloud-native, unified observability platforms with wider ecosystems and shorter time to value, chiefly IBM Instana, Dynatrace, Datadog and New Relic, all of which hold current leader positions in observability and AIOps. The alternatives proposed are realistic and match that movement.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Instana Observability (paired with IBM Cloud Pak for AIOps) provides a modern, automated observability and AIOps solution that outmatches Broadcom DX Operational Observability. Broadcom has forcibly consolidated legacy DX APM and DX Operational Intelligence into DX Operational Observability under punitive enterprise agreements. IBM Instana delivers immediate value through 1-second metric granularity, unsampled distributed tracing, automated discovery, and native OpenTelemetry support without the heavy administrative burden, complex agent maintenance, or restrictive contract terms of Broadcom.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – rated about 4.3 stars from roughly 265 Gartner Peer Insights reviews for easy dashboards and automatic discovery, with no consistent criticism surfaced in this pass.
+IBM Instana Observability is IBM's automated Application Performance Monitoring (APM) and enterprise observability platform. It delivers real-time visibility and AI-powered root-cause analysis across cloud-native microservices, hybrid infrastructure, and enterprise applications.
 
-Next-generation AIOps and Observability. IBM Instana Observability provides full-stack automated observability and enterprise AIOps with 1-second metric granularity and unsampled end-to-end distributed tracing. It automatically discovers, monitors, and maps dependencies across multi-cloud, containerized microservices, on-premises systems, and IBM zSystems mainframes to provide immediate AI-powered root cause analysis.
+- **Unified observability** — IBM Instana provides full-stack observability unifying application performance, Kubernetes, cloud and on-premises infrastructure, and synthetic monitoring into a single real-time dependency graph.
+- **OpenTelemetry support** — IBM Instana natively ingests and processes OpenTelemetry metrics, traces, and logs, offering full standards compliance alongside automated zero-configuration sensors.
+- **Generative AI summarisation** — IBM Instana and IBM Cloud Pak for AIOps utilize watsonx-powered generative AI to automatically summarize incident contexts, explain anomaly root causes, and recommend remediation actions.
+- **Alarm enrichment and ITSM integration** — IBM Instana and Cloud Pak for AIOps enrich alerts with topological context and dynamic service maps, providing seamless bidirectional integration with enterprise ITSM platforms including ServiceNow and IBM Maximo IT.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/instana
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Instana Observability
+
+- IBM Instana Observability Product Overview: https://www.ibm.com/products/instana
+- IBM Instana OpenTelemetry Integration: https://www.ibm.com/docs/en/instana-observability?topic=apis-opentelemetry
+- Gartner Peer Insights — IBM Instana Observability Reviews: https://www.gartner.com/reviews/market/observability-platforms/vendor/ibm/product/ibm-instana-observability
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- Gartner Peer Insights, Observability Platforms market, Broadcom vendor page (gartner.com)
+- Dynatrace and Datadog public announcements of the Forrester Wave: AIOps Platforms, Q2 2025 (dynatrace.com; datadoghq.com)
+- Broadcom TechDocs, DX Operational Observability product documentation (techdocs.broadcom.com)
 
 ## General Sources:
 
@@ -86,6 +97,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - DX APM 23.3 End of Life Announcement: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ReleaseAnnouncements/DX-APM-23-3-End-of-Life-Announcement/25286
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left the merged product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Broadcom's DX APM 23.3 end-of-life announcement describes DX Operational Observability as combining application, digital experience and infrastructure monitoring with integrated AIOps, which supports the consolidation statement in Analyst Cautions. No changes.

@@ -16,7 +16,7 @@ Identity and Access Management
 
 Symantec VIP
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec VIP is a cloud MFA and risk-based authentication service. VIP Authentication Services 2026.March.01 was the latest release located.
 
@@ -29,53 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Symantec VIP holds a strong 4.5 out of 5 rating on Gartner Peer Insights (80 reviews), with users citing reliable, fast two-factor authentication and straightforward integration; some reviewers note occasional session timeout and missed push-notification issues. This is a materially more positive picture than a purely negative characterisation would suggest. The claim of limited native passwordless FIDO2 capability is not consistent with Broadcom's own product documentation, which lists FIDO2 support, and has therefore not been retained in this assessment.
+Symantec VIP is better liked than most of the portfolio. Gartner Peer Insights gives it a strong 4.5 out of 5 from 80 reviews, with users praising reliable, fast two-factor authentication and easy integration, though some report occasional session timeouts and missed push notifications. An earlier draft claimed limited passwordless FIDO2 support, but Broadcom's own documentation lists FIDO2 support, so that claim has been dropped. No independent Magic Quadrant or Forrester Wave covers VIP as a standalone product.
 
-The genuine industry trend affecting this product is architectural rather than a quality complaint: enterprises are increasingly consolidating standalone MFA into their primary cloud identity provider (Entra ID, Okta, Duo) rather than running MFA as a separate product, reducing the number of authentication vendors and licences to manage. No independent Gartner Magic Quadrant or Forrester Wave coverage specific to Symantec VIP as a standalone product was identified.
+The reason to leave is architectural, not a complaint about quality. Enterprises are folding standalone multi-factor authentication into their main cloud identity provider and cutting the number of authentication vendors and licences they manage. One university shows how that looks in practice. Michigan State University announced in October 2021 that Okta Verify would replace the Symantec VIP mobile app, which would stop working for most of its applications on 5 December 2021. The announcement does not give reasons, so it should be read as an example of the consolidation trend and not as a verdict on VIP.
 
-Broadcom's bundled licensing and core-account commercial strategy apply to VIP as part of the wider Symantec identity portfolio, and organisations already exiting other Broadcom identity or endpoint products (SiteMinder, IDSP, Carbon Black) have a practical incentive to retire VIP alongside them to reduce the number of separate Broadcom contracts under renewal.
+Broadcom's bundled licensing and core-account strategy apply to VIP as they do across the Symantec identity portfolio. There is a practical incentive as well. An organisation already leaving SiteMinder, IDSP or Carbon Black has reason to retire VIP at the same time to reduce the number of Broadcom contracts coming up for renewal.
 
-Enterprises are consolidating standalone MFA into unified cloud identity platforms, principally Microsoft Entra ID (with Authenticator/FIDO2 keys), Cisco Duo Security, Okta Verify, and IBM Security Verify.
-
-Sources: Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/reviews); Broadcom Symantec VIP product documentation (for FIDO2 capability).
+The destinations are Microsoft Entra ID with Authenticator and FIDO2 keys, Cisco Duo Security, Okta Verify and IBM Security Verify.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Security Verify replaces Broadcom Symantec VIP by providing modern, cloud-native multi-factor authentication (MFA) and adaptive access integrated into a unified Identity-as-a-Service (IDaaS) platform. Rather than maintaining Symantec VIP as a standalone MFA silo subject to Broadcom's bundled renewal increases, migrating to IBM Security Verify consolidates MFA, passwordless FIDO2 passkeys, adaptive AI risk signals, and SSO into a single manageable platform, lowering administrative complexity and per-user subscription costs.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-(not provided)
+IBM Security Verify (Adaptive MFA & Passwordless)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-(not provided)
+IBM Security Verify delivers enterprise Multi-Factor Authentication (MFA), passwordless passkeys, and risk-based adaptive access controls designed to secure workforce and customer identities across hybrid cloud and on-premises environments.
 
-## PRIMARY - IBM Product Page URL
+- **Multi-factor authentication** — IBM Security Verify supports comprehensive MFA methods including push notifications via IBM Verify mobile app, time-based one-time passwords (TOTP), SMS/voice OTP, and FIDO2-certified biometric passkeys and security keys.
+- **Risk-based access** — IBM Security Verify incorporates AI-powered adaptive risk engines that evaluate user context, device fingerprinting, IP reputation, behavioral anomalies, and geolocation in real time to challenge or grant access dynamically.
+- **Microsoft ecosystem MFA** — IBM Security Verify provides native integration and identity federation with Microsoft Azure / Entra ID, Windows Hello for Business, and Microsoft 365 environments to enforce conditional MFA.
+- **Standards** — IBM Security Verify adheres to industry standards with robust SAML 2.0, OpenID Connect, OAuth 2.0 validation, and automated PKI certificate management.
 
-(not provided)
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/security-verify
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Security Verify (Adaptive MFA)
+
+- IBM Security Verify Authentication & MFA Overview: https://www.ibm.com/products/security-verify
+- IBM Documentation — Multifactor Authentication in IBM Security Verify: https://www.ibm.com/docs/en/security-verify
+- Gartner Magic Quadrant for Access Management (IBM Leader): https://www.gartner.com/reviews/market/access-management/vendor/ibm/product/ibm-verify
 
 ## Sources: Analyst reviews and exist strategy
 
-Corrected an internal inconsistency where Column E claimed limited FIDO2/passwordless support while Column D correctly states FIDO2 is supported. Replaced unattributed negative analyst claims with actual Gartner Peer Insights data, which is considerably more positive than previously implied, while retaining the genuine MFA-consolidation trend as the primary replacement rationale.
+- Gartner Peer Insights, 'Symantec VIP Reviews & Ratings' (gartner.com/reviews)
+- Broadcom Symantec VIP product documentation (for FIDO2 capability)
+- Michigan State University Technology, 'New MFA mobile app: Okta Verify to replace Symantec VIP' (https://tech.msu.edu/news/2021/10/new-mfa-mobile-app-okta-verify-to-replace-symantec-vip)
 
 ## General Sources:
 
@@ -84,6 +97,12 @@ Corrected an internal inconsistency where Column E claimed limited FIDO2/passwor
 - About FIDO authenticators - Symantec VIP: https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/vip/cloud/vip-web-services-and-apis-v127046027-d2278e2328/VIP-User-Services-Developer-s-Guide/about-vip-v99979554-d2386e8/about-fido-authenticators.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Added Michigan State University replacing the Symantec VIP mobile app with Okta Verify in 2021, noting that no reasons were stated.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Broadcom documentation confirms VIP supports FIDO2 (security keys, biometrics and passkeys), consistent with the existing Analyst Cautions text. Gartner rating (4.5, 80 reviews) could not be re-checked. No changes.

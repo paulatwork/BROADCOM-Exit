@@ -16,7 +16,7 @@ FinOps - Cloud Financial Management
 
 CloudHealth (SaaS)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Tanzu CloudHealth by Broadcom is a multi-cloud FinOps SaaS platform. Recent releases include the new CloudHealth experience with AI-powered Intelligent Assist and Smart Summary (2025) and June 2026 additions.
 
@@ -29,55 +29,68 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-The existing content is accurate and is retained, with verification and additional sourced evidence.
+CloudHealth is the healthiest product in this part of the portfolio, and the exit story is not about product quality. Broadcom's VMware Tanzu CloudHealth was named a Leader in the Forrester Wave for cloud cost management and optimisation in Q3 2024, and a Leader in Gartner's Magic Quadrant for cloud financial management tools in both 2024 and 2025. The two rivals proposed as alternatives sit in the same tier. Flexera was a Leader in the 2024 Forrester Wave and 2024 Gartner quadrant, and IBM, through Apptio and Cloudability, was a Leader in the 2025 Gartner quadrant.
 
-Analyst commentary confirmed: Broadcom's VMware Tanzu CloudHealth was named a Leader in the Forrester Wave: Cloud Cost Management and Optimization, Q3 2024, and a Leader in the Gartner Magic Quadrant for Cloud Financial Management Tools in both 2024 and 2025. Both alternative vendors already listed in this row were recognised in the same reports: Flexera was named a Leader in the 2024 Forrester Wave and the 2024 Gartner Magic Quadrant, and IBM (via Apptio/Cloudability) was named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools. This confirms CloudHealth, Flexera One, and IBM Apptio/Cloudability sit in the same recognised leadership tier, supporting the alternatives already proposed in columns H and K.
+The pressure comes from how Broadcom sells it. In May 2024 Broadcom named Arrow Electronics the sole global distributor of CloudHealth, and it widened that arrangement in November 2024. Sales, marketing and technical support now run through one reseller, which increases a customer's dependence on a third party for licensing and support escalation. It matches Broadcom's habit of narrowing its partner network to a few large, vetted resellers. Broadcom's chief executive has also said it is uncertain whether pursuing smaller VMware customers is worth the effort.
 
-Broadcom commercial pressures confirmed: Broadcom named Arrow Electronics the sole global distributor of CloudHealth in May 2024, moving direct sales, marketing, and technical support for the product through a single reseller, and expanded this arrangement further in November 2024. This is consistent with Broadcom's broader pattern of narrowing its partner network to a smaller number of large, vetted resellers rather than supporting direct or broad-partner routes to market, increasing procurement dependency on a single third party for licensing and support escalation. Broadcom's leadership has separately acknowledged prioritising its largest accounts across the VMware estate more broadly (Broadcom's chief executive has stated uncertainty over whether it is worth continuing to target smaller VMware customers), consistent with the exclusive, high-volume distribution model now applied to CloudHealth.
-
-Exit strategy findings (2025-2026): current FinOps market commentary frames CloudHealth migration as being driven primarily by the broader VMware relationship and licensing disruption following the 2023 Broadcom-VMware acquisition rather than by FinOps-specific product deficiencies, with Flexera One and IBM Apptio/Cloudability most consistently cited as direct enterprise-grade replacements, consistent with the alternatives already proposed in this row.
-
-Sources: VMware Tanzu blog, 'Broadcom (CloudHealth) Named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools' (blogs.vmware.com); VMware Tanzu blog, 'VMware Tanzu CloudHealth Named a Leader in Forrester Wave: Cloud Cost Management and Optimization, Q3 2024' (blogs.vmware.com); Arrow ECS, 'Arrow Electronics Becomes Sole Global Provider of Broadcom's Tanzu CloudHealth Offering' (arrow.com, May 2024); IBM Community, 'IBM Named a Leader in the 2025 Gartner Magic Quadrant' (community.ibm.com); Flexera, 'Flexera Named a Leader in 2024 Gartner Magic Quadrant for Cloud Financial Management Tools' (globenewswire.com); SDxCentral, 'Broadcom CEO not sure it's worth targeting smaller VMware customers'.
+Market commentary describes CloudHealth migrations as driven mostly by the wider VMware relationship and licensing disruption after the 2023 acquisition, not by shortcomings in FinOps features. No named organisation has publicly described leaving CloudHealth. Flexera One and IBM Apptio Cloudability are the replacements most consistently named, which supports the alternatives already proposed.
 
 ## IBM Replacement Strength
 
-Yes.
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-Migrate to Flexera One SaaS
+IBM Apptio Cloudability (alongside IBM-partnered Flexera One) delivers an enterprise FinOps and multi-cloud financial management platform that replaces VMware Tanzu CloudHealth. Broadcom's acquisition of VMware disrupted CloudHealth go-to-market channels by delegating all sales and support to a single distributor (Arrow Electronics) and deprioritizing non-core accounts. IBM Apptio Cloudability provides comprehensive multi-cloud cost allocation, native FinOps Open Cost and Usage Specification (FOCUS) standards support, granular AI/LLM tokenomics cost tracking, and automated rightsizing without third-party distributor lock-in.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-Flexera One SaaS
+IBM Apptio Cloudability
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – rated about 4.4 out of 5 from 44 Gartner Peer Insights ratings for cloud spend visibility, with complex configuration and a learning curve the main criticisms.
+IBM Apptio Cloudability is IBM's enterprise FinOps and cloud financial management platform. It ingests, normalizes, and analyzes multi-cloud billing and usage data across AWS, Azure, Google Cloud, and Kubernetes environments, empowering engineering, finance, and leadership teams to optimize cloud spend and manage unit economics.
 
-IBM partner Flexera One offer a good alternative. Both available through IBM.
+- **Multi-cloud cost visibility** — IBM Apptio Cloudability ingests and normalizes multi-cloud and containerized infrastructure costs, fully supporting the FinOps FOCUS v1.2 specification to deliver unified multi-cloud billing visibility, custom reporting, and showback/chargeback allocation.
+- **AI and Tokenomics Dashboard** — IBM Apptio Cloudability tracks and allocates enterprise AI infrastructure costs, including LLM token consumption, inference compute expenses, and per-million token costs across major model providers (watsonx, OpenAI, AWS Bedrock, Google Vertex AI).
+- **Optimisation and commitments** — IBM Apptio Cloudability provides automated rightsizing recommendations, commitment planning, and portfolio management across AWS Savings Plans / Reserved Instances, Azure Reservations, and Google Cloud Committed Use Discounts (CUDs).
+- **Governance and AI assistance** — IBM Apptio Cloudability features granular role-based access controls, automated budget anomaly alerts with encrypted webhook triggers, and conversational AI analytics to simplify forecasting and cost anomaly investigation.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
-(not provided)
+https://www.ibm.com/products/apptio/cloudability
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM Apptio SaaS
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 IBM Cloudability (Apptio) is the market leading enterprise replacement for complex multi-cloud financial allocation, showback/chargeback, and IT financial management.
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/apptio
 
+# Sources:
+
+## IBM Apptio Cloudability
+
+- IBM Apptio Cloudability Product Overview: https://www.ibm.com/products/apptio/cloudability
+- IBM FinOps Solutions with Apptio: https://www.apptio.com/solutions/finops/
+- Gartner Magic Quadrant for Cloud Financial Management Tools (IBM Leader): https://www.ibm.com/thought-leadership/gartner-mq-cloud-financial-management
+
 ## Sources: Analyst reviews and exist strategy
 
-Column D tightened for clarity and Australian spelling; substance was already accurate so retained. Column E verifies the existing Gartner claim, adds the previously unverified Forrester Wave Q3 2024 Leader recognition, confirms the Arrow Electronics exclusive-distributor arrangement with dates, and cross-checks that both listed alternatives are independently recognised Leaders in the same analyst reports.
+- VMware Tanzu blog, 'Broadcom (CloudHealth) Named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools' (blogs.vmware.com)
+- VMware Tanzu blog, 'VMware Tanzu CloudHealth Named a Leader in Forrester Wave: Cloud Cost Management and Optimization, Q3 2024' (blogs.vmware.com)
+- Arrow ECS, 'Arrow Electronics Becomes Sole Global Provider of Broadcom's Tanzu CloudHealth Offering' (arrow.com, May 2024)
+- IBM Community, 'IBM Named a Leader in the 2025 Gartner Magic Quadrant' (community.ibm.com)
+- Flexera, 'Flexera Named a Leader in 2024 Gartner Magic Quadrant for Cloud Financial Management Tools' (globenewswire.com)
+- SDxCentral, 'Broadcom CEO not sure it's worth targeting smaller VMware customers'
+- Arrow ECS, 'Arrow Electronics Becomes Sole Global Provider of Broadcom's Tanzu CloudHealth Offering' (https://www.arrow.com/globalecs/na/arrow-channel-advisor/cloudhealth-sole-distributor/)
 
 ## General Sources:
 
@@ -86,6 +99,12 @@ Column D tightened for clarity and Australian spelling; substance was already ac
 - About the New CloudHealth User Experience - TechDocs: https://techdocs.broadcom.com/us/en/vmware-tanzu/cloudhealth/tanzu-cloudhealth/saas/tnz-cloudhealth/exploring-cloudhealth-new-experience-about-cloudhealth-new-user-experience.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Searched for named organisations that left CloudHealth (2026-09-20). None was found, and the text says migration commentary blames the VMware relationship, not the product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Broadcom named a Leader in the 2025 Gartner Magic Quadrant for Cloud Financial Management Tools (report published 15 September 2025). No changes.

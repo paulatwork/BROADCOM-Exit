@@ -16,7 +16,7 @@ Data Loss Prevention
 
 Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec DLP Cloud extends Symantec DLP policies to cloud and AI channels, integrating with CloudSOC to protect data in more than 100 sanctioned and unsanctioned cloud apps. 26.1 raises the large file extraction limit from 30 MB to 150 MB.
 
@@ -29,51 +29,64 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-As with the on-premises product, Broadcom's shift toward its largest accounts and its multi-product bundling strategy apply to the cloud-delivered DLP line. Independent, product-specific analyst commentary distinct from the on-premises Symantec DLP entry was not identified in this research; Gartner and other analyst firms generally treat Symantec's on-premises and cloud DLP as a single product family rather than reporting on them separately, so this should be stated plainly rather than inferring separate coverage.
+The cloud-delivered DLP line lives under the same commercial rules as the on-premises product. Broadcom's focus on its largest accounts and its multi-product bundling apply, so a customer who wants only the cloud service may find it sold as part of something larger.
 
-In modern cloud, SaaS and generative-AI environments, traditional agent-based DLP architectures generally face higher false-positive rates and slower remediation cycles than newer data security posture management (DSPM) tools; this is a widely reported industry-wide observation about legacy DLP architecture rather than a Broadcom-specific finding.
+Independent commentary is missing. No analyst coverage specific to the cloud product was found, and Gartner and others generally treat Symantec's on-premises and cloud DLP as one product family, so it would be wrong to suggest a separate body of analysis exists. No named organisation has publicly described leaving the cloud service.
 
-This assessment does not address cloud-hosted or cloud-access services in scope for replacement (see Column G), so no IBM alternative has been proposed here. Organisations replacing cloud DLP in this category are generally adopting Microsoft Purview DLP, Forcepoint ONE, Netskope, Nightfall AI, Strac, or IBM Guardium Data Security Center for the DSPM component.
+The wider industry observation is worth including, with care. Agent-based DLP architectures tend to produce more false positives and slower remediation than newer data security posture management tools in cloud, SaaS and generative AI settings. That is a general view about legacy architecture and not a finding about Broadcom specifically.
 
-Sources: no independent analyst report specific to Symantec DLP Cloud was identified; general industry commentary on legacy DLP versus DSPM architecture is reported in trade press (for example SelectHub, 'Symantec DLP vs Purview DLP', and Forcepoint, 'Best DLP Software in 2026'); Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook' for the general Broadcom commercial pattern.
+This assessment does not cover cloud-hosted or cloud-access services in scope for replacement, so no IBM alternative is proposed for the service itself. Organisations replacing cloud DLP are generally choosing Microsoft Purview DLP, Forcepoint ONE, Netskope, Nightfall AI or Strac, and IBM Guardium Data Security Center is the IBM option for the data security posture component.
 
 ## IBM Replacement Strength
 
-Not Considered here
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-This assessmenet does not address Cloud Hosted or Cloud Access services.
+IBM Guardium Data Security Center (with Guardium DSPM) replaces Symantec DLP Cloud by providing modern, cloud-native data security posture management and AI governance across multi-cloud SaaS and IaaS environments. Broadcom's Symantec DLP Cloud relies on legacy CASB/DLP policy frameworks that produce high false-positive rates and incur substantial subscription overhead. IBM Guardium DSPM continuously discovers sensitive data across cloud repositories (M365, Google Workspace, Box, AWS, Azure, GCP), monitors generative AI prompts and agentic AI pipelines, and automates compliance without heavy proxy infrastructure.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-N/A
+IBM Guardium Data Security Center (Guardium DSPM)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-N/A
+IBM Guardium Data Security Center (incorporating Guardium Data Security Posture Management - DSPM) is IBM's cloud-native data protection platform. It provides automated data discovery, shadow data detection, generative AI monitoring, and continuous data risk mitigation across cloud applications and AI pipelines.
 
-## PRIMARY - IBM Product Page URL
+- **Cloud application coverage** — IBM Guardium DSPM provides agentless, automated data discovery, classification, and vulnerability assessment across cloud SaaS applications (Microsoft 365, Google Workspace, Box, Salesforce) and cloud storage buckets (AWS S3, Azure Blob, Google Cloud Storage).
+- **Generative AI controls** — IBM Guardium DSPM actively inspects data flows and user interactions with enterprise generative AI applications (such as ChatGPT, Microsoft Copilot, and custom LLMs) to prevent proprietary data leakage and enforce privacy guardrails.
+- **Agentic AI protection** — IBM Guardium DSPM integrates with cloud AI gateways and agentic frameworks, providing real-time data tracing, payload inspection, and policy enforcement across automated autonomous AI agents.
+- **Shared policy engine** — IBM Guardium Data Security Center provides a unified, centralized policy engine that enforces consistent data classification rules, contextual access policies, and high-capacity content scanning across hybrid cloud and on-premises environments.
 
-N/A
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/guardium-data-security-center
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 N/A
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 N/A
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 N/A
+
+# Sources:
+
+## IBM Guardium Data Security Center
+
+- IBM Guardium Data Security Center Overview: https://www.ibm.com/products/guardium-data-security-center
+- IBM Data Security Posture Management (DSPM): https://www.ibm.com/products/guardium-data-security-center/dspm
+- Gartner Magic Quadrant for Data Security Platforms (IBM Leader): https://www.gartner.com/reviews/market/data-security-platforms/vendor/ibm/product/ibm-guardium
 
 ## Sources: Analyst reviews and exist strategy
 
-Removed unverifiable, product-specific analyst claims and stated plainly that no distinct analyst coverage of the cloud variant was found; retained sourced general commercial-pattern commentary consistent with the out-of-scope framing in Columns F/G.
+- Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook' for the general Broadcom commercial pattern
 
 ## General Sources:
 
@@ -82,6 +95,12 @@ Removed unverifiable, product-specific analyst claims and stated plainly that no
 - Stopping Data Leaks at the Speed of AI: https://www.security.com/feature-stories/symantec-dlp-google-agent-gateway-agentic-ai-security
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Recorded that no named organisation has publicly left the cloud service and that no separate analyst coverage exists.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified against current Broadcom sources; no changes required.

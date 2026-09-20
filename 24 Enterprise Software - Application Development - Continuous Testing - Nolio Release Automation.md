@@ -16,7 +16,7 @@ Application Development - Continuous Testing
 
 Nolio Release Automation
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Nolio Release Automation is Broadcom's application release orchestration product. Version 6.9 is the latest documented (6.9.0 release notes).
 
@@ -29,51 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst and customer commentary: no current Gartner Magic Quadrant, Forrester Wave, or IDC MarketScape coverage specific to Nolio Release Automation was located; the product is not tracked as a standalone category in current analyst research. Independent PeerSpot reviews describe Nolio as functionally capable but expensive, with a licensing model reviewers describe as difficult to sell internally, and include direct customer scepticism about ongoing investment: one enterprise reviewer stated that CA was not investing in the product any further and reported being approached by CA about migrating to the Automic platform instead, with continued support promised for only two to three years.
+The clearest account of Nolio Release Automation's position comes from a customer. An enterprise reviewer on PeerSpot said CA was not investing in the product any further and that CA had approached them about migrating to the Automic platform instead, with continued support promised for only two to three years. The same reviews describe Nolio as capable but expensive, with a licensing model that is hard to justify internally.
 
-Broadcom/CA commercial pressures: Broadcom issued a formal end-of-service notice for Nolio Release Automation v6.6 in 2021 (technical support ended September 2022), pushing customers onto v6.7 and later v6.9. This pattern of forced version upgrades and limited further development is consistent with reduced standalone investment in a legacy product line acquired with CA Technologies in 2018, with Broadcom's release-orchestration attention having shifted toward Automic and newer DevOps/CI-CD integrations.
+The lifecycle record fits that account. Broadcom issued a formal end-of-service notice for Nolio Release Automation version 6.6 in 2021, and technical support ended in September 2022, which pushed customers onto 6.7 and later 6.9. That pattern of forced upgrades and limited new development points to reduced standalone investment in a product acquired with CA Technologies in 2018, while Broadcom's release orchestration attention moved to Automic and newer DevOps and CI/CD integrations.
 
-Exit strategy findings (2025-2026): organisations are replacing legacy, agent-heavy Application Release Automation tools with GitOps-native and cloud-first continuous delivery platforms. Realistic alternatives include IBM DevOps Deploy (formerly UrbanCode Deploy), Red Hat OpenShift GitOps/Argo CD, GitLab CI/CD, and Harness, consistent with the alternatives already listed in this row.
+No current Gartner, Forrester or IDC coverage specific to Nolio was located, and it is not tracked as a category of its own. No named organisation has publicly described leaving it, so the reviewer above is the best available voice.
 
-Sources: PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (peerspot.com); Broadcom Support Portal, 'End-of-Service Announcement for Nolio Release Automation v6.6' (support.broadcom.com); Broadcom TechDocs, Nolio Release Automation 6.9 documentation (techdocs.broadcom.com).
+Organisations replacing older, agent-heavy release automation tools are choosing GitOps-native and cloud-first delivery platforms. IBM DevOps Deploy, formerly UrbanCode Deploy, Red Hat OpenShift GitOps with Argo CD, GitLab CI/CD and Harness are the realistic candidates.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM DevOps Deploy (formerly UrbanCode Deploy) replaces Broadcom Nolio Release Automation by providing a modern, multi-tier application release and deployment orchestration platform. Broadcom has largely halted investment in Nolio, pushing users toward Automic while issuing end-of-service notices and demanding steep renewal increases. IBM DevOps Deploy delivers battle-tested hybrid-cloud and mainframe release automation, push-button rollbacks, automated governance gates, and native integration with GitOps (Argo CD, Red Hat OpenShift) at significantly greater architectural stability and lower TCO.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-(not provided)
+IBM DevOps Deploy
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-(not provided)
+IBM DevOps Deploy (formerly IBM UrbanCode Deploy) is IBM's enterprise application release automation and continuous deployment orchestration solution. It automates complex application deployments, environment configurations, and release quality gates across hybrid cloud, distributed middleware, and mainframe systems.
 
-## PRIMARY - IBM Product Page URL
+- **Deployment orchestration** — IBM DevOps Deploy automates and orchestrates multi-tier application deployments across development, testing, staging, and production environments from a single centralized web console.
+- **Reusable automation content** — IBM DevOps Deploy provides hundreds of out-of-the-box plug-ins and reusable deployment action steps covering major application servers, middleware, databases, cloud platforms, and operating systems.
+- **Governance and approvals** — IBM DevOps Deploy enforces granular role-based approvals, automated quality and security gates, detailed audit compliance logging, and one-click automated rollbacks to minimize deployment risk.
+- **Current platform support** — IBM DevOps Deploy offers broad modern platform support across RHEL, Windows Server, enterprise databases, containerized Kubernetes/OpenShift environments, and secure SAML2/OIDC single sign-on authentication.
 
-(not provided)
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/devops-deploy
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM DevOps Deploy
+
+- IBM DevOps Deploy Product Overview: https://www.ibm.com/products/devops-deploy
+- IBM Documentation — DevOps Deploy (UrbanCode Deploy): https://www.ibm.com/docs/en/urbancode-deploy
+- Gartner Peer Insights — IBM DevOps Deploy Reviews: https://www.gartner.com/reviews/market/application-release-orchestration/vendor/ibm/product/ibm-urbancode-deploy
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D fully rewritten from a two-word marketing fragment into an accurate product description based on Broadcom TechDocs and product pages. Column E adds a directly sourced customer quote on reduced Broadcom/CA investment and the documented 2021 end-of-service notice, giving concrete evidence for the reduced-investment narrative that was previously only asserted generically.
+- PeerSpot, 'Nolio Release Automation Reviews, Competitors and Pricing' (peerspot.com)
+- Broadcom Support Portal, 'End-of-Service Announcement for Nolio Release Automation v6.6' (support.broadcom.com)
+- Broadcom TechDocs, Nolio Release Automation 6.9 documentation (techdocs.broadcom.com)
 
 ## General Sources:
 
@@ -81,6 +96,12 @@ Column D fully rewritten from a two-word marketing fragment into an accurate pro
 - Nolio Release Automation 6.9 (PDF): https://techdocs.broadcom.com/content/dam/broadcom/techdocs/us/en/pdf/ca-enterprise-software/intelligent-automation/release-automation-nolio/nolio-consolidated/nolio-release-automation-6-9.pdf
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative built around the reviewer account of CA steering customers to Automic.
+- Recorded that no named organisation has publicly left the product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Nolio Release Automation 6.9 is current (version list 6.9, 6.8; documentation updated 8 May 2026). No changes.

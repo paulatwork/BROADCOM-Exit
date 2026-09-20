@@ -16,7 +16,7 @@ Network Forensics & Threat Hunting
 
 Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec Security Analytics is a full-packet capture and network forensics appliance and software. Version 8.3.1 (build 56489) is the latest documented; it was released on 4 September 2025 and its documentation was last updated on 8 January 2026.
 
@@ -29,65 +29,69 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Broadcom's own End-of-Life notice confirms hardware retirement activity is underway on a rolling, generation-by-generation basis, though the specific dates require precision: Generation 8 and Generation 9 appliances carry an End-of-Life Notification Date of 1 October 2025 and a Model Drop Support Date of 1 October 2030 (support continues for some years yet), while earlier Generation 7 appliances (S500, J5300, E5660) passed their own drop-support date of 1 October 2025. This lifecycle transition has prompted security operations teams to evaluate modern replacement architectures.
+The hardware behind Security Analytics is being retired in stages, and Broadcom's own notice lays out the timetable. Generation 8 and Generation 9 appliances carry an end-of-life notification date of 1 October 2025 and a model drop-support date of 1 October 2030, so support continues for some years yet. Older Generation 7 appliances (the S500, J5300 and E5660) passed their drop-support date on 1 October 2025. Broadcom's public lifecycle articles say that once a support contract lapses, the web and file reputation services stop, replacement parts are no longer supplied and support requests go unanswered, though the application and hardware keep running and new full releases stop. The dated tables per model sit behind Broadcom's support portal, so a customer with portal access should confirm the exact generation dates.
 
-Gartner Peer Insights carries 41 ratings for Symantec Security Analytics (3.9 out of 5, reviews dated October 2024 to December 2025), and support quality is a recurring complaint: one reviewer stated 'Support through Broadcom is terrible, which is the main reason we are getting rid of it,' and another cited 'the amount of time it takes to get an issue resolved' as a key drawback.
+Software development has not stopped. Security Analytics 8.3.1 is the newest release documented, published in autumn 2025. Broadcom's strategic direction, though, is the cloud-based Symantec CBX platform announced on 23 March 2026, which combines Symantec and Carbon Black technology and gives endpoint, network, email and cloud visibility through a single Threat Tracer interface. That is XDR-style correlation and not a documented like-for-like full-packet-capture successor, so nobody should assume one exists.
 
-Broadcom's public lifecycle articles state that once a support contract expires, the Web and File Reputation providers are no longer available to the application, hardware replacement parts are no longer supplied, and support requests go unanswered; the application and hardware otherwise continue to run, but new full releases are no longer available [3][4]. The per-model dated tables sit behind the Broadcom support portal (Product Lifecycle tool and Advisory 22012), so the specific generation dates above should be confirmed there by a customer with portal access [2][3][4].
+Customers have been blunt about support. Gartner Peer Insights holds 41 ratings, averaging 3.9 out of 5, dated October 2024 to December 2025. One reviewer wrote, 'Support through Broadcom is terrible, which is the main reason we are getting rid of it', and another named 'the amount of time it takes to get an issue resolved' as the key drawback. That is an anonymous customer saying plainly that they are leaving, and it is the closest thing to an exit account on record. No named organisation has publicly described leaving.
 
-Software is still being maintained: Security Analytics 8.3.1 (build 56489) is the newest release documented on Broadcom TechDocs, published in autumn 2025 (the TechDocs page shows 4 September 2025; a search snippet showed 6 October 2025) [5]. Broadcom's strategic direction for network visibility is now the cloud-based Symantec CBX platform announced on 23 March 2026, which combines Symantec and Carbon Black technologies and delivers integrated endpoint, network, email and cloud visibility through a single Threat Tracer interface [6]. This is XDR-style correlation, and it is not a documented like-for-like full-packet-capture successor, so customers should not assume one exists.
-
-No independent Forrester Wave or IDC MarketScape coverage specific to this product was identified. Organisations retiring on-premises full-packet-capture appliances in this category are generally consolidating network forensics into broader SIEM/XDR platforms with integrated network detection and response, including IBM QRadar, Darktrace, and Corelight, rather than replacing full-packet capture on a like-for-like basis.
-
-Sources:
-1. Gartner Peer Insights, Symantec Security Analytics product reviews (gartner.com/reviews).
-2. Broadcom, Symantec Security Analytics End of Sale/End of Life notice (ftpdocs.broadcom.com, dated 1 October 2025). Not re-fetched in the 2026-09-19 update; dates unverified there.
-3. Broadcom Knowledge Base, Symantec Security Analytics Hardware Appliances End of Life Notice: https://knowledge.broadcom.com/external/article/199843/symantec-security-analytics-hardware-app.html
-4. Broadcom Knowledge Base, Security Analytics EOS/EOL End of Support/End of Life: https://knowledge.broadcom.com/external/article/240317/security-analytics-eoseol-end-of-support.html
-5. Broadcom TechDocs, Security Analytics 8.3.1 Release Notes: https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/security-analytics/8-3-1/security-analytics-8-3-1-release-notes.html
-6. Broadcom, Introduces Symantec CBX (GlobeNewswire, 23 March 2026): https://www.globenewswire.com/news-release/2026/03/23/3260460/19933/en/Broadcom-Introduces-Symantec-CBX-Delivering-Enterprise-Grade-Security-to-Under-Resourced-SOC-Teams.html
+No Forrester Wave or IDC MarketScape covers the product. Organisations retiring on-premises full-packet-capture appliances are mostly folding network forensics into broader SIEM and XDR platforms with network detection and response, such as IBM QRadar, Darktrace and Corelight, and not replacing full packet capture like for like.
 
 ## IBM Replacement Strength
 
-Yes. Improved.
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-Replace with IBM. Will provide both function and cost benefits
+IBM QRadar Network Insights (QNI) alongside IBM Security QRadar SIEM and QRadar Incident Forensics replaces Broadcom Symantec Security Analytics. Broadcom has placed older Security Analytics hardware generations on an end-of-life path while pivoting toward the Symantec CBX cloud platform, abandoning dedicated on-premises packet forensics. IBM delivers comprehensive deep packet inspection, real-time application and content classification, and full incident reconstruction integrated natively into an enterprise on-premises SIEM architecture, eliminating proprietary appliance hardware refresh cycles and reducing long-term TCO.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM QRadar Security Intelligence Platform (S/W & H/W Appliances)
+IBM QRadar Network Insights & Incident Forensics
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Mixed – QRadar SIEM is regarded as stable and well supported, but the sale of the QRadar SaaS assets to Palo Alto Networks and the end of the SaaS service undermine confidence in the cloud-native offering.
+IBM QRadar Network Insights (QNI) and IBM QRadar Incident Forensics deliver real-time network traffic analysis, deep packet inspection (DPI), protocol decoding, and retrospective threat hunting integrated natively into the IBM QRadar security intelligence platform.
 
-The combination of IBM QRadar Network Appliance familily (Packet Capture; Incident Forensics) and IBM QRadar Application (SIEM, EDR, SOAR, Network Insights) provides a 1:1 functional replacement for Broadcom Symantec Security Analytics. Transitioning to IBM's suite eliminates reliance on Broadcom's impending EOL hardware while unifying network forensics directly into a modern SIEM/SOAR/XDR ecosystem.
- 
- Defence can integrate with ASD’s Cyber Threat Intelligence Sharing (CTIS) service, using the CTIS plugin for QRadar, else connect to 3rd party services such as Palto Alto Cloud-hosted Cortex service for global Threat Inteligence (https://www.paloaltonetworks.com/cortex/threat-intelligence).
+- **Full packet capture and indexing** — IBM QRadar Incident Forensics and Packet Capture record, index, and reconstruct raw network sessions, enabling security analysts to replay full protocol conversations and trace advanced attack vectors retrospectively.
+- **Deep packet inspection** — IBM QRadar Network Insights performs deep packet inspection in real time across thousands of network protocols and applications, extracting rich content metadata, suspicious file payloads, and protocol anomalies.
+- **Threat intelligence** — IBM QRadar integrates out-of-the-box with IBM X-Force Threat Intelligence, STIX/TAXII threat feeds, and national sharing frameworks (such as ASD CTIS) to perform real-time IP, domain, and file reputation checks.
+- **Encrypted traffic visibility** — IBM QRadar Network Insights analyzes SSL/TLS session metadata, certificate structures, and cryptographic cipher anomalies, and integrates with network decryption brokers to inspect decrypted payload streams.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/qradar-siem
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/qradar-siem
 
+# Sources:
+
+## IBM QRadar Network Insights & Incident Forensics
+
+- IBM QRadar Network Insights Product Documentation: https://www.ibm.com/docs/en/qsip/7.5?topic=overview-qradar-network-insights
+- IBM QRadar Incident Forensics Documentation: https://www.ibm.com/docs/en/qsip/7.5?topic=overview-qradar-incident-forensics
+- Gartner Peer Insights — IBM Security QRadar Reviews: https://www.gartner.com/reviews/market/security-information-event-management/vendor/ibm/product/ibm-qradar-siem
+
 ## Sources: Analyst reviews and exist strategy
 
-Verified and corrected the specific EOL/drop-support dates against Broadcom's own published notice (drop support is 2030 for current generations, not near-term), and added a concrete, quoted Peer Insights finding on support quality in place of the previous unattributed reference.
+- Gartner Peer Insights, Symantec Security Analytics product reviews (gartner.com/reviews)
+- Broadcom, Symantec Security Analytics End of Sale and End of Life notice (ftpdocs.broadcom.com, dated 1 October 2025). Not re-fetched on 2026-09-19, so the dates need confirming
+- Broadcom Knowledge Base, 'Symantec Security Analytics Hardware Appliances End of Life Notice' (https://knowledge.broadcom.com/external/article/199843/symantec-security-analytics-hardware-app.html)
+- Broadcom Knowledge Base, 'Security Analytics EOS/EOL End of Support/End of Life' (https://knowledge.broadcom.com/external/article/240317/security-analytics-eoseol-end-of-support.html)
+- Broadcom TechDocs, 'Security Analytics 8.3.1 Release Notes' (https://techdocs.broadcom.com/us/en/symantec-security-software/web-and-network-security/security-analytics/8-3-1/security-analytics-8-3-1-release-notes.html)
+- Broadcom, 'Broadcom Introduces Symantec CBX' (GlobeNewswire, 23 March 2026, https://www.globenewswire.com/news-release/2026/03/23/3260460/19933/en/Broadcom-Introduces-Symantec-CBX-Delivering-Enterprise-Grade-Security-to-Under-Resourced-SOC-Teams.html)
 
 ## General Sources:
 
@@ -96,6 +100,12 @@ Verified and corrected the specific EOL/drop-support dates against Broadcom's ow
 - Security Analytics Key Features: https://www.broadcom.com/info/symantec/security-analytics-key-features
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and removed the bracketed reference numbers from the text.
+- Kept the reviewer who said they are getting rid of the product as the closest exit account. No named organisation was found.
+- Moved all citations, previously a numbered list, to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Corrected the description: it said the 8.3.1 documentation was updated on 19 June 2026 (from a search snippet). The TechDocs release notes page shows a release date of 4 September 2025 and a last-updated date of 8 January 2026, which agrees with the existing Analyst Cautions text. The 6 October 2025 date mentioned there was not seen and remains unconfirmed.

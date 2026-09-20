@@ -16,7 +16,7 @@ AIOps and Observability
 
 Application Performance Management
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 DX APM (formerly CA APM and Wily Introscope) provides application performance monitoring within DX Operational Observability. The agent release line is current (26.8.1 in 2026), with centralised agent management and Kubernetes operator support.
 
@@ -29,53 +29,68 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-PeerSpot user reviews of DX Application Performance Management provide specific, verifiable evidence. Reviewers cite a licensing model "based on agent count rather than usage," with annual renewal increases "reportedly ~20%+," and describe the product as "generally perceived as expensive versus modern alternatives." Reported technical limitations include missing AI/ML capabilities compared with Dynatrace, limited cloud and container support (including OpenShift 4 compatibility issues), and inconsistent support quality through the ticketing system. Broadcom's own support portal has issued an end-of-life notice for legacy DX APM versions (including 23.3), confirming the lifecycle-deadline pressure already noted in this row. Broadcom's announcement gives 30 December 2025 as the date technical support for DX APM 23.3 ended and recommends migrating to DX Operational Observability 24.2.
+Reviewers of DX Application Performance Management on PeerSpot describe a product that is expensive and ageing. Licensing is 'based on agent count rather than usage', renewal increases are 'reportedly ~20%+', and the product is 'generally perceived as expensive versus modern alternatives'. They also point to missing AI and machine learning features compared with Dynatrace, limited cloud and container support, including OpenShift 4 compatibility problems, and support that varies in quality through the ticketing system.
 
-Analyst standing: Broadcom (as CA Technologies) was last named a Leader in Gartner's Magic Quadrant for Application Performance Monitoring Suites in 2019, the final edition of that named research. Gartner has since replaced it with the Magic Quadrant for Application Performance Monitoring and Observability, and Broadcom does not appear among the vendors publicly named as Leaders in current vendor-published summaries of the 2025-2026 research, which instead cite Datadog, Dynatrace, Elastic, New Relic and Grafana. This is treated as an indicator of declining analyst visibility rather than a confirmed ranking, since the full current Magic Quadrant document itself was not sighted.
+Broadcom's own lifecycle notices add urgency. Technical support for DX APM 23.3 ended on 30 December 2025, and Broadcom recommends moving to DX Operational Observability 24.2, so customers are being pushed onto a new licensing model whether they want to move or not.
 
-Exit strategy: the alternatives already listed in this row (IBM Instana, Dynatrace, Datadog, New Relic) are consistent with the vendors organisations are independently reported to be adopting for automated, agentless APM, and are realistic.
+The analyst picture has faded. As CA Technologies, Broadcom was last named a Leader in Gartner's Magic Quadrant for application performance monitoring suites in 2019, the final edition under that name. Gartner has since replaced it with a report on application performance monitoring and observability, and vendor summaries of the 2025 and 2026 research name Datadog, Dynatrace, Elastic, New Relic and Grafana as Leaders, not Broadcom. The full report was not seen, so this is an indicator and not a confirmed ranking.
 
-Sources: PeerSpot, "Broadcom DX Application Performance Management Reviews" (peerspot.com); Broadcom Support Portal, DX APM end-of-life announcement (support.broadcom.com); Broadcom/GlobeNewswire, "Broadcom Named a Leader in the Gartner Magic Quadrant for Application Performance Monitoring Suites for Second Consecutive Year" (globenewswire.com, 2019), cited to establish the last confirmed Leader placement.
+No named organisation has publicly described leaving DX APM. Broadcom, for its part, runs a customer-research page titled 'Customers Applaud CA APM over Dynatrace', which is vendor-commissioned and should be read that way. IBM Instana, Dynatrace, Datadog and New Relic remain the realistic destinations for automated, agentless monitoring.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Instana Observability replaces Broadcom DX APM (legacy CA Wily Introscope) with a modern, zero-touch application performance monitoring solution. Broadcom DX APM imposes heavy agent maintenance overhead, per-agent licensing penalties with 20%+ renewal increases, and lagging support for containerized cloud platforms. IBM Instana eliminates manual agent configuration through automated discovery and continuous code profiling, captures unsampled end-to-end transactions, and provides deep mainframe-to-cloud visibility at a significantly lower operational and commercial footprint.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability (APM)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – rated about 4.3 stars from roughly 265 Gartner Peer Insights reviews for easy dashboards and automatic discovery, with no consistent criticism surfaced in this pass.
+IBM Instana Observability is IBM's automated Application Performance Monitoring (APM) and full-stack observability solution. It continuously monitors, traces, and profiles distributed microservices, legacy monoliths, and enterprise middleware with 1-second metric resolution and zero manual instrumentation.
 
-Traditional Application Performance Management (APM) solutions often fall short in delivering the visibility needed to fix problems before they impact the end user. IBM Instana Observability delivers an automated, zero-touch Application Performance Monitoring (APM) platform designed to replace legacy Wily Introscope agents. It captures 100% of end-user transactions without sampling, profiles code-level execution in real time, maps dynamic microservice topologies, and isolates offending code lines automatically without manual agent configuration.
+- **Code-level application monitoring** — IBM Instana automatically injects runtime sensors into Java, .NET, Node.js, Python, Go, and PHP applications, capturing 100% of distributed transactions and profiling code-level execution down to exact method calls and database statements without sampling.
+- **Centralised agent management** — IBM Instana utilizes a single, lightweight host agent with automated dynamic sensor loading and centralized over-the-air version management, eliminating manual agent installation, bundle updates, and proxy configuration.
+- **Kubernetes and container support** — IBM Instana features an automated Kubernetes operator and OpenShift Certified Operator that instantly discovers containerized pods, microservice dependencies, and dynamic cluster topologies without manual tagging.
+- **Platform coverage** — IBM Instana provides industry-leading platform coverage from modern public clouds and Kubernetes clusters to enterprise middleware, including deep tracing for IBM WebSphere, WebSphere Liberty on z/OS, and mainframe transactions.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/instana/application-performance-monitoring
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Instana Observability (APM)
+
+- IBM Instana Application Performance Monitoring Product Overview: https://www.ibm.com/products/instana/application-performance-monitoring
+- IBM Instana Mainframe and z/OS Tracing Capabilities: https://medium.com/ibm-cloud/enabling-instana-tracing-for-websphere-and-liberty-on-z-os-environment-278d30684b8b
+- Gartner Peer Insights — IBM Instana Observability Reviews: https://www.gartner.com/reviews/market/observability-platforms/vendor/ibm/product/ibm-instana-observability
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- PeerSpot, "Broadcom DX Application Performance Management Reviews" (peerspot.com)
+- Broadcom Support Portal, DX APM end-of-life announcement (support.broadcom.com)
+- Broadcom/GlobeNewswire, "Broadcom Named a Leader in the Gartner Magic Quadrant for Application Performance Monitoring Suites for Second Consecutive Year" (globenewswire.com, 2019), cited to establish the last confirmed Leader placement
+- Broadcom, 'DX Application Performance Management (APM)' customer success page (https://www.broadcom.com/info/aiops/customer-success-dx-application-performance-management) [vendor-published]
+- TechValidate, 'Customers Applaud CA APM over Dynatrace' (https://www.techvalidate.com/portals/customers-applaud-ca-apm-over-dynatrace) [vendor-commissioned]
 
 ## General Sources:
 
@@ -84,6 +99,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - DX Operational Observability SaaS Release Notes: https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-operational-observability/saas/release-notes.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Searched for named organisations that replaced CA APM or DX APM with Dynatrace (2026-09-20). None was found, and the text now says so.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Analyst Cautions: added the verified date (30 December 2025) and recommended migration target (DX Operational Observability 24.2) from Broadcom's DX APM 23.3 end-of-life announcement.

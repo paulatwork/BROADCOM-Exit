@@ -16,7 +16,7 @@ Identity and Access Management
 
 SiteMinder
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec SiteMinder is a web access management and federation platform. Release 12.9 is now documented (with a 12.9.1 service pack listed), following 12.8.08. Version 12.9 adds Windows Server 2025 support, native ODBC drivers, vault provider integration and expanded federation and VIP Authentication Hub integration.
 
@@ -29,55 +29,68 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-SiteMinder holds a 4.0 out of 5 rating on Gartner Peer Insights from 36 reviews. Reviewers describe it as stable and straightforward to administer without requiring specialised certification, but consistently note that its user interface and experience are dated, with one reviewer stating the user experience is '2-3 generations behind' comparable modern access management products and in need of a complete refresh.
+SiteMinder is the sort of product that people trust and grumble about in the same breath. Gartner Peer Insights gives it 4.0 out of 5 from 36 reviews. Reviewers call it stable and easy to run without specialist certification, but they keep returning to its dated interface, and one said the user experience is '2-3 generations behind' comparable access management products and needs a complete refresh. It is rated by far fewer reviewers than newer rivals, with Okta Workforce Identity and Microsoft Entra ID each carrying several hundred more, and no independent Magic Quadrant or Forrester Wave placement specific to SiteMinder as a standalone product was found.
 
-There is a well-established, named market of vendors selling migration tooling and services specifically to move organisations off SiteMinder and other legacy WAM platforms, including Okta ('CA SiteMinder Migration Guide' and 'WAM Modernization and Migration Guide'), Strata.io ('How to move from SiteMinder to Okta'), and Datawiza. The existence of dedicated, named migration products from multiple independent vendors is a reasonable indicator of an active exit trend for this product category, distinct from a formal analyst ranking.
+What sets SiteMinder apart in this schedule is that a market has grown up around leaving it. Okta publishes a 'CA SiteMinder Migration Guide' and a guide on modernising web access management, Strata.io publishes 'How to move from SiteMinder to Okta', and Datawiza offers migration tooling as well. Several independent vendors selling dedicated migration products is a reasonable sign of an active exit trend, though it is not an analyst ranking.
 
-No independent Gartner Magic Quadrant or Forrester Wave placement specific to SiteMinder as a standalone product was identified. Gartner's Access Management category on Peer Insights shows it rated and reviewed at materially lower volume than newer competitors in the same category (for example Okta Workforce Identity and Microsoft Entra ID each carry several hundred more reviews at the time of this review).
+There is a customer story too, although the organisation is unnamed. One of the largest credit unions in the United States, with about 20,000 employees, retired SiteMinder ahead of schedule and moved its business-critical applications to Microsoft Entra ID without disruption. Its legacy identity provider was nearing end of support, and it avoided a costly renewal by leaving before the deadline. In its own words, 'SiteMinder was not working for us anymore, and we wanted to deprecate it.' The account was published by Strata, which supplied the tooling, so it is vendor material.
 
-Broadcom's bundled licensing and core-account commercial strategy apply to SiteMinder as part of the wider identity portfolio.
-
-Sources: Gartner Peer Insights, 'Symantec SiteMinder Reviews & Ratings' (gartner.com/reviews); Okta, 'CA SiteMinder Migration Guide' and 'WAM Modernization and Migration Guide' (okta.com); Strata.io, 'How to move from SiteMinder to Okta' (strata.io).
+Broadcom's bundled licensing and core-account strategy apply to SiteMinder as part of the identity portfolio.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Security Verify Access (formerly IBM Security Access Manager - ISAM) alongside IBM Security Verify replaces Broadcom Symantec SiteMinder (CA SiteMinder). Broadcom SiteMinder is a legacy web access manager with a dated interface ('2-3 generations behind' modern alternatives), expensive licensing renewals, and complex maintenance. IBM Security Verify Access delivers high-performance web access control, containerized deployment, modern standards-based identity federation (SAML/OIDC/OAuth), and the zero-code IBM Application Gateway to modernize legacy applications without code changes.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Security Verify
+IBM Security Verify Access (formerly ISAM)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – reviewers cite strong security features, single sign-on, passwordless access and easy deployment, with slowness and console complexity the main criticisms.
+IBM Security Verify Access is IBM's enterprise Web Access Management (WAM) and identity federation platform. It provides centralized policy-based authentication, single sign-on (SSO), reverse-proxy web protection, and context-aware authorization across legacy web applications, modern APIs, and hybrid multi-cloud environments.
 
-IBM Security Verify is fundamentally an Identity and Access Management (IAM / IDaaS) and Web Access Management (WAM) platform rather than a full network-level VPN or standalone packet-level Zero Trust Network Access (ZTNA) tunnel solution. Defence would use the Verify suite across its entire identity landscape.
+- **Web access management and SSO** — IBM Security Verify Access delivers robust, high-performance web single sign-on, reverse-proxy access control, and fine-grained authorization policies that secure web applications across distributed environments.
+- **Federation and token management** — IBM Security Verify Access provides native federation engine capabilities supporting SAML 2.0, OpenID Connect, OAuth 2.0, JSON Web Tokens (JWT/JWKS), and federation REST APIs for cross-domain authentication.
+- **Vault integration (12.9)** — IBM Security Verify Access integrates directly with external enterprise credential vaults (including IBM Security Verify Privilege Vault and HashiCorp Vault) to dynamically retrieve directory and database credentials.
+- **Platform and identity integration** — IBM Security Verify Access supports flexible containerized deployment on Red Hat OpenShift and Kubernetes, native relational directory connections (DB2, Oracle, PostgreSQL, SQL Server), and modern operating system platforms.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/security-verify
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Security Verify Access
+
+- IBM Security Verify Access Product Overview: https://www.ibm.com/products/verify
+- IBM Security Verify Access Documentation: https://www.ibm.com/docs/en/sva
+- Gartner Peer Insights — IBM Security Verify Access Reviews: https://www.gartner.com/reviews/market/access-management/vendor/ibm/product/ibm-verify
 
 ## Sources: Analyst reviews and exist strategy
 
-Column E previously contained only a two-word placeholder ('Reverse proxy access management gateway'). Replaced with researched, sourced content covering real Peer Insights ratings and quotes and the existence of a named third-party SiteMinder migration tooling market. Expanded and tightened Column D with a sentence on typical deployment pattern.
+- Gartner Peer Insights, 'Symantec SiteMinder Reviews & Ratings' (gartner.com/reviews)
+- Okta, 'CA SiteMinder Migration Guide' and 'WAM Modernization and Migration Guide' (okta.com)
+- Strata.io, 'How to move from SiteMinder to Okta' (strata.io)
+- Strata, 'Credit Union SiteMinder Migration' (https://www.strata.io/customers/credit-union-siteminder-migration/) [vendor-published customer story, organisation unnamed]
+- Okta, 'CA SiteMinder Migration Guide' (https://www.okta.com/resources/guides/ca-siteminder-migration-guide/) [vendor-authored]
 
 ## General Sources:
 
@@ -87,6 +100,12 @@ Column E previously contained only a two-word placeholder ('Reverse proxy access
 - New Features in 12.9: https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/siteminder/12-9/release-notes/New-Features/new-features-in-12-9.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Added the credit union that retired SiteMinder for Microsoft Entra ID, with its quote and the caveats that the organisation is unnamed and the account is vendor-published.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Corrected the current release: SiteMinder 12.9 documentation is published (12.9 features verified; a 12.9a release adds OpenShift routes), so 12.8.08 was no longer the latest. Description and key features rewritten. The 12.9.1 release date could not be confirmed (a Broadcom article gave a tentative early Q2 2026 schedule, and the page was no longer retrievable).

@@ -16,7 +16,7 @@ AI-Driven Planning & Execution Layer
 
 ValueOps by Broadcom - Vaia
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Vaia is Broadcom's AI assistant built into the ValueOps platform, including Clarity Vaia (available in Clarity 16.4.x) and AI features in Rally. It is positioned as a governed decision advisor that provides contextual insight and foresight over portfolio, planning and delivery data using natural language.
 
@@ -29,48 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst cautions and commercial pressures: Vaia was launched during 2025 and, as at this review, is too recent to have accumulated independent analyst coverage. No Gartner Peer Insights, Forrester or IDC report specific to Vaia was identified, and this absence should be stated plainly rather than assumed to reflect either strength or weakness. It is reasonable to note the general industry caution around vendor-proprietary AI features bundled into a single platform, including uncertain future consumption-based pricing and the difficulty of comparing an embedded assistant against open, multi-vendor alternatives, but no product-specific report substantiates this concern for Vaia at this time; it is a reasonable inference from Broadcom's documented bundling and pricing pattern rather than a confirmed, Vaia-specific finding.
+Vaia arrived in 2025, and at this review it is too new to have any independent analyst coverage. No Gartner Peer Insights, Forrester or IDC report specific to it was found. That is a plain absence and should not be read as strength or weakness.
 
-Broadcom exit strategies and market alternatives: none of the four alternatives currently listed in this row is a precise like-for-like replacement for Vaia. IBM watsonx and IBM Concert are broad AI and AIOps platforms rather than embedded portfolio-planning assistants, and Atlassian Intelligence and GitHub Copilot are built for work-item drafting and code generation respectively, not strategic portfolio or agile capacity planning. A more directly comparable alternative would be the equivalent embedded AI features now being added by Planview and ServiceNow to their own SPM and agile planning tools; this gap should be flagged to the client rather than presented as a straightforward substitution.
-Sources: ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "Clarity Vaia: Purpose-Built AI for Strategic Leadership" (valueops.broadcom.com/blog/vaia-the-future-of-valueops-with-ai; valueops.broadcom.com/blog/clarity-vaia-purpose-built-ai-for-strategic-leadership-video) [vendor-published, used only to confirm launch timing and feature scope]; no independent analyst source identified as at September 2026.
+The reasonable caution is one of inference, not evidence. Vendor-proprietary AI features bundled into a single platform raise questions about future consumption-based pricing, and it is hard to compare an embedded assistant against open, multi-vendor tools. Broadcom's pricing and bundling record makes that worry sensible, but no report has confirmed it for Vaia.
+
+There is also no exit story to tell. A product this young has no customers who have publicly left it, and no named organisation has done so.
+
+On alternatives, be careful. None of the four alternatives named for Vaia is a precise replacement. IBM watsonx and IBM Concert are broad AI and AIOps platforms, not assistants embedded in portfolio planning. Atlassian Intelligence drafts work items, and GitHub Copilot generates code. Neither covers strategic portfolio or agile capacity planning. The closest comparison is the AI features that Planview and ServiceNow are adding to their own portfolio and agile planning tools. Present this to the client as a gap to assess, not as a straight swap.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM watsonx.governance combined with IBM Concert and IBM Apptio AI capabilities delivers an enterprise-wide, open, and governed AI decision framework far superior to Broadcom's locked-in Vaia assistant. Broadcom Vaia operates solely as an internal generative feature inside Clarity and Rally, with zero enterprise portability and subject to Broadcom's restrictive bundle licensing. IBM provides transparent, audit-ready AI governance through watsonx.governance (tracking model drift, prompt fairness, explainability, and lifecycle compliance), while pairing with IBM Apptio Targetprocess AI for intelligent portfolio forecasting and natural language status reporting across multi-vendor tools.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-(not provided)
+IBM watsonx.governance
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-(not provided)
+IBM watsonx.governance is IBM's enterprise AI governance and decision assurance platform that directs, manages, and monitors generative AI and machine learning workflows across enterprise applications. Paired with IBM portfolio management tools, it provides governed AI assistants, natural-language analytics, automated reporting, and transparent compliance monitoring.
 
-## PRIMARY - IBM Product Page URL
+- **Natural-language interaction with portfolio data** — IBM watsonx-powered conversational agents integrated with IBM Apptio Targetprocess enable users to query project health, analyze multidimensional delivery status, and receive AI-driven capacity and resource recommendations using natural language.
+- **AI-generated business cases and data** — IBM watsonx generative AI capabilities synthesize historical project performance, financial metrics, and delivery parameters to draft structured business cases and executive summaries in seconds.
+- **AI status reports, goals and OKRs** — IBM watsonx automates real-time delivery status summarization, risk identification, and strategic alignment recommendations to define and refine organizational OKRs and strategic milestones.
+- **Governed AI** — IBM watsonx.governance provides enterprise-grade AI governance with time-stamped prompt-response tracking, explainable AI scoring, model risk management, role-based access controls, and full regulatory audit trails across on-premises and multi-cloud environments.
 
-(not provided)
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/watsonx-governance
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM watsonx.governance
+
+- IBM watsonx.governance Product Overview: https://www.ibm.com/products/watsonx-governance
+- IBM AI Governance and Lifecycle Management: https://www.ibm.com/cloud/learn/ai-governance
+- Gartner Magic Quadrant for AI Governance Platforms (IBM Leader): https://www.ibm.com/thought-leadership/gartner-mq-ai-governance
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- ValueOps by Broadcom blog, "Vaia: The Future of ValueOps with AI" and "Clarity Vaia: Purpose-Built AI for Strategic Leadership" (valueops.broadcom.com/blog/vaia-the-future-of-valueops-with-ai; valueops.broadcom.com/blog/clarity-vaia-purpose-built-ai-for-strategic-leadership-video) [vendor-published, used only to confirm launch timing and feature scope]
+- ValueOps by Broadcom, 'Clarity Vaia: Purpose-Built AI for Strategic Leadership' (https://valueops.broadcom.com/blog/clarity-vaia-purpose-built-ai-for-strategic-leadership-video) [vendor-published]
+
 ## General Sources:
 
 - Vaia: The Future of ValueOps with AI: https://valueops.broadcom.com/blog/vaia-the-future-of-valueops-with-ai
@@ -79,6 +97,11 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - Why AI Needs Strong Governance to Scale: https://valueops.broadcom.com/blog/why-ai-needs-strong-governance-to-scale
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and confirmed that no independent analyst coverage or named exit exists for a product launched in 2025.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Vaia and Clarity Vaia documentation exist. The launch date ('during 2025') and current beta or GA status could not be confirmed from the pages fetched, so that statement is unchanged but unverified.

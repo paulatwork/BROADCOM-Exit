@@ -16,7 +16,7 @@ Value Stream Management
 
 ValueOps by Broadcom - Clarity (SaaS or on-Prem)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Clarity by Broadcom (formerly CA Clarity PPM / CA PPM) is a Strategic Portfolio Management (SPM) platform that unifies strategy, funding and execution. It is available as SaaS or on-premises and is a core product of the ValueOps suite.
 
@@ -38,9 +38,11 @@ Note: Vaia capabilities are marked beta in the release documentation. Clarity 16
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Gartner Peer Insights reflects positive functional feedback for  Clarity. Independent commentary on pricing is limited, but a PeerSpot discussion of Clarity PPM licensing costs records a consultant stating the subscription quote "put us in shock because it was double what we paid in the past as yearly maintenance." 
+Clarity has always been a well-liked product in the hands of the people who use it. Reviewers on Gartner Peer Insights speak warmly of what it does, and the complaints that surface are almost never about function. They are about money. One consultant on PeerSpot described the subscription quote after the move away from perpetual licensing as something that 'put us in shock because it was double what we paid in the past as yearly maintenance'. That single sentence captures the pattern that matters most for a client reading this row: the product is not failing, the commercial terms around it have changed.
 
-Based on analysts, Planview and ServiceNow are usually cited as leaders in SPM and offer good alternatives. IBM Apptio Targetprocess noted as part of Strategic Portfolio Management market and appears in Forrester's SPM Wave coverage.
+Broadcom's own strategy explains why. Since the CA Technologies acquisition in 2018 the company has concentrated its attention on a small group of very large accounts, and mid-sized Clarity customers sit outside that group. Independent commentary on Clarity pricing is thin, which is worth stating plainly, but the direction of travel is consistent across Broadcom's former CA portfolio.
+
+Where do organisations go? The vendors that analysts most often name as leaders in strategic portfolio management are Planview and ServiceNow, and both are credible destinations. Comparison sites regularly place ServiceNow Strategic Portfolio Management next to Clarity, with one comparison noting that Clarity only supports data extraction to third-party tools rather than full integration. IBM Apptio Targetprocess also appears in Forrester's strategic portfolio management coverage and is a reasonable IBM-aligned option. No named organisation has publicly described leaving Clarity, so the case for moving rests on the pricing pattern and the strength of the alternatives, not on a reference customer.
 
 ## IBM Replacement Strength
 
@@ -50,11 +52,11 @@ Strong Replacement, with improve outcomes.
 
 IBM offers improved outcomes. Clarity manages the portfolio and holds its budgets. IBM Targetprocess manages the same portfolio, stays open to whatever delivery tools your teams run, and — uniquely — connects that work to a true enterprise cost model through IBM Apptio, so leaders see not just what is funded but the real, defensible cost and business value of it.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Apptio - Targetprocess (SaaS)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 Reviews praise IBM Apptio, Targetprocess portfolio and agile planning strength, although some note that enhancements need developer effort.
 
@@ -69,10 +71,10 @@ Featured highlights include:
 - Resource & capacity planning — Demand-vs-capacity dashboards, role-based planning, time-off and overload detection for realistic forecasts. Exceeds: capacity tied to bill/team/blended rates with automatic cost forecasting — planning by cost, not just headcount.
 - Financial planning & budget governance — Portfolio budgeting for continuous product funding; tracks value, TCO and satisfaction. Exceeds — the standout: native ApptioOne Labor Financial Management gives a true, governed cost model, feeding financials to planners without exposing salary data. Clarity holds budgets in-platform; IBM connects to an enterprise ITFM system of record.
 - Strategic roadmaps & what-if — Multi-level roadmaps (portfolio→product→solution), PI planning, dependency and heat maps, custom milestones. Exceeds: re-alignment is real-time across every level as priorities shift.
-- AI (vs. Clarity's Vaia) — Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance. Exceeds: AI spans the whole Apptio portfolio, grounded in governed cost models — it is not a bolt-on.
+- AI (vs. Clarity's Vaia) — Targetprocess uses generative AI to make the SPM role faster — a portfolio manager asks "which initiatives are at risk?" or "summarize all strategic objectives" and gets a cited, permission-scoped answer instead of building views and filters. Embedded AI Assistant for natural-language questions on real costing, planning and billing data, plus source-cited Expert Guidance.  AI spans the whole Apptio portfolio, grounded in governed cost models — it is not a bolt-on. Via BI predictive AI is designed to help teams "analyze progress, plan delivery, and predict future performance".
 - Analytics & delivery integration (vs. Rally/ConnectALL) — Configurable reporting, role-based dashboards, full flow metrics; native bi-directional Jira and Azure DevOps, plus APIs/webhooks. Exceeds: delivery-tool independent — teams keep their own tools while staying tied to strategy, where Clarity leans on Broadcom's own Rally. First Apptio product on Azure Marketplace.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/apptio
 
@@ -84,21 +86,32 @@ Lowe's used ApptioOne + Targetprocess to align IT spend with business strategy, 
 - ~35% faster time-to-market, and 
 - time-to-value in as little as 30–48 days.
 
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM Concert Optimize (IBM Turbonomic Application Resource Management)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 Recommendation is to combine with Application Observability services to gain workload observability, and cost insights and management in the estate. IBM Concert platform connects application demand to infrastructure usage, showing what drives costs and where constraints might arise. This allows action to be taken to optimise costs, after value stream analysis. 
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/docs/en/tarm/8.21.1?topic=concert-platform
 
+# Sources:
+
 ## Sources: Analyst reviews and exist strategy
 
-Sources: Gartner Peer Insights, Clarity by Broadcom reviews (gartner.com/reviews/market/project-and-portfolio-management/vendor/broadcom/product/clarity); PeerSpot, pricing discussion for Broadcom Clarity PPM (peerspot.com/questions/what-is-your-experience-regarding-pricing-and-costs-for-broadcom-clarity-ppm); Redress Compliance, Broadcom Enterprise Agreements: Strategic Sourcing Guide for IT Procurement, 2025 (redresscompliance.com/broadcom-enterprise-agreements-strategic-sourcing-guide-for-it-procurement); The Register, "Broadcom's strategy ignores most VMware customers," 2022 (theregister.com/2022/05/30/broadcom_strategy_vmware_customer_impact); ValueOps by Broadcom blog, Gartner MQ SPM Leader announcement, 2025 (valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm) [vendor-published]; ServiceNow newsroom, Forrester SPM Leader coverage, 2026 (servicenow.com/au/workflow/news/forrester-leader-strategic-portfolio-management.html); Planview newsroom, Gartner MQ SPM Leader coverage, 2026 (businesswire.com/news/home/20260616691154/en).
+- Gartner Peer Insights, Clarity by Broadcom reviews (gartner.com/reviews/market/project-and-portfolio-management/vendor/broadcom/product/clarity)
+- PeerSpot, pricing discussion for Broadcom Clarity PPM (peerspot.com/questions/what-is-your-experience-regarding-pricing-and-costs-for-broadcom-clarity-ppm)
+- Redress Compliance, Broadcom Enterprise Agreements: Strategic Sourcing Guide for IT Procurement, 2025 (redresscompliance.com/broadcom-enterprise-agreements-strategic-sourcing-guide-for-it-procurement)
+- The Register, "Broadcom's strategy ignores most VMware customers," 2022 (theregister.com/2022/05/30/broadcom_strategy_vmware_customer_impact)
+- ValueOps by Broadcom blog, Gartner MQ SPM Leader announcement, 2025 (valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm) [vendor-published]
+- ServiceNow newsroom, Forrester SPM Leader coverage, 2026 (servicenow.com/au/workflow/news/forrester-leader-strategic-portfolio-management.html)
+- Planview newsroom, Gartner MQ SPM Leader coverage, 2026 (businesswire.com/news/home/20260616691154/en)
+- G2, 'Compare Clarity vs. ServiceNow Strategic Portfolio Management' (https://www.g2.com/compare/broadcom-clarity-vs-servicenow-strategic-portfolio-management)
+- PeerSpot, 'Compare Broadcom Clarity vs ServiceNow Strategic Portfolio Management' (https://www.peerspot.com/products/comparisons/broadcom-clarity_vs_servicenow-strategic-portfolio-management)
+- The Register, 'Broadcom's stated strategy ignores most VMware customers', 2022 (https://www.theregister.com/software/2022/05/30/broadcoms-strategy-ignores-most-vmware-customers/1194871)
 
 ## General Sources:
 
@@ -121,6 +134,12 @@ Secondary (independent or partner commentary):
 - Clarity 16.4.3 documentation (version list): https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-project-and-portfolio-management-ppm-on-premise/16-4-3.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a continuous account of what customers report, where the pricing pressure comes from and where organisations are heading.
+- Searched for named organisations that have left Clarity (2026-09-20). None was found, and the text now says so.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Product description: added that Clarity 16.4.3 documentation exists (newest listed), so the review of release 16.4.2 features is no longer the latest; 16.4.3 feature detail was not retrievable. Other statements (Vaia rename in 16.3.0, MCP server, roadmaps) could not be re-confirmed from the landing pages and are unchanged.

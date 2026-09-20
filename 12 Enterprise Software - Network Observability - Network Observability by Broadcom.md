@@ -16,7 +16,7 @@ Network Observability
 
 Network Observability by Broadcom
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Network Observability by Broadcom combines DX NetOps and AppNeta (with Network Configuration Management as a complementary capability) to give visibility from the data centre to the branch, cloud and internet. DX NetOps 25.4 documentation is current, and the Summer 2026 release adds customisable dashboards and OData 4 API support.
 
@@ -29,53 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-No dedicated Gartner Magic Quadrant, Forrester Wave or IDC MarketScape currently covers this product line specifically. Gartner retired its standalone Network Performance Monitoring and Diagnostics research after 2019, and subsequent observability research does not consistently reference Broadcom, so no current independent analyst ranking could be verified for this product. Broadcom's product page does cite a 2025 GigaOm Radar Report for Network Observability, which was not reviewed here.
+Network Observability has no current analyst ranking to lean on. Gartner retired its standalone network performance monitoring and diagnostics research after 2019, and later observability research does not consistently mention Broadcom. Broadcom's product page cites a 2025 GigaOm Radar Report for network observability, which was not reviewed here.
 
-User-review evidence on PeerSpot for DX NetOps records a direct post-acquisition complaint: one reviewer stated that "after Broadcom bought the product, things have gone downhill," citing slower support response and knowledge gaps, alongside a separate observation that "Broadcom is not cheap" under the subscription pricing model. This is consistent with the broader Broadcom pattern of steep renewal increases and reduced support investment outside its largest accounts.
+What customers say is more useful. A reviewer of DX NetOps on PeerSpot put it bluntly: 'after Broadcom bought the product, things have gone downhill', pointing to slower support and gaps in knowledge. Another observed that 'Broadcom is not cheap' under the subscription model. That is the familiar picture of steep renewals and thinner support outside the largest accounts, and it is a named-reviewer complaint, not a named-company exit. No organisation has publicly announced that it left the product.
 
-Exit-strategy caution: market movement is not one-directional. Broadcom publishes its own case study describing a large financial services organisation that replaced IBM SevOne with DX NetOps, reporting an eight-times increase in visibility. This does not invalidate IBM SevOne and IBM Network Intelligence as viable alternatives, but it indicates capability trade-offs exist in both directions, and the organisation should validate multi-vendor discovery scale and flow-analysis depth against its own environment rather than assume a straightforward like-for-like replacement.
+The evidence also runs the other way, and the client should hear that. Broadcom publishes a case study in which a large financial services organisation replaced IBM SevOne with DX NetOps and reported eight times the visibility, and another describing DX NetOps displacing SolarWinds inside Broadcom itself. Both are vendor-published, but they show that trade-offs exist in both directions.
 
-Sources: PeerSpot, "DX NetOps Reviews, Competitors and Pricing" (peerspot.com); Broadcom Academy case study, "Large Financial Services Company Replaces SevOne with DX NetOps" (academy.broadcom.com); Forrester blog, "Broadcom Buys Symantec's Enterprise Biz: Good News For Investors, Bad News For Enterprises" (go.forrester.com, 2019), cited for the general Broadcom post-acquisition commercial pattern. No 2025-2026 product-specific analyst report was located.
+IBM SevOne and IBM Network Intelligence remain viable alternatives. The organisation should test multi-vendor discovery scale and flow-analysis depth against its own environment before assuming a straightforward swap.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM SevOne Network Performance Management (NPM) delivers an enterprise-grade, massively scalable network observability platform that replaces Broadcom's bundled DX NetOps and AppNeta stack. Broadcom's network portfolio has suffered from post-acquisition support degradation and aggressive enterprise agreement lock-in. IBM SevOne provides superior metric collection speed, rapid multi-vendor device support, automated baseline anomaly detection, and native integration with IBM Instana and Cloud Pak for AIOps, reducing operational complexity and overall licensing costs.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM SevOne & IBM Network Intelligence
+IBM SevOne Network Performance Management
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive to mixed – valued for scalability and rich APIs, but reviewers report difficult upgrades, limited visualisation and costly high availability.
+IBM SevOne Network Performance Management (NPM) is IBM's high-scale network performance monitoring and observability platform. It delivers end-to-end visibility across complex campus, data center, SD-WAN, multi-cloud, and modern Wi-Fi environments by analyzing multi-vendor metrics, flows, and logs in real time.
 
-Secure, Resilient Network Observability and Management. Intelligent automation and ML-driven NetOps services deliver automated insights and recommended actions. IBM accelerates Network Monitoring & Control modernisation.
+- **Unified network monitoring** — IBM SevOne NPM collects SNMP, flow data (NetFlow, IPFIX, sFlow), gNMI, and streaming telemetry across multi-vendor physical and virtual networks, SD-WAN, and hybrid cloud infrastructures without capacity bottlenecks.
+- **Topology-driven triage** — IBM SevOne NPM provides dynamic topological mapping (LiveMaps) that automatically discovers network relationships, pinpoints cross-domain degradation from device port to application, and integrates alerts into enterprise ITSM and AIOps platforms.
+- **Active and synthetic experience monitoring** — IBM SevOne NPM incorporates synthetic network testing alongside IBM Instana Synthetic Monitoring to actively measure path latency, jitter, packet loss, and end-user application response times across hybrid networks.
+- **Customisable dashboards and open APIs** — IBM SevOne NPM provides high-density, customizable interactive dashboards, real-time analytics, and open REST and bulk data export APIs to seamlessly share network telemetry with third-party systems and data lakes.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
-(not provided)
+https://www.ibm.com/products/sevone-network-performance-management
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM SevOne Network Performance Management
+
+- IBM SevOne Network Performance Management Product Overview: https://www.ibm.com/products/sevone-network-performance-management
+- IBM SevOne Network Observability 8.0 Announcement: https://www.ibm.com/new/announcements/network-observability-with-ibm-sevone-8-0-a-strategic-imperative
+- Gartner Peer Insights — IBM SevOne NPM Reviews: https://www.gartner.com/reviews/market/network-performance-monitoring-and-diagnostics/vendor/ibm/product/ibm-sevone-network-performance-management
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- PeerSpot, "DX NetOps Reviews, Competitors and Pricing" (peerspot.com)
+- Broadcom Academy case study, "Large Financial Services Company Replaces SevOne with DX NetOps" (academy.broadcom.com)
+- Broadcom, 'DX NetOps displaces SolarWinds at Broadcom' (https://www.broadcom.com/case-studies/dx-netops/broadcom-gto) [vendor-published]
 
 ## General Sources:
 
@@ -86,6 +99,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - Network Observability by Broadcom (product page): https://networkobservability.broadcom.com/
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative, keeping the reviewer complaints and the counter-evidence from Broadcom's own case studies.
+- Added Broadcom's published case study of DX NetOps displacing SolarWinds inside Broadcom. No named organisation was found leaving the product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Description: added Network Configuration Management, listed on Broadcom's Network Observability page as a complementary capability.

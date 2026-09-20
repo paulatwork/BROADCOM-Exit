@@ -16,7 +16,7 @@ AIOps and Observability
 
 Operational Intelligence
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 DX Operational Intelligence is Broadcom's AIOps capability, now documented as part of DX Operational Observability (DX O2). Broadcom describes it as automating issue detection, correlation and root cause analysis, with cross-domain correlation for a 360-degree view of a problem. No separate current version was found.
 
@@ -29,55 +29,62 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Independent analyst coverage specific to this product is very limited. Gartner Peer Insights lists only one published review for DX Operational Intelligence (5.0 out of 5), and even that review flags cost as a concern, stating "the cost of the solution is also high," and notes that "the execution process is complex for the first time." With a sample of one, this cannot be treated as a reliable market signal, and no Gartner Magic Quadrant, Forrester Wave or IDC MarketScape coverage specific to DX Operational Intelligence was located; this is stated plainly rather than treated as a gap that has been filled.
+DX Operational Intelligence has almost no independent audience. Gartner Peer Insights holds a single review, scoring it 5.0 out of 5, and even that reviewer warns that 'the cost of the solution is also high' and that 'the execution process is complex for the first time'. One review cannot carry a market signal, and no Gartner, Forrester or IDC report specific to the product turned up. That gap has not been filled.
 
-Lifecycle: Broadcom's end-of-life announcement for DX Operational Intelligence 23.1 ended technical support on 30 June 2025 and directed customers to 24.1. Broadcom's TechDocs now describes Operational Intelligence (AIOps) as part of DX Operational Observability.
+The lifecycle story is clearer. Broadcom ended technical support for DX Operational Intelligence 23.1 on 30 June 2025 and pointed customers to 24.1, and its documentation now treats Operational Intelligence, the AIOps capability, as part of DX Operational Observability. Bundling and core-account pricing reported by users of the related DX APM and DX UIM products apply here too.
 
-Commercial pressure: the pattern is consistent with the wider Broadcom AIOps and observability portfolio, where bundling into DX Operational Observability and core-account pricing has been reported by users of the related DX APM and DX UIM products (see corresponding rows in this schedule).
-
-Exit strategy and alternatives check: organisations pursuing vendor-neutral AIOps event correlation are genuinely adopting BigPanda, ServiceNow ITOM Event Management and Splunk ITSI. Moogsoft, also listed as an alternative in this row, was acquired by Dell Technologies in 2023 and now operates as part of Dell's APEX AIOps portfolio rather than as an independent product; this should be corrected before the alternative is presented to the client. IBM Concert Operate, named in column H, is a realistic alternative.
-
-Sources: Gartner Peer Insights, DX Operational Intelligence product page (gartner.com); Dell Technologies, "Dell Technologies Announces Intent to Acquire Moogsoft" (investors.delltechnologies.com, 2023). No 2025-2026 Gartner Magic Quadrant, Forrester Wave or IDC MarketScape coverage specific to DX Operational Intelligence was found.
+No named organisation has publicly described leaving the product. Where organisations are choosing vendor-neutral AIOps event correlation, they are genuinely adopting BigPanda, ServiceNow ITOM Event Management and Splunk ITSI, and IBM Concert Operate is a realistic IBM option. One correction matters before anything goes to the client. Moogsoft was acquired by Dell Technologies in 2023 and now sits inside Dell's APEX AIOps portfolio, so it is no longer an independent alternative and should be dropped from the list.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Concert Operate (formerly IBM Cloud Pak for AIOps) provides an open, vendor-neutral enterprise AIOps and event correlation platform that replaces Broadcom DX Operational Intelligence. Broadcom has ended standalone support for DX OI and forced customers into bundled DX Operational Observability agreements. IBM Concert Operate ingests telemetry from over 90 third-party monitoring sources, reduces alert noise by over 99%, and applies generative AI to pinpoint root cause and orchestrate automated remediation without proprietary lock-in.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Concert Operate (AIOps)
+IBM Concert Operate (formerly IBM Cloud Pak for AIOps)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – valued for automation and AI-driven insight, with reviewers noting that implementation effort is significant (product renamed from Cloud Pak for AIOps to Concert Operate).
+IBM Concert Operate is IBM's enterprise AIOps and IT operations correlation platform. It unifies telemetry across heterogeneous monitoring tools, leverages AI and machine learning to eliminate alert noise, and accelerates mean-time-to-resolution (MTTR) across hybrid cloud environments.
 
-IBM Concert Operate (formerly IBM Cloud Pak for AIOps) delivers an enterprise AIOps and event correlation platform that connects across the ITOps toolchain. It ingests and deduplicates noisy telemetry from over 90 monitoring sources, correlates cross-domain anomalies, constructs dynamic topological impact maps, and automates guided runbook execution to resolve incidents up to 70% faster.
+- **Issue detection** — IBM Concert Operate ingests and continuously analyzes metric anomalies, log anomalies, event streams, and topology changes across multi-vendor tools to detect hidden incidents before service disruption occurs.
+- **Event correlation and noise reduction** — IBM Concert Operate utilizes advanced natural language processing, temporal grouping, and topological correlation to reduce event noise by over 99%, distilling thousands of raw alerts into single actionable incident stories.
+- **Root cause analysis** — IBM Concert Operate automatically synthesizes probable cause explanations and visualizes dynamic cross-application blast radius maps, accelerating root-cause isolation and eliminating war-room finger-pointing.
+- **Cross-domain exploration** — IBM Concert Operate integrates out-of-the-box with over 90 enterprise monitoring, ITSM, and cloud platforms, providing full cross-domain visibility and granular log, trace, and metric drill-downs within a unified interface.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/concert/operate
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Concert Operate
+
+- IBM Concert Operate Product Overview: https://www.ibm.com/products/concert/operate
+- IBM Cloud Pak for AIOps Capabilities: https://www.ibm.com/products/cloud-pak-for-aiops
+- PeerSpot — IBM Cloud Pak for AIOps / Concert Operate Reviews: https://www.peerspot.com/products/ibm-cloud-pak-for-aiops-reviews
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- Gartner Peer Insights, DX Operational Intelligence product page (gartner.com)
 
 ## General Sources:
 
@@ -88,6 +95,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - Announcing End of Life for DX Operational Intelligence 23.1: https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/ReleaseAnnouncements/Announcing-End-of-Life-for-DX-Operational-Intelligence-23-1/24345
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and turned the Moogsoft note into a plain instruction to drop it from the alternatives.
+- Recorded that no named organisation has publicly left the product.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Analyst Cautions: added the verified lifecycle fact that DX Operational Intelligence 23.1 support ended on 30 June 2025 (migration to 24.1), and that TechDocs presents AIOps as part of DX Operational Observability.

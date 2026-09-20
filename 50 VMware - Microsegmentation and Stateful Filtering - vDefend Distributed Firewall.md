@@ -16,7 +16,7 @@ Microsegmentation & Stateful Filtering
 
 vDefend Distributed Firewall
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 vDefend Distributed Firewall is a hypervisor-enforced stateful firewall for east-west micro-segmentation. vDefend 9.1 (May 2026) raises throughput and adds federated identity firewalling.
 
@@ -41,31 +41,33 @@ Yes
 
 Red Hat
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift network policy + Advanced Cluster Security
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/security
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/security
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 

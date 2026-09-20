@@ -16,7 +16,7 @@ Agile Management & Planning
 
 ValueOps by Broadcom - Rally
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Rally by Broadcom (formerly CA Agile Central and Rally Software) is a SaaS enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
 
@@ -29,10 +29,11 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst cautions and commercial pressures: Rally continues to appear in Gartner Peer Insights' Enterprise Agile Planning Tools market, but the most recent independently reported Magic Quadrant Leader placement located for this specific category dates to 2022, per Broadcom's own announcement; subsequent Broadcom commentary on Magic Quadrant recognition has shifted to the broader Strategic Portfolio Management category rather than agile planning specifically, and no 2025 or 2026 independent confirmation of continued Leader status for Rally in enterprise agile planning was identified. Separately, a 2025 ValueOps marketing post pitches Rally as an alternative for organisations facing Atlassian price increases; this is vendor-published marketing rather than independent evidence, and should be read alongside the same documented pattern of Broadcom renewal price increases and minimum-commit bundling described in the general Broadcom commercial sourcing literature (Redress Compliance, 2025) and in The Register's 2022 reporting on Broadcom's account-tiering strategy.
+Rally still holds a place in Gartner Peer Insights for enterprise agile planning tools, but its analyst story has gone quiet. The last Magic Quadrant Leader placement in this category that can be traced dates from 2022 and comes from Broadcom's own announcement. Since then Broadcom has talked about recognition in the wider strategic portfolio management category instead, and there is no independent 2025 or 2026 confirmation that Rally remains a Leader in agile planning.
 
-Broadcom exit strategies and market alternatives: Atlassian's own 2024 end-of-support notice for Jira Align confirms that specific legacy features are being retired but states the platform itself remains fully supported and under active investment, so Jira Align is a realistic, currently maintained alternative rather than a product in decline. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all established, actively marketed alternatives in this category and are realistic inclusions.
-Sources: Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.com/reviews/market/enterprise-agile-planning-tools); Broadcom Academy blog, 2022 Gartner MQ Enterprise Agile Planning Tools Leader announcement (academy.broadcom.com/blog/valueops/broadcom-named-a-leader-in-the-2022-gartner-magic-quadrant-for-enterprise-agile-planning-tools-for-the-sixth-consecutive-year) [vendor-published]; ValueOps by Broadcom blog, "Tired of Atlassian Price Hikes? Time to Consider Rally by Broadcom," 2025 (valueops.broadcom.com/blog/tired-of-atlassian-price-hikes-time-to-consider-rally-by-broadcom) [vendor marketing]; Atlassian, Jira Align end-of-support notice for legacy functionality (help.jiraalign.com/hc/en-us/articles/20805045985044); Redress Compliance, Broadcom Enterprise Agreements guide, 2025; The Register, 2022 Broadcom account-strategy analysis.
+The commercial picture is oddly two-sided. In 2025 Broadcom published a post urging organisations unhappy with Atlassian price rises to consider Rally, and it claims a lower total cost of ownership than Jira. That is marketing and should be read as such. Set beside it is the pattern reported for Broadcom's former CA products generally: renewal increases, minimum commitments and bundling into wider agreements, with sales attention reserved for the largest accounts.
+
+Searches on 2026-09-20 did not find a named organisation that has publicly described leaving Rally, so any exit case has to be built from the pricing pattern and the quality of the alternatives. Those alternatives are sound. Atlassian's 2024 notice retiring legacy Jira Align features says plainly that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
 
 ## IBM Replacement Strength
 
@@ -42,37 +43,73 @@ Sources: Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.
 
 (not provided)
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Engineering Lifecycle Management (ELM) suite
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
 
-General sentiment: Mixed – respected for traceability and compliance-grade planning, but reviewers frequently criticise the dated interface, steep learning curve and complex installation and upgrades.
+## IBM PRIMARY - Product Description 
 
-Via the IBM Engineering Lifecycle Management (ELM) suite , Defence can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of Defence capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
+For a direct Rally replacement, migrate to IBM Apptio Targetprocess. It maps to every Rally capability at the portfolio-to-team planning layer and adds financial management depth Rally lacks.
 
-## PRIMARY - IBM Product Page URL
+Notable differentiator vs. Rally
+
+Targetprocess also includes financial integration — linking portfolio decisions to IT spend, capitalization tracking, and Apptio cost management — something Rally/ValueOps positions separately. This is evidenced by the IBM CIO case study: "Targetprocess provided an enterprise agile planning view and the ability to perform portfolio and resource management... facilitating strategic planning by having visibility on how resources align to initiatives, objectives and key results."
+
+
+** FIX **
+
+Gap to note: Rally's OAuth-enabled MCP Server and Gemini 3.0 AI model are specific recent additions with no direct IBM equivalent documented in current sources. 
+
+IBM's AI integration story for Targetprocess is through the Apptio financial AI layer and IBM watsonx, but a like-for-like agentic/MCP connector is not evidenced in available IBM documentation at this time.
+
+
+Feature match:
+
+1. Portfolio-to-team planning & SAFe support — Targetprocess supports all SAFe configurations out of the box, connecting Portfolio, Product, and Team backlogs through PI Planning, Epic Kanban, and ART-level program boards with cross-team dependency management.
+2. Capacity planning and alignment — Program-level capacity views compare planned workload against available team capacity across PIs and releases, with overload warnings to support rebalancing and work postponement.
+3. Configurable planning boards & agile analytics — A customisable flow metrics dashboard provides real-time visibility into WIP, cycle time, and lead time, alongside built-in burnup/burndown charts and a Program Board for tracking progress and dependencies.
+4. AI and open integration — AI-powered financial insights are delivered through the Apptio platform, with native integration to IBM watsonx, Apptio Costing and Planning, and open APIs that connect portfolio decisions to IT spend, OKRs, and strategic initiatives.
+
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/engineering-workflow-management
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
-(not provided)
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+IBM Engineering Lifecycle Management (ELM) suite
 
-(not provided)
+## IBM SECONDARY - Product Description
 
-## SECONDARY - Product Page(s) URL
+To compliment the service with engineering traceability, requirements management, or systems engineering, then use IBM Engineering Workflow Management (EWM) alongside Targetprocess using the Targetprocess + EWM positioning guide (internal Seismic, sellers/partners).
 
-(not provided)
+Via the IBM Engineering Lifecycle Management (ELM) suite , Defence can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of Defence capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
+
+Feature match:
+
+1. Portfolio-to-team planning & scaled agile support — EWM provides SAFe 4.6 and 6.0 templates across team, program, and portfolio levels, with Scrum and Kanban boards, a Program Board for ART dependency and feature tracking, and a Risk ROAM board for PI planning risk categorisation.
+2. Capacity planning — Iteration-level capacity tracking compares estimated work hours against team availability per sprint, with visibility into both parent and child team areas.
+3. Configurable planning boards & agile analytics — Sprint Backlog plans, release planning boards, and roadmap Gantt views are built in, alongside burndown and burnup reports per iteration and PI-level Enterprise Agile Reports showing burndown and burnup by week.
+4. AI and open integration — EWM integrates with GitHub, GitLab, Gerrit, and Bitbucket for end-to-end traceability from requirements to code, and is positioned alongside Targetprocess for organisations that need both engineering traceability and portfolio-level planning; no equivalent to Rally's OAuth MCP Server or Gemini 3.0 AI model is documented at this time.
+
+## IBM SECONDARY - Product Page(s) URL
+
+
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- Gartner Peer Insights, Enterprise Agile Planning Tools market (gartner.com/reviews/market/enterprise-agile-planning-tools)
+- Broadcom Academy blog, 2022 Gartner MQ Enterprise Agile Planning Tools Leader announcement (academy.broadcom.com/blog/valueops/broadcom-named-a-leader-in-the-2022-gartner-magic-quadrant-for-enterprise-agile-planning-tools-for-the-sixth-consecutive-year) [vendor-published]
+- ValueOps by Broadcom blog, "Tired of Atlassian Price Hikes? Time to Consider Rally by Broadcom," 2025 (valueops.broadcom.com/blog/tired-of-atlassian-price-hikes-time-to-consider-rally-by-broadcom) [vendor marketing]
+- Atlassian, Jira Align end-of-support notice for legacy functionality (help.jiraalign.com/hc/en-us/articles/20805045985044)
+- Redress Compliance, Broadcom Enterprise Agreements guide, 2025
+- The Register, 2022 Broadcom account-strategy analysis
+- ValueOps by Broadcom, 'A Head-to-Head Cost Breakdown: Rally vs. Jira' (https://valueops.broadcom.com/a-head-to-head-cost-breakdown-rally-vs-jira) [vendor marketing]
+- PeerSpot, 'Jira vs Rally Software comparison' (https://www.peerspot.com/products/comparisons/jira_vs_rally-software)
 
 ## General Sources:
 
@@ -81,7 +118,34 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - Agile Management - Rally by Broadcom (product page): https://valueops.broadcom.com/products/rally
 - Broadcom named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management: https://valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm
 
+
+## IBM Apptio Targetprocess 
+
+- Apptio Targetprocess Level 2 client deck — "Seamlessly setup PI Planning with connected backlogs for Portfolio, Product, and Teams" - https://ibm.seismic.com/Link/Content/DCRfTM96dfM3XGWF27BC8W6V2Mm8
+- IBM Docs — Targetprocess: Capacity Planning: Program Backlog — "Capacity Planning views compare demand as planned workload with available capacity of teams" - https://www.ibm.com/docs/en/targetprocess/atp/saas?topic=planning-capacity-program-backlog
+- Apptio Targetprocess Level 2 client deck — "Visualize key metrics and flow of value with Flow metrics in a customizable dashboard" - https://ibm.seismic.com/Link/Content/DCRfTM96dfM3XGWF27BC8W6V2Mm8
+- IBM Targetprocess Strategic Portfolio Management Data Sheet — "AI-powered data insights empower leaders to make smarter financial and operational decisions" - https://ibm.seismic.com/Link/Content/DCp4VQ8fhdG6pGTHMMp9ChdXg4jG
+- Source: IBM CIO case study — "Targetprocess facilitated strategic planning by having visibility on how resources align to initiatives, objectives and key results" - https://www.ibm.com/case-studies/cio-apptio
+
+
+## IBM Engineering Workflow Management (EWM)
+
+- Apptio Targetprocess Level 2 client deck — "Seamlessly setup PI Planning with connected backlogs for Portfolio, Product, and Teams" - https://ibm.seismic.com/Link/Content/DCRfTM96dfM3XGWF27BC8W6V2Mm8
+
+- IBM Docs — Targetprocess: Capacity Planning: Program Backlog — "Capacity Planning views compare demand as planned workload with available capacity of teams" - https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/workflow-management/7.2.0?topic=status-checking-project-by-iteration
+
+- IBM Docs — EWM: Checking project status by iteration — "A burndown report plots the remaining backlog of work against the time estimated to complete it" - https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/workflow-management/7.2.0?topic=status-checking-project-by-iteration
+Source: EWM 7.0.3 New and Noteworthy — "PI burndown chart, PI burnup chart [Enterprise Agile Reports]" - https://ibm.seismic.com/Link/Content/DCgVjXRJDRJ28G2HcfQ4d7j4dGRB
+
+
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and removed the analyst-report shorthand.
+- Searched for named organisations that have moved from Rally to another tool (2026-09-20). None was found, and the text now says so.
+- Noted that Broadcom's own cost comparison against Jira is vendor marketing.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Rally 2026 release facts and the 2022 Gartner Enterprise Agile Planning Leader announcement still stand. No newer Enterprise Agile Planning placement for Broadcom was found. Broadcom was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management (second consecutive year), which supports the existing analyst note. No changes required.

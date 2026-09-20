@@ -16,7 +16,7 @@ Embedded Kubernetes Orchestration Engine
 
 VMware vSphere Kubernetes Service (VKS)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 vSphere Kubernetes Service (VKS) is the Kubernetes runtime in vSphere. VKS 3.7.0 (Kubernetes 1.36) was released on 18 June 2026, with 3.7.1 on 13 August 2026. VKS is not included in vSphere Foundation.
 
@@ -41,31 +41,33 @@ Yes
 
 Red Hat
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat OpenShift Container Platform
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 

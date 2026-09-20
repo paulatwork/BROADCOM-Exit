@@ -16,7 +16,7 @@ Identity and Access Management
 
 PAM (CA Privileged Access Manager, Symantec PAM)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec Privileged Access Manager (PAM, formerly CA PAM) manages privileged accounts. TechDocs lists version 4.3.2 as the newest (versions 4.3.2, 4.3.1, 4.3 and 4.2.x); the 4.3.1 landing page was updated on 14 September 2026. Version 4.3 added VMware Cloud Foundation credential integration.
 
@@ -29,55 +29,68 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Gartner has named Delinea a Leader in its Magic Quadrant for Privileged Access Management for seven consecutive years, including the 2025 report. This claim is corroborated by multiple independent wire pickups of Delinea's announcement (Yahoo Finance, GlobeNewswire, The Manila Times), though the primary Gartner document itself was not directly accessible in this research. This part of the row's claim is supported.
+The strongest verified fact in this entry belongs to a competitor. Gartner has named Delinea a Leader in its Magic Quadrant for privileged access management for seven consecutive years, including 2025. Several independent wire services carried Delinea's announcement, though the Gartner report itself could not be opened, so the claim is well supported but second-hand.
 
-The description of Symantec/Broadcom PAM as a 'Niche Player/Challenger' could only be partially verified. In the Gartner Magic Quadrant for PAM for 2021 and 2022 (the years for which a full, independently reported vendor list could be checked in this research), Broadcom (Symantec) was positioned only as a Niche Player, not as a Challenger; one 2022 analysis described it as holding 'pole position' among niche players on the strength of its privileged elevation and delegation (PEDM) capability for Windows, Linux/UNIX and mainframe. Searches for the 2024 and 2025 Gartner PAM Magic Quadrants did not surface Broadcom or Symantec in the vendor lists reported by BeyondTrust, Segura or other participants, which suggests Symantec PAM may no longer be included in Gartner's ranked Magic Quadrant at all. This could not be confirmed directly against the Gartner report and is noted as an open point rather than a settled fact.
+Broadcom's own position is harder to pin down. Earlier drafts called Symantec PAM a 'Niche Player or Challenger', but that could only be partly confirmed. In the 2021 and 2022 quadrants, the years with a full vendor list to check, Broadcom's Symantec was placed as a Niche Player and not a Challenger, and one 2022 analysis described it as holding 'pole position' among niche players thanks to its privileged elevation and delegation capability across Windows, Linux, UNIX and mainframe. Searches for the 2024 and 2025 quadrants did not find Broadcom or Symantec in the vendor lists published by BeyondTrust, Segura or other participants, which suggests it may no longer be included at all. That is an open point that could not be confirmed against the Gartner report.
 
-On Gartner Peer Insights, Symantec Privileged Access Management holds a 4.2 out of 5 rating from 78 reviews, with reviewers noting reliable session monitoring and audit logging but flagging customer support responsiveness and integration with other platforms as weaknesses.
+Users are more generous than the analysts. Gartner Peer Insights gives Symantec Privileged Access Manager 4.2 out of 5 from 78 reviews, with reviewers valuing session monitoring and audit logging but marking down support responsiveness and integration. PeerSpot reviewers say support was good under CA and has slipped under Broadcom, with tickets often answered by pointing to documentation, and some rate Delinea and BeyondTrust as stronger on features.
 
-Broadcom's core-account commercial strategy and bundled licensing pattern apply to this product line as with the rest of the Symantec Enterprise Security Group portfolio. Enterprises are replacing legacy Symantec/CA PAM with Delinea, CyberArk, BeyondTrust, or HashiCorp Vault for machine/non-human credential management.
-
-Sources: Delinea, 'Delinea Named a Leader in 2025 Gartner Magic Quadrant for Privileged Access Management for Seventh Consecutive Time' (delinea.com; globenewswire.com); SolutionsReview, 'What's Changed: 2022 Magic Quadrant for Privileged Access Management' and 'Analysis: the 2021 Gartner Magic Quadrant for Privileged Access Management'; Gartner Peer Insights, Symantec Privileged Access Management product page (4.2/5, 78 reviews).
+No named organisation has publicly described leaving Symantec PAM, and searches for migration case studies to CyberArk, Delinea or BeyondTrust found none. Broadcom's core-account strategy and bundled licensing apply as elsewhere in the Symantec portfolio. Enterprises replacing Symantec and CA PAM are choosing Delinea, CyberArk, BeyondTrust or, for machine and non-human credentials, HashiCorp Vault.
 
 ## IBM Replacement Strength
 
-Yes. Improved.
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-Replace with IBM, improve cability of Broadcom if it is being used.
+IBM Security Verify Privilege Vault (powered by Delinea Secret Server, a 7-time consecutive Gartner Magic Quadrant Leader) alongside IBM HashiCorp Vault replaces Broadcom Symantec PAM (CA PAM). Broadcom has relegated Symantec PAM to niche status with declining analyst standing, complex appliance upgrades, and steep renewal pricing. IBM delivers an enterprise-proven privileged access platform for human admins and non-human machine secrets, providing automated credential rotation, session recording, and multi-cloud infrastructure governance at lower operational complexity and total cost.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-Delinea - Available as IBM Security Verify Privilege Vault On-Premises
+IBM Security Verify Privilege Vault (with IBM HashiCorp Vault)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – Delinea has been named a Leader in the Gartner Magic Quadrant for Privileged Access Management for seven consecutive years, and the IBM-resold product inherits that standing.
+IBM Security Verify Privilege Vault (built on Delinea technology) and IBM HashiCorp Vault provide an enterprise Privileged Access Management (PAM) and secrets management solution for securing privileged credentials, administrative sessions, and machine identities across hybrid IT environments.
 
-Solve for 'Human PAM. We offer 1:1 repalcement for Broadcom where being used, with improved capability. Defence get access to the Delinea PAM solution via IBM, an already approved in pattern solution, with the ability to scale PAM for Defence's entire privleded user workforce. Gartner have positined Delinea as a Leader in the Gartner Magic Quadrant for Privileged Access Management for 7 consecutive years. While Broadcom (Symantec PAM) is positioned as a Niche Player / Challenger. We extend the solution to solve for Non-humean identies, which is becoming a growing challenge.
+- **Credential vaulting and rotation** — IBM Security Verify Privilege Vault provides automated discovery, encrypted vaulting, and scheduled or check-in/check-out password rotation for domain admin, database, and service accounts.
+- **VCF integration** — IBM Security Verify Privilege Vault centrally manages and enforces privileged credentials and API keys across virtualized environments (including VMware Cloud Foundation, Red Hat OpenShift, and public clouds).
+- **Threat analytics** — IBM Security Verify Privilege Vault delivers real-time behavioral analytics, monitoring privileged user session activities, detecting anomalous credential usage, and automatically terminating suspicious sessions.
+- **Operational tooling** — IBM Security Verify Privilege Vault provides streamlined automated update mechanisms, granular password complexity policy enforcement, and comprehensive audit reporting across on-premises and multi-cloud estates.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
-https://www.ibm.com/products/security-verify
+https://www.ibm.com/products/verify-privilege-vault
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM HashiCorp Vault
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 Solving Non-Human Identity PAM.
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/security-verify
 
+# Sources:
+
+## IBM Security Verify Privilege Vault
+
+- IBM Security Verify Privilege Vault Product Overview: https://www.ibm.com/products/verify-privilege-vault
+- IBM Security Verify Privilege Solutions Guide: https://www.ibm.com/downloads/documents/us-en/107a02e94dc8f96e
+- Gartner Magic Quadrant for Privileged Access Management (Delinea Leader): https://www.gartner.com/reviews/market/privileged-access-management/vendor/delinea
+
 ## Sources: Analyst reviews and exist strategy
 
-Verified the Delinea 'Leader for seven consecutive years' claim (confirmed for 2025). Corrected the unverified 'Niche Player/Challenger' characterisation of Symantec PAM — only Niche Player status (2021-2022) could be verified, and Broadcom/Symantec does not appear in the more recent 2024-2025 Magic Quadrant vendor lists located in this research; flagged this as unresolved rather than invented. Added a real Peer Insights rating.
+- Delinea, 'Delinea Named a Leader in 2025 Gartner Magic Quadrant for Privileged Access Management for Seventh Consecutive Time' (delinea.com; globenewswire.com)
+- SolutionsReview, 'What's Changed: 2022 Magic Quadrant for Privileged Access Management' and 'Analysis: the 2021 Gartner Magic Quadrant for Privileged Access Management'
+- Gartner Peer Insights, Symantec Privileged Access Management product page (4.2/5, 78 reviews)
+- PeerSpot, 'Symantec Privileged Access Manager Reviews, Competitors and Pricing' (https://www.peerspot.com/products/symantec-privileged-access-manager-reviews)
+- PeerSpot, 'Symantec Privileged Access Manager: Pros and Cons 2026' (https://www.peerspot.com/products/symantec-privileged-access-manager-pros-and-cons)
 
 ## General Sources:
 
@@ -87,6 +100,13 @@ Verified the Delinea 'Leader for seven consecutive years' claim (confirmed for 2
 - Symantec Privileged Access Manager 4.3.1 (version list): https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/privileged-access-manager/4-3-1.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Added PeerSpot reviewer commentary on support since the Broadcom acquisition.
+- Searched for named organisations that replaced Symantec PAM (2026-09-20). None was found, and the text now says so.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Corrected the current version: TechDocs lists 4.3.2, so 4.3.1 was not the newest. The 4.3.2 feature list was not retrieved, so the key features are unchanged.

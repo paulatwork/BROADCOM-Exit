@@ -16,7 +16,7 @@ API Lifecycle - Threat Defense & Access Control
 
 Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Layer7 API Gateway and Layer7 API Developer Portal form Broadcom's API management platform. API Gateway 11.2 (announced 28 November 2025, with 11.2.1 in February 2026) is the current release, offering container, appliance and software form factors.
 
@@ -29,62 +29,66 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-The existing content is substantially accurate and is retained, with the following verification and additional sourced evidence.
+Layer7 is a strong product with an awkward relationship to the analysts who track its market. Broadcom has not taken part in Gartner's Magic Quadrant for API management for several years and is absent from the 2025 edition. A Broadcom employee said on the community forum that this is deliberate, citing disagreement with Gartner's scoring method and a preference for IDC and KuppingerCole, which the company sees as more focused on API security than on full-lifecycle API management. That is a governance signal in its own right. The 2025 Leaders are vendors such as Axway, Kong, Boomi, MuleSoft and Gravitee, not Broadcom.
 
-Analyst commentary: Broadcom has not participated in Gartner's Magic Quadrant for API Management for several years and does not appear in the 2025 edition. A Broadcom employee confirmed on the Broadcom community forum that this is a deliberate decision, citing disagreement with Gartner's scoring methodology and stating a preference for analyst coverage from IDC and KuppingerCole, which the company considers more focused on API security than full-lifecycle API management. This is a relevant governance signal in its own right: current Leader positions in the 2025 Gartner API Management Magic Quadrant are held by vendors such as Axway, Kong, Boomi, MuleSoft, and Gravitee, none of which is Broadcom.
+Customers, meanwhile, say sensible things. PeerSpot reviewers praise the core security and policy features and rate point-in-time technical support highly. They also raise total cost of ownership, a forced upgrade path that they found burdensome (versions 9, 10, 10.3 and 12 were named), a developer portal that lags newer cloud-native rivals, and a wish for clearer roadmap communication. Layer7 is also subject to the shift to consolidated subscription licensing and steep renewals seen across the former CA lines. A change to Layer7's partner or support model was not confirmed for this product, so treat any such point as consistent with Broadcom's narrower partner network and not as proven.
 
-Customer feedback: independent PeerSpot reviews of Layer7 API Management cite strong core security/policy functionality and highly rated point-in-time technical support, alongside significant total-cost-of-ownership concerns, an operationally burdensome forced upgrade path (versions 9, 10, 10.3, and 12 cited specifically), an underdeveloped developer portal relative to newer cloud-native competitors, and requests for clearer product roadmap communication from Broadcom.
-
-Broadcom/CA commercial pressures: Layer7 is subject to the same shift to consolidated subscription licensing, steep renewal pricing, and reduced standalone flexibility documented across Broadcom's other former CA product lines. No product-specific 2025-2026 source confirming a change to Layer7's partner/support-delivery model was located in this review; that element of the existing entry should be read as consistent with Broadcom's broader narrowed-partner-network strategy rather than independently verified for this specific product.
-
-Exit strategy findings and alternative cross-check (2025-2026): IBM API Connect is IBM's current API management platform, and 'Noname Advanced API Security for IBM' is a genuine, currently marketed joint IBM/Noname Security offering combining IBM API Connect with Noname's API discovery and threat-detection capability. This is a technology/go-to-market partnership, not an IBM acquisition of Noname Security, which was itself acquired by Akamai in 2024. Google Cloud Apigee, Kong Enterprise, and MuleSoft Anypoint Platform are all real, currently marketed competitors in this category, supporting the alternatives already listed.
-
-Sources: Broadcom Community forum, '2025 Gartner Magic Quadrant for API Management' thread (community.broadcom.com); PeerSpot, 'Layer7 API Management: Pros and Cons' (peerspot.com); IBM, 'Why advanced API security is critical to outsmarting new threats' (ibm.com); Akamai, 'Akamai Completes Acquisition of API Security Company Noname' (akamai.com).
+No named organisation has publicly described leaving Layer7. Kong runs a dedicated legacy API management migration offering that lists Layer7 as a source platform, which shows vendors are chasing this move, though it is not a customer story. IBM API Connect is IBM's current platform. 'Noname Advanced API Security for IBM' is a genuine joint offering, but it is a partnership and not an IBM acquisition, since Akamai acquired Noname in 2024. Google Cloud Apigee, Kong Enterprise and MuleSoft Anypoint are all real competitors.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-R1 - Compliment all API Gateway with API Security.
-R2 - Migrate to IBM API Connect where needed.
+IBM API Connect combined with Akamai Advanced API Security for IBM provides a complete, modern API lifecycle and security platform that replaces Broadcom Layer7 API Gateway and Developer Portal. Broadcom has withdrawn Layer7 from Gartner Magic Quadrant evaluations, imposed burdensome forced upgrades, and shifted the product into inflexible portfolio licensing agreements. IBM API Connect provides enterprise-grade DataPower gateway security, an intuitive browser-based API Designer, an award-winning Developer Portal, and AI-driven API posture discovery and threat protection across hybrid multi-cloud environments.
 
-1. Noname Advanced API Security for IBM
-2.IBM API Connect.
+## IBM PRIMARY - Product Name (The Replacement)
 
-## PRIMARY - Key Product - IBM Alternative
+IBM API Connect (with Akamai Advanced API Security for IBM)
 
-IBM API Connect &
-Noname Advanced API Security for IBM
+## IBM PRIMARY - Product Description
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+IBM API Connect is IBM's full-lifecycle API management and gateway solution, extended with Akamai Advanced API Security for IBM (formerly Noname Security) to provide comprehensive API creation, governance, runtime security, and developer ecosystem management.
 
-General sentiment: Positive – API Connect is rated about 4.5 stars on Gartner Peer Insights for governance, security and developer portal, with a steep learning curve the main criticism.
+- **API security and policy enforcement** — IBM API Connect leverages the enterprise-grade DataPower Gateway to enforce authentication (OAuth2, OIDC, mTLS), fine-grained authorization, rate limiting, and cryptographic threat protection, paired with Akamai Advanced API Security for proactive vulnerability discovery and behavioral anomaly detection.
+- **New web Policy Manager** — IBM API Connect features a modern, browser-based API Designer and visual Policy Editor that enables rapid composition, policy assembly, and direct publishing of APIs from OpenAPI (Swagger 2.0 / OAS 3.0) and GraphQL specifications.
+- **Hardened container gateway** — IBM API Connect provides containerized DataPower Gateways and lightweight DataPower Microgateways deployed as hardened container images on Red Hat OpenShift, Kubernetes, and edge environments.
+- **Developer Portal** — IBM API Connect includes an award-winning, customizable self-service Developer Portal that offers interactive API documentation, sandbox testing keys, automated developer onboarding, and application lifecycle governance.
 
-IBM API Connect, extended with Noname Advanced API Security for IBM for broader API Security. Distributed API estates that span multiple clouds, gateways, and CDN providers.Via IBM - Noname Security, is a leading provider of proactive API security. Help Defence identify and protect from vulnerabilities, misconfigurations, and design flaws in APIs. Combined with Defence API Gateway, an additional layer of protection that is missing in Defence today. Discover and remediate HTTP, RESTful, GraphQL, SOAP, XML-RPC, and JSON-RPC APIs
+## IBM PRIMARY - IBM Product Page URL
 
-## PRIMARY - IBM Product Page URL
-
-https://www.ibm.com/new/announcements/noname-advanced-api-security-for-ibm
+https://www.ibm.com/products/api-connect
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM API Connect
+
+- IBM API Connect Product Overview: https://www.ibm.com/products/api-connect
+- Akamai Advanced API Security for IBM: https://www.ibm.com/products/akamai-advanced-api-security
+- Gartner Magic Quadrant for API Management (IBM Evaluation): https://www.gartner.com/reviews/market/api-management/vendor/ibm/product/ibm-api-connect
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D tightened into one coherent, accurate paragraph; previous text was a run-on of marketing fragments plus one factual sentence. Column E verifies and retains the existing narrative, adds a specific sourced finding that Broadcom has withdrawn from Gartner's API Management Magic Quadrant, adds sourced PeerSpot evidence, and corrects a nuance in the existing alternative (Noname is an IBM partnership, not an IBM acquisition; Akamai owns Noname).
+- Broadcom Community forum, '2025 Gartner Magic Quadrant for API Management' thread (community.broadcom.com)
+- PeerSpot, 'Layer7 API Management: Pros and Cons' (peerspot.com)
+- IBM, 'Why advanced API security is critical to outsmarting new threats' (ibm.com)
+- Akamai, 'Akamai Completes Acquisition of API Security Company Noname' (akamai.com)
+- Kong, 'Modernize and Migrate Your Legacy API Management' (https://konghq.com/solutions/legacy-api-management-migration) [vendor-authored competitive content]
 
 ## General Sources:
 
@@ -93,6 +97,12 @@ Column D tightened into one coherent, accurate paragraph; previous text was a ru
 - Layer7 API Gateway - Broadcom TechDocs: https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management/api-gateway/index.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and dropped the opening note about retained content.
+- Searched for named organisations that replaced Layer7 or CA API Gateway (2026-09-20). Only vendor migration offerings were found, and the text says so.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: Layer7 API Gateway 11.2 documentation (updated 1 September 2026; versions 11.2, 11.1, 11.0, 10.1). No changes.

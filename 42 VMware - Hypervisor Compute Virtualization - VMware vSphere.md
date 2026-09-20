@@ -16,7 +16,7 @@ Hypervisor Compute Virtualization
 
 VMware vSphere
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 VMware vSphere is the hypervisor (ESX, renamed from ESXi in 9.0) and vCenter management layer. vSphere 9.1 was released 12 May 2026.
 
@@ -41,31 +41,33 @@ Yes
 
 Red Hat
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift Virtualization
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 

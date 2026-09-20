@@ -16,7 +16,7 @@ AIOps and Observability
 
 DX Unified Infrastructure Management
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 DX Unified Infrastructure Management (DX UIM, formerly Nimsoft) is a hybrid infrastructure monitoring platform. The current release documented is 23.4 with cumulative update CU7 (documentation updated 30 June 2026).
 
@@ -29,53 +29,65 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-User-review evidence from TrustRadius on DX Unified Infrastructure Management confirms the commercial and technical cautions already identified. Reviewers describe pricing as "not cheap at all," with one organisation citing annual costs of around CAD 400,000, and note inconsistent post-acquisition support, with one reviewer stating the team is "sometimes not as knowledgeable or responsive" and citing "prolonged resolution times due to a lack of expertise" on complex issues. Reviewers also note the platform "has not necessarily kept pace" with AWS, Azure and Google Cloud feature growth, supporting the assessment that it lags cloud-native platforms in dynamic scaling and container discovery.
+DX Unified Infrastructure Management gets its most telling feedback from TrustRadius reviewers. They call the pricing 'not cheap at all', and one organisation reported annual costs of around CAD 400,000. They describe inconsistent support since the acquisition, with one reviewer saying the team is 'sometimes not as knowledgeable or responsive' and another citing 'prolonged resolution times due to a lack of expertise' on complex issues. Others say the platform 'has not necessarily kept pace' with AWS, Azure and Google Cloud, which fits the view that it trails cloud-native tools in dynamic scaling and container discovery.
 
-Gartner Peer Insights lists an overall rating of 4.6 out of 5 for DX Unified Infrastructure Management, but from only 11 ratings, indicating a thin independent review base rather than broad current market validation.
+The independent rating looks better than the story it sits in. Gartner Peer Insights shows 4.6 out of 5, but from only 11 ratings, which is a thin base and not broad market validation.
 
-Exit strategy: the alternatives named in this row, IBM Instana, Datadog, Dynatrace and LogicMonitor, are all established, independently recognised infrastructure and cloud monitoring vendors and are realistic replacement candidates for this workload.
+No named organisation has publicly described leaving the product. A search for customers who replaced CA UIM or Nimsoft with Dynatrace, Datadog or LogicMonitor found migration services and comparison pages, but no named case. The exit case therefore rests on the reviewer testimony above.
 
-Sources: TrustRadius, "Broadcom DX Unified Infrastructure Management Reviews" (trustradius.com); Gartner Peer Insights, DX Unified Infrastructure Management product page (gartner.com).
+IBM Instana, Datadog, Dynatrace and LogicMonitor are all established, independently recognised vendors in infrastructure and cloud monitoring, and each is a realistic candidate for this workload.
 
 ## IBM Replacement Strength
 
-Yes
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Instana Observability (Infrastructure & Cloud Monitoring) replaces Broadcom DX UIM (Nimsoft) with a modern, automated hybrid infrastructure monitoring solution. Broadcom DX UIM relies on an antiquated, complex probe-and-hub architecture requiring constant manual maintenance, while failing to keep pace with dynamic cloud and container architectures. IBM Instana eliminates probe configuration with lightweight, auto-discovering sensors, 1-second metric resolution, and direct correlation between infrastructure health and application performance at a significantly lower operational and licensing cost.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability (Infrastructure & Cloud Monitoring)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – rated about 4.3 stars from roughly 265 Gartner Peer Insights reviews for easy dashboards and automatic discovery, with no consistent criticism surfaced in this pass.
+IBM Instana Observability (Infrastructure & Cloud Monitoring) provides automated, real-time infrastructure visibility across bare-metal servers, virtual machines, containers, public clouds, and databases without requiring legacy probe architectures.
 
-IBM Instana delivers automated hybrid infrastructure monitoring across bare metal, virtual machines (VMware, Hyper-V), public cloud instances, and storage arrays with over 300 pre-built sensors. It automatically detects topology changes in real time, correlates infrastructure metrics directly with application performance, and eliminates complex probe-and-hub maintenance.
+- **Broad infrastructure monitoring** — IBM Instana automatically discovers and monitors servers, hypervisors (VMware, KVM, Hyper-V), public cloud instances (AWS, Azure, GCP), storage, and over 300 enterprise database and middleware technologies in real time.
+- **Alarm and health management** — IBM Instana provides automated health baselines, intelligent anomaly detection, and built-in incident grouping that eliminates alarm fatigue and simplifies operations console workflows.
+- **Reporting and scheduled dashboards** — IBM Instana offers customizable infrastructure dashboards, automated executive reporting, metric trend visualization, and scheduled data exports in standard tabular and CSV formats.
+- **Device identity continuity** — IBM Instana maintains continuous entity identity, lifecycle tracking, and historical metrics across dynamic IP address changes, container restarts, and ephemeral cloud auto-scaling events.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/instana/infrastructure-monitoring
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Instana Observability (Infrastructure & Cloud Monitoring)
+
+- IBM Instana Infrastructure Monitoring Product Overview: https://www.ibm.com/products/instana/infrastructure-monitoring
+- IBM Instana Supported Technologies and Sensors: https://www.ibm.com/docs/en/instana-observability?topic=supported-technologies
+- Gartner Peer Insights — IBM Instana Observability Reviews: https://www.gartner.com/reviews/market/observability-platforms/vendor/ibm/product/ibm-instana-observability
 
 ## Sources: Analyst reviews and exist strategy
 
-Column D and Column E reviewed and revised against sourced evidence; see Sources line at the end of Column E for citations.
+- TrustRadius, "Broadcom DX Unified Infrastructure Management Reviews" (trustradius.com)
+- Gartner Peer Insights, DX Unified Infrastructure Management product page (gartner.com)
 
 ## General Sources:
 
@@ -84,6 +96,12 @@ Column D and Column E reviewed and revised against sourced evidence; see Sources
 - Introducing DX Unified Infrastructure Management: https://academy.broadcom.com/blog/aiops/introducing-dx-unified-infrastructure-management
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative and merged the two review sources into one account.
+- Searched for named organisations that replaced CA UIM or Nimsoft (2026-09-20). None was found, and the text now says so.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: DX UIM 23.4 is the latest version listed in TechDocs (versions 23.4, 20.4, 20.3, 20.1); no end-of-support notice found. No changes.

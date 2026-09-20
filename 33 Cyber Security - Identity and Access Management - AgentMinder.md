@@ -16,7 +16,7 @@ Identity and Access Management
 
 AgentMinder
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 AgentMinder was announced by Broadcom on 31 August 2026 at VMware Explore 2026 and is generally available. It is a central control plane that verifies AI agent identity and authorises actions based on mission, intent, context and risk.
 
@@ -29,45 +29,61 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-AgentMinder was only announced and made available around August to September 2026 (unveiled at VMware Explore 2026, 31 August 2026). AgentMinder is a Broadcom control plane for AI agent governance, and adopting it would create a first-generation dependency on Broadcom's infrastructure for an emerging and still-maturing category, with associated integration and vendor lock-in risk for organisations running heterogeneous, multi-cloud, multi-agent AI environments.
+AgentMinder is brand new. Broadcom unveiled it at VMware Explore 2026 on 31 August 2026, and it became available around August to September 2026. It is a control plane for AI agent governance, and there is no independent analyst coverage of it yet.
+
+That newness shapes what can honestly be said. Adopting AgentMinder would create a first-generation dependency on Broadcom's infrastructure in an emerging category that is still maturing, and the risk of integration effort and vendor lock-in is highest for organisations running mixed, multi-cloud, multi-agent AI environments. This is reasoning from Broadcom's known commercial behaviour and the age of the product, not a documented finding about AgentMinder itself, and it should be presented as a caution.
+
+Because the product has only just launched, no organisation has had time to leave it, and there are no exit accounts to report. The useful question for a client is not how to replace it but whether to adopt it now or to wait until the category has settled and independent reviews exist.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM watsonx.governance combined with IBM Security Verify delivers an open, standard, and enterprise-grade AI agent governance and runtime identity control framework that replaces Broadcom AgentMinder. Broadcom AgentMinder was launched in August 2026 as a proprietary, first-generation control plane tightly bound to VMware/Broadcom infrastructure. IBM provides mature, open AI governance via watsonx.governance (auditing agent intents, tool executions, hallucination rates, and drift) paired with IBM Security Verify's machine identity lifecycle management, providing multi-cloud neutrality and avoiding Broadcom ecosystem lock-in.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
-(not provided)
+IBM watsonx.governance (with IBM Security Verify Machine Identity)
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-(not provided)
+IBM watsonx.governance, augmented by IBM Security Verify Machine Identity services, provides an enterprise AI governance, lifecycle compliance, and runtime authorization control plane for autonomous AI agents, multi-agent frameworks, and foundation models.
 
-## PRIMARY - IBM Product Page URL
+- **Agent identity** — IBM Security Verify establishes and verifies cryptographic machine and agent identities (Workload Identity Federation, SPIFFE/SPIRE, and API tokens), binding autonomous agents to verified security principals.
+- **Runtime authorisation** — IBM watsonx.governance enforces dynamic runtime guardrails and contextual authorization policies that evaluate agent goals, prompt payloads, and risk parameters before permitting tool or data execution.
+- **Tool, app and data control** — IBM watsonx.governance controls and audits which external APIs, databases, and enterprise applications AI agents can invoke, preventing unauthorized data exfiltration or unintended tool actions.
+- **OpenTelemetry-based visibility** — IBM watsonx.governance and IBM Instana provide OpenTelemetry-compliant tracing, automated agent session logging, compliance-grade chain-of-custody tracking, and behavioral anomaly detection across agentic workflows.
 
-(not provided)
+## IBM PRIMARY - IBM Product Page URL
+
+https://www.ibm.com/products/watsonx-governance
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM watsonx.governance
+
+- IBM watsonx.governance Product Overview: https://www.ibm.com/products/watsonx-governance
+- IBM AI Governance and Agentic Control Architecture: https://www.ibm.com/cloud/learn/ai-governance
+- Gartner Magic Quadrant for AI Governance Platforms (IBM Leader): https://www.ibm.com/thought-leadership/gartner-mq-ai-governance
 
 ## Sources: Analyst reviews and exist strategy
 
-Replaced speculative competitive/analyst-sounding claims with a plain statement that AgentMinder launched in August 2026 and has no independent analyst coverage yet; retained the architectural lock-in caution but labelled it clearly as reasoning, not a documented finding, and cited a real source for Broadcom's general commercial pattern.
 
 ## General Sources:
 
@@ -76,6 +92,11 @@ Replaced speculative competitive/analyst-sounding claims with a plain statement 
 - StorageNewsletter coverage: https://www.storagenewsletter.com/2026/09/02/vmware-explore-2026-broadcom-unveils-agentminder-an-enterprise-solution-for-ai-agent-governance-and-runtime-control/
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a short narrative and labelled the lock-in concern as reasoning, not a documented finding.
+- Recorded that no exit accounts exist for a product launched in August 2026.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Verified: AgentMinder announced 31 August 2026 at VMware Explore 2026 and generally available. No changes.

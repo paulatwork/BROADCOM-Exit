@@ -16,7 +16,7 @@ Identity and Access Management
 
 Identity Security Platform (Symantec Identity Security Platform, IDSP)
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Symantec Identity Security Platform (IDSP) is a cloud-native, container-based IAM platform (formerly VIP Authentication Hub). Version 4.0 was released on 12 January 2026 and existing deployments and APIs continue to work.
 
@@ -29,53 +29,68 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-IDSP is the renamed VIP Authentication Hub (version 4.0, January 2026) on a cloud-native, container-based architecture. Broadcom documentation says it integrates natively with SiteMinder and other Broadcom solutions to allow gradual migration, rather than replacing them outright. A distinct Gartner Peer Insights or Magic Quadrant entry specific to 'Identity Security Platform' or 'IDSP' by name was not identified in this research; Gartner Peer Insights instead lists separate entries for related component products such as 'Symantec IGA,' which limits the ability to independently verify adoption or satisfaction levels for the consolidated IDSP platform itself. This should be stated plainly rather than implying broad analyst coverage exists.
+The Identity Security Platform is the renamed VIP Authentication Hub, at version 4.0 since January 2026, and it runs on a cloud-native, container-based architecture. Broadcom's documentation says it integrates natively with SiteMinder and other Broadcom products to allow gradual migration, which means it is designed to sit alongside them and not to replace them outright.
 
-Customers of Broadcom's identity portfolio more broadly report high administrative overhead from fragmented management consoles spanning multiple legacy products, and steep renewal pricing under Broadcom's bundled licensing model; this is consistent with Broadcom's documented general commercial pattern rather than an IDSP-specific finding.
+There is very little independent evidence about it. No distinct Gartner Peer Insights or Magic Quadrant entry exists under 'Identity Security Platform' or 'IDSP', and Gartner instead lists separate entries for related products such as Symantec IGA. Adoption and satisfaction for the consolidated platform therefore cannot be independently checked, and it would be wrong to imply broad analyst coverage.
 
-Organisations modernising identity and access management away from Broadcom's identity portfolio are generally consolidating onto unified, cloud-native IAM/CIAM platforms with substantial independent analyst coverage and market share, including Microsoft Entra ID, Okta Workforce Identity Cloud, Ping Identity, and IBM Security Verify.
+What customers say about Broadcom's identity portfolio as a whole is consistent. They report heavy administration from fragmented consoles across several legacy products and steep renewals under Broadcom's bundled licensing. Those are portfolio-wide findings and not specific to this platform.
 
-Sources: Broadcom TechDocs, 'About Symantec Identity Security Platform (IDSP)' (techdocs.broadcom.com); Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook'; no distinct Gartner or Forrester coverage of IDSP by name was located in this research.
+No named organisation has publicly described leaving the platform itself. The nearest evidence sits in its neighbours. A large US credit union, unnamed in the source, retired SiteMinder in favour of Microsoft Entra ID ahead of a renewal, and Michigan State University replaced the Symantec VIP mobile app with Okta Verify in 2021. Organisations modernising identity away from Broadcom are consolidating onto unified cloud-native platforms that have substantial analyst coverage, including Microsoft Entra ID, Okta Workforce Identity Cloud, Ping Identity and IBM Security Verify.
 
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM Security Verify provides an integrated, cloud-native Identity-as-a-Service (IDaaS) and access management platform that replaces Broadcom Symantec Identity Security Platform (IDSP / VIP Authentication Hub). Broadcom's identity portfolio is heavily fragmented across legacy acquisitions (SiteMinder, VIP, Identity Governance) and locked into expensive bundle contracts. IBM Security Verify delivers unified modern identity governance, seamless FIDO2 passwordless authentication, continuous AI-powered adaptive risk scoring, and open API federation across hybrid and multi-cloud estates at lower total cost of ownership.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security Verify
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description
 
-General sentiment: Positive – reviewers cite strong security features, single sign-on, passwordless access and easy deployment, with slowness and console complexity the main criticisms.
+IBM Security Verify is IBM's enterprise Identity and Access Management (IAM) and IDaaS solution. It unifies workforce and consumer identity protection, providing adaptive multi-factor authentication (MFA), passwordless single sign-on (SSO), automated lifecycle management, and fine-grained access governance.
 
-IBM Security Verify is fundamentally an Identity and Access Management (IAM / IDaaS) and Web Access Management (WAM) platform rather than a full network-level VPN or standalone packet-level Zero Trust Network Access (ZTNA) tunnel solution. Defence would use the Verify suite across its entire identity landscape.
+- **Passwordless and adaptive authentication** — IBM Security Verify delivers FIDO2-certified biometric authentication, passkeys, hardware security keys, and push notifications, backed by real-time adaptive risk evaluation based on user behavior and device telemetry.
+- **Standards-based federation and identity store** — IBM Security Verify supports SAML 2.0, OpenID Connect, OAuth 2.0 federation, an integrated cloud identity directory, SCIM 2.0 user provisioning, and just-in-time account onboarding.
+- **API-first policy-driven platform** — IBM Security Verify is architected as an API-first platform featuring OAuth 2.0 authorization servers, personal access token management, and declarative policy engines for zero-code dynamic access controls.
+- **Incremental migration** — IBM Security Verify Access bridges legacy architectures through reverse-proxy gateways and identity federation, enabling seamless, phased migration away from legacy Broadcom SiteMinder and VIP infrastructure without user disruption.
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/products/security-verify
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
+
+# Sources:
+
+## IBM Security Verify
+
+- IBM Security Verify Product Overview: https://www.ibm.com/products/security-verify
+- IBM Security Verify Architecture & Authentication Guide: https://www.ibm.com/docs/en/security-verify
+- Gartner Magic Quadrant for Access Management (IBM Evaluation): https://www.gartner.com/reviews/market/access-management/vendor/ibm/product/ibm-verify
 
 ## Sources: Analyst reviews and exist strategy
 
-Substantially expanded Column D with real, sourced product detail (AuthHub, FIDO2, OAuth, adaptive risk, SCIM identity store) drawn from Broadcom's own technical documentation, replacing the previous bare feature-name list. Corrected Column E to state plainly that no distinct analyst coverage of IDSP by name was found.
+- Broadcom TechDocs, 'About Symantec Identity Security Platform (IDSP)' (techdocs.broadcom.com)
+- Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook'
+- Strata, 'Credit Union SiteMinder Migration' (https://www.strata.io/customers/credit-union-siteminder-migration/) [vendor-published customer story]
+- Michigan State University Technology, 'New MFA mobile app: Okta Verify to replace Symantec VIP' (https://tech.msu.edu/news/2021/10/new-mfa-mobile-app-okta-verify-to-replace-symantec-vip)
+- Redress Compliance, 'Symantec Enterprise Software Licensing Under Broadcom: A CIO Playbook' (https://redresscompliance.com/symantec-enterprise-software-licensing-under-broadcom-a-cio-playbook.html)
 
 ## General Sources:
 
@@ -85,6 +100,12 @@ Substantially expanded Column D with real, sourced product detail (AuthHub, FIDO
 - About Symantec Identity Security Platform (4.0): https://techdocs.broadcom.com/us/en/symantec-security-software/identity-security/identity-security-platform/4-0/Getting-Started.html
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Added the two nearest named exit examples from the same identity portfolio, a credit union leaving SiteMinder and Michigan State University leaving Symantec VIP. Recorded that no organisation has publicly left this platform itself.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Analyst Cautions: corrected the statement that IDSP consolidates SiteMinder and VIP components. Broadcom documentation says IDSP is the renamed VIP Authentication Hub and integrates natively with SiteMinder for gradual migration (integration, not replacement).

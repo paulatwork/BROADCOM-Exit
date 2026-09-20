@@ -16,7 +16,7 @@ Application Development - Continuous Testing
 
 Test Data Manager
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 Test Data Manager (formerly CA Test Data Manager) creates, masks and provisions fit-for-purpose test data across the development lifecycle. Version 5.0 is the latest documented in TechDocs (version list 5.0, 4.11, 4.10, 4.9). Its documented components include a Database Virtualization Engine (DAVE), the Javelin automation tool and mainframe data source support. Virtual Test Data Management (vTDM) has been deprecated since version 4.11.
 
@@ -29,56 +29,69 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Reviewers rate the self-service portal, masking, and subsetting functions positively but flag slow data delivery against large platforms such as Teradata and gaps in native cloud (AWS/Azure) and DevOps toolchain (Jira) integration.
+Test Data Manager earns real praise from the people who run it. Reviewers rate the self-service portal, data masking and subsetting well, and in 2022 Broadcom recorded a Customers' Choice recognition for data masking on Gartner Peer Insights. The complaints are about reach. Delivery of data from large platforms such as Teradata is slow, and native integration with AWS, Azure and Jira is thin. A competitor, K2view, goes further and describes the product as a legacy tool that pairs older Windows clients with a newer portal, leaving overlap between modules and upgrade risk. That is vendor content and should be weighed as such.
 
-Test Data Manager sits in the same CA-Technologies-era Continuous Testing bundle subject to Broadcom's shift from perpetual to consolidated subscription licensing and reduced flexibility to purchase individual modules outside bundled agreements.
+The commercial background is the usual one. Test Data Manager belongs to the continuous testing bundle inherited from CA Technologies, and Broadcom's move from perpetual to consolidated subscription licensing has reduced the freedom to buy single modules outside a bundled agreement.
 
-Engineering teams are consolidating test-data provisioning into broader shift-left platforms, including Broadcom's own newly announced unified continuous testing platform (2025), IBM's DevOps Test/Engineering Lifecycle Management line, and specialist data vendors such as Delphix and K2view.
- 
+No named organisation has publicly described leaving Test Data Manager, and no 2025 or 2026 analyst ranking was found. Teams that are consolidating test data provisioning are heading for broader shift-left platforms. Broadcom itself announced a unified continuous testing platform in 2025, which is a reminder that staying is also a moving target. Outside Broadcom, the options are IBM's DevOps Test and Engineering Lifecycle Management line and specialist data vendors such as Delphix and K2view.
+
 ## IBM Replacement Strength
 
-(not provided)
+Strong Replacement, with improved outcomes
 
 ## IBM Replacement Strategy - Why IBM over Broadcom
 
-(not provided)
+IBM InfoSphere Optim Test Data Management alongside IBM watsonx.data delivers a robust, enterprise-grade test data management platform that replaces Broadcom CA Test Data Manager. Broadcom TDM is locked into legacy CA continuous testing bundles, with deprecated virtual test data management (vTDM) and steep renewal pricing. IBM InfoSphere Optim provides high-performance data masking, automated PII discovery, referentially intact data subsetting, and synthetic test data generation across heterogeneous databases and mainframes, with self-service provisioning integrated directly into CI/CD pipelines at lower total cost of ownership.
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
+IBM InfoSphere Optim Test Data Management
 
+## IBM PRIMARY - Product Description
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+IBM InfoSphere Optim Test Data Management is IBM's enterprise test data management, masking, and privacy solution. It discovers sensitive data, creates realistic de-identified and synthetic data sets, extracts referentially intact database subsets, and automates test data provisioning across hybrid cloud, distributed database, and mainframe environments.
 
-General sentiment: Mixed to positive – praised for deployment orchestration and IBM tool integration, but reviewers cite slow support resolution and burdensome agent management.
+- **Data masking and PII discovery** — IBM InfoSphere Optim automatically scans distributed databases and mainframes to discover sensitive PII, applying contextual, format-preserving masking algorithms to secure non-production environments while complying with global data privacy regulations (GDPR, HIPAA, CCPA).
+- **Synthetic data generation** — IBM InfoSphere Optim (paired with watsonx.data synthetic generation capabilities) generates realistic synthetic test records and edge-case test payloads to fulfill boundary testing requirements without exposing real production records.
+- **Data subsetting** — IBM InfoSphere Optim extracts referentially intact, right-sized data subsets across complex relational databases, legacy systems, and mainframe environments, drastically reducing non-production storage requirements.
+- **Self-service provisioning** — IBM InfoSphere Optim provides intuitive web interfaces and RESTful APIs that allow developers and QA engineers to request, clone, reset, and provision sanitized test environments on demand directly within automated CI/CD workflows.
 
+## IBM PRIMARY - IBM Product Page URL
 
-## PRIMARY - IBM Product Page URL
-
-https://www.ibm.com/products/devops-deploy
+https://www.ibm.com/products/infosphere-optim-test-data-management
 
 ## Customer Reference
 (not provided)
 
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM DevOps Test
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 IBM DevOps Test provides a comprehensive continuous testing suite covering automated API testing, functional UI testing, enterprise performance load testing, and service virtualization. It integrates directly into CI/CD pipelines, enabling shift-left quality gates, AI-driven test script maintenance, and realistic protocol/workload simulation without expensive proprietary per-virtual-user fees.
 
 IBM DevOps Deploy is a release-automation product, not a test-data-management product. It offers complimentary services. IBM DevOps Deploy (formerly UrbanCode Deploy) provides enterprise application release automation and continuous deployment orchestration. It delivers multi-tier deployment modeling, automated quality gates, push-button rollbacks, full inventory governance, and native integration with Jenkins, GitOps (Argo CD), and Red Hat OpenShift across hybrid cloud and mainframe estates.
 
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/devops-test/performance
 
+# Sources:
+
+## IBM InfoSphere Optim Test Data Management
+
+- IBM InfoSphere Optim Test Data Management Product Overview: https://www.ibm.com/products/infosphere-optim-test-data-management
+- IBM Documentation — InfoSphere Optim Test Data Management: https://www.ibm.com/docs/en/infosphere-optim
+- Gartner Peer Insights — IBM InfoSphere Optim Reviews: https://www.gartner.com/reviews/market/data-masking/vendor/ibm/product/ibm-infosphere-optim
+
 ## Sources: Analyst reviews and exist strategy
 
-Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); Broadcom Academy blog, 'Broadcom Is a 2022 Customers' Choice for Data Masking on Gartner Peer Insights' (academy.broadcom.com); Broadcom TechDocs, Test Data Manager 4.10 (techdocs.broadcom.com).
-
-Column D expanded from a one-line fragment into a full, sourced capability summary. Column E replaces generic claims with a verified 2022 Gartner Peer Insights recognition, sourced PeerSpot customer feedback, an honest statement that no 2025-2026 analyst ranking was found, and a flag that column H's listed alternative does not match this row's product category.
+- PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com)
+- Broadcom Academy blog, 'Broadcom Is a 2022 Customers' Choice for Data Masking on Gartner Peer Insights' (academy.broadcom.com)
+- Broadcom TechDocs, Test Data Manager 4.10 (techdocs.broadcom.com)
+- K2view, 'Broadcom TDM vs K2view: How TDM architecture impacts your delivery speed' (https://www.k2view.com/blog/broadcom-tdm-vs-k2view) [vendor-authored competitive content]
 
 ## General Sources:
 
@@ -88,6 +101,13 @@ Column D expanded from a one-line fragment into a full, sourced capability summa
 - Broadcom Delivers World's First AI Driven Unified Shift-Left Continuous Testing Platform: https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-worlds-first-ai-driven-unified-shift-left
 
 ## Change history:
+
+### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
+- Rewrote the section as a narrative.
+- Searched for named organisations that replaced Test Data Manager with Delphix, K2view or Tonic (2026-09-20). None was found, and the text now says so.
+- Added K2view's competitive description of the product, labelled as vendor content.
+- Moved all citations to the Sources: Analyst reviews and exist strategy section and removed the earlier column notes from that section.
+
 
 ### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
 - Product description: confirmed vTDM deprecation (quoted from the 4.11 release notes) and version 5.0. Added DAVE, Javelin and mainframe data sources from the 5.0 documentation; Javelin had been removed in the previous pass as unverified and is now confirmed.

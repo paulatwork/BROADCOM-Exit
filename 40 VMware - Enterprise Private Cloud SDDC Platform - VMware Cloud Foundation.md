@@ -16,7 +16,7 @@ Enterprise Private Cloud SDDC Platform
 
 VMware Cloud Foundation
 
-## Broadcom Product Description (Key Features) (This is important to get right)
+## Broadcom Product Description - Key Features
 
 VMware Cloud Foundation (VCF) is Broadcom's private cloud platform. VCF 9.1 was announced in May 2026 and 9.1.1 reached general availability on 3 September 2026. It is sold as a subscription.
 
@@ -41,31 +41,33 @@ Yes
 
 IBM + Red Hat
 
-## PRIMARY - Key Product - IBM Alternative
+## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat OpenShift Platform Plus + IBM Fusion
 
-## PRIMARY - Key Product Capability Statement - IBM Alternative
+## IBM PRIMARY - Product Description 
 
 (not provided)
 
-## PRIMARY - IBM Product Page URL
+## IBM PRIMARY - IBM Product Page URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
 
 ## Customer Reference
 (not provided)
-## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
+## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## SECONDARY - Product Description - From any vendor - A Secondary Support Product.
+## IBM SECONDARY - Product Description
 
 (not provided)
 
-## SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
+
+# Sources:
 
 ## Sources: Analyst reviews and exist strategy
 
