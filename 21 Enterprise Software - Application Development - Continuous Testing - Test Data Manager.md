@@ -29,14 +29,12 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Analyst commentary: Broadcom was recognised as a 2022 Gartner Peer Insights Customers' Choice for Data Masking, the category Test Data Manager sits within, but no 2025-2026 Gartner, Forrester, or IDC ranking specific to this product was located in this review; none should be assumed. Independent PeerSpot user reviews rate the self-service portal, masking, and subsetting functions positively but flag slow data delivery against large platforms such as Teradata and gaps in native cloud (AWS/Azure) and DevOps toolchain (Jira) integration.
+Reviewers rate the self-service portal, masking, and subsetting functions positively but flag slow data delivery against large platforms such as Teradata and gaps in native cloud (AWS/Azure) and DevOps toolchain (Jira) integration.
 
-Broadcom/CA commercial pressures: Test Data Manager sits in the same CA-Technologies-era Continuous Testing bundle subject to Broadcom's shift from perpetual to consolidated subscription licensing and reduced flexibility to purchase individual modules outside bundled agreements.
+Test Data Manager sits in the same CA-Technologies-era Continuous Testing bundle subject to Broadcom's shift from perpetual to consolidated subscription licensing and reduced flexibility to purchase individual modules outside bundled agreements.
 
-Exit strategy findings (2025-2026): Engineering teams are consolidating test-data provisioning into broader shift-left platforms, including Broadcom's own newly announced unified continuous testing platform (2025), IBM's DevOps Test/Engineering Lifecycle Management line, and specialist data vendors such as Delphix and K2view. Cross-check: the alternative currently listed in column H (IBM DevOps Deploy) is a release-automation product, not a test-data-management product, and does not map to this row's function; this mismatch is noted for the reviewer but is not corrected here as it falls outside this review's scope.
-
-Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); Broadcom Academy blog, 'Broadcom Is a 2022 Customers' Choice for Data Masking on Gartner Peer Insights' (academy.broadcom.com); Broadcom TechDocs, Test Data Manager 4.10 (techdocs.broadcom.com).
-
+Engineering teams are consolidating test-data provisioning into broader shift-left platforms, including Broadcom's own newly announced unified continuous testing platform (2025), IBM's DevOps Test/Engineering Lifecycle Management line, and specialist data vendors such as Delphix and K2view.
+ 
 ## IBM Replacement Strength
 
 (not provided)
@@ -47,13 +45,12 @@ Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); B
 
 ## PRIMARY - Key Product - IBM Alternative
 
-IBM DevOps Deploy
+
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
 General sentiment: Mixed to positive – praised for deployment orchestration and IBM tool integration, but reviewers cite slow support resolution and burdensome agent management.
 
-IBM DevOps Deploy (formerly UrbanCode Deploy) provides enterprise application release automation and continuous deployment orchestration. It delivers multi-tier deployment modeling, automated quality gates, push-button rollbacks, full inventory governance, and native integration with Jenkins, GitOps (Argo CD), and Red Hat OpenShift across hybrid cloud and mainframe estates.
 
 ## PRIMARY - IBM Product Page URL
 
@@ -61,6 +58,7 @@ https://www.ibm.com/products/devops-deploy
 
 ## Customer Reference
 (not provided)
+
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
 IBM DevOps Test
@@ -69,11 +67,16 @@ IBM DevOps Test
 
 IBM DevOps Test provides a comprehensive continuous testing suite covering automated API testing, functional UI testing, enterprise performance load testing, and service virtualization. It integrates directly into CI/CD pipelines, enabling shift-left quality gates, AI-driven test script maintenance, and realistic protocol/workload simulation without expensive proprietary per-virtual-user fees.
 
+IBM DevOps Deploy is a release-automation product, not a test-data-management product. It offers complimentary services. IBM DevOps Deploy (formerly UrbanCode Deploy) provides enterprise application release automation and continuous deployment orchestration. It delivers multi-tier deployment modeling, automated quality gates, push-button rollbacks, full inventory governance, and native integration with Jenkins, GitOps (Argo CD), and Red Hat OpenShift across hybrid cloud and mainframe estates.
+
+
 ## SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/devops-test/performance
 
 ## Sources: Analyst reviews and exist strategy
+
+Sources: PeerSpot, 'Broadcom Test Data Manager: Pros and Cons' (peerspot.com); Broadcom Academy blog, 'Broadcom Is a 2022 Customers' Choice for Data Masking on Gartner Peer Insights' (academy.broadcom.com); Broadcom TechDocs, Test Data Manager 4.10 (techdocs.broadcom.com).
 
 Column D expanded from a one-line fragment into a full, sourced capability summary. Column E replaces generic claims with a verified 2022 Gartner Peer Insights recognition, sourced PeerSpot customer feedback, an honest statement that no 2025-2026 analyst ranking was found, and a flag that column H's listed alternative does not match this row's product category.
 

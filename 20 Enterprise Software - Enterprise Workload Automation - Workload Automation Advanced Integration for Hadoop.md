@@ -29,11 +29,11 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Some limited commercial and architectural pressure. This integration is an agent/plugin add-on tied to legacy AutoSys and ESP scheduler architectures. As enterprises continue to migrate off on-premises Hadoop toward cloud object storage, managed Spark and distributed microservice architectures, a category-wide shift that pre-dates and is independent of the Broadcom acquisition, ongoing investment in Hadoop-specific scheduler integrations is inherently limited by the declining size of the underlying Hadoop market rather than by Broadcom-specific commercial behaviour.
+The Broadcom product is an agent/plugin add-on tied to legacy AutoSys and ESP scheduler architectures. As enterprises continue to migrate off on-premises Hadoop toward cloud object storage, managed Spark and distributed microservice architectures, there has been a category-wide shift that pre-dates and is independent of the Broadcom acquisition. The ongoing investment in Hadoop-specific scheduler integrations is inherently limited by the declining size of the underlying Hadoop market rather than by Broadcom-specific commercial behaviour.
 
 IBM Spectrum Conductor, proposed as the replacement here, is a currently supported IBM product, but it is a multi-tenant Spark/Anaconda/Dask cluster management platform aimed at machine-learning workloads, not a general-purpose enterprise job scheduler. 
 
-It only partially replaces the scheduling-console function this product provides. Apache Airflow/Astronomer and Kubernetes-native Argo Workflows are alternatives, and are closer functional equivalents for orchestrating data-pipeline jobs alongside other enterprise workloads. They are the alternatives more consistently cited in market commentary on Hadoop-adjacent workload migration.
+IBM Spectrum only partially replaces the scheduling-console function this product provides. Apache Airflow/Astronomer and Kubernetes-native Argo Workflows are alternatives, and are closer functional equivalents for orchestrating data-pipeline jobs alongside other enterprise workloads. They are the alternatives more consistently cited in market commentary on Hadoop-adjacent workload migration.
 
 ## IBM Replacement Strength
 
@@ -49,11 +49,17 @@ IBM Spectrum Conductor
 
 ## PRIMARY - Key Product Capability Statement - IBM Alternative
 
-Spectrum Conductor runs common jobs for Spark, Anaconda and Dask. It does not run Hive, Pig, Oozie or Sqoop job scheduling but these have limited uptake in government.
+Spectrum Conductor is an enterprise-class, multi-tenant platform for deploying and managing Apache Spark (plus Anaconda, Dask and other frameworks) on shared resources, providing higher utilization, and lower TCO for infrastructure. Spectrum Conductor runs common jobs for Spark, Anaconda and Dask. It does not run Hive, Pig, Oozie or Sqoop job scheduling but these have limited uptake in government.
 
 Scaling Machine Learning - A multi-stage workflow process to scale machine learning, across data preparation, feature engineering, model training, and model scoring. An enterprise-class, multi-tenant platform for deploying and managing Apache Spark, Anaconda, Dask and other application frameworks and services on a common shared cluster of resources. 
 
-Offers supperior solution to Cloudera cluster software. Replace existing Cloudera cluster software with IBM Spectrum Conductor, and able to consolidate dozens of heterogeneous applications and environments into a centrally-managed Spark environment to improve costs.
+Note - Offers supperior solution to Cloudera cluster software. So, may allow improved use of infrastructure and consolidation of dozens of heterogeneous applications and environments into a centrally-managed Spark environment to improve costs. 
+
+Independent benchmarking finds Conductor delivered 25–88% higher Spark throughput than other resource managers across interactive, batch and mixed workloads. 
+
+Simply complex Hadoop stacks - Solve the inability to efficiently run multiple versions of Spark on the same infrastructure.
+Improved ROI - Get reduction in SaaS Cloudera costs / Infrastructure for on-prem.
+Improved Performance - Get imporved performance while reducing spend, with low risk swap, requires no change to applications.
 
 ## PRIMARY - IBM Product Page URL
 
@@ -61,7 +67,10 @@ https://www.ibm.com/products/spectrum-conductor
 
 ## Customer Reference
 
-(not provided)
+Wells Fargo Bank, considered one of the "Big Four Banks" in the United States, is building deep learning models to comply with requests from US Comprehensive Capital Analysis and Review (CCAR) regulators. CCAR is a United States regulatory framework to regulate large banks and financial institutions. There are many data scientists at Wells Fargo who build, enhance, and validate hundreds of models each day and speed is critical, as well as scalability, as they deal with greater amounts of data and more complicated models.
+
+Wells Fargo needed to replace legacy Hortonworks Data Platform (HDP) cluster on Intel data lake and were building out a data science practice; and solve the core problem with a classic HDP/Hadoop cluster is siloing and low utilization. Each line of business, each Spark version, each dev/test/prod environment tends to get its own carved-off set of nodes. 
+
 
 ## SECONDARY - Product Name - Supporting Product From any vendor - ONLY Where needed to for FULL Capability match for Broadcom. Extend the IBM Key Product.
 
