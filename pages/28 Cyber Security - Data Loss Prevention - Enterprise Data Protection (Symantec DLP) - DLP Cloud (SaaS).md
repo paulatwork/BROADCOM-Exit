@@ -1,6 +1,6 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
-## Status 
+## Page Status 
 
 Draft
 

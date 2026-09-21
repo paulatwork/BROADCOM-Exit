@@ -1,6 +1,6 @@
 # VMware vSAN
 
-## Status 
+## Page Status 
 
 Draft
 

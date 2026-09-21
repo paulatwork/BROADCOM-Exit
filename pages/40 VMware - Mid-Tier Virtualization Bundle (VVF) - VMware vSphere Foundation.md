@@ -1,6 +1,6 @@
 # VMware vSphere Foundation
 
-## Status 
+## Page Status 
 
 Draft
 

@@ -1,6 +1,6 @@
 # PAM (CA Privileged Access Manager, Symantec PAM)
 
-## Status 
+## Page Status 
 
 Draft
 

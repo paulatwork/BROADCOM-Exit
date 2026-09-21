@@ -1,6 +1,6 @@
 # Service Catalog
 
-## Status 
+## Page Status 
 
 Draft
 

@@ -1,6 +1,6 @@
 # Identity Security Platform (Symantec Identity Security Platform, IDSP)
 
-## Status 
+## Page Status 
 
 Draft
 

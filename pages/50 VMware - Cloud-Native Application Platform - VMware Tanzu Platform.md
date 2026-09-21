@@ -1,6 +1,6 @@
 # VMware Tanzu Platform
 
-## Status 
+## Page Status 
 
 Draft
 

@@ -1,6 +1,6 @@
 # Workload Automation Advanced Integration for Hadoop
 
-## Status 
+## Page Status 
 
 Complete
 

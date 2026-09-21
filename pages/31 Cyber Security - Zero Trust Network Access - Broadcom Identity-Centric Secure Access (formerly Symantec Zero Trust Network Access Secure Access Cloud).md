@@ -1,6 +1,6 @@
 # Broadcom Identity-Centric Secure Access (formerly Symantec Zero Trust Network Access / Secure Access Cloud)
 
-## Status 
+## Page Status 
 
 Draft
 

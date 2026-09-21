@@ -1,6 +1,6 @@
 # Symantec VIP
 
-## Status 
+## Page Status 
 
 Draft
 

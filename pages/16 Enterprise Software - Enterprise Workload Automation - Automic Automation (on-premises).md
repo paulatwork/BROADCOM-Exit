@@ -1,6 +1,6 @@
 # Automic Automation (on-premises)
 
-## Status 
+## Page Status 
 
 Draft
 

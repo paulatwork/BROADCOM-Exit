@@ -1,6 +1,6 @@
 # SiteMinder
 
-## Status 
+## Page Status 
 
 Draft
 

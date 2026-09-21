@@ -1,6 +1,6 @@
 # Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
-## Status 
+## Page Status 
 
 Draft
 

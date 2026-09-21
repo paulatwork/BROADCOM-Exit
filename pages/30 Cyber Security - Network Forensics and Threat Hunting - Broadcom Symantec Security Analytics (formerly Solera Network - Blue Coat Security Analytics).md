@@ -1,6 +1,6 @@
 # Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
-## Status 
+## Page Status 
 
 Draft
 

@@ -1,6 +1,6 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
-## Status 
+## Page Status 
 
 Draft
 

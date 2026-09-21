@@ -1,6 +1,6 @@
 # VMware vSphere Kubernetes Service (VKS)
 
-## Status 
+## Page Status 
 
 Draft
 

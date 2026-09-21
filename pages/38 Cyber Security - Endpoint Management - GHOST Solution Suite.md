@@ -1,6 +1,6 @@
 # GHOST Solution Suite
 
-## Status 
+## Page Status 
 
 Draft
 

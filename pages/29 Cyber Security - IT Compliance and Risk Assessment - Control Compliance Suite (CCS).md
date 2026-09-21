@@ -1,6 +1,6 @@
 # Control Compliance Suite (CCS)
 
-## Status 
+## Page Status 
 
 Draft
 

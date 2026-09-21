@@ -1,6 +1,6 @@
 # Symantec IT Management Suite
 
-## Status 
+## Page Status 
 
 Draft
 

@@ -1,6 +1,6 @@
 # IT Process Automation Manager
 
-## Status 
+## Page Status 
 
 Draft
 

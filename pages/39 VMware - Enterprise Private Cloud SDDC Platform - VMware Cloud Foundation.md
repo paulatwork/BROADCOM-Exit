@@ -1,6 +1,6 @@
 # VMware Cloud Foundation
 
-## Status 
+## Page Status 
 
 Draft
 
