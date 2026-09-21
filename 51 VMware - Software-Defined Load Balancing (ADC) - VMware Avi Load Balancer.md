@@ -33,25 +33,29 @@ The evidence base for organisations actively exiting Avi Load Balancer specifica
 
 Sources: Broadcom Knowledge Base, 'VMware Avi Load Balancer Basic Edition: End of Availability & End of General Support Notice'; Broadcom TechDocs, 'F5 to Avi Load Balancer Migration Workflow', which documents inbound rather than outbound migration activity.
 
-## IBM Replacement Strength
-
-Yes
-
-## IBM Replacement Strategy - Why IBM over Broadcom
-
-IBM
-
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Cloud Load Balancer / VPC Load Balancer
 
-## IBM PRIMARY - Product Description 
-
-(not provided)
-
 ## IBM PRIMARY - IBM Product Page URL
 
 https://www.ibm.com/cloud/load-balancer
+
+## IBM Replacement Strength
+
+Yes
+
+## IBM Replacement Strategy (Short)
+
+IBM Cloud and VPC Load Balancers replace VMware Avi Load Balancer with IBM's load balancing.
+
+## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+
+IBM
+
+## IBM PRIMARY - Product Description 
+
+(not provided)
 
 ## Customer Reference
 
@@ -81,8 +85,3 @@ Corrected the row's overall framing: available evidence shows migration activity
 - Avi release notifications: https://knowledge.broadcom.com/external/article/312808/vmware-avi-load-balancer-release-notific.html
 
 ## Change history:
-
-### 2026-09-19 - Broadcom product information review
-- Product description: Updated to 31.2.x and 32.1.x.
-- Summary and numbered list of four key features rewritten from current Broadcom sources.
-- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).

@@ -18,7 +18,9 @@ ValueOps by Broadcom - Rally (SaaS or On-prem)
 
 ## Broadcom Product Description - Key Features
 
-Rally by Broadcom (formerly CA Agile Central and Rally Software) is an enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
+Rally by Broadcom (formerly CA Agile Central and Rally Software) is an enterprise agile planning platform, part of ValueOps, that connects portfolio strategy to team-level backlogs for scaled agile delivery. 
+
+The Q1 and Q2 2026 releases added configurable planning widgets, capacity plan alignment to custom fields, an OAuth-enabled Rally MCP Server for AI tools, and AI features upgraded to the Gemini 3.0 model.
 
 Key features:
 
@@ -33,42 +35,36 @@ Rally is generally considered to be consolidation into wider strategic portfolio
 
 Broadcom's former CA products are generally known for renewal increases, minimum commitments and bundling into wider agreements, with sales attention reserved for the largest accounts. 
 
-Alternative options exist, but none are widely discussed in the market. Atlassian's 2024 notice retiring legacy Jira Align features says plainly that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
-
-## IBM Replacement Strength
-
-(not provided)
-
-## IBM Replacement Strategy - Why IBM over Broadcom
-
-IBM Apptio Targetprocess matches Rally on the planning layer and then goes somewhere Rally structurally can't, connecting delivery to finance.
-
-IBM Apptio Targetprocess purpose-built for agile-at-scale, not a PPM tool with agile bolted on. While Rally supports project portfolio management or team-level agile, it struggles to support operations at scale. Targetprocess was built for the single purpose of accelerating agile transformation on a hyper-flexible platform and doing it for some of the world's largest organisations. 
-
-Rally lacks financial depth. But with IBM Apptio (ApptioOne) integration, Targetprocess connects finance from strategy to execution.
-
-This provides several signifiant benefits, such as: End-to-end transparency across all delivery costs and resource modalities, View of dynamic funding of product-centric value streams instead of project-based workstreams; View of capitalisation of labor costs for compliant accounting and defensible labor allocation. All of this provides actuals vs. budget, variance drivers, and run-vs-grow reporting.
+Alternative options exist, but none are strong in the market. Atlassian's 2024 notice retiring legacy Jira Align features states that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Apptio Targetprocess
-
-## IBM PRIMARY - Product Description 
-
-For a direct Rally replacement, migrate to IBM Apptio Targetprocess. It maps to every Rally capability at the portfolio-to-team planning layer and adds financial management depth Rally lacks.
-
-Notable differentiator vs. Rally - Targetprocess also includes financial integration — linking portfolio decisions to IT spend, capitalisation tracking, and Apptio cost management — something Rally/ValueOps positions separately. Refer the IBM CIO case study: "Targetprocess provided an enterprise agile planning view and the ability to perform portfolio and resource management... facilitating strategic planning by having visibility on how resources align to initiatives, objectives and key results."
-
-Feature match:
-
-1. Portfolio-to-team planning & SAFe support — Targetprocess supports all SAFe configurations out of the box, connecting Portfolio, Product, and Team backlogs through PI Planning, Epic Kanban, and ART-level program boards with cross-team dependency management.
-2. Capacity planning and alignment — Program-level capacity views compare planned workload against available team capacity across PIs and releases, with overload warnings to support rebalancing and work postponement.
-3. Configurable planning boards & agile analytics — A customisable flow metrics dashboard provides real-time visibility into WIP, cycle time, and lead time, alongside built-in burnup/burndown charts and a Program Board for tracking progress and dependencies.
-4. AI and open integration — AI-powered financial insights are delivered through the Apptio platform, with native integration to IBM watsonx, Apptio Costing and Planning, and open APIs that connect portfolio decisions to IT spend, OKRs, and strategic initiatives.
+IBM Targetprocess and IBM Apptio
 
 ## IBM PRIMARY - IBM Product Page URL
 
-https://www.ibm.com/products/engineering-workflow-management
+https://www.apptio.com/products/targetprocess/
+
+## IBM Replacement Strength
+
+Strong Replacement, with improved outcomes
+
+## IBM Replacement Strategy (Short)
+
+Migrate to complete end-to-end financial and technology management service, with an integrated solution for agile engieering.
+
+## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+
+Broadcom bundles Rally + Clarity + Insights to try to cover both planning and financials. IBM offers the same services with Targetprocess + Apptio, the acknowledged category leader in Technology Business Management. With Targetprocess + Apptio introduce AI into the financial planning lifecycle to ensure every decision is smarter, every process is faster, and every investment is more valuable.
+
+## IBM PRIMARY - Product Description 
+
+1. Portfolio-to-team planning & SAFe - Targetprocess is built around the same job — connecting strategic priorities to user stories with full bidirectional traceability, SAFe/LPM support, and multi-level portfolio visibility. Its differentiator is flexibility: Targetprocess is known for a highly configurable model that adapts to any way of working rather than imposing a fixed hierarchy.
+2. Capacity planning & alignment - Targetprocess covers Resource Management and Portfolio Budgeting as first-class pillars, not add-ons, and pairs with Apptio's Labor Financial Management (LFM) to tie capacity to actual labor cost, which Rally on its own does not do.
+3. Configurable planning boards & analytics - Configurability is Targetprocess's signature strength, for custom views, boards and real-time analytics across the portfolio, for total end-to-end transparency.
+4. AI & open integration - IBM is bringing its AI leadership to Technology Business Management with the introduction of AI for Apptio. The overarching goal is not just to add a feature, but to build AI Assistance across the User Experience journey to make Targetprocess fundamentally easier to query, easier to connect, and faster to act upon for enterprise planning and delivery teams. Focused on search, filters, query building, view/report creation, and contextual guidance Designed to reduce reliance on admins, implementation teams, and power users for common analysis tasks. The new AI Assistant provides faster insights and improved scenario planning, to allow plain-language questions (such as “Where is the financial risk this year?”) for instant, contextual answers, which reduce dashboard hopping and manual analysis. Improved scenario planning helps project management teams and portfolio/CFO leaders evaluate trade-offs across capacity, timelines, and dependencies before finalising investment decisions.
+
+"Rally's AI is Gemini 3.0 layered onto agile boards with an MCP server for connecting external tools. Targetprocess's AI is purpose-built for the planning-and-financials domain, embedded in the platform, grounded in governed cost models and approved IBM docs with citations, and backed by IBM watsonx. It answers both 'what's happening in my data?' (Conversational Insights) and 'how do I do this?' (Expert Guidance) in one assistant that routes automatically — and it feeds intelligent, anomaly-aware forecasting into planning
 
 ## Customer Reference
 
@@ -80,16 +76,14 @@ IBM Engineering Lifecycle Management (ELM) suite
 
 ## IBM SECONDARY - Product Description
 
-To compliment the service with engineering traceability, requirements management, or systems engineering, then use IBM Engineering Workflow Management (EWM) alongside Targetprocess using the Targetprocess + EWM positioning guide (internal Seismic, sellers/partners).
+Go beyond enterprise agile planning and aligning backlogs to portfolios, and connect to agile, digital engineering and the delivery processes for requirements, models, tests, compliance evidence, and safety-critical certification with addition of IBM Engineering Lifecycle Management (ELM) to compliment IBM Targetprocess.
 
-Via the IBM Engineering Lifecycle Management (ELM) suite , Defence can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of Defence capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
+IBM ELM manages the engineering artifacts and the digital thread that connects them — DOORS Next, Rhapsody and ETM. And where Rally is bolting Gemini-based AI onto agile boards, ELM's AI Hub delivers governed, purpose-built engineering agents for validated environments.
 
-Feature match:
+Enhance Agile Engineering with an integrated, end-to-end financial visibility from strategy to delivery with IBM Targetprocess and ELM working together. To compliment the service with engineering traceability, requirements management, or systems engineering, then use IBM Engineering Workflow Management (EWM) alongside Targetprocess. Together, provides planning and financial depth, linking agile delivery to enterprise cost, to improve the financial management of technology in the organisation. 
 
-1. Portfolio-to-team planning & scaled agile support — EWM provides SAFe 4.6 and 6.0 templates across team, program, and portfolio levels, with Scrum and Kanban boards, a Program Board for ART dependency and feature tracking, and a Risk ROAM board for PI planning risk categorisation.
-2. Capacity planning — Iteration-level capacity tracking compares estimated work hours against team availability per sprint, with visibility into both parent and child team areas.
-3. Configurable planning boards & agile analytics — Sprint Backlog plans, release planning boards, and roadmap Gantt views are built in, alongside burndown and burnup reports per iteration and PI-level Enterprise Agile Reports showing burndown and burnup by week.
-4. AI and open integration — EWM integrates with GitHub, GitLab, Gerrit, and Bitbucket for end-to-end traceability from requirements to code, and is positioned alongside Targetprocess for organisations that need both engineering traceability and portfolio-level planning; no equivalent to Rally's OAuth MCP Server or Gemini 3.0 AI model is documented at this time.
+Via the IBM Engineering Lifecycle Management (ELM) suite , Government can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of government capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
+
 
 ## IBM SECONDARY - Product Page(s) URL
 
@@ -116,7 +110,7 @@ https://www.ibm.com/products/engineering-lifecycle-management
 - Broadcom named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management: https://valueops.broadcom.com/blog/broadcom-named-a-leader-in-the-2025-gartner-magic-quadrant-for-spm
 
 
-## IBM Apptio Targetprocess 
+## IBM Targetprocess 
 
 - Apptio Targetprocess Level 2 client deck — "Seamlessly setup PI Planning with connected backlogs for Portfolio, Product, and Teams" - https://ibm.seismic.com/Link/Content/DCRfTM96dfM3XGWF27BC8W6V2Mm8
 - IBM Docs — Targetprocess: Capacity Planning: Program Backlog — "Capacity Planning views compare demand as planned workload with available capacity of teams" - https://www.ibm.com/docs/en/targetprocess/atp/saas?topic=planning-capacity-program-backlog
@@ -136,25 +130,3 @@ Source: EWM 7.0.3 New and Noteworthy — "PI burndown chart, PI burnup chart [En
 
 
 ## Change history:
-
-### 2026-09-20 - Analyst Cautions and Industry Findings rewritten as a narrative
-- Rewrote the section as a narrative and removed the analyst-report shorthand.
-- Searched for named organisations that have moved from Rally to another tool (2026-09-20). None was found, and the text now says so.
-- Noted that Broadcom's own cost comparison against Jira is vendor marketing.
-- Moved all citations to the Sources: Analyst reviews and exist strategy section.
-
-
-### 2026-09-19 - Broadcom product information verification (WebFetch pass, files 02-39)
-- Verified: Rally 2026 release facts and the 2022 Gartner Enterprise Agile Planning Leader announcement still stand. No newer Enterprise Agile Planning placement for Broadcom was found. Broadcom was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Portfolio Management (second consecutive year), which supports the existing analyst note. No changes required.
-
-### 2026-09-19 - Broadcom product information review
-- Product description: Replaced the earlier description (which referred to programme increment planning and ValueOps Insights feeds) with 2026-verified capabilities from the Q1 and Q2 2026 release notes.
-- Summary and numbered list of four key features rewritten from current Broadcom sources.
-- General Sources: 3 sources recorded (Broadcom TechDocs, product pages, press releases where available).
-
-### 2026-09-19 - IBM alternative product verification and sentiment (WebFetch and WebSearch pass, files 02-39)
-- Requirement match against the Key Features section: Partially meets.
-- Confirmed (IBM product page): ELM supports frameworks such as SAFe, dashboards and analytics, AI agents (IBM Engineering AI Hub) and an Integration Hub for third-party tools.
-- Not confirmed: explicit portfolio-to-team planning and capacity planning were not stated on the page. ELM is an engineering lifecycle suite, so Targetprocess (see file 02) is the closer IBM match for Rally's portfolio-to-team planning; the two are reported as integrated by a third party.
-- Sentiment: added a one-sentence summary of general market sentiment at the start of the Key Product Capability Statement. Existing statement text was not changed.
-- Sources: https://www.ibm.com/products/engineering-lifecycle-management; https://www.peerspot.com/products/ibm-engineering-lifecycle-management-elm-reviews; https://www.trustradius.com/products/ibm-rational-quality-manager/reviews
