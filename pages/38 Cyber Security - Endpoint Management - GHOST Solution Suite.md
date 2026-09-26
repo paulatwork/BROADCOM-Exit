@@ -1,5 +1,9 @@
 # GHOST Solution Suite
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ The pressure on GHOST is a change in how endpoints are built, not a Broadcom dec
 
 No named organisation has publicly described leaving GHOST. Enterprises retiring it are adopting Windows Autopilot paired with Microsoft Intune, IBM MaaS360, Apple Business Manager for Apple estates, or Tanium Provision.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security MaaS360 with Watson (Modern Endpoint Provisioning)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/maas360
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

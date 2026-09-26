@@ -1,5 +1,9 @@
 # Service Virtualization
 
+## Category
+
+Application Lifecycle Management (ALM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The background is the same continuous testing bundle, with consolidated subscrip
 
 No named organisation has publicly described leaving Service Virtualization. Engineering teams that do leave are replacing heavyweight, appliance-style virtualisation with lighter, developer-friendly, API-first tools wired into CI/CD pipelines. WireMock, Parasoft Virtualize, Tricentis and IBM's Rational Test Workbench lineage are the alternatives cited most often. Commentary treats Broadcom DevTest and Parasoft Virtualize as the incumbents for deep legacy protocol stacks run by a central team, whereas WireMock suits API-first teams.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM DevOps Test Virtualization
@@ -45,7 +53,7 @@ https://www.ibm.com/products/devops-test/virtualization
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM DevOps Test Virtualization is IBM's continuous testing and service virtualiz
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

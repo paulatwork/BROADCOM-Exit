@@ -1,5 +1,9 @@
 # AutoSys Workload Automation
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The commercial complaints run in parallel. Beta Systems, a competitor, lists fou
 
 The analyst view is mixed. Broadcom was named a Leader in Gartner's 2025 Magic Quadrant for service orchestration and automation platforms, and that should sit beside the pricing concerns. IBM Workload Automation, Redwood RunMyJobs and BMC Control-M are all named vendors in that quadrant, and Apache Airflow with Astronomer is a widely adopted open-source route for engineering-led teams.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Workload Automation
@@ -45,7 +53,7 @@ https://www.ibm.com/products/workload-automation
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Workload Automation is IBM's advanced workload scheduling and automation pla
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

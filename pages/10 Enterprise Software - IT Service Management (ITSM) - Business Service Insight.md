@@ -1,5 +1,9 @@
 # Business Service Insight
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -34,6 +38,10 @@ Business Service Insight is one of the quietest products in the portfolio. No Ga
 The wider context is a company that has openly redirected research and development spending away from products outside its core accounts, as The Register reported in 2022. Small, legacy CA-derived modules like this one are the obvious candidates for reduced investment, though Broadcom still maintains version 9.0.0.
 
 No named organisation has publicly described leaving Business Service Insight. Customers who do move are generally changing the way they work, not just the tool. IBM Instana, Dynatrace and Datadog are actively developed observability platforms with service level objective and error-budget tracking, which shifts SLA reporting from a periodic exercise to a continuous one. ServiceNow Service Level Management is a real if less commonly deployed standalone alternative. Because this is a change of tooling category, the client's contractual SLA and OLA reporting requirements should be tested against whichever platform is chosen before Business Service Insight is switched off.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -71,11 +79,11 @@ IBM Instana Observability is IBM's real-time enterprise observability and automa
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

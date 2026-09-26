@@ -1,5 +1,9 @@
 # VMware vSphere Kubernetes Service (VKS)
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Because VKS is deployed as a Supervisor-level capability of vSphere, it creates 
 
 Sources: Fairwinds, 'Are You Still Using VMware Tanzu? (And Is Now the Time to Migrate?)'; Broadcom TechDocs on vSphere IaaS Control Plane and VKS architecture.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat OpenShift Container Platform
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

@@ -1,5 +1,9 @@
 # Workload Automation Advanced Integration for Hadoop
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Complete
@@ -34,6 +38,10 @@ This product is a plug-in for the AutoSys and ESP schedulers, built for a world 
 So the exit story here is mostly a story about Hadoop. No analyst firm covers the product, and no named organisation has publicly described leaving it, although the market trend away from Hadoop toward platforms such as Databricks is widely reported. Customers who leave AutoSys will find that the integration has little value without it.
 
 The IBM suggestion needs care. IBM Spectrum Conductor is a supported IBM product, but it is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does. Apache Airflow with Astronomer, and Kubernetes-native Argo Workflows, are closer to the job of orchestrating data pipelines alongside other enterprise workloads, and they are the options most often cited in commentary on moving Hadoop-adjacent scheduling.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -80,11 +88,11 @@ Wells Fargo needed to replace legacy Hortonworks Data Platform (HDP) cluster on 
 
 None 
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 None 
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 None 
 

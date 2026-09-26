@@ -1,5 +1,9 @@
 # DX Operational Observability
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ Independent voices on the merged product are few. Gartner Peer Insights lists Br
 
 No named organisation has publicly described leaving DX Operational Observability, and it is too newly merged to have a separate exit record. The direction of the market is clear enough. Buyers are moving to cloud-native, unified observability platforms with wider ecosystems and shorter time to value, chiefly IBM Instana, Dynatrace, Datadog and New Relic, all of which hold current leader positions in observability and AIOps. The alternatives proposed are realistic and match that movement.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability
@@ -45,7 +53,7 @@ https://www.ibm.com/products/instana
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Instana Observability is IBM's automated Application Performance Monitoring 
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

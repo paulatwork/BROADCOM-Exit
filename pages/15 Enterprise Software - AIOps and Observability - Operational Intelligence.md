@@ -1,5 +1,9 @@
 # Operational Intelligence
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The lifecycle story is clearer. Broadcom ended technical support for DX Operatio
 
 No named organisation has publicly described leaving the product. Where organisations are choosing vendor-neutral AIOps event correlation, they are genuinely adopting BigPanda, ServiceNow ITOM Event Management and Splunk ITSI, and IBM Concert Operate is a realistic IBM option. One correction matters before anything goes to the client. Moogsoft was acquired by Dell Technologies in 2023 and now sits inside Dell's APEX AIOps portfolio, so it is no longer an independent alternative and should be dropped from the list.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Concert Operate (formerly IBM Cloud Pak for AIOps)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/concert/operate
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Concert Operate is IBM's enterprise AIOps and IT operations correlation plat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

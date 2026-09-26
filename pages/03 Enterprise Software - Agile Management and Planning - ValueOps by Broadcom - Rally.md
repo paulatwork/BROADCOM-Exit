@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Rally (SaaS or On-prem)
 
+## Category
+
+Strategic Portfolio Management (SPM)
+
 ## Page Status 
 
 Complete
@@ -31,15 +35,19 @@ Key features:
 
 ## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
 
-Rally is generally considered to be consolidation into wider strategic portfolio management. Broadcom/CA last Magic Quadrant Leader placement in this category is dated in 2022, and comes from Broadcom's own announcement. Since then , and there no independent confirmation that Rally remains a Leader in agile planning. Instead it is being consumed in Broadcom consolidation into wider strategic portfolio management category instead.
+Rally is being consumed in Broadcom consolidation into wider strategic portfolio management suite. The last placement of Broadcom/CA in the Magic Quadrant Leader in this category is dated in 2022, and comes from Broadcom's own announcement. Since then, there is no independent confirmation that Rally remains a Leader in agile planning.
 
 Broadcom's former CA products are generally known for renewal increases, minimum commitments and bundling into wider agreements, with sales attention reserved for the largest accounts. 
 
-Alternative options exist, but none are strong in the market. Atlassian's 2024 notice retiring legacy Jira Align features states that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist.
+Few alternative options exist. Atlassian's 2024 notice retiring legacy Jira Align features states that the platform stays supported and funded, so Jira Align is a live option rather than a fading one. IBM Engineering Lifecycle Management, Planview Enterprise Agile and Microsoft Azure DevOps are all actively developed and belong on the shortlist. The strongest option is probably IBM's Targetprocess/Apptio combination.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Targetprocess and IBM Apptio
+IBM Targetprocess / Apptio (SaaS)
 
 ## IBM PRIMARY - IBM Product Page URL
 
@@ -47,15 +55,15 @@ https://www.apptio.com/products/targetprocess/
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
-Migrate to complete end-to-end financial and technology management service, with an integrated solution for agile engieering.
+Migrate to complete end-to-end financial and technology management service, with an integrated addition for agile engieering.
 
 ## IBM Replacement Strategy (Description - Why IBM over Broadcom)
 
-Broadcom bundles Rally + Clarity + Insights to try to cover both planning and financials. IBM offers the same services with Targetprocess + Apptio, the acknowledged category leader in Technology Business Management. With Targetprocess + Apptio introduce AI into the financial planning lifecycle to ensure every decision is smarter, every process is faster, and every investment is more valuable.
+Broadcom bundles Rally + Clarity + Insights to try to cover both planning and financials. IBM offers the same services with Targetprocess + Apptio, the acknowledged category leader in Technology Business Management. With Targetprocess + Apptio, the AI is introduced into the financial planning lifecycle as an embedded assistant, developed specificly for financial management, to ensure every decision is smarter, every process is faster, and every investment is more valuable.
 
 ## IBM PRIMARY - Product Description 
 
@@ -74,6 +82,10 @@ Broadcom bundles Rally + Clarity + Insights to try to cover both planning and fi
 
 IBM Engineering Lifecycle Management (ELM) suite
 
+## IBM SECONDARY - Product Page(s) URL
+
+https://www.ibm.com/products/engineering-lifecycle-management
+
 ## IBM SECONDARY - Product Description
 
 Go beyond enterprise agile planning and aligning backlogs to portfolios, and connect to agile, digital engineering and the delivery processes for requirements, models, tests, compliance evidence, and safety-critical certification with addition of IBM Engineering Lifecycle Management (ELM) to compliment IBM Targetprocess.
@@ -84,10 +96,6 @@ Enhance Agile Engineering with an integrated, end-to-end financial visibility fr
 
 Via the IBM Engineering Lifecycle Management (ELM) suite , Government can access updated tools for Requirements Management and Agile Engineering that are the market leaders and adopted by US and MOD groups in support of government capability acquisition. The ELM suite provides distinctive capabilities for enterprise agile planning, SAFe 6.0’ templates and lean tool chains, and easy 3rd party integrations.
 
-
-## IBM SECONDARY - Product Page(s) URL
-
-https://www.ibm.com/products/engineering-lifecycle-management
 
 # Sources:
 

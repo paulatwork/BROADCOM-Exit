@@ -1,5 +1,9 @@
 # Carbon Black
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ That uncertainty is what moved people. The clearest named case is Thomas H. Lee 
 
 Organisations reassessing endpoint detection and response are choosing cloud-native platforms. CrowdStrike Falcon, Microsoft Defender for Endpoint, SentinelOne Singularity and IBM Security QRadar EDR, formerly ReaQta, are the main ones.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security QRadar EDR
@@ -45,7 +53,7 @@ https://www.ibm.com/products/qradar-edr
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Security QRadar EDR (formerly ReaQta) is IBM's endpoint detection and respon
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

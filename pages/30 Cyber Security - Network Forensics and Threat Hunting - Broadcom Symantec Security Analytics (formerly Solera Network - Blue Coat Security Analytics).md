@@ -1,5 +1,9 @@
 # Broadcom Symantec Security Analytics (formerly Solera Network, Blue Coat Security Analytics)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ Customers have been blunt about support. Gartner Peer Insights holds 41 ratings,
 
 No Forrester Wave or IDC MarketScape covers the product. Organisations retiring on-premises full-packet-capture appliances are mostly folding network forensics into broader SIEM and XDR platforms with network detection and response, such as IBM QRadar, Darktrace and Corelight, and not replacing full packet capture like for like.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM QRadar Network Insights & Incident Forensics
@@ -47,7 +55,7 @@ https://www.ibm.com/products/qradar-siem
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,13 +81,13 @@ IBM QRadar Network Insights (QNI) and IBM QRadar Incident Forensics deliver real
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/qradar-siem
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

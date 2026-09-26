@@ -1,5 +1,9 @@
 # Nolio Release Automation
 
+## Category
+
+Application Lifecycle Management (ALM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ No current Gartner, Forrester or IDC coverage specific to Nolio was located, and
 
 Organisations replacing older, agent-heavy release automation tools are choosing GitOps-native and cloud-first delivery platforms. IBM DevOps Deploy, formerly UrbanCode Deploy, Red Hat OpenShift GitOps with Argo CD, GitLab CI/CD and Harness are the realistic candidates.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM DevOps Deploy
@@ -47,7 +55,7 @@ https://www.ibm.com/products/devops-deploy
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM DevOps Deploy (formerly IBM UrbanCode Deploy) is IBM's enterprise applicatio
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

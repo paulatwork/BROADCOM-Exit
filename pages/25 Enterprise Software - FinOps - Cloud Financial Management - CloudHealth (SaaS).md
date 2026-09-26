@@ -1,5 +1,9 @@
 # CloudHealth (SaaS)
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The pressure comes from how Broadcom sells it. In May 2024 Broadcom named Arrow 
 
 Market commentary describes CloudHealth migrations as driven mostly by the wider VMware relationship and licensing disruption after the 2023 acquisition, not by shortcomings in FinOps features. No named organisation has publicly described leaving CloudHealth. Flexera One and IBM Apptio Cloudability are the replacements most consistently named, which supports the alternatives already proposed.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Apptio Cloudability
@@ -45,7 +53,7 @@ https://www.ibm.com/products/apptio/cloudability
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,13 +79,13 @@ IBM Apptio Cloudability is IBM's enterprise FinOps and cloud financial managemen
 
 IBM Apptio SaaS
 
-## IBM SECONDARY - Product Description
-
-IBM Cloudability (Apptio) is the market leading enterprise replacement for complex multi-cloud financial allocation, showback/chargeback, and IT financial management.
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/apptio
+
+## IBM SECONDARY - Product Description
+
+IBM Cloudability (Apptio) is the market leading enterprise replacement for complex multi-cloud financial allocation, showback/chargeback, and IT financial management.
 
 # Sources:
 

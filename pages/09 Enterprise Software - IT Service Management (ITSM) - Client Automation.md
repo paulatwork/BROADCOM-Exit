@@ -1,5 +1,9 @@
 # Client Automation
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -34,6 +38,10 @@ Client Automation is a mature, dependable tool with a shrinking audience. Gartne
 The general Broadcom pattern of renewal increases and bundling applies. No named organisation has publicly described leaving Client Automation, so the case for moving rests on the shrinking review base, the age of the platform and the strength of the cloud tools.
 
 Microsoft Intune and Tanium are the destinations most widely adopted, and IBM MaaS360 is a genuine cloud UEM competitor. Red Hat Satellite is a different animal. It manages patching and configuration for enterprise Linux and is not a full UEM tool, so it should be positioned as a partial, Linux-specific option and not as a like-for-like replacement for Client Automation's whole endpoint scope.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -71,11 +79,11 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

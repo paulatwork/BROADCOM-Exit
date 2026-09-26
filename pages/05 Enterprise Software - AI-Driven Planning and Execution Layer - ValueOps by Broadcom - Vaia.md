@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Vaia (SaaS)
 
+## Category
+
+Strategic Portfolio Management (SPM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ There is also no exit story to tell. A product this young has no customers who h
 
 On alternatives, be careful. None of the four alternatives named for Vaia is a precise replacement. IBM watsonx and IBM Concert are broad AI and AIOps platforms, not assistants embedded in portfolio planning. Atlassian Intelligence drafts work items, and GitHub Copilot generates code. Neither covers strategic portfolio or agile capacity planning. The closest comparison is the AI features that Planview and ServiceNow are adding to their own portfolio and agile planning tools. Present this to the client as a gap to assess, not as a straight swap.
 
+## IBM PRIMARY BRAND 
+
+Data
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM watsonx.governance
@@ -47,7 +55,7 @@ https://www.ibm.com/products/watsonx-governance
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -74,11 +82,11 @@ IBM watsonx.governance is IBM's enterprise AI governance and decision assurance 
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

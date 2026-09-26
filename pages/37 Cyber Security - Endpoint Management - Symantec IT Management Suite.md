@@ -1,5 +1,9 @@
 # Symantec IT Management Suite
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ No independent Magic Quadrant or Forrester Wave was found for this product, and 
 
 IT operations teams are retiring Altiris and IT Management Suite in favour of cloud-managed unified endpoint management and systems-management tools. Microsoft Intune, IBM MaaS360 and Tanium are the main choices, and Red Hat Satellite is used for Linux estates.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security MaaS360 with Watson (with Red Hat Satellite)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/maas360
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

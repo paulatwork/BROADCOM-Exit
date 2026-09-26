@@ -1,5 +1,9 @@
 # vDefend Advanced Threat Prevention
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Independent, product-specific analyst criticism of vDefend Advanced Threat Preve
 
 Sources: SE Labs, 'Advanced Security Test Report: VMware vDefend Advanced Threat Prevention' (2025); Forrester Consulting, 'The Total Economic Impact of Broadcom VMware vDefend' (commissioned by Broadcom, February 2025).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat Advanced Cluster Security for Kubernetes
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-cluster-security
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

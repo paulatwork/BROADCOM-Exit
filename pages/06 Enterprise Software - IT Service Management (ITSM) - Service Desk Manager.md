@@ -1,5 +1,9 @@
 # Service Desk Manager
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -34,6 +38,10 @@ Service Desk Manager is judged by its users as a capable but ageing tool. On Gar
 Broadcom's bundling and renewal pressures apply here as they do across the former CA portfolio. The stronger signal of drift is in Broadcom's own community forums. Customers there are working out how to couple Service Desk with ServiceNow, and one thread describes moving a Spectrum ticketing integration from CA Service Desk to ServiceNow. That is customers quietly shifting their ticketing, though it is not a named organisation announcing an exit, and none has done so publicly.
 
 ServiceNow ITSM and Atlassian Jira Service Management lead Gartner's IT service management platforms market. BMC Helix, recently spun off as an independent company according to CIO reporting, is a serious direct competitor. IBM Maximo IT is a genuine ITSM offering, but it is best known for enterprise asset management, so it is a viable niche choice and not a mainstream leader. The client should hear that clearly.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -71,11 +79,11 @@ IBM Maximo IT is an enterprise IT Service Management (ITSM) and IT Asset Managem
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

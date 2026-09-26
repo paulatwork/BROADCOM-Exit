@@ -1,5 +1,9 @@
 # Automic Automation (on-premises)
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The technology itself is not the problem. Broadcom was named a Leader in Gartner
 
 The exit market is busy. Redwood, BMC, Tidal and others run dedicated 'replace Broadcom Automic' campaigns and migration services. That is an active trend, but it is vendor-authored, and no named organisation has publicly described leaving Automic. The alternatives named for this product, IBM Workload Automation, Redwood RunMyJobs, Beta Systems ANOW! Suite, BMC Control-M and Stonebranch UAC, are all named Leaders or Challengers in the same 2025 quadrant and are realistic.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Workload Automation
@@ -45,7 +53,7 @@ https://www.ibm.com/products/workload-automation
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM Workload Automation (IWA) is IBM's enterprise orchestration and job scheduli
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

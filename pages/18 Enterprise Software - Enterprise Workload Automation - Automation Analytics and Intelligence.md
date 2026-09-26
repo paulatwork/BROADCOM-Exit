@@ -1,5 +1,9 @@
 # Automation Analytics and Intelligence
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ No independent Gartner, Forrester or IDC coverage of the product was found, and 
 
 Commercially, the product is an add-on analytics layer sold with Broadcom's wider workload automation portfolio, so it follows the bundled-commit pattern described for Automic Automation and AutoSys. A customer who leaves the schedulers will almost certainly leave this product as well.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Workload Automation (Analytics & Predictive SLA Management)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/workload-automation
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Workload Automation includes native advanced analytics, predictive SLA manag
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

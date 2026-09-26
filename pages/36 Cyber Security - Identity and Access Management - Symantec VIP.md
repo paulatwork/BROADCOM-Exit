@@ -1,5 +1,9 @@
 # Symantec VIP
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ Broadcom's bundled licensing and core-account strategy apply to VIP as they do a
 
 The destinations are Microsoft Entra ID with Authenticator and FIDO2 keys, Cisco Duo Security, Okta Verify and IBM Security Verify.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security Verify (Adaptive MFA & Passwordless)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/security-verify
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Security Verify delivers enterprise Multi-Factor Authentication (MFA), passw
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

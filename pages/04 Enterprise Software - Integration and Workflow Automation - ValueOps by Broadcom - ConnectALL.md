@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - ConnectALL (SaaS or On-prem)
 
+## Category
+
+Strategic Portfolio Management (SPM)
+
 ## Page Status 
 
 Complete
@@ -35,6 +39,10 @@ Broadcom bought the company in 2023, and next to Clarity or Rally it is a modest
 
 No named organisation has publicly described leaving ConnectALL. Refer to independent comparison sites, which compare Planview Hub (formerly Tasktop) against ConnectALL again and again. That makes it the most likely destination.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Engineering Lifecycle Management (ELM) Suite
@@ -45,7 +53,7 @@ https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/lifecycle-man
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improve outcomes.
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -79,6 +87,10 @@ End-to-End Traceability is the 'digital thread' of the organisation. Unlike stan
 
 IBM App Connect
 
+## IBM SECONDARY - Product Page(s) URL
+
+https://www.ibm.com/docs/en/app-connect/13.0.x?topic=overview-app-connect-enterprise-introduction
+
 ## IBM SECONDARY - Product Description
 
 Where needed for additional integration to compliment IBM ELM, then IBM App Connect Enterprise (ACE) provide 'any-to-any' integration. It connects applications, data sources, and services across hybrid cloud environments using an event-driven, low-code flow designer and a rich connector library covering enterprise SaaS, DevOps, ITSM, and messaging systems.
@@ -96,10 +108,6 @@ IBM Concert is an application resilience and dependency-mapping tool, not a bi-d
 IBM App Connect Enterprise can do the underlying integration work, but it lacks ConnectALL's ready-made connectors for ALM, DevOps and ITSM tools. It should be adopted along with a deployment approach aligned to use of IBM ELM. 
 
 Use with IBM ELM Suite. IBM App Connect Enterprise covers the underlying integration engine, data transformation, and connector breadth, but does not deliver ConnectALL's purpose-built, zero-code value stream synchronisation model out of the box. Additional flow design effort is required to replicate bi-directional ALM/DevOps/ITSM work-item sync. The match strengthens significantly where App Connect's native Jira, ServiceNow, Jenkins, and GitLab connectors already exist and are documented.
-
-## IBM SECONDARY - Product Page(s) URL
-
-https://www.ibm.com/docs/en/app-connect/13.0.x?topic=overview-app-connect-enterprise-introduction
 
 # Sources:
 

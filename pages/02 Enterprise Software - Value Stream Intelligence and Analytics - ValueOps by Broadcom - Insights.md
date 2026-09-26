@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Insights (SaaS or On-prem)
 
+## Category
+
+Strategic Portfolio Management (SPM)
+
 ## Page Status 
 
 Complete
@@ -35,6 +39,10 @@ Key features:
 
 ValueOps Insights has almost no independent footprint. No Gartner Peer Insights, Forrester or IDC coverage specific to it as a standalone product. Insights draws its most useful numbers from Clarity and Rally delivery data, so is typically used as part of the Broadcom Value Stream portfolio.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Targetprocess (SaaS)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/apptio
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -74,7 +82,12 @@ IBM Targetprocess is IBM's enterprise Agile portfolio management and value strea
 
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
-IBM Apptio & IBM Instana
+IBM Apptio (SaaS) & IBM Instana (on-prem)
+
+## IBM SECONDARY - Product Page(s) URL
+
+- https://www.apptio.com/products/ibm-apptio/
+- https://www.ibm.com/products/instana
 
 ## IBM SECONDARY - Product Description
 
@@ -83,11 +96,6 @@ IBM Apptio is the natural extension of Strategic Portfolio Management, adding to
 IBM Instana provides an enterprise IT observability layer, to compliement Targetprocess, provide technical datapoints and automatic full-stack application visibility, one-second-granularity tracing, real-time change detection, and automated discovery across 300+ technologies including microservices, Kubernetes and cloud-native stacks.
 
 Targetprocess plans and measures the flow of work; Instana measures the operational health of the software that work produces. Together they close the loop from "what did we prioritise" to "did it run well once released."
-
-## IBM SECONDARY - Product Page(s) URL
-
-https://www.apptio.com/products/ibm-apptio/
-https://www.ibm.com/products/instana
 
 # Sources:
 

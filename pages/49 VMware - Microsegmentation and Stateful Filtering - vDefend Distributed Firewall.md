@@ -1,5 +1,9 @@
 # vDefend Distributed Firewall
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ This is consistently identified in independent migration guidance as one of the 
 
 Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; The Register, 'VMware to lose 35 percent of workloads in three years' (Gartner Symposium coverage, September 2025).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift network policy + Advanced Cluster Security
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/security
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

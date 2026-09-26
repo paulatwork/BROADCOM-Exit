@@ -1,5 +1,9 @@
 # ValueOps by Broadcom - Clarity (SaaS or on-Prem)
 
+## Category
+
+Strategic Portfolio Management (SPM)
+
 ## Page Status 
 
 Complete
@@ -43,6 +47,10 @@ Broadcom's own strategy explains why. Since the CA Technologies acquisition in 2
 
 The alterantive vendors that analysts most often name as leaders in strategic portfolio management are Planview and ServiceNow, and both are credible options. Comparison sites regularly place ServiceNow Strategic Portfolio Management next to Clarity, with one comparison noting that Clarity only supports data extraction to third-party tools rather than full integration. IBM Targetprocess also appears in Forrester's strategic portfolio management coverage and is a reasonable IBM-aligned option.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Targetprocess (SaaS)
@@ -53,7 +61,7 @@ https://www.apptio.com/products/targetprocess/
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improve outcomes.
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -100,6 +108,10 @@ Lowe's used ApptioOne + Targetprocess to align IT spend with business strategy, 
 
 IBM Apptio (SaaS)
 
+## IBM SECONDARY - Product Page(s) URL
+
+https://www.apptio.com/products/ibm-apptio/
+
 ## IBM SECONDARY - Product Description
 
 IBM Apptio is the natural extension of Strategic Portfolio Management, adding total control and visiability of all IT investments and financial spend to the analysis. Together they close the loop from strategy to spend: Targetprocess aligns and plans the work and resources against strategic objectives, Apptio grounds that plan in defensible, integrated financial reality.
@@ -107,10 +119,6 @@ IBM Apptio is the natural extension of Strategic Portfolio Management, adding to
 1. Use IBM Targetprocess for Enterprise Agile Planning and Strategic Portfolio Management, to align work, teams and investment to strategy.
 
 2. Use IBM Apptio for IT Financial Management and Technology Business Management, to make the subsequent technology spend transparent and defensible
-
-## IBM SECONDARY - Product Page(s) URL
-
-https://www.apptio.com/products/ibm-apptio/
 
 # Sources:
 

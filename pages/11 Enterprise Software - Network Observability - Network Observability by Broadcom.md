@@ -1,5 +1,9 @@
 # Network Observability by Broadcom
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ The evidence also runs the other way, and the client should hear that. Broadcom 
 
 IBM SevOne and IBM Network Intelligence remain viable alternatives. The organisation should test multi-vendor discovery scale and flow-analysis depth against its own environment before assuming a straightforward swap.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM SevOne Network Performance Management
@@ -47,7 +55,7 @@ https://www.ibm.com/products/sevone-network-performance-management
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM SevOne Network Performance Management (NPM) is IBM's high-scale network perf
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

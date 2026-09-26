@@ -1,5 +1,9 @@
 # AgentMinder
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ That newness shapes what can honestly be said. Adopting AgentMinder would create
 
 Because the product has only just launched, no organisation has had time to leave it, and there are no exit accounts to report. The useful question for a client is not how to replace it but whether to adopt it now or to wait until the category has settled and independent reviews exist.
 
+## IBM PRIMARY BRAND 
+
+Data
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM watsonx.governance (with IBM Security Verify Machine Identity)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/watsonx-governance
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM watsonx.governance, augmented by IBM Security Verify Machine Identity servic
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

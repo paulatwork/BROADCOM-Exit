@@ -1,5 +1,9 @@
 # Service Catalog
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -34,6 +38,10 @@ Service Catalog is bought, reviewed and complained about together with Service D
 The same bundling and renewal pressure applies, because the two products are normally licensed together. Customers who move their ticketing off Service Desk Manager will take the catalog with it. Broadcom's community forums show customers connecting CA Service Desk to ServiceNow, but no named organisation has publicly described leaving Service Catalog.
 
 The natural destinations are ServiceNow, with its Service Catalog and Employee Center, and Atlassian Jira Service Management, both widely used for consumer-grade service requests. IBM Maximo's IT Service Portal is a real capability within Maximo IT, but it is narrower and less consumer-grade than Employee Center. That difference in scope should be agreed with the client before selection so that expectations match what the portal can deliver.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -71,11 +79,11 @@ IBM Maximo IT Self-Service Center (part of IBM Maximo IT) provides an enterprise
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

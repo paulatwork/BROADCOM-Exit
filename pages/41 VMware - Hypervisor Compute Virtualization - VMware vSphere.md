@@ -1,5 +1,9 @@
 # VMware vSphere
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Standalone perpetual vSphere/ESXi licences were discontinued in 2023 in favour o
 
 Sources: Network World, 'Broadcom hampers VMware migration by blocking downloads of key SDK'; The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025); Slashdot/Ars Technica coverage of Nutanix .NEXT conference claims (April 2026).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift Virtualization
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

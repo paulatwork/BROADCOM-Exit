@@ -1,5 +1,9 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Core (On-Premises)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ Microsoft has published a Symantec DLP to Purview migration path, and a migratio
 
 Customers are moving primarily to Microsoft Purview DLP, to Forcepoint DLP for risk-adaptive behavioural policies, and to cloud and SaaS tools such as Nightfall AI, Netskope and Strac for generative AI and cloud channels.
 
+## IBM PRIMARY BRAND 
+
+Data
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Guardium Data Protection & Data Security Center
@@ -73,13 +81,13 @@ IBM Guardium Data Protection and IBM Guardium Data Security Center provide enter
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/guardium-data-security-center
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

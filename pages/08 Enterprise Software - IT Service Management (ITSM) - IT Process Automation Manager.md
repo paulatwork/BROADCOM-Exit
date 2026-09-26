@@ -1,5 +1,9 @@
 # IT Process Automation Manager
 
+## Category
+
+[tbc]
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ What the technical record does show is age. Broadcom's documentation confirms th
 
 No named organisation has publicly described moving off ITPAM, so the exit case is technical rather than anecdotal. Red Hat Ansible Automation Platform is a credible, widely adopted and actively developed replacement for agentless, YAML-based automation. For organisations already standardised on ServiceNow, Flow Designer and Integration Hub are realistic. Both alternatives are proportionate to what ITPAM does, and neither is oversold.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat Ansible Automation Platform
@@ -45,7 +53,7 @@ https://www.redhat.com/en/technologies/management/ansible
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ Red Hat Ansible Automation Platform is IBM / Red Hat's enterprise IT automation 
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

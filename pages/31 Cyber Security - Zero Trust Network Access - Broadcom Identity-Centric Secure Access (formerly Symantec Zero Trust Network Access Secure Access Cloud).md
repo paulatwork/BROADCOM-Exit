@@ -1,5 +1,9 @@
 # Broadcom Identity-Centric Secure Access (formerly Symantec Zero Trust Network Access / Secure Access Cloud)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -34,6 +38,10 @@ It is hard to say much that is independent about this product, because so few pe
 The commercial picture is the familiar one. Broadcom bundles zero trust network access licensing with other Symantec Enterprise Cloud products and puts its largest accounts first, as it does across the old Symantec Enterprise Security Group lines.
 
 No named organisation has publicly described leaving the product. Competitors do make the point publicly. One vendor, dope.security, publishes a guide on leaving Symantec's cloud proxy, though that is a different Symantec service and not this one. For zero trust access itself, organisations modernising remote access are moving to cloud-native SSE and ZTNA platforms with far larger installed bases and analyst coverage, notably Zscaler Private Access, Palo Alto Networks Prisma Access, Cloudflare One and Microsoft Entra Private Access.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -71,13 +79,13 @@ IBM Security Verify is IBM's cloud-native and hybrid identity, access management
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/security-verify
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

@@ -1,5 +1,9 @@
 # Agile Requirements Designer
 
+## Category
+
+Application Lifecycle Management (ALM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ The commercial position follows the rest of the continuous testing bundle it sha
 
 No named organisation has publicly described leaving the product. What can be observed is the direction of travel. Organisations are folding requirements and test design into unified agile engineering platforms. IBM Engineering Lifecycle Management, including DOORS Next, covers requirements traceability, Tricentis Tosca covers model-based test design, and Atlassian Jira with Xray or Zephyr suits lighter teams. Realistic as they are, they are pieces of a replacement and not a single like-for-like tool, so the client should expect to combine them.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Engineering Lifecycle Management (DOORS Next & Test Management)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/engineering-lifecycle-management
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -67,15 +75,16 @@ IBM Engineering Lifecycle Management (ELM) combines IBM Engineering Requirements
 ## Customer Reference
 
 (not provided)
+
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

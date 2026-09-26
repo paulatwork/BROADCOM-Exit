@@ -1,5 +1,9 @@
 # VCF Operations
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Standalone licensing for this product was discontinued alongside the wider 2023 
 
 Sources: Broadcom TechDocs on VCF/Aria Operations licensing consolidation; general Broadcom VMware licensing coverage from CIO Dive and Network World through 2025-2026. This row has a thinner independent evidence base than the hypervisor, storage and networking rows.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana + Turbonomic + Concert
@@ -64,13 +72,13 @@ IBM
 
 IBM Turbonomic & IBM Concert
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/instana
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

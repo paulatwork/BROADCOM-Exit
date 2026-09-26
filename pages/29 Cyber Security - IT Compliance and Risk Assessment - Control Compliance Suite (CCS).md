@@ -1,5 +1,9 @@
 # Control Compliance Suite (CCS)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -36,6 +40,10 @@ The pressure on customers arrives in three forms. The first is price. Broadcom r
 No Gartner Magic Quadrant or Forrester Wave covers CCS, so customers have no independent benchmark for judging lock-in risk, and no named organisation has publicly described leaving it. Those who go are folding compliance and vulnerability work into broader platforms, mainly Qualys VMDR, Tenable One or Rapid7 InsightVM, or, for IBM and Red Hat-aligned organisations, IBM Security QRadar Suite with Red Hat's compliance tools. One caution applies to the IBM route. IBM has ended service for its own QRadar Vulnerability Manager scanner, so compliance assessments on QRadar now depend on third-party scanning connectors.
 
 There is also the matter of architecture. CCS runs on a multi-tier, on-premises design of application servers, manager nodes, SQL databases and scanners, and users cite heavy effort for database upgrades, agent re-registration during data centre moves and complicated patch cycles. For an organisation already facing higher licence costs, that burden strengthens the case for planning an exit.
+
+## IBM PRIMARY BRAND 
+
+Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
@@ -79,6 +87,14 @@ IBM Security QRadar (SIEM and Risk Manager with Policy Monitor), augmented by th
 * Red Hat Insights Compliance
 * Red Hat Ansible Automation Platform (AAP)
 
+## IBM SECONDARY - Product Page(s) URL
+
+1. https://www.ibm.com/products/qradar-siem
+2. https://www.ibm.com/docs/en/qradar-on-cloud
+3. https://www.redhat.com/en/resources/ansible-automation-platform-beginners-guide-ebook
+4. https://www.ibm.com/docs/en/maas360
+5. https://www.ibm.com/support/pages/node/6853425 (QRadar Vulnerability Manager EOL notice)
+
 ## IBM SECONDARY - Product Description
 
 1. **IBM QRadar Risk Manager / Policy Monitor** — Provides compliance policy evaluation across regulatory frameworks (PCI DSS, HIPAA, SOX, ISO 27001, NERC CIP). Continuously monitors policy questions against device configuration, vulnerability, and network topology data. Generates offenses, email notifications, or syslog events when unapproved configurations are detected. Directly replaces CCS's multi-framework compliance assessment and reporting capability.
@@ -88,14 +104,6 @@ IBM Security QRadar (SIEM and Risk Manager with Policy Monitor), augmented by th
 3. **IBM MaaS360 Mobile Device Management (SaaS)** — Discovers and manages enrolled endpoints (mobile, laptops, frontline/unattended devices) and assesses device posture. Enforces configuration/compliance policy, assesses device risk posture. Enterprise Mobility Management (EMM) with Mobile Threat Defence (MTD) and Mobile Device Management (MDM).
 
 4. **Red Hat** — For systems under management: Continuous Discovery and Scanning with Red Hat Insights (predictive SaaS analytics) and Red Hat Satellite (lifecycle management) continuously discover and assess managed hosts. Comprehensive Policy and Regulatory Evaluation with Red Hat Insights Compliance (OpenSCAP). Closed-loop automated remediation via Red Hat Ansible Automation Platform (AAP).
-
-## IBM SECONDARY - Product Page(s) URL
-
-1. https://www.ibm.com/products/qradar-siem
-2. https://www.ibm.com/docs/en/qradar-on-cloud
-3. https://www.redhat.com/en/resources/ansible-automation-platform-beginners-guide-ebook
-4. https://www.ibm.com/docs/en/maas360
-5. https://www.ibm.com/support/pages/node/6853425 (QRadar Vulnerability Manager EOL notice)
 
 # Sources:
 

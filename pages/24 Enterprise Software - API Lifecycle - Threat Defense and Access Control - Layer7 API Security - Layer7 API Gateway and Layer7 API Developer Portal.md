@@ -1,5 +1,9 @@
 # Layer7 API Security - Layer7 API Gateway  & Layer7 API Developer Portal
 
+## Category
+
+Application Lifecycle Management (ALM)
+
 ## Page Status 
 
 Draft
@@ -35,6 +39,10 @@ Customers, meanwhile, say sensible things. PeerSpot reviewers praise the core se
 
 No named organisation has publicly described leaving Layer7. Kong runs a dedicated legacy API management migration offering that lists Layer7 as a source platform, which shows vendors are chasing this move, though it is not a customer story. IBM API Connect is IBM's current platform. 'Noname Advanced API Security for IBM' is a genuine joint offering, but it is a partnership and not an IBM acquisition, since Akamai acquired Noname in 2024. Google Cloud Apigee, Kong Enterprise and MuleSoft Anypoint are all real competitors.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM API Connect (with Akamai Advanced API Security for IBM)
@@ -45,7 +53,7 @@ https://www.ibm.com/products/api-connect
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -71,11 +79,11 @@ IBM API Connect is IBM's full-lifecycle API management and gateway solution, ext
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

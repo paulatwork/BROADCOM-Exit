@@ -1,5 +1,9 @@
 # VCF Networking, NSX
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ NSX is widely regarded, including in independent security commentary, as one of 
 
 Sources: ColorTokens, 'Rethinking Microsegmentation During a VMware NSX Exit'; The Register, 'VMware to lose 35 percent of workloads in three years' (Gartner Symposium coverage, September 2025); Broadcom TechDocs migration guidance on distributed firewall configuration.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift networking + partner networking
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

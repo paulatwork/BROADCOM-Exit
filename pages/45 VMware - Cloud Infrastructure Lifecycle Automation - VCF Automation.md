@@ -1,5 +1,9 @@
 # VCF Automation
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Broadcom confirmed in a published knowledge base notice the deprecation of VCF A
 
 Sources: Broadcom Knowledge Base article confirming deprecation of VCF Automation Pipelines (knowledge.broadcom.com, article 378424); Broadcom TechDocs on the Aria-to-VCF Automation rebrand and upgrade path.
 
+## IBM PRIMARY BRAND
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat Ansible Automation Platform + OpenShift
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/management/ansible
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

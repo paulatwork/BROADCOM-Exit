@@ -1,5 +1,9 @@
 # VMware Cloud Foundation
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Independent reporting substantiates significant cost increases following the Nov
 
 Sources: Network World, 'Broadcom refuses to backtrack on huge VMware price increases, claims European cloud watchdog'; CIO Dive coverage of the AT&T-Broadcom pricing dispute; CIO Dive, 'VMware customers shrink deployments in lieu of full-scale migrations' (CloudBolt survey, February 2026); The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025); Network World, 'Broadcom hampers VMware migration by blocking downloads of key SDK'; Slashdot/Ars Technica coverage of Nutanix .NEXT conference claims (April 2026).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat OpenShift Platform Plus + IBM Fusion
@@ -64,13 +72,13 @@ IBM + Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/platform-plus
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

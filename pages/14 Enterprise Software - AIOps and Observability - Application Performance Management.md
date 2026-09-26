@@ -1,5 +1,9 @@
 # Application Performance Management
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ The analyst picture has faded. As CA Technologies, Broadcom was last named a Lea
 
 No named organisation has publicly described leaving DX APM. Broadcom, for its part, runs a customer-research page titled 'Customers Applaud CA APM over Dynatrace', which is vendor-commissioned and should be read that way. IBM Instana, Dynatrace, Datadog and New Relic remain the realistic destinations for automated, agentless monitoring.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability (APM)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/instana/application-performance-monitoring
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Instana Observability is IBM's automated Application Performance Monitoring 
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

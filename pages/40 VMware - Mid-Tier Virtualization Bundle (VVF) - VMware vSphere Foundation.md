@@ -1,5 +1,9 @@
 # VMware vSphere Foundation
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Broadcom TechDocs confirms VVF licensing includes 0.25 TiB of vSAN capacity per 
 
 Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN'; CIO Dive, 'VMware customers shrink deployments in lieu of full-scale migrations' (CloudBolt survey, February 2026); The Register, 'VMware to lose 35 percent of workloads in three years' (September 2025).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift Virtualization Engine / OpenShift Platform Plus
@@ -64,13 +72,13 @@ Red Hat
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization-engine
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

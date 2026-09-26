@@ -1,5 +1,9 @@
 # DX Unified Infrastructure Management
 
+## Category
+
+IT Operations Management (ITOM)
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ No named organisation has publicly described leaving the product. A search for c
 
 IBM Instana, Datadog, Dynatrace and LogicMonitor are all established, independently recognised vendors in infrastructure and cloud monitoring, and each is a realistic candidate for this workload.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Instana Observability (Infrastructure & Cloud Monitoring)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/instana/infrastructure-monitoring
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Instana Observability (Infrastructure & Cloud Monitoring) provides automated
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

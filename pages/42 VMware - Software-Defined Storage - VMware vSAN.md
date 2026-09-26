@@ -1,5 +1,9 @@
 # VMware vSAN
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ Standalone vSAN licensing was discontinued in 2023; capacity is now bundled per 
 
 Sources: Broadcom TechDocs, 'VMware vSphere Foundation Capacity License for vSAN'; general VMware/Broadcom licensing analyses published by Network World and CIO Dive through 2025-2026 covering per-core vSAN capacity bundling.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 OpenShift Data Foundation + IBM Fusion
@@ -64,13 +72,13 @@ Red Hat + IBM
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/resources/add-capabilities-enterprise-deployments-datasheet
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

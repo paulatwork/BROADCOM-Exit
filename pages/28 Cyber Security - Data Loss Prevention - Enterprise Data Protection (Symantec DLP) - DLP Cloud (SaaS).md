@@ -1,5 +1,9 @@
 # Enterprise Data Protection (Symantec DLP) - DLP Cloud (SaaS)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ The wider industry observation is worth including, with care. Agent-based DLP ar
 
 This assessment does not cover cloud-hosted or cloud-access services in scope for replacement, so no IBM alternative is proposed for the service itself. Organisations replacing cloud DLP are generally choosing Microsoft Purview DLP, Forcepoint ONE, Netskope, Nightfall AI or Strac, and IBM Guardium Data Security Center is the IBM option for the data security posture component.
 
+## IBM PRIMARY BRAND 
+
+Data
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Guardium Data Security Center (Guardium DSPM)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/guardium-data-security-center
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Guardium Data Security Center (incorporating Guardium Data Security Posture 
 
 N/A
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 N/A
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 N/A
 

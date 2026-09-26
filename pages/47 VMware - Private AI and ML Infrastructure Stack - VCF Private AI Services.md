@@ -1,5 +1,9 @@
 # VCF Private AI Services
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ This is a genuinely current Broadcom product, confirmed by Broadcom's technical 
 
 Sources: Broadcom VCF 9.1 product announcements and TechDocs on VCF Private AI Services and Private AI Foundation with NVIDIA (blogs.vmware.com/cloud-foundation, techdocs.broadcom.com).
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 Red Hat OpenShift AI + IBM watsonx
@@ -64,13 +72,13 @@ Red Hat + IBM
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.redhat.com/en/technologies/ai/openshift-ai
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 

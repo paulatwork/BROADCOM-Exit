@@ -1,5 +1,9 @@
 # SiteMinder
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ There is a customer story too, although the organisation is unnamed. One of the 
 
 Broadcom's bundled licensing and core-account strategy apply to SiteMinder as part of the identity portfolio.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security Verify Access (formerly ISAM)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/security-verify
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Security Verify Access is IBM's enterprise Web Access Management (WAM) and i
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

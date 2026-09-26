@@ -1,5 +1,9 @@
 # Identity Security Platform (Symantec Identity Security Platform, IDSP)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ What customers say about Broadcom's identity portfolio as a whole is consistent.
 
 No named organisation has publicly described leaving the platform itself. The nearest evidence sits in its neighbours. A large US credit union, unnamed in the source, retired SiteMinder in favour of Microsoft Entra ID ahead of a renewal, and Michigan State University replaced the Symantec VIP mobile app with Okta Verify in 2021. Organisations modernising identity away from Broadcom are consolidating onto unified cloud-native platforms that have substantial analyst coverage, including Microsoft Entra ID, Okta Workforce Identity Cloud, Ping Identity and IBM Security Verify.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security Verify
@@ -47,7 +55,7 @@ https://www.ibm.com/products/security-verify
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,11 +81,11 @@ IBM Security Verify is IBM's enterprise Identity and Access Management (IAM) and
 
 (not provided)
 
-## IBM SECONDARY - Product Description
+## IBM SECONDARY - Product Page(s) URL
 
 (not provided)
 
-## IBM SECONDARY - Product Page(s) URL
+## IBM SECONDARY - Product Description
 
 (not provided)
 

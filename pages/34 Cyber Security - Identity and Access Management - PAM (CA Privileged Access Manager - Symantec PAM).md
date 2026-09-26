@@ -1,5 +1,9 @@
 # PAM (CA Privileged Access Manager, Symantec PAM)
 
+## Category
+
+Enterprise Security
+
 ## Page Status 
 
 Draft
@@ -37,6 +41,10 @@ Users are more generous than the analysts. Gartner Peer Insights gives Symantec 
 
 No named organisation has publicly described leaving Symantec PAM, and searches for migration case studies to CyberArk, Delinea or BeyondTrust found none. Broadcom's core-account strategy and bundled licensing apply as elsewhere in the Symantec portfolio. Enterprises replacing Symantec and CA PAM are choosing Delinea, CyberArk, BeyondTrust or, for machine and non-human credentials, HashiCorp Vault.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Security Verify Privilege Vault (with IBM HashiCorp Vault)
@@ -47,7 +55,7 @@ https://www.ibm.com/products/verify-privilege-vault
 
 ## IBM Replacement Strength
 
-Strong Replacement, with improved outcomes
+Strong Replacement
 
 ## IBM Replacement Strategy (Short)
 
@@ -73,13 +81,13 @@ IBM Security Verify Privilege Vault (built on Delinea technology) and IBM HashiC
 
 IBM HashiCorp Vault
 
-## IBM SECONDARY - Product Description
-
-Solving Non-Human Identity PAM.
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/products/security-verify
+
+## IBM SECONDARY - Product Description
+
+Solving Non-Human Identity PAM.
 
 # Sources:
 

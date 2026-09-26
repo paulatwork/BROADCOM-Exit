@@ -1,5 +1,9 @@
 # VMware Avi Load Balancer
 
+## Category
+
+VMware Workload Migration Strategy
+
 ## Page Status 
 
 Draft
@@ -33,6 +37,10 @@ The evidence base for organisations actively exiting Avi Load Balancer specifica
 
 Sources: Broadcom Knowledge Base, 'VMware Avi Load Balancer Basic Edition: End of Availability & End of General Support Notice'; Broadcom TechDocs, 'F5 to Avi Load Balancer Migration Workflow', which documents inbound rather than outbound migration activity.
 
+## IBM PRIMARY BRAND 
+
+Automation
+
 ## IBM PRIMARY - Product Name (The Replacement)
 
 IBM Cloud Load Balancer / VPC Load Balancer
@@ -64,13 +72,13 @@ IBM
 
 (not provided)
 
-## IBM SECONDARY - Product Description
-
-(not provided)
-
 ## IBM SECONDARY - Product Page(s) URL
 
 https://www.ibm.com/cloud/load-balancer
+
+## IBM SECONDARY - Product Description
+
+(not provided)
 
 # Sources:
 
