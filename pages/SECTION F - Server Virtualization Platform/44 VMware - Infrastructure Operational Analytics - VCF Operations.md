@@ -31,7 +31,7 @@ Key features:
 3. **On-premises ransomware recovery** - 9.1 integrates cyber recovery to isolated clean rooms, building on VMware Live Recovery integration from 9.0.
 4. **Management pack marketplace** - Find and install integrations, and build custom management packs.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Standalone licensing for this product was discontinued alongside the wider 2023 restructuring; it is now available only bundled within VCF or VVF. Independent, product-specific analyst commentary on customers actively exiting VCF Operations specifically is limited compared with the extensive coverage of NSX and core hypervisor/vSAN licensing; the applicable evidence is the general bundling and cost pressure documented across the VMware portfolio, plus the practical limitation that VCF Operations is designed primarily to monitor VMware infrastructure rather than mixed or non-VMware estates, a genuine constraint for organisations running hybrid environments. IBM Instana (observability) and IBM Turbonomic (automated resource optimisation) are established products with genuinely overlapping capability in performance monitoring and capacity optimisation and represent a reasonable functional substitute; IBM Concert is a newer application resilience and dependency-mapping product and is a less direct one-to-one replacement for VCF Operations, so it should be understood as complementary rather than equivalent.
 
@@ -57,7 +57,7 @@ Yes
 
 IBM Instana, Turbonomic and Concert together replace VCF Operations for monitoring, optimisation and dependency mapping.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM
 
@@ -68,7 +68,7 @@ IBM
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Turbonomic & IBM Concert
 

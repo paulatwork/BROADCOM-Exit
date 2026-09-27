@@ -31,7 +31,7 @@ Key features:
 3. **Closed-loop remediation** - Integrates with ticketing systems to remediate failing controls.
 4. **Content updates** - Security content updates keep standards and platform coverage current.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Control Compliance Suite is still being built, but not with much enthusiasm. Broadcom delivered version 12.7.0 on 30 July 2024 and 12.8.0 on 10 October 2025 under its standard support policy, which keeps engineering on the latest generally available version and the one before it. No end-of-service or end-of-life dates have been published for either. The product has not been retired, yet it sits in a precarious spot in a portfolio that Broadcom has been consolidating hard since its US $61 billion purchase of VMware, completed in November 2023.
 
@@ -61,7 +61,7 @@ Partial Match
 
 IBM QRadar with Red Hat tools replaces multi-tier CCS infrastructure, lowering cost and automating remediation.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security QRadar (on-premises SIEM & Risk Manager) combined with the Red Hat Compliance Ecosystem (Red Hat Insights, OpenSCAP, and Ansible Automation Platform) replaces Broadcom Control Compliance Suite (CCS). Broadcom CCS imposes heavy multi-tier infrastructure maintenance and aggressive 2x to 5x subscription cost increases while deprioritizing mid-market accounts. The combined IBM and Red Hat architecture replaces legacy CCS agent infrastructure with OpenSCAP policy scanning, continuous network-level risk monitoring, and automated closed-loop Ansible remediation, significantly reducing total operational cost.
 
@@ -77,7 +77,7 @@ IBM Security QRadar (SIEM and Risk Manager with Policy Monitor), augmented by th
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 * IBM QRadar Risk Manager (Policy Monitor)
 * IBM Security Randori Recon (Attack Surface Management)

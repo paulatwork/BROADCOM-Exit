@@ -2,8 +2,6 @@
 
 ## Category
 
-[tbc]
-
 ## Page Status 
 
 ## Broadcom Software Type
@@ -14,13 +12,15 @@
 
 ## Broadcom Product Description - Key Features
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
+
+(Information related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies)
 
 ## IBM Replacement Strength
 
 ## IBM Replacement Strategy (Short)
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 ## IBM PRIMARY BRAND 
 
@@ -32,7 +32,9 @@
 
 ## Customer Reference
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
+
+(Supporting Product, where recommended to compliment the Primary capability)
 
 ## IBM SECONDARY - Product Page(s) URL
 

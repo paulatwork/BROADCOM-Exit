@@ -31,7 +31,7 @@ Key features:
 3. **OS deployment and patch management** - Operating system imaging, software packaging and patch management for physical and virtual endpoints.
 4. **Remote control** - Remote control sessions, with a View All Displays option in 14.5 to open all monitors on the host.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Client Automation is a mature, dependable tool with a shrinking audience. Gartner Peer Insights gives it 4.0 out of 5, but from only 14 verified reviews in the 2025 endpoint management tools market. ManageEngine Endpoint Central has 1,625 reviews at 4.6, and Microsoft Intune has 1,136 at 4.2. Refer to that gap in review volume for the falling visibility next to cloud-native unified endpoint management. Reviewers call the tool reliable for endpoint and patch operations, but say the interface 'feels technologically behind'. It is still built around on-premises infrastructure, and Broadcom has not delivered a cloud-native UEM model.
 
@@ -59,7 +59,7 @@ Partial Match
 
 MaaS360 replaces heavy on-premises endpoint infrastructure with cloud-native, AI-driven UEM, lowering cost and administrative effort.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security MaaS360 with Watson replaces CA Client Automation by transitioning legacy, complex on-premises endpoint infrastructure to a cloud-native Unified Endpoint Management (UEM) platform. Broadcom CA Client Automation relies on heavy multi-tier on-premises architectures (scalability servers, database managers) with high maintenance overhead and steep renewal fees. IBM MaaS360 delivers modern over-the-air policy enforcement, automated multi-OS patching, and AI-driven endpoint risk management, significantly lowering total cost of ownership and administrative effort while eliminating legacy server footprints.
 
@@ -75,7 +75,7 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

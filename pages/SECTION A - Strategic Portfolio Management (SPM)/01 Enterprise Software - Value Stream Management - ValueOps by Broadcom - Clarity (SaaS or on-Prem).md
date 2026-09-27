@@ -39,7 +39,7 @@ Valuable features of the Broadcom product are typically:
 5. **Vaia AI and MCP integration.** Vaia (originally 'Clarity Concierge', renamed in 16.3.0) is a new service that brings AI into SPM. It provides generative, agentic and predictive AI in beta. Release 16.4.2 added Anthropic model configuration, a prompt library, chat history, file attachments as AI data sources and an MCP server (initially for timesheet actions) that lets external AI applications work with Clarity data securely.
 6. **Real-time analytics and ValueOps integration.** A configurable reporting engine (subreports in beta, expandable tree tables and embedded reports in 16.4.2) provides real-time visibility. Native integration with Rally (for example, 'Send to Rally' pushes 'In Plan' roadmap items as Portfolio Items), ConnectALL and Insights links strategic plans to delivery execution.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 While Clarity has always been a well-liked product, many organisations appear to be complainting about the cost. One consultant on PeerSpot described the subscription quote after the move away from perpetual licensing as something that 'put us in shock because it was double what we paid in the past as yearly maintenance', due to the changes in commercial terms effecting organisations.
 
@@ -68,7 +68,7 @@ Strong Replacement
 IBM Targetprocess matches Clarity's portfolio planning services, extend with IBM Apptio cost modelling, to align portfolio leaders with finance counterparts as government shifts from annual budgets to responsible continuous project funding management.
 
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM offers improved outcomes. Clarity manages the portfolio and holds its budgets. IBM Targetprocess manages the same portfolio, stays open to whatever delivery tools your teams run, and, uniquely, connects that work to a true enterprise cost model through IBM Apptio, so executives see not just what is funded but the real, defensible cost and business value of it.
 
@@ -104,7 +104,7 @@ Lowe's used ApptioOne + Targetprocess to align IT spend with business strategy, 
 - ~35% faster time-to-market, and 
 - time-to-value in as little as 30–48 days.
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Apptio (SaaS)
 

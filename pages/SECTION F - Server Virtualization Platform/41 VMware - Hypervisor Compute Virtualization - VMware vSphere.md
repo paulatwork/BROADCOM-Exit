@@ -31,7 +31,7 @@ Key features:
 3. **Live patching and zero-touch provisioning** - 9.1 applies kernel patches to running memory on TPM-enabled hosts and bootstraps ESX on bare metal by network imaging.
 4. **NVMe memory tiering and AI certification** - Enhanced NVMe memory tiering in 9.1, and NVIDIA-Certified Hypervisor status for vSphere 9.1.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Standalone perpetual vSphere/ESXi licences were discontinued in 2023 in favour of subscription-only, per-core licensing with a 16-core-per-CPU minimum, meaning older hosts with fewer cores per socket are billed as though fully populated. Organisations continuing to run vSphere on expired perpetual licences without an active subscription lose access to security patches and CVE remediation, a risk consistently flagged in trade press covering the Broadcom transition. Broadcom's restriction, in 2025, of public access to the VDDK software development kit, on which third-party migration and backup tools including Microsoft Azure Migrate, Red Hat's Migration Toolkit and Nutanix Move depend, has added practical friction to vSphere exit projects. Gartner's September 2025 guidance projected that more than one-third of VMware workloads will move to other platforms by 2028, but stated that full hypervisor migrations typically take three or more years, and ranked Nutanix and public cloud as more mature migration destinations than Red Hat virtualisation, a consideration relevant to the Red Hat-centric alternative proposed for this row. As a real-world example, Nutanix has reported, as a vendor claim, migrating Western Union off vSphere across 900 to 1,200 applications and 3,900 cores within six months.
 
@@ -57,7 +57,7 @@ Yes
 
 Red Hat OpenShift Virtualization replaces the vSphere hypervisor, running virtual machines on Red Hat's platform.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

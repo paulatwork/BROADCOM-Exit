@@ -31,7 +31,7 @@ Key features:
 3. **Cost efficiency (Broadcom claims)** - Up to 40% lower server cost via memory tiering, up to 39% lower storage TCO, and up to 46% lower Kubernetes operating cost.
 4. **Lifecycle and scale** - Broadcom claims 4x faster cluster upgrades and 2x fleet capacity.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Independent reporting substantiates significant cost increases following the November 2023 acquisition, though the scale is more nuanced than a single multiplier suggests. The European Cloud Competition Observatory (ECCO), representing cloud infrastructure providers, reported member price increases of between 800 and 1,500 percent in its October 2025 assessment and has assigned Broadcom its most severe risk rating; ECCO has separately challenged the European Commission's approval of the VMware acquisition before the EU General Court. AT&T stated in litigation that Broadcom proposed a 1,050 percent increase on a support renewal, a dispute the two companies later settled. A February 2026 CloudBolt survey of 302 North American IT decision-makers found a more measured pattern: 86 percent of organisations are actively reducing their VMware footprint, but only 4 percent had completed a full migration, with over half pursuing phased, partial transitions; the most common reported cost increase band was 25 to 49 percent, well below the 100-plus percent that 73 percent of respondents had expected in 2024. Gartner analyst Julia Palmer stated in September 2025 that more than one-third of VMware workloads are expected to migrate to other platforms by 2028, but cautioned that full migrations typically take three or more years and that no rival platform is demonstrably superior across the board; Gartner ranked Nutanix and public cloud ahead of Red Hat virtualisation as migration destinations, a consideration relevant to the Red Hat-centric alternative proposed for this row. Broadcom's restriction of public access to the VDDK software development kit in 2025, on which several third-party migration tools depend, has added friction to VMware exit projects. Nutanix has claimed, as a vendor-supplied and not independently verified figure, that roughly 30,000 customers have migrated to its platform, citing a six-month, 900-to-1,200-application migration at Western Union as an example.
 
@@ -57,7 +57,7 @@ Yes
 
 OpenShift Platform Plus and IBM Fusion replace VMware Cloud Foundation with IBM and Red Hat.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM + Red Hat
 
@@ -68,7 +68,7 @@ IBM + Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

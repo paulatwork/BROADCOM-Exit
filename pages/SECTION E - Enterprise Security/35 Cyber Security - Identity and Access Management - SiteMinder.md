@@ -31,7 +31,7 @@ Key features:
 3. **Vault integration (12.9)** - Passwords for SiteMinder stores can be held in a vault, with out-of-the-box Symantec PAM integration and an API for custom providers.
 4. **Platform and identity integration** - Enhanced VIP Authentication Hub integration, native ODBC drivers for Oracle, MySQL, PostgreSQL, SQL Server, Azure and Db2, Windows Server 2025 support, and container deployment (from 12.8.08 CR01).
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 SiteMinder is the sort of product that people trust and grumble about in the same breath. Gartner Peer Insights gives it 4.0 out of 5 from 36 reviews. Reviewers call it stable and easy to run without specialist certification, but they keep returning to its dated interface, and one said the user experience is '2-3 generations behind' comparable access management products and needs a complete refresh. It is rated by far fewer reviewers than newer rivals, with Okta Workforce Identity and Microsoft Entra ID each carrying several hundred more, and no independent Magic Quadrant or Forrester Wave placement specific to SiteMinder as a standalone product was found.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Verify Access offers modern federation and containerised deployment, replacing SiteMinder's dated, costly web access management.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security Verify Access (formerly IBM Security Access Manager - ISAM) alongside IBM Security Verify replaces Broadcom Symantec SiteMinder (CA SiteMinder). Broadcom SiteMinder is a legacy web access manager with a dated interface ('2-3 generations behind' modern alternatives), expensive licensing renewals, and complex maintenance. IBM Security Verify Access delivers high-performance web access control, containerized deployment, modern standards-based identity federation (SAML/OIDC/OAuth), and the zero-code IBM Application Gateway to modernize legacy applications without code changes.
 
@@ -77,7 +77,7 @@ IBM Security Verify Access is IBM's enterprise Web Access Management (WAM) and i
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

@@ -31,7 +31,7 @@ Key features:
 3. **Reporting and scheduled dashboards** - CU7 adds availability report export to CSV with filtering, and scheduled dashboards can export tabular data as CSV and Excel.
 4. **Device identity continuity** - The Operator Console correlates device identity so performance history continues when a device IP address changes.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 DX Unified Infrastructure Management gets its most telling feedback from TrustRadius reviewers. They call the pricing 'not cheap at all', and one organisation reported annual costs of around CAD 400,000. They describe inconsistent support since the acquisition, with one reviewer saying the team is 'sometimes not as knowledgeable or responsive' and another citing 'prolonged resolution times due to a lack of expertise' on complex issues. Others say the platform 'has not necessarily kept pace' with AWS, Azure and Google Cloud, which fits the view that it trails cloud-native tools in dynamic scaling and container discovery.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Instana replaces probe-and-hub monitoring with auto-discovering sensors, cloud-ready coverage and lower operational and licensing cost.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Instana Observability (Infrastructure & Cloud Monitoring) replaces Broadcom DX UIM (Nimsoft) with a modern, automated hybrid infrastructure monitoring solution. Broadcom DX UIM relies on an antiquated, complex probe-and-hub architecture requiring constant manual maintenance, while failing to keep pace with dynamic cloud and container architectures. IBM Instana eliminates probe configuration with lightweight, auto-discovering sensors, 1-second metric resolution, and direct correlation between infrastructure health and application performance at a significantly lower operational and licensing cost.
 
@@ -77,7 +77,7 @@ IBM Instana Observability (Infrastructure & Cloud Monitoring) provides automated
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

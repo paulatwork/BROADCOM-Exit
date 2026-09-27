@@ -31,7 +31,7 @@ Key features:
 3. **Modern platform support** - Windows Server 2025, RHEL 9.5, Oracle Linux 9.5, SUSE 15 SP6 and native Windows 11 ARM support; 32-bit OS and Solaris support deprecated.
 4. **Management platform and APIs** - REST API methods in ASDK, Package Distribution Point Status report, Event Queue Analytics reports and TLS 1.3 for the Workflow Solution.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Symantec IT Management Suite is well regarded by the people who use it and quietly worrying to the people who depend on it. Gartner Peer Insights rates the Client Management product 4.3 out of 5 from 60 reviews, praising centralised endpoint management, software deployment, inventory and patching from one console. The sharpest comment is about Broadcom itself. One reviewer wrote, 'Lack of support for non-strategic customers is a big issue', which matches Broadcom's core-account strategy in a single sentence. Others point to an ageing .NET Framework architecture and a shrinking pool of skilled implementation partners.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 MaaS360 with Red Hat Satellite replaces on-premises Altiris with cloud-native endpoint management, lowering infrastructure overhead.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security MaaS360 with Watson (augmented by Red Hat Satellite for enterprise Linux) replaces Symantec IT Management Suite (Altiris). Broadcom has deprioritized support for non-strategic Altiris accounts, forcing high renewal prices onto a legacy, on-premises .NET Framework architecture. IBM MaaS360 provides a modern, cloud-native Unified Endpoint Management (UEM) solution that automates multi-OS patching, inventory discovery, and application distribution across Windows, macOS, and mobile devices, drastically lowering infrastructure footprint and administrative overhead.
 
@@ -75,7 +75,7 @@ IBM Security MaaS360 with Watson is IBM's cloud-native Unified Endpoint Manageme
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

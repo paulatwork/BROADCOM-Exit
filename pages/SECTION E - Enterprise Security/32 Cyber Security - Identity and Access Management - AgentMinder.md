@@ -31,7 +31,7 @@ Key features:
 3. **Tool, app and data control** - Governs how agents access tools, applications and data.
 4. **OpenTelemetry-based visibility** - Compliance-grade visibility, chain of custody and anomaly detection for every agent session.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 AgentMinder is brand new. Broadcom unveiled it at VMware Explore 2026 on 31 August 2026, and it became available around August to September 2026. It is a control plane for AI agent governance, and there is no independent analyst coverage of it yet.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 IBM watsonx.governance with Verify machine identity offers open, mature agent governance, avoiding first-generation Broadcom lock-in.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM watsonx.governance combined with IBM Security Verify delivers an open, standard, and enterprise-grade AI agent governance and runtime identity control framework that replaces Broadcom AgentMinder. Broadcom AgentMinder was launched in August 2026 as a proprietary, first-generation control plane tightly bound to VMware/Broadcom infrastructure. IBM provides mature, open AI governance via watsonx.governance (auditing agent intents, tool executions, hallucination rates, and drift) paired with IBM Security Verify's machine identity lifecycle management, providing multi-cloud neutrality and avoiding Broadcom ecosystem lock-in.
 
@@ -75,7 +75,7 @@ IBM watsonx.governance, augmented by IBM Security Verify Machine Identity servic
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

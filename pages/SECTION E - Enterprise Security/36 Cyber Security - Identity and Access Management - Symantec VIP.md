@@ -31,7 +31,7 @@ Key features:
 3. **Microsoft ecosystem MFA** - 2026.March.01 updates for Azure and Entra ID MFA.
 4. **Standards** - Improved SAML validation and updated endpoint certificates.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Symantec VIP is better liked than most of the portfolio. Gartner Peer Insights gives it a strong 4.5 out of 5 from 80 reviews, with users praising reliable, fast two-factor authentication and easy integration, though some report occasional session timeouts and missed push notifications. An earlier draft claimed limited passwordless FIDO2 support, but Broadcom's own documentation lists FIDO2 support, so that claim has been dropped. No independent Magic Quadrant or Forrester Wave covers VIP as a standalone product.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Verify consolidates MFA, passkeys, adaptive risk and SSO in one platform, ending standalone VIP renewals.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security Verify replaces Broadcom Symantec VIP by providing modern, cloud-native multi-factor authentication (MFA) and adaptive access integrated into a unified Identity-as-a-Service (IDaaS) platform. Rather than maintaining Symantec VIP as a standalone MFA silo subject to Broadcom's bundled renewal increases, migrating to IBM Security Verify consolidates MFA, passwordless FIDO2 passkeys, adaptive AI risk signals, and SSO into a single manageable platform, lowering administrative complexity and per-user subscription costs.
 
@@ -77,7 +77,7 @@ IBM Security Verify delivers enterprise Multi-Factor Authentication (MFA), passw
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

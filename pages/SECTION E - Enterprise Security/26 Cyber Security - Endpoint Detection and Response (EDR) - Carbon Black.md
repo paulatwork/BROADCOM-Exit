@@ -31,7 +31,7 @@ Key features:
 3. **Attack-chain visibility** - Root cause analysis and visualisation of the whole attack chain.
 4. **Remote response** - Live response and remediation to contain threats.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Carbon Black has been through several changes of direction in a few years, and its customers felt each one. Broadcom decided in February 2024 not to sell it after all and to merge it with Symantec instead. In March 2026 Broadcom announced Symantec CBX, a cloud XDR platform that combines Symantec and Carbon Black technologies, and Carbon Black EDR Container mode reaches end of support on 1 March 2027. For a customer, that means the product is being folded into something new.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 IBM QRadar EDR offers autonomous behavioural AI detection without signatures, ending Carbon Black's roadmap uncertainty.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security QRadar EDR (built on ReaQta behavioral AI technology) replaces Broadcom Carbon Black by delivering automated, lightweight endpoint detection, response, and investigation. Broadcom has vacillated on Carbon Black's strategy (announcing a sale, reversing it, forcing mergers with Symantec under Symantec CBX, and dropping container support), creating severe roadmap uncertainty and price increases. IBM QRadar EDR provides autonomous AI-based behavioral detection that blocks zero-day and ransomware attacks at the endpoint without relying on signature downloads, drastically reducing analyst alert fatigue and infrastructure overhead.
 
@@ -75,7 +75,7 @@ IBM Security QRadar EDR (formerly ReaQta) is IBM's endpoint detection and respon
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

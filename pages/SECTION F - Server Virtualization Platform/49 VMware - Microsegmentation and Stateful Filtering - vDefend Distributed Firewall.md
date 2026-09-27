@@ -31,7 +31,7 @@ Key features:
 3. **Layer 7 App ID** - More than 5,000 App IDs.
 4. **Federated identity firewalling** - Multi-site.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 This is consistently identified in independent migration guidance as one of the hardest VMware capabilities to exit. Distributed firewall rules are expressed as policy objects tied to VMware-specific constructs, including security groups, tags and applied-to scopes; specialist microsegmentation vendor ColorTokens notes that these cannot be replaced with another infrastructure-specific tool without redesigning the underlying security model, and that there is no automated, vendor-neutral export of these policies, meaning migration requires manually reconstructing years of accumulated segmentation logic. Gartner's 2025 guidance similarly frames network security re-architecture as one of the higher-effort components of any VMware exit and recommends a platform-agnostic microsegmentation approach rather than a like-for-like swap. Calico Enterprise and Illumio are genuine, purpose-built microsegmentation platforms designed specifically to operate across hypervisors, cloud and bare metal, and are realistic alternatives for this capability; Red Hat Advanced Cluster Security and OpenShift network policy only cover containerised workloads running on OpenShift and do not, by themselves, provide microsegmentation for remaining VM-based workloads, so a mixed estate will likely require both a container-native control and a VM-capable microsegmentation platform during transition.
 
@@ -57,7 +57,7 @@ Yes
 
 OpenShift network policy with Advanced Cluster Security replaces vDefend Distributed Firewall using Red Hat controls.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

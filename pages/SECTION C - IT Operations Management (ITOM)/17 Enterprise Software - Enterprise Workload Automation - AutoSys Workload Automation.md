@@ -31,7 +31,7 @@ Key features:
 3. **Secure communication** - From 24.1, TLS encrypts job data, commands and agent responses between scheduler and agents; the agent supports HTTPS.
 4. **Unified Monitor interface** - Provides job details, schedules, events, alarms and logs, including job definitions in tabular form and log analysis for all job types.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 AutoSys is the one product in this schedule where a named organisation has told its story of leaving. BSH, the home appliance maker, ran 250,000 tasks a day, about eight million a month, across 40 factories and a large SAP estate on AutoSys, and it found the scheduler held back its ability to scale. Because AutoSys schedules by time and not by data or process status, BSH had to build custom development around it, and that proved unstable and expensive. Errors were caught by hand. As the central scheduling architect Stefan Wiedenmann put it, 'If there was a problem, we didn't find out until the next morning when it was too late to fix it.' On several occasions 20,000 factory workers were sent home because a delayed ten-minute task held up production information by twelve hours. BSH moved to RunMyJobs by Redwood. Its reasons were technical, not commercial, and the case study is published by Redwood, so it is a vendor account. GROWMARK also left AutoSys for Redwood in order to bring its SAP processes into one enterprise solution.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Workload Automation replaces JIL scripting and renewal spikes with event-driven orchestration, migration toolkits, predictive analysis.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Workload Automation replaces Broadcom AutoSys Workload Automation by providing a modern, event-driven orchestration platform that bridges legacy batch schedules with modern cloud-native architectures. Migrating from AutoSys frees enterprises from brittle JIL scripting constraints, unexpected renewal price spikes, and legacy licensing overhead. IBM Workload Automation offers proven migration toolkits, native CI/CD and DevOps integration, containerized deployment, and sophisticated predictive critical-path analysis.
 
@@ -75,7 +75,7 @@ IBM Workload Automation is IBM's advanced workload scheduling and automation pla
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

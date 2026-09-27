@@ -31,7 +31,7 @@ Key features:
 3. **Hardened container gateway** - The container gateway moves to a distroless base image.
 4. **Developer Portal** - API catalogue, documentation and developer onboarding.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Layer7 is a strong product with an awkward relationship to the analysts who track its market. Broadcom has not taken part in Gartner's Magic Quadrant for API management for several years and is absent from the 2025 edition. A Broadcom employee said on the community forum that this is deliberate, citing disagreement with Gartner's scoring method and a preference for IDC and KuppingerCole, which the company sees as more focused on API security than on full-lifecycle API management. That is a governance signal in its own right. The 2025 Leaders are vendors such as Axway, Kong, Boomi, MuleSoft and Gravitee, not Broadcom.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 API Connect and Akamai security offer DataPower gateway, modern portal, and no Layer7 forced upgrades.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM API Connect combined with Akamai Advanced API Security for IBM provides a complete, modern API lifecycle and security platform that replaces Broadcom Layer7 API Gateway and Developer Portal. Broadcom has withdrawn Layer7 from Gartner Magic Quadrant evaluations, imposed burdensome forced upgrades, and shifted the product into inflexible portfolio licensing agreements. IBM API Connect provides enterprise-grade DataPower gateway security, an intuitive browser-based API Designer, an award-winning Developer Portal, and AI-driven API posture discovery and threat protection across hybrid multi-cloud environments.
 
@@ -75,7 +75,7 @@ IBM API Connect is IBM's full-lifecycle API management and gateway solution, ext
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

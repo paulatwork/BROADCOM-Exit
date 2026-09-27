@@ -31,7 +31,7 @@ Key features:
 3. **Data transformation and mapping intelligence layer** - Captures, transforms and synchronises data accurately in near real time across the software delivery ecosystem, from portfolio planning through to operations.
 4. **Native ValueOps integration** - Works with Clarity, Rally and Insights, so integrated data feeds portfolio planning and value stream metrics end to end.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 ConnectALL is a supporting services of the Broadcom ValueOps suite. Replacing one, means replacing the other. ConnectALL is not a widely used service on its own. It has no user reviews on Gartner Peer Insights as at 2026, and no Forrester or IDC specific coverage. 
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Replace as part of migration to IBM Digital Engineering Products & Services.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 When replacing Broadcom, native ValueOps integration is not required, it is replaced. IBM ELM's equivalent is its own Engineering Insights / reporting and optimisation layer, which builds document-style reports and dashboards across the ELM environment and third-party tools for compliance, contractual and ad-hoc review
 
@@ -83,7 +83,7 @@ End-to-End Traceability is the 'digital thread' of the organisation. Unlike stan
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM App Connect
 

@@ -31,7 +31,7 @@ Key features:
 3. **Generative AI summarisation** - Uses a large language model to accelerate diagnostics, and tenant administrators can substitute their own Google Vertex AI project.
 4. **Alarm enrichment and ITSM integration** - Enrichment rules add configuration item attributes to matched alarms, and the platform integrates with ServiceNow (Xanadu).
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 DX Operational Observability is what Broadcom made of its older DX APM, DX Operational Intelligence and Application Experience Analytics products. Customers of those products now sit on a single bundled licence. Reviews of the predecessors, described in the DX APM and DX Operational Intelligence entries in this schedule, talk about minimum-commitment thresholds and renewal increases that match the way Broadcom prices across its core accounts.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Instana offers automated, OpenTelemetry-native observability with instant value, without Broadcom's forced bundling and agent maintenance.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Instana Observability (paired with IBM Cloud Pak for AIOps) provides a modern, automated observability and AIOps solution that outmatches Broadcom DX Operational Observability. Broadcom has forcibly consolidated legacy DX APM and DX Operational Intelligence into DX Operational Observability under punitive enterprise agreements. IBM Instana delivers immediate value through 1-second metric granularity, unsampled distributed tracing, automated discovery, and native OpenTelemetry support without the heavy administrative burden, complex agent maintenance, or restrictive contract terms of Broadcom.
 
@@ -75,7 +75,7 @@ IBM Instana Observability is IBM's automated Application Performance Monitoring 
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

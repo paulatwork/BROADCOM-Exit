@@ -31,7 +31,7 @@ Key features:
 3. **Kubernetes and container support** - The Universal Monitoring Agent (UMA) operator has a CLI upgrade method that synchronises agent version and status into DX O2.
 4. **Platform coverage** - Release 26.8.1 certifies WebSphere and WebSphere Liberty on z/OS 3.2.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Reviewers of DX Application Performance Management on PeerSpot describe a product that is expensive and ageing. Licensing is 'based on agent count rather than usage', renewal increases are 'reportedly ~20%+', and the product is 'generally perceived as expensive versus modern alternatives'. They also point to missing AI and machine learning features compared with Dynatrace, limited cloud and container support, including OpenShift 4 compatibility problems, and support that varies in quality through the ticketing system.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Instana replaces agent-heavy DX APM with zero-touch, unsampled tracing, Kubernetes support and lower licensing costs.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Instana Observability replaces Broadcom DX APM (legacy CA Wily Introscope) with a modern, zero-touch application performance monitoring solution. Broadcom DX APM imposes heavy agent maintenance overhead, per-agent licensing penalties with 20%+ renewal increases, and lagging support for containerized cloud platforms. IBM Instana eliminates manual agent configuration through automated discovery and continuous code profiling, captures unsampled end-to-end transactions, and provides deep mainframe-to-cloud visibility at a significantly lower operational and commercial footprint.
 
@@ -77,7 +77,7 @@ IBM Instana Observability is IBM's automated Application Performance Monitoring 
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

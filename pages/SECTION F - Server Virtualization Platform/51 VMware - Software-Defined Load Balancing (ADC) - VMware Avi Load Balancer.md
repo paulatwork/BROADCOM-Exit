@@ -31,7 +31,7 @@ Key features:
 3. **Crypto offload** - Intel QAT.
 4. **WAF** - Evaluation mode.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The evidence base for organisations actively exiting Avi Load Balancer specifically is thinner than for the core hypervisor, storage and networking layers of the VMware stack. Most available trade and vendor documentation in 2025-2026 in fact describes migration activity moving in the opposite direction, from F5 BIG-IP to Avi, reflecting Broadcom's active promotion of Avi as an F5 replacement within VCF rather than customers leaving Avi. Broadcom has restructured Avi licensing tiers and discontinued the Basic edition, which is a genuine, documented commercial change increasing minimum spend for smaller deployments, but this should not be characterised as an active exodus from the product. Where organisations do reconsider Avi, it is typically as part of a broader VCF exit decision rather than a standalone one. The alternative currently listed, IBM Cloud Load Balancer/VPC Load Balancer, is a hyperscaler-native service tied to IBM Cloud and is not a realistic on-premises or private-cloud ADC substitute for Avi; genuine like-for-like alternatives are F5 BIG-IP/NGINX, Citrix ADC, HAProxy Enterprise, or Kemp, and the recommended alternative in columns G and H should be reconsidered.
 
@@ -57,7 +57,7 @@ Yes
 
 IBM Cloud and VPC Load Balancers replace VMware Avi Load Balancer with IBM's load balancing.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM
 
@@ -68,7 +68,7 @@ IBM
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

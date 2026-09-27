@@ -31,7 +31,7 @@ Key features:
 3. **Optimisation and commitments** - Rightsizing, GCP resource-based CUD tracking and commitment management.
 4. **Governance and AI assistance** - Role-based forecasting permissions, encrypted webhook headers, Intelligent Assist and Smart Summary.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 CloudHealth is the healthiest product in this part of the portfolio, and the exit story is not about product quality. Broadcom's VMware Tanzu CloudHealth was named a Leader in the Forrester Wave for cloud cost management and optimisation in Q3 2024, and a Leader in Gartner's Magic Quadrant for cloud financial management tools in both 2024 and 2025. The two rivals proposed as alternatives sit in the same tier. Flexera was a Leader in the 2024 Forrester Wave and 2024 Gartner quadrant, and IBM, through Apptio and Cloudability, was a Leader in the 2025 Gartner quadrant.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Apptio Cloudability offers multi-cloud FinOps, FOCUS support, AI tokenomics and rightsizing without CloudHealth's single-distributor dependence.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Apptio Cloudability (alongside IBM-partnered Flexera One) delivers an enterprise FinOps and multi-cloud financial management platform that replaces VMware Tanzu CloudHealth. Broadcom's acquisition of VMware disrupted CloudHealth go-to-market channels by delegating all sales and support to a single distributor (Arrow Electronics) and deprioritizing non-core accounts. IBM Apptio Cloudability provides comprehensive multi-cloud cost allocation, native FinOps Open Cost and Usage Specification (FOCUS) standards support, granular AI/LLM tokenomics cost tracking, and automated rightsizing without third-party distributor lock-in.
 
@@ -75,7 +75,7 @@ IBM Apptio Cloudability is IBM's enterprise FinOps and cloud financial managemen
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Apptio SaaS
 

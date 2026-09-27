@@ -31,7 +31,7 @@ Key features:
 3. **Governance and approvals** - Approval workflows and rollback support for controlled releases.
 4. **Current platform support** - 6.9 adds RHEL 9, Windows Server 2022 and MS SQL 2022 certification, SAML2 SSO with Spring Security, and unified agent upgrade options.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The clearest account of Nolio Release Automation's position comes from a customer. An enterprise reviewer on PeerSpot said CA was not investing in the product any further and that CA had approached them about migrating to the Automic platform instead, with continued support promised for only two to three years. The same reviews describe Nolio as capable but expensive, with a licensing model that is hard to justify internally.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 DevOps Deploy offers hybrid and mainframe release automation with GitOps integration, replacing Nolio's stalled investment.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM DevOps Deploy (formerly UrbanCode Deploy) replaces Broadcom Nolio Release Automation by providing a modern, multi-tier application release and deployment orchestration platform. Broadcom has largely halted investment in Nolio, pushing users toward Automic while issuing end-of-service notices and demanding steep renewal increases. IBM DevOps Deploy delivers battle-tested hybrid-cloud and mainframe release automation, push-button rollbacks, automated governance gates, and native integration with GitOps (Argo CD, Red Hat OpenShift) at significantly greater architectural stability and lower TCO.
 
@@ -77,7 +77,7 @@ IBM DevOps Deploy (formerly IBM UrbanCode Deploy) is IBM's enterprise applicatio
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

@@ -31,7 +31,7 @@ Key features:
 3. **Security and identity** - Configurable TLS profiles, FIPS on Ubuntu nodes without a Canonical subscription, native OIDC and workload identity federation.
 4. **Operations** - 5-node control planes, in-place node updates, TuneD profiles (3.6) and VKS and VM fast-deploy in VCF 9.1.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Because VKS is deployed as a Supervisor-level capability of vSphere, it creates a direct dependency on vSphere and VCF/VVF licensing, with no way to run VKS independently of the underlying VMware hypervisor licence; this is a verifiable architectural characteristic rather than a general assertion. Independent analysis of VMware's container strategy identifies cost and licensing complexity, a steep operational learning curve, and reduced flexibility relative to vendor-neutral Kubernetes distributions as the principal reasons organisations are reconsidering VKS and Tanzu Kubernetes Grid, alongside the broader vendor lock-in concerns raised by the 2023-2024 licensing changes. Red Hat OpenShift Container Platform is a realistic, widely adopted enterprise alternative with a comparable enterprise support model; SUSE Rancher and the major hyperscaler managed Kubernetes services (Amazon EKS, Azure AKS, Google GKE) are also commonly cited migration destinations and should be considered alongside OpenShift depending on the organisation's cloud strategy.
 
@@ -57,7 +57,7 @@ Yes
 
 Red Hat OpenShift Container Platform replaces vSphere Kubernetes Service (VKS) with an enterprise-supported Kubernetes platform.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

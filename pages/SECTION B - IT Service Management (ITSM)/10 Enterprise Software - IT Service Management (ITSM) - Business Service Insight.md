@@ -31,7 +31,7 @@ Key features:
 3. **Service Level Insight reporting** - Reports on compliance, trends and penalty exposure for service owners and business stakeholders.
 4. **Integration** - Integrates with ITSM and monitoring tools; version 9.0.0.0 documentation covers integrations, administration and design guidance.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Business Service Insight is one of the quietest products in the portfolio. No Gartner Peer Insights, Forrester or IDC coverage specific to it was found, and none appears to exist. That should be stated plainly, not read as a good or bad sign. Broadcom's documentation confirms it is on a legacy, non-SaaS architecture, and a claim that its reporting depends on Jaspersoft components could not be confirmed from current documentation, so it should be checked with Broadcom before anyone relies on it.
 
@@ -59,7 +59,7 @@ Partial Match
 
 Instana replaces periodic SLA reporting with continuous real-time SLO monitoring, error budgets and proactive alerting.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Instana Observability shifts service level management from Broadcom BSI's static, batch-oriented, periodic SLA reporting to continuous, real-time Service Level Objective (SLO) monitoring and automated error-budget management. Broadcom BSI is a legacy on-premises product receiving minimal active innovation and subject to expensive bundling renewals. IBM Instana provides immediate time-to-value with automated discovery, 1-second metric resolution, and proactive SmartAlerts that prevent service degradation before contractual penalties occur.
 
@@ -75,7 +75,7 @@ IBM Instana Observability is IBM's real-time enterprise observability and automa
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

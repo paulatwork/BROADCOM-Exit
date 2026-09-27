@@ -33,7 +33,7 @@ Key features:
 3. **Configurable planning boards and agile analytics** - Iteration and Release Planning Board widgets accept queries with multiple criteria, and Burnup, Burndown and Progress widgets support view filters and configurable totals (Q1 2026).
 4. **AI and open integration** - Rally AI features run on the Gemini 3.0 model with an AI Control Page for subscription administrators (from 15 April 2026), and the Rally MCP Server supports OAuth for connecting AI-assisted tools to Rally data and actions.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Rally is being consumed in Broadcom consolidation into wider strategic portfolio management suite. The last placement of Broadcom/CA in the Magic Quadrant Leader in this category is dated in 2022, and comes from Broadcom's own announcement. Since then, there is no independent confirmation that Rally remains a Leader in agile planning.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Migrate to complete end-to-end financial and technology management service, with an integrated addition for agile engieering.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Broadcom bundles Rally + Clarity + Insights to try to cover both planning and financials. IBM offers the same services with Targetprocess + Apptio, the acknowledged category leader in Technology Business Management. With Targetprocess + Apptio, the AI is introduced into the financial planning lifecycle as an embedded assistant, developed specificly for financial management, to ensure every decision is smarter, every process is faster, and every investment is more valuable.
 
@@ -78,7 +78,7 @@ Broadcom bundles Rally + Clarity + Insights to try to cover both planning and fi
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Engineering Lifecycle Management (ELM) suite
 

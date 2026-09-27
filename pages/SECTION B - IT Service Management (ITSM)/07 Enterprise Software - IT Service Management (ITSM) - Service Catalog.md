@@ -31,7 +31,7 @@ Key features:
 3. **Semantic search and virtual analyst (17.5)** - NLP-driven semantic search understands the context and intent of queries, and Virtual Analyst (ARIA) is available to analysts.
 4. **Service Point and xFlow updates (17.5)** - Delegated ticket creation for IT Helpers and infinite scrolling of ticket lists in Service Point; related ticket linking in xFlow; earlier 17.4 features include direct links to services, xFlow rate limiting and CXF web services.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Service Catalog is bought, reviewed and complained about together with Service Desk Manager. It is part of the single CA Service Management listing that scores 3.7 out of 5 from 95 reviews on Gartner Peer Insights and 5.4 out of 10 from 49 reviews on TrustRadius, so no catalog-specific rating exists. Reviewers of the suite describe a dated, clunky end-user interface for self-service, which is the very thing a service catalog is meant to make pleasant.
 
@@ -59,7 +59,7 @@ Partial Match
 
 Maximo Self-Service Center pairs a modern request portal with asset and procurement management, lowering cost.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Maximo IT Self-Service Center replaces CA Service Catalog by delivering an integrated, intuitive request portal combined with enterprise asset and procurement management. Migrating away from Broadcom eliminates the high maintenance costs and dated user interface of CA Service Catalog while consolidating service catalog requests, hardware/software procurement, and entitlement management into a scalable, open enterprise platform.
 
@@ -75,7 +75,7 @@ IBM Maximo IT Self-Service Center (part of IBM Maximo IT) provides an enterprise
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

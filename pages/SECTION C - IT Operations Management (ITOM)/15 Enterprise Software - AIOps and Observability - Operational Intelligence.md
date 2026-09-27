@@ -31,7 +31,7 @@ Key features:
 3. **Root cause analysis** - Accelerates root cause identification and reduces mean time to innocence.
 4. **Cross-domain exploration** - Granular exploration of metrics, traces and logs, including data from third-party sources.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 DX Operational Intelligence has almost no independent audience. Gartner Peer Insights holds a single review, scoring it 5.0 out of 5, and even that reviewer warns that 'the cost of the solution is also high' and that 'the execution process is complex for the first time'. One review cannot carry a market signal, and no Gartner, Forrester or IDC report specific to the product turned up. That gap has not been filled.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Concert Operate gives open AIOps across 90+ sources, cutting alert noise without Broadcom bundling lock-in.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Concert Operate (formerly IBM Cloud Pak for AIOps) provides an open, vendor-neutral enterprise AIOps and event correlation platform that replaces Broadcom DX Operational Intelligence. Broadcom has ended standalone support for DX OI and forced customers into bundled DX Operational Observability agreements. IBM Concert Operate ingests telemetry from over 90 third-party monitoring sources, reduces alert noise by over 99%, and applies generative AI to pinpoint root cause and orchestrate automated remediation without proprietary lock-in.
 
@@ -75,7 +75,7 @@ IBM Concert Operate is IBM's enterprise AIOps and IT operations correlation plat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

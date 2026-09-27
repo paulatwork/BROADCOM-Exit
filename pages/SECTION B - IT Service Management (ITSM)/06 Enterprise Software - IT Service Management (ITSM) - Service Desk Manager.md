@@ -31,7 +31,7 @@ Key features:
 3. **AI-assisted service (17.5)** - A containerised Service Intelligence Platform provides chatbot and NLP-driven semantic search, and Virtual Analyst (ARIA) is extended from business users to analysts.
 4. **Native analytics and modern platform support (17.5)** - Built-in reporting and dashboards with reporting APIs, Kerberos authentication as NTLM is phased out, IPv6 and HTTP/2 support, and support for dates beyond 2038.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Service Desk Manager is judged by its users as a capable but ageing tool. On Gartner Peer Insights the combined CA Service Management product scores 3.7 out of 5 from 95 verified reviews. Reviewers praise workflow automation and SLA monitoring, and one says the interface 'feels less modern and should be upgraded'. TrustRadius gives 5.4 out of 10 from 49 reviews, and one reviewer complains that support response times had grown 'to the point of waiting 24 hours for initial response', while another found the user community responsive. The product remains on-premises. The current release line is 17.5, which arrived on 15 September 2026, and Broadcom has not delivered a cloud-native successor.
 
@@ -59,7 +59,7 @@ Partial Match
 
 Maximo IT unifies ITIL service management with asset management, offering lower cost, containerised, AI-driven deployment.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Maximo IT (formerly Control Desk) replaces CA Service Desk Manager by unifying ITIL service management with deep enterprise asset management (ITAM) on an integrated, modern platform. Where Broadcom SDM represents a legacy on-premises architecture with steep renewal uplifts and dated interfaces, IBM Maximo IT eliminates operational silos between IT infrastructure and physical/operational assets, offering lower total cost of ownership, containerized hybrid deployments on Red Hat OpenShift, and AI-driven ticket automation.
 
@@ -75,7 +75,7 @@ IBM Maximo IT is an enterprise IT Service Management (ITSM) and IT Asset Managem
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

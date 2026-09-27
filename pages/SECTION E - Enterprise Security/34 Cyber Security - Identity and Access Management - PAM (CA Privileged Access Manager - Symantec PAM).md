@@ -31,7 +31,7 @@ Key features:
 3. **Threat analytics** - PAM Threat Analytics is documented for 4.3.1.
 4. **Operational tooling** - Upgrade Utility for hotfixes and service packs, and Azure password composition policies.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The strongest verified fact in this entry belongs to a competitor. Gartner has named Delinea a Leader in its Magic Quadrant for privileged access management for seven consecutive years, including 2025. Several independent wire services carried Delinea's announcement, though the Gartner report itself could not be opened, so the claim is well supported but second-hand.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Verify Privilege Vault and HashiCorp Vault secure human and machine credentials, replacing costly Symantec PAM.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security Verify Privilege Vault (powered by Delinea Secret Server, a 7-time consecutive Gartner Magic Quadrant Leader) alongside IBM HashiCorp Vault replaces Broadcom Symantec PAM (CA PAM). Broadcom has relegated Symantec PAM to niche status with declining analyst standing, complex appliance upgrades, and steep renewal pricing. IBM delivers an enterprise-proven privileged access platform for human admins and non-human machine secrets, providing automated credential rotation, session recording, and multi-cloud infrastructure governance at lower operational complexity and total cost.
 
@@ -78,7 +78,7 @@ IBM Security Verify Privilege Vault (built on Delinea technology) and IBM HashiC
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM HashiCorp Vault
 

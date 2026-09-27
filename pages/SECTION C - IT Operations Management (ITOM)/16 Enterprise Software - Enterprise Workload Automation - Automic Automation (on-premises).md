@@ -31,7 +31,7 @@ Key features:
 3. **Enterprise application integrations** - Prebuilt integrations for SAP, cloud and other enterprise applications, with a REST API.
 4. **Modern platform support** - Version 24.4 supports Java 21 and 25 and PostgreSQL 17 and 18, and adds a revised script editor.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Automic Automation is a technically respected product whose customers have run into a licensing change. Broadcom's own community forum confirms a shift from node-based licensing to a task or execution-based metric. It is applied at renewal rather than across the board, and negotiated high-water-mark thresholds are used to soften the cost. Earlier drafts called this a change from CPU-based to execution-based licensing, and the accurate description is node or agent-based to task-execution-based. Redress Compliance, a licensing advisory and not an analyst firm, reports renewal increases of 20 to 40 per cent as common after the CA acquisition, negotiable downward with usage evidence.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Workload Automation offers SAP, mainframe and multi-cloud orchestration with predictable licensing, avoiding Automic's execution-based increases.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Workload Automation (IWA) provides a modern, robust, and commercially transparent enterprise workload automation platform that directly replaces Broadcom Automic Automation. Broadcom has transitioned Automic customers from predictable node/agent licensing to punitive task/execution-based metrics with 20% to 40% renewal cost hikes. IBM Workload Automation provides comprehensive multi-cloud and mainframe orchestration, deep SAP integration, advanced AI-driven anomaly detection, and predictable capacity licensing models that eliminate licensing friction.
 
@@ -75,7 +75,7 @@ IBM Workload Automation (IWA) is IBM's enterprise orchestration and job scheduli
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

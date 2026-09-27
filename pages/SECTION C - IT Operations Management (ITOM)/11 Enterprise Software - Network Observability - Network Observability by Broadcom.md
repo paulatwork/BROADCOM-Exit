@@ -31,7 +31,7 @@ Key features:
 3. **Active and synthetic experience monitoring** - AppNeta monitors end-user network experience, and DX NetOps Active Experience lets SNMP collectors act as AppNeta Monitoring Points without extra hardware.
 4. **Customisable dashboards and open APIs** - Multi-source, high-density dashboards and OData 4 API support share network metrics securely with external systems.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Network Observability has no current analyst ranking to lean on. Gartner retired its standalone network performance monitoring and diagnostics research after 2019, and later observability research does not consistently mention Broadcom. Broadcom's product page cites a 2025 GigaOm Radar Report for network observability, which was not reviewed here.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 SevOne delivers scalable multi-vendor network monitoring with anomaly detection, avoiding Broadcom support decline, licence lock-in.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM SevOne Network Performance Management (NPM) delivers an enterprise-grade, massively scalable network observability platform that replaces Broadcom's bundled DX NetOps and AppNeta stack. Broadcom's network portfolio has suffered from post-acquisition support degradation and aggressive enterprise agreement lock-in. IBM SevOne provides superior metric collection speed, rapid multi-vendor device support, automated baseline anomaly detection, and native integration with IBM Instana and Cloud Pak for AIOps, reducing operational complexity and overall licensing costs.
 
@@ -77,7 +77,7 @@ IBM SevOne Network Performance Management (NPM) is IBM's high-scale network perf
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

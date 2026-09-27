@@ -31,7 +31,7 @@ Key features:
 3. **VCF Operations** - Included operations tooling.
 4. **Unified licensing** - Licensed through a VCF Operations instance and the VCF Business Services console.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Broadcom TechDocs confirms VVF licensing includes 0.25 TiB of vSAN capacity per physical core, with additional storage requiring a separate add-on licence or a step-up to full VCF. Because VVF and VCF are both licensed on total physical cores with a 16-core-per-CPU minimum, customers with smaller or older, lower-core-count clusters can see a disproportionate increase in licensed core counts relative to previous per-CPU or per-VM entitlements, a pattern widely reported across trade press covering the 2023-2024 licensing transition. A February 2026 CloudBolt survey of 302 North American IT decision-makers found 86 percent of organisations actively reducing VMware footprint, with most reporting cost increases in the 25-49 percent band, materially lower than initial expectations of price doubling, indicating that outcomes vary significantly by account size and negotiating position rather than following a single multiplier. Gartner has advised against wholesale migration for stable environments, recommending selective modernisation instead, and ranked Nutanix and public cloud ahead of Red Hat virtualisation as VMware migration destinations, a relevant consideration given the Red Hat-centric alternative proposed for this row.
 
@@ -57,7 +57,7 @@ Yes
 
 OpenShift Virtualization Engine or Platform Plus replaces vSphere Foundation, moving virtualisation to Red Hat's platform.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

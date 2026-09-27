@@ -31,7 +31,7 @@ Key features:
 3. **Native snapshot replication** - 200-deep snapshots.
 4. **Site Maintenance Mode** - One-click site maintenance.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Standalone vSAN licensing was discontinued in 2023; capacity is now bundled per physical core (0.25 TiB per core under VVF, confirmed by Broadcom TechDocs), with additional capacity requiring supplementary licensing or a step-up to full VCF. Storage-dense clusters, common in environments running large databases or backup repositories, can incur materially higher licensing costs than under the previous per-CPU or per-terabyte models, a pattern documented across multiple VMware licensing analyses published during 2025 and 2026. Industry commentary on VMware exit strategies generally treats storage as more tractable to replatform than networking, since data can be migrated using standard storage migration tooling; however, replicating vSAN's tight integration with vSphere HA/DRS requires a genuinely hyperconverged replacement rather than a bolt-on array. Red Hat OpenShift Data Foundation, built on Ceph, and Nutanix AOS are realistic alternatives, though OpenShift Data Foundation is primarily oriented toward container-native and OpenShift Virtualization workloads rather than general-purpose VM storage, so a mixed VM and container estate may require complementary tooling such as IBM Storage Fusion for VM-centric use cases.
 
@@ -57,7 +57,7 @@ Yes
 
 OpenShift Data Foundation with IBM Fusion replaces vSAN using Red Hat and IBM storage software.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat + IBM
 
@@ -68,7 +68,7 @@ Red Hat + IBM
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

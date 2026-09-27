@@ -31,7 +31,7 @@ Key features:
 3. **Agentic AI protection** - Integration with Google Cloud Agent Gateway inspects agent traffic.
 4. **Shared policy engine** - Uses the same detection technologies as on-premises DLP; 26.1 supports files up to 150 MB.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The cloud-delivered DLP line lives under the same commercial rules as the on-premises product. Broadcom's focus on its largest accounts and its multi-product bundling apply, so a customer who wants only the cloud service may find it sold as part of something larger.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Guardium DSPM offers agentless cloud discovery and generative AI monitoring, replacing costly Symantec DLP Cloud.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Guardium Data Security Center (with Guardium DSPM) replaces Symantec DLP Cloud by providing modern, cloud-native data security posture management and AI governance across multi-cloud SaaS and IaaS environments. Broadcom's Symantec DLP Cloud relies on legacy CASB/DLP policy frameworks that produce high false-positive rates and incur substantial subscription overhead. IBM Guardium DSPM continuously discovers sensitive data across cloud repositories (M365, Google Workspace, Box, AWS, Azure, GCP), monitors generative AI prompts and agentic AI pipelines, and automates compliance without heavy proxy infrastructure.
 
@@ -77,7 +77,7 @@ IBM Guardium Data Security Center (incorporating Guardium Data Security Posture 
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 N/A
 

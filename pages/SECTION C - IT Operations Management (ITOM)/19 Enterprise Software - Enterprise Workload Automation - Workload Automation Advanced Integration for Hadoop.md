@@ -31,7 +31,7 @@ Key features:
 3. **Sqoop data transfer** - Imports data from relational databases to HDFS and exports it back, with the ability to terminate a running job.
 4. **Single scheduling console** - Hadoop jobs are managed alongside enterprise workloads from AutoSys (and other Broadcom schedulers) rather than a separate Hadoop scheduler.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 This product is a plug-in for the AutoSys and ESP schedulers, built for a world in which Hadoop was the centre of enterprise data. That world has been shrinking for years. Organisations have been moving off on-premises Hadoop towards cloud object storage, managed Spark and distributed microservices, and that shift began before Broadcom bought CA and has nothing to do with Broadcom's commercial behaviour. Investment in Hadoop-specific scheduler integrations is limited by the decline of the market itself.
 
@@ -59,7 +59,7 @@ Partial
 
 Spectrum Conductor offers an alternative for common Spark workloads, excluding Hive and Oozie scheduling.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 For specialised workloads, IBM offers an alterantive matching more common requirements. IBM Spectrum Conductor provides partial coverage for Broadcom. It is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does.
 
@@ -84,7 +84,7 @@ Wells Fargo Bank, considered one of the "Big Four Banks" in the United States, i
 Wells Fargo needed to replace legacy Hortonworks Data Platform (HDP) cluster on Intel data lake and were building out a data science practice; and solve the core problem with a classic HDP/Hadoop cluster is siloing and low utilization. Each line of business, each Spark version, each dev/test/prod environment tends to get its own carved-off set of nodes. 
 
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 None 
 

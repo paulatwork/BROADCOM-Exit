@@ -31,7 +31,7 @@ Key features:
 3. **Native EVPN VXLAN** - Route controller VM.
 4. **Direct hardware access** - NVIDIA ConnectX and BlueField adapters.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 NSX is widely regarded, including in independent security commentary, as one of the most difficult layers of the VMware stack to exit. Distributed firewall policy objects, tags, groups and overlay network configurations are tightly coupled to the VMware control plane; specialist microsegmentation vendor ColorTokens describes these policies as encoding years of accumulated knowledge about application dependencies, trust boundaries and risk tolerance, with no automated cross-vendor export path, requiring manual policy re-authoring during migration. Standalone NSX licensing was eliminated in 2023, so customers who want NSX at all must purchase full VCF. Genuine like-for-like alternatives for VM-centric microsegmentation and network virtualisation include Cisco ACI, Illumio and Calico Enterprise; Red Hat's OpenShift networking stack (OVN-Kubernetes, Cilium) is Kubernetes-native and only replaces NSX's function where workloads are also being containerised onto OpenShift, so it should not be presented as a direct substitute for NSX in VM-only environments. Gartner's September 2025 guidance recommended selective, application-by-application replatforming over wholesale network re-architecture given the effort involved.
 
@@ -57,7 +57,7 @@ Yes
 
 Red Hat OpenShift networking, with partner networking, replaces VCF Networking and NSX for Kubernetes-based workloads.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

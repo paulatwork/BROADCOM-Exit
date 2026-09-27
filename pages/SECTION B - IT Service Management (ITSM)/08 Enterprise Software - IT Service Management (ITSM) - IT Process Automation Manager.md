@@ -31,7 +31,7 @@ Key features:
 3. **Scalable orchestrators** - A Java-based server executes processes from the Process Library, and orchestrators scale horizontally.
 4. **Broadcom portfolio integration** - A CLI and Start Request Forms allow processes to be run from schedulers such as AutoSys, and connectors exist for products such as Client Automation.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 IT Process Automation Manager has little independent voice. No dedicated Gartner Peer Insights, Forrester or IDC page for it was found. Broadcom's wider automation portfolio, including Automic Automation, is reviewed under adjacent Gartner categories such as service orchestration and automation platforms, but ITPAM itself carries no distinct current rating. That absence says nothing about quality either way.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Ansible replaces brittle SOAP/XML processes with version-controlled YAML playbooks, event-driven automation and lower licensing overhead.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat Ansible Automation Platform delivers a modern, market-leading automation ecosystem that completely eclipses the legacy architecture of Broadcom ITPAM (CA Process Automation). Migrating from Broadcom to Red Hat replaces brittle SOAP/XML-based process definitions and proprietary orchestrators with human-readable, version-controlled YAML playbooks and Event-Driven Ansible. This eliminates technical debt, unlocks thousands of prebuilt Certified Content Collections across multi-cloud and infrastructure domains, and dramatically reduces licensing overhead compared to Broadcom's bundled enterprise agreements.
 
@@ -75,7 +75,7 @@ Red Hat Ansible Automation Platform is IBM / Red Hat's enterprise IT automation 
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

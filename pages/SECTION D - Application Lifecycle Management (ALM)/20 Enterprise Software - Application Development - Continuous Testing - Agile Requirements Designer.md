@@ -31,7 +31,7 @@ Key features:
 3. **Requirements Insight** - A web interface lets analysts and owners assess the impact of requirement changes.
 4. **AI plugin (3.6)** - Provides intelligent suggestions and can build initial models from natural-language requirements or documents.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Agile Requirements Designer is a niche tool with almost no public footprint. No Gartner Magic Quadrant, Peer Insights, Forrester or IDC coverage specific to it was found, and it does not appear as a category of its own in current analyst research. Capterra and SoftwareAdvice carry only a handful of reviews. That thin record is itself the finding, and it should be stated plainly, not dressed up as analyst attention that does not exist.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 ELM provides requirements modelling, automated test derivation, traceability and watsonx AI, replacing isolated legacy tooling.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Engineering Lifecycle Management (ELM) — specifically IBM Engineering Requirements Management DOORS Next and IBM Engineering Test Management (ETM) — replaces Broadcom Agile Requirements Designer with an enterprise-grade requirements and test-generation platform. Broadcom ARD remains an isolated legacy tool locked into expensive continuous testing bundles. IBM ELM provides full lifecycle requirements modeling, automated test case derivation, deep bidirectional traceability across engineering domains, and AI-assisted requirements analysis (via watsonx) to deliver higher software quality at predictable enterprise licensing rates.
 
@@ -76,7 +76,7 @@ IBM Engineering Lifecycle Management (ELM) combines IBM Engineering Requirements
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

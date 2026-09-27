@@ -31,7 +31,7 @@ Key features:
 3. **GPU support** - AMD DirectPath I/O and NVIDIA-certified hypervisor.
 4. **AI gateway (preview)** - Access to over 150 models, preview only.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 This is a genuinely current Broadcom product, confirmed by Broadcom's technical documentation and 2025-2026 product announcements around VCF 9.1's AI capabilities; it should not be conflated with VMware Private AI Foundation with NVIDIA, a related but separate offering. Because it requires full VCF licensing plus specialised GPU host configurations, it inherits the same subscription and minimum-core cost structure as the rest of VCF. Independent, product-specific commentary on customers exiting this particular capability is minimal given how recently it has been introduced; the applicable evidence is the general VCF licensing and lock-in concerns documented elsewhere in this review rather than AI-specific migration case studies. Red Hat OpenShift AI is a genuine, actively developed competing platform for container-native AI and machine learning workloads, and IBM watsonx addresses foundation model governance and lifecycle management; both are realistic alternatives, though GPU driver and hardware-partner support parity should be confirmed before treating this as a like-for-like substitution, since Broadcom has published multi-vendor GPU and CPU partnership announcements, including with NVIDIA, specific to VCF 9.1.
 
@@ -57,7 +57,7 @@ Yes
 
 OpenShift AI and IBM watsonx replace VCF Private AI Services, combining Red Hat and IBM.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat + IBM
 
@@ -68,7 +68,7 @@ Red Hat + IBM
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

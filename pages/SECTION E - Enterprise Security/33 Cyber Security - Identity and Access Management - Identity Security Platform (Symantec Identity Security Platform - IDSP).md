@@ -31,7 +31,7 @@ Key features:
 3. **API-first policy-driven platform** - OAuth 2.0 authorisation server with custom scopes, personal access tokens, REST APIs and a policy-driven framework without hard-coded logic.
 4. **Incremental migration** - Native integration with SiteMinder and other Broadcom products supports gradual modernisation; 4.0 adds an Identity Credential Verifier role.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The Identity Security Platform is the renamed VIP Authentication Hub, at version 4.0 since January 2026, and it runs on a cloud-native, container-based architecture. Broadcom's documentation says it integrates natively with SiteMinder and other Broadcom products to allow gradual migration, which means it is designed to sit alongside them and not to replace them outright.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 Verify unifies passwordless, adaptive authentication and federation, replacing fragmented Broadcom identity products and bundled renewals.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security Verify provides an integrated, cloud-native Identity-as-a-Service (IDaaS) and access management platform that replaces Broadcom Symantec Identity Security Platform (IDSP / VIP Authentication Hub). Broadcom's identity portfolio is heavily fragmented across legacy acquisitions (SiteMinder, VIP, Identity Governance) and locked into expensive bundle contracts. IBM Security Verify delivers unified modern identity governance, seamless FIDO2 passwordless authentication, continuous AI-powered adaptive risk scoring, and open API federation across hybrid and multi-cloud estates at lower total cost of ownership.
 
@@ -77,7 +77,7 @@ IBM Security Verify is IBM's enterprise Identity and Access Management (IAM) and
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

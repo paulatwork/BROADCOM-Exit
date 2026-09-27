@@ -35,7 +35,7 @@ Key features:
 3. **Product Hierarchy Modeler** - Supports the transition from project-based to product-centric delivery by modelling products, value streams and teams.
 4. **Prescriptive, role-specific dashboards** - Out-of-the-box real-time dashboards and automated reports tailored to each role, from developers to executives.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 ValueOps Insights has almost no independent footprint. No Gartner Peer Insights, Forrester or IDC coverage specific to it as a standalone product. Insights draws its most useful numbers from Clarity and Rally delivery data, so is typically used as part of the Broadcom Value Stream portfolio.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 Replace with IBM Targetprocess (SaaS), for flow metrics, portfolio analytics and dashboarding capabilities.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Targetprocess provides a modern, cloud-native strategic portfolio and value stream management platform that outpaces Broadcom Insights on capability and total cost of ownership. Broadcom Insights functions primarily as a reporting add-on locked into the Clarity/Rally ecosystem, with Broadcom's Enterprise Agreements forcing expensive multi-product bundle renewals. 
 
@@ -80,7 +80,7 @@ IBM Targetprocess is IBM's enterprise Agile portfolio management and value strea
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Apptio (SaaS) & IBM Instana (on-prem)
 

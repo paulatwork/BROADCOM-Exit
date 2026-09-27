@@ -31,7 +31,7 @@ Key features:
 3. **Cloud SWG and DLP integration** - One-click Cloud Data Security integration with DLP policy enforcement (July 2026), automated Cloud SWG integration management (June 2026) and DLP Cloud Detector support in Activity Policy rules (May 2026).
 4. **Expanded connection types** - RDP Farm connections for pools of RDP resources and long-lived API client keys (August 2026), with copy and paste prevention for native RDP (preview).
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 It is hard to say much that is independent about this product, because so few people have reviewed it. Gartner Peer Insights lists it under the name 'Symantec Enterprise Cloud' with 4.4 out of 5, but from only five or six reviews, a tiny sample beside the many hundreds carried by identity products from Okta and Microsoft in adjacent categories. That points to limited adoption and visibility, not to a quality problem. No Gartner Magic Quadrant for security service edge, Forrester Wave or other named ranking specific to the product was found.
 
@@ -59,7 +59,7 @@ Partial Match
 
 Verify Application Gateway gives identity-centric application access without VPNs, replacing Symantec's thinly validated, bundled ZTNA.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Security Verify Access with Application Gateway delivers context-aware, identity-centric zero-trust application access that replaces Broadcom Symantec ZTNA. Broadcom's ZTNA tool suffers from low market adoption, thin analyst validation, and restrictive multi-product bundling with Symantec Enterprise Cloud. IBM Security Verify provides robust identity verification, adaptive risk-based authentication, and reverse-proxy Application Gateway enforcement that secures access to private web applications and APIs without requiring legacy network VPNs or proprietary perimeter lock-in.
 
@@ -75,7 +75,7 @@ IBM Security Verify is IBM's cloud-native and hybrid identity, access management
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

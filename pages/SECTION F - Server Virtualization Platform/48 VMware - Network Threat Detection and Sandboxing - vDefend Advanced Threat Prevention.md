@@ -31,7 +31,7 @@ Key features:
 3. **NDR campaigns** - Condenses alerts into campaigns.
 4. **AI Assistant** - Explains events and suggests remediation.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Independent, product-specific analyst criticism of vDefend Advanced Threat Prevention is limited. The most substantial third-party evaluation identified is an SE Labs test report assessing its threat-detection efficacy, which is a technical performance assessment rather than a commercial or lock-in critique; a Forrester Total Economic Impact study also exists but was commissioned by Broadcom/VMware and should be read as vendor-sponsored material rather than independent analyst research. The applicable, verifiable caution is architectural: vDefend Advanced Threat Prevention operates as an extension of the NSX network fabric, so its threat-inspection scope is limited to traffic traversing NSX-managed segments, and it does not natively extend coverage to non-VMware hypervisors or bare-metal environments, consistent with the broader NSX lock-in concerns documented for this product family. Palo Alto Networks Cortex/Prisma Cloud and Cisco Secure Network Analytics are established NDR alternatives with platform-agnostic deployment models; Red Hat Advanced Cluster Security is a Kubernetes-native container security tool and is not a direct substitute for network-level NDR and sandboxing, so it should be positioned as a complementary control for containerised workloads rather than a replacement for this specific capability.
 
@@ -57,7 +57,7 @@ Yes
 
 Advanced Cluster Security replaces vDefend Advanced Threat Prevention with Kubernetes-native container security from Red Hat.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 Red Hat
 
@@ -68,7 +68,7 @@ Red Hat
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

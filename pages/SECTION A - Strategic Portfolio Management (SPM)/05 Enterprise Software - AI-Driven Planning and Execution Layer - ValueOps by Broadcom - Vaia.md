@@ -31,7 +31,7 @@ Key features:
 3. **AI status reports, goals and OKRs** - Produces real-time, data-driven summaries and helps define clear goals and OKRs aligned to the organisation.
 4. **Governed AI** - Transparent prompt tracking, time-stamped audit trails and role-based access controls support explainable AI and enterprise security.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Vaia arrived in 2025, and at this review it is too new to have any independent analyst coverage. No Gartner Peer Insights, Forrester or IDC report specific to it was found. That is a plain absence and should not be read as strength or weakness.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 IBM watsonx.governance provides open, auditable AI governance beyond Vaia's locked-in assistant, paired with Apptio Targetprocess AI.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM watsonx.governance combined with IBM Concert and IBM Apptio AI capabilities delivers an enterprise-wide, open, and governed AI decision framework far superior to Broadcom's locked-in Vaia assistant. Broadcom Vaia operates solely as an internal generative feature inside Clarity and Rally, with zero enterprise portability and subject to Broadcom's restrictive bundle licensing. IBM provides transparent, audit-ready AI governance through watsonx.governance (tracking model drift, prompt fairness, explainability, and lifecycle compliance), while pairing with IBM Targetprocess AI for intelligent portfolio forecasting and natural language status reporting across multi-vendor tools.
 
@@ -78,7 +78,7 @@ IBM watsonx.governance is IBM's enterprise AI governance and decision assurance 
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

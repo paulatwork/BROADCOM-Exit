@@ -31,7 +31,7 @@ Key features:
 3. **Predictive SLA and trend analytics** - Flags likely SLA breaches, with an 18-month SLA trend view and improved dependency tracking.
 4. **Modern deployment and security** - Official OpenShift container images, secure Airflow proxy support and an AI-led security scan-and-remediate process.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The earlier description of this product was mostly marketing copy, with claims about aligning 'compute, storage, network and GPU resources with live demand', Kubernetes pod scaling and VMware virtual machine placement. Broadcom's documentation says otherwise. Automation Analytics and Intelligence analyses and predicts service levels for job and workload scheduling across several automation engines. It does not right-size or place infrastructure.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 IBM Workload Automation includes native predictive SLA analytics and AI, avoiding Broadcom's costly add-on lock-in.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Workload Automation (Analytics & Workload AI) alongside IBM Concert delivers an intelligent, predictive workload observability and optimization platform that surpasses Broadcom AAI. Broadcom AAI v26 is sold as an expensive add-on to lock customers into Automic/AutoSys agreements. IBM Workload Automation natively integrates advanced predictive SLA modeling, automated historical trend forecasting, and AI-driven anomaly remediation directly into the core platform, while IBM Concert extends cross-system dependency mapping and financial accountability across enterprise workloads without forced add-on licensing.
 
@@ -77,7 +77,7 @@ IBM Workload Automation includes native advanced analytics, predictive SLA manag
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

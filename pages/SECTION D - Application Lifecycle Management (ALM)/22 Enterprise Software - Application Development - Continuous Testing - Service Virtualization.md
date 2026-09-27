@@ -31,7 +31,7 @@ Key features:
 3. **Messaging protocol support** - 10.8.3 extended virtual service creation to Apache Kafka, JMS and IBM MQ, including Kafka SASL OAUTHBEARER authentication.
 4. **Virtual Service Catalog and platform support (10.9)** - A new Virtual Service Catalog UI and simpler properties, more than 45 security fixes, and support for RHEL 10, Windows Server 2025, Amazon Linux 2023 and current databases.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Service Virtualization comes with the kind of complaints that are hard to argue with, because they come from paying customers. On PeerSpot one enterprise reviewer cited close to USD 1 million for a three-year multi-licence agreement. Reviewers also describe a performance-testing add-on that is priced separately when competing tools include it, extra charges for higher support tiers, a drop in specialist technical expertise since the acquisition, and stability problems such as memory leaks and portal restarts. A Gartner Peer Insights page exists, but no 2025 or 2026 Gartner, Forrester or IDC ranking for the product was found.
 
@@ -59,7 +59,7 @@ Strong Replacement
 
 DevOps Test Virtualization offers CI/CD-ready virtualisation with broad messaging support, avoiding Broadcom's costly tiered licensing.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM DevOps Test Virtualization (formerly Rational Integration Tester / RTVS) delivers a lightweight, developer-friendly, and enterprise-grade service virtualization platform that replaces Broadcom Service Virtualization (CA LISA). Broadcom Service Virtualization is notoriously expensive (with enterprise contracts approaching $1M+), suffers from stability issues and memory leaks, and charges extra for performance testing tiers. IBM DevOps Test Virtualization supports extensive enterprise messaging protocols (Kafka, MQ, JMS, REST, gRPC), integrates seamlessly into containerized CI/CD pipelines on OpenShift, and eliminates prohibitive per-virtual-user and tier licensing costs.
 
@@ -75,7 +75,7 @@ IBM DevOps Test Virtualization is IBM's continuous testing and service virtualiz
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

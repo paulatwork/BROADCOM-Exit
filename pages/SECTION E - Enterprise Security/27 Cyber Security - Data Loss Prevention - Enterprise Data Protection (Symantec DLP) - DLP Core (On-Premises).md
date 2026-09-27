@@ -31,7 +31,7 @@ Key features:
 3. **Incident dashboards and workflows (26.1)** - Dynamic filtering dashboards and new Incident Workflows to automate incident lifecycle tasks.
 4. **Generative AI visibility** - 26.1 adds visibility into generative AI usage.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 After Broadcom bought Symantec's enterprise business in 2019 the commercial focus swung to the largest Global 2000 accounts, as it did across Broadcom's acquired security lines. Commercial and mid-tier customers report steep renewal increases and thinner direct support as their main reasons for leaving. One licensing advisory reports first renewal quotes arriving 30 to 100 per cent above prior run rates before any negotiation.
 
@@ -61,7 +61,7 @@ Partial Match
 
 Guardium adds data discovery, monitoring and posture management, avoiding Symantec DLP overhead and steep renewals.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Guardium Data Protection combined with IBM Guardium Data Security Center delivers comprehensive, data-centric security and classification that modernizes data governance beyond legacy endpoint DLP. Broadcom's Symantec DLP Core imposes high administrative overhead and 30% to 100% renewal price increases. While IBM Guardium focuses on deep data discovery, database activity monitoring (DAM), and Data Security Posture Management (DSPM) across enterprise data repositories, pairing it with endpoint controls provides stronger, lower-cost enterprise compliance and risk posture management.
 
@@ -77,7 +77,7 @@ IBM Guardium Data Protection and IBM Guardium Data Security Center provide enter
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 

@@ -33,7 +33,7 @@ Key features:
 3. **Data subsetting** - Creates smaller, referentially intact data sets from production sources.
 4. **Self-service provisioning** - A portal lets testers request, reserve and provision data on demand without database scripting.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 Broadcom Test Data Manager is liked by the people who run it. Reviewers rate the self-service portal, data masking and subsetting well, and in 2022 Broadcom recorded a Customers' Choice recognition for data masking on Gartner Peer Insights. 
 
@@ -63,7 +63,7 @@ Strong Replacement
 
 IBM Optim delivers trusted data for testing, AI and DevOps. Masking, PII discovery, subsetting, synthetic data and CI/CD self-service, escaping Broadcom's bundled renewals.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM Optim offers test data management and data masking, as a robust, enterprise-grade test data management platform that replaces Broadcom CA Test Data Manager. 
 
@@ -94,7 +94,7 @@ The robust access and managment of test data seems triavl, but in fact it is the
 
 (not provided)
 
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 IBM Devops Loop
 

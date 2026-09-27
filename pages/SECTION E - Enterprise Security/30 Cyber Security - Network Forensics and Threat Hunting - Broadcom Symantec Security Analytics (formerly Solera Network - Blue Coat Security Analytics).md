@@ -31,7 +31,7 @@ Key features:
 3. **Threat intelligence** - Uses the Symantec Global Intelligence Network and reputation checks.
 4. **Encrypted traffic visibility** - Works with Secure Web Gateways to decrypt SSL/TLS traffic.
 
-## Analyst Cautions and Industry Findings - Related to the Legacy Broadcom Product. Include newest findings on Broadcom exist strategies
+## Analyst Cautions and Industry Findings
 
 The hardware behind Security Analytics is being retired in stages, and Broadcom's own notice lays out the timetable. Generation 8 and Generation 9 appliances carry an end-of-life notification date of 1 October 2025 and a model drop-support date of 1 October 2030, so support continues for some years yet. Older Generation 7 appliances (the S500, J5300 and E5660) passed their drop-support date on 1 October 2025. Broadcom's public lifecycle articles say that once a support contract lapses, the web and file reputation services stop, replacement parts are no longer supplied and support requests go unanswered, though the application and hardware keep running and new full releases stop. The dated tables per model sit behind Broadcom's support portal, so a customer with portal access should confirm the exact generation dates.
 
@@ -61,7 +61,7 @@ Strong Replacement
 
 QRadar Network Insights and Incident Forensics provide packet analysis inside SIEM, avoiding Broadcom appliance end-of-life.
 
-## IBM Replacement Strategy (Description - Why IBM over Broadcom)
+## IBM Replacement Strategy (Why IBM over Broadcom)
 
 IBM QRadar Network Insights (QNI) alongside IBM Security QRadar SIEM and QRadar Incident Forensics replaces Broadcom Symantec Security Analytics. Broadcom has placed older Security Analytics hardware generations on an end-of-life path while pivoting toward the Symantec CBX cloud platform, abandoning dedicated on-premises packet forensics. IBM delivers comprehensive deep packet inspection, real-time application and content classification, and full incident reconstruction integrated natively into an enterprise on-premises SIEM architecture, eliminating proprietary appliance hardware refresh cycles and reducing long-term TCO.
 
@@ -77,7 +77,7 @@ IBM QRadar Network Insights (QNI) and IBM QRadar Incident Forensics deliver real
 ## Customer Reference
 
 (not provided)
-## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
+## IBM SECONDARY - Product Name (Extended Capability)
 
 (not provided)
 
