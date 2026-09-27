@@ -35,9 +35,9 @@ Key features:
 
 This product is a plug-in for the AutoSys and ESP schedulers, built for a world in which Hadoop was the centre of enterprise data. That world has been shrinking for years. Organisations have been moving off on-premises Hadoop towards cloud object storage, managed Spark and distributed microservices, and that shift began before Broadcom bought CA and has nothing to do with Broadcom's commercial behaviour. Investment in Hadoop-specific scheduler integrations is limited by the decline of the market itself.
 
-So the exit story here is mostly a story about Hadoop. No analyst firm covers the product, and no named organisation has publicly described leaving it, although the market trend away from Hadoop toward platforms such as Databricks is widely reported. Customers who leave AutoSys will find that the integration has little value without it.
+The exit strategy is to focus on Hadoop. No analyst firm covers the product, and no named organisation has publicly described leaving it, although the market trend away from Hadoop toward platforms such as Databricks is widely reported. Customers who leave AutoSys will find that the integration has little value without it.
 
-The IBM suggestion needs care. IBM Spectrum Conductor is a supported IBM product, but it is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does. Apache Airflow with Astronomer, and Kubernetes-native Argo Workflows, are closer to the job of orchestrating data pipelines alongside other enterprise workloads, and they are the options most often cited in commentary on moving Hadoop-adjacent scheduling.
+IBM Spectrum Conductor provides partial coverage for Broadcom. It is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does. Apache Airflow with Astronomer, and Kubernetes-native Argo Workflows, are closer to the job of orchestrating data pipelines alongside other enterprise workloads, and they are the options most often cited in commentary on moving Hadoop-adjacent scheduling.
 
 ## IBM PRIMARY BRAND 
 
@@ -61,7 +61,7 @@ Spectrum Conductor offers an alternative for common Spark workloads, excluding H
 
 ## IBM Replacement Strategy (Description - Why IBM over Broadcom)
 
-For specialised workloads, IBM offers a suppier alterantive matching more common requirements.
+For specialised workloads, IBM offers an alterantive matching more common requirements. IBM Spectrum Conductor provides partial coverage for Broadcom. It is a multi-tenant cluster manager for Spark, Anaconda and Dask, aimed at machine learning workloads. It is not a general-purpose enterprise job scheduler, and it replaces only part of what the scheduling console does.
 
 ## IBM PRIMARY - Product Description 
 

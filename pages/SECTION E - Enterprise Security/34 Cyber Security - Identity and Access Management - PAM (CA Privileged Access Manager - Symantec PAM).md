@@ -47,7 +47,7 @@ Automation
 
 ## IBM PRIMARY - Product Name (The Replacement)
 
-IBM Security Verify Privilege Vault (with IBM HashiCorp Vault)
+IBM Security Verify Privilege Vault
 
 ## IBM PRIMARY - IBM Product Page URL
 
@@ -77,13 +77,14 @@ IBM Security Verify Privilege Vault (built on Delinea technology) and IBM HashiC
 ## Customer Reference
 
 (not provided)
+
 ## IBM SECONDARY - Product Name (Supporting Product, where recommended to compliment the Primary capability)
 
 IBM HashiCorp Vault
 
 ## IBM SECONDARY - Product Page(s) URL
 
-https://www.ibm.com/products/security-verify
+https://www.hashicorp.com/en/products/vault?utm_offer=landing_page
 
 ## IBM SECONDARY - Product Description
 

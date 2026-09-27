@@ -2,7 +2,7 @@
 
 ## Category
 
-VMware Workload Migration Strategy
+Server Virtualization Platform
 
 ## Page Status 
 

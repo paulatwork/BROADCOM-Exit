@@ -1,7 +1,7 @@
 
 ## Category
 
-02 - IT Service Management (ITSM)
+IT Service Management (ITSM)
 
 ## Content
 

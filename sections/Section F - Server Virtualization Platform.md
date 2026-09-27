@@ -2,11 +2,14 @@
 
 ## Category
 
-VMware Workload Migration Strategy
+Server Virtualization Platform
 
 ## Content
 
 Following Broadcom's acquisition of VMware in November 2023, VMware licensing moved from perpetual licences to subscription bundles priced per core. Licence cost is therefore directly linked to the number of physical cores deployed. This creates two paths for managing the cost of existing workloads (virtual machines) hosted on the VMware estate: First, is to reduce the VMware footprint to lower subscription cost (optimisation); Second, is to move as much workloads as possible to an alternative platform (migration). Combined together, these two approaches form the basis of an effective mitigation strategy to protected against continued rising costs and an increasingly combatative vendor.
+
+According to Gartner, 'Broadcom’s acquisition of VMware has reignited the server virtualization market’s competitive landscape.' The report also states that heads of infrastructure and operations are being forced to reassess vendor and technology options for current and future virtual workloads. (Refer, Gartner, 23 October 2025 - Market Guide for Server Virtualization Platforms)
+
 
 ## Expansion
 
